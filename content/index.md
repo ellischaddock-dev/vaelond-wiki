@@ -18,7 +18,7 @@ Welcome to the player guide for **Vaelond**. This vault is organised as an inter
 
 ## Begin here
 
-- [[Welcome to Vaelond]] — the premise of the setting and the four surviving realms
+- [[content/01 Welcome to Vaelond/index]] — the premise of the setting and the four surviving realms
 - [[The Sundering of Ardynia]] — the oldest surviving account of Ardynia's disappearance
 - [[The Powers That Be]] — a political overview of Perfid, Doro, Minir and Rakara
 - [[Time and Calendars]] — the Vaelondian week, months and year

@@ -23,7 +23,7 @@ The party does not yet know the relic's complete powers, its present location or
 
 ## Campaign record
 
-- [[Sessions 12-14 - Fire, Faith and the Corona of the Ashen Choir]]
+- [[Session 12-14 - Fire, Faith and the Corona of the Ashen Choir]]
 
 ## Related
 

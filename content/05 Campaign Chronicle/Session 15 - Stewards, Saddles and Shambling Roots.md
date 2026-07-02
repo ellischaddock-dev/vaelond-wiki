@@ -146,4 +146,4 @@ Because of course he did
 ---
 
 **Chronicle:** [[Campaign Chronicle]]  
-**Navigation:** [[Sessions 12-14 - Fire, Faith and the Corona of the Ashen Choir|Previous session]] · [[Session 16 - Cackles, Corpses and Catastrophe|Next session]]
+**Navigation:** [[Session 12-14 - Fire, Faith and the Corona of the Ashen Choir|Previous session]] · [[Session 16 - Cackles, Corpses and Catastrophe|Next session]]

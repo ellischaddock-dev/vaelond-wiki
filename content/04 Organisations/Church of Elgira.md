@@ -49,4 +49,4 @@ The Church teaches that Elgira deliberately sacrificed herself at the Battle of 
 - [[Alistair Prusset]]
 - [[Rootbound]]
 - [[Stolen Letter from Alistair Prusset's Study]]
-- [[Sessions 12-14 - Fire, Faith and the Corona of the Ashen Choir]]
+- [[Session 12-14 - Fire, Faith and the Corona of the Ashen Choir]]

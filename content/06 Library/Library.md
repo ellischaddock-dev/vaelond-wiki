@@ -34,6 +34,6 @@ updated: 2026-07-01
 
 ## Wider lore
 
-- [[Welcome to Vaelond]]
+- [[content/01 Welcome to Vaelond/index]]
 - [[The Sundering of Ardynia]]
 - [[Religion]]

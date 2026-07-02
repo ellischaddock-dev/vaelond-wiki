@@ -49,7 +49,7 @@ Rakara is a southern realm shaped by five great clans, each with its own territo
 
 - [[The Powers That Be#Rakara]]
 - [[Religion]]
-- [[Welcome to Vaelond]]
+- [[content/01 Welcome to Vaelond/index]]
 
 ## Campaign chronicle
 

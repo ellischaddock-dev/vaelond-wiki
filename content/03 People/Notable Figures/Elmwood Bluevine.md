@@ -40,7 +40,7 @@ updated: 2026-07-01
 - [[Session 02 - The Ashes of Emberwake]]
 - [[Session 07 - Coffee and Contraband]]
 - [[Session 15 - Stewards, Saddles and Shambling Roots]]
-- [[Sessions 12-14 - Fire, Faith and the Corona of the Ashen Choir]]
+- [[Session 12-14 - Fire, Faith and the Corona of the Ashen Choir]]
 
 ## Related
 

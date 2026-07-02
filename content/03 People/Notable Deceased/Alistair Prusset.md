@@ -44,7 +44,7 @@ updated: 2026-07-01
 - [[Session 09 - The Capture of Prusset]]
 - [[Session 10 - Saints, Spies and Snake Eyes]]
 - [[Session 11 - Ashes, Brands and Windfalls]]
-- [[Sessions 12-14 - Fire, Faith and the Corona of the Ashen Choir]]
+- [[Session 12-14 - Fire, Faith and the Corona of the Ashen Choir]]
 
 ## Related
 

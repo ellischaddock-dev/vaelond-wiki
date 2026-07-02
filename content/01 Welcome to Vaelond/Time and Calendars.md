@@ -55,5 +55,5 @@ The campaign's interactive calendar is hosted on Fantasy Calendar:
 
 ## Related pages
 
-- [[Welcome to Vaelond]]
+- [[content/01 Welcome to Vaelond/index]]
 - [[Religion]]
