@@ -1,0 +1,5 @@
+Application ID: 1522225916388835459
+Public key: e0fea38332b8d2c3e110254302a8f677e26af626d5f97ce08ed0fb9f23c25650
+
+Server ID: 1389883140620812329
+Worker: https://dash.cloudflare.com/c2b328e15d0763a026760b22524493b1/workers/subdomain

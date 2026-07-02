@@ -4,22 +4,22 @@ type: campaign-index
 status: published
 player_facing: true
 campaign: Vaelond
-latest_session: 19
+latest_session: 20
 tags:
   - campaign
   - chronicle
   - index
-updated: 2026-07-01
+updated: 2026-07-02
 ---
 
 # Campaign Chronicle
 
-A session-by-session account of the Defracturers’ adventures, beginning with the [[Emberwake Festival]] and continuing through the ruins of Rana Viam. The chronicle is ongoing and will expand as new sessions are played.
+A session-by-session account of the Defracturers’ adventures, beginning with the [[Emberwake Festival]] and continuing through Rana Viam into their pursuit of the Broken Fang. The chronicle is ongoing and will expand as new sessions are played.
 
 > [!info] Source coverage
-> The supplied document contains individual notes for Sessions 1–11 and 15–19. Sessions 12–14 are preserved as one combined account because the source does not identify reliable boundaries between those sessions.
+> The supplied document contains individual notes for Sessions 1–11 and 15–20. Sessions 12–14 are preserved as one combined account because the source does not identify reliable boundaries between those sessions.
 
-**Latest published entry:** [[Session 19 - Bands, Broken Stone and the Glass Fang]]
+**Latest published entry:** [[Session 20 - Plague, Pursuit and Plan E]]
 
 ## Session index
 
@@ -36,12 +36,13 @@ A session-by-session account of the Defracturers’ adventures, beginning with t
 | 9 | [[Session 09 - The Capture of Prusset|The Capture of Prusset]] | 23 December 2025 | After a desperate running battle, the party captures Prusset but fractures over who should receive him. |
 | 10 | [[Session 10 - Saints, Spies and Snake Eyes|Saints, Spies and Snake Eyes]] | 04 January 2026 | Prusset names the Church behind Anthea’s murder while the party infiltrates the One Ball Inn gambling circle. |
 | 11 | [[Session 11 - Ashes, Brands and Windfalls|Ashes, Brands and Windfalls]] | 11 February 2026 | A Broken Fang lead, a failed safe robbery and Romayne’s formal patronage transform the party into agents of Somnolent. |
-| 12–14 | [[Sessions 12-14 - Fire, Faith and the Corona of the Ashen Choir|Fire, Faith and the Corona of the Ashen Choir]] | 26 March 2026 | The Defracturers assault the Perfid embassy, rescue Terrick and pursue the Corona as Prusset is murdered in custody. |
+| 12–14 | [[Session 12-14 - Fire, Faith and the Corona of the Ashen Choir|Fire, Faith and the Corona of the Ashen Choir]] | 26 March 2026 | The Defracturers assault the Perfid embassy, rescue Terrick and pursue the Corona as Prusset is murdered in custody. |
 | 15 | [[Session 15 - Stewards, Saddles and Shambling Roots|Stewards, Saddles and Shambling Roots]] | Friday, 27 March 2026 | The new bastion gains staff and horses before the road to Rana Viam begins with a deadly shambling mound. |
 | 16 | [[Session 16 - Cackles, Corpses and Catastrophe|Cackles, Corpses and Catastrophe]] | 08 April 2026 | Bandits, Eula, stirges and Cackle Fever turn the journey towards Rana Viam into a disastrous retreat. |
 | 17 | [[Session 17 - Shrieks, Widows and Time Juice|Shrieks, Widows and Time Juice]] | 22 April 2026 | After an owlbear attack and an ogre rescue, the party reaches Rana Viam and hears Saint Vaelen’s warning. |
 | 18 | [[Session 18 - Frogger, Flames and the Golem’s Toll|Frogger, Flames and the Golem’s Toll]] | 03 May 2026 | The party crosses Rana Viam’s living time puzzle and is annihilated by the golem guarding the relic. |
 | 19 | [[Session 19 - Bands, Broken Stone and the Glass Fang|Bands, Broken Stone and the Glass Fang]] | 23 June 2026 | The golem falls, the relic is secured and Broken Fang scouts confront the party as they leave Rana Viam. |
+| 20 | [[Session 20 - Plague, Pursuit and Plan E|Plague, Pursuit and Plan E]] | — | The party pursues the scouts, bargains with Plague and captures a map to Ulsar Quinn’s camp. |
 
 ## Major arcs
 
@@ -50,6 +51,7 @@ A session-by-session account of the Defracturers’ adventures, beginning with t
 - **The Perfid embassy:** Sessions 12–14
 - **The road to Rana Viam:** Sessions 15–17
 - **Rana Viam:** Sessions 18–19
+- **The Broken Fang pursuit:** Sessions 20–
 
 ## Related lore
 
@@ -57,5 +59,8 @@ A session-by-session account of the Defracturers’ adventures, beginning with t
 - [[Emberwake Festival]]
 - [[Rakara]]
 - [[Rootbound]]
+- [[Broken Fang]]
+- [[Ulsar Quinn]]
+- [[Plague]]
 - [[The Sundering of Ardynia]]
 - [[Perfidian Faith]]
