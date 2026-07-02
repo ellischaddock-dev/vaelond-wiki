@@ -1,5 +1,5 @@
 ---
-title: 'Sessions 12–14: Fire, Faith and the Corona of the Ashen Choir'
+title: "Session 12–14: Fire, Faith and the Corona of the Ashen Choir"
 type: session-note
 status: published
 player_facing: true
@@ -8,7 +8,7 @@ session:
   - 13
   - 14
 recorded: 2026-03-26
-source_time: '19:55'
+source_time: 19:55
 arc: The Perfid embassy
 locations:
   - Somnolent
