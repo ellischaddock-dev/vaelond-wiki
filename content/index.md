@@ -47,15 +47,15 @@ Welcome to the player guide for **Vaelond**. This vault is organised as an inter
 
 ## Organisations
 
-- [[04 Organisations/Organisations|Organisations]] — campaign factions, political groups and the party’s household
+- [[content/04 Organisations/index|index]] — campaign factions, political groups and the party’s household
 - [[04 Organisations/Rootbound|The Rootbound]] — an underground movement born from dissent within Orvak
 - [[04 Organisations/Broken Fang|Broken Fang]] — mercenaries tied to n'Dong's past
 - [[04 Organisations/The Defracturers|The Defracturers]] — the adventuring party
-- [[04 Organisations/The Defracturers' Bastion|The Defracturers’ Bastion]] — the party's headquarters in Somnolent
+- [[The Defracturers' Bastion|The Defracturers’ Bastion]] — the party's headquarters in Somnolent
 
 ## People and campaign reference
 
-- [[03 People/People|People]] — player characters, notable figures, deceased NPCs, bastion staff and mentioned characters
+- [[content/03 People/index|index]] — player characters, notable figures, deceased NPCs, bastion staff and mentioned characters
 - [[content/03 People/Player Characters/index|index]]
 - [[06 Library/Campaign Reference/Open Threads|Open Threads]] — active goals and unresolved questions
 - [[06 Library/Campaign Reference/Horses|Horses]] — party mounts and their current situation
@@ -66,7 +66,7 @@ Welcome to the player guide for **Vaelond**. This vault is organised as an inter
 
 ## Campaign chronicle
 
-- [[05 Campaign Chronicle/Campaign Chronicle|Campaign Chronicle]] — the complete session-by-session record
+- [[content/05 Campaign Chronicle/index|index]] — the complete session-by-session record
 - [[05 Campaign Chronicle/Session 20 - Plague, Pursuit and Plan E|Session 20: Plague, Pursuit and Plan E]] — the latest supplied session note
 
 ## Map

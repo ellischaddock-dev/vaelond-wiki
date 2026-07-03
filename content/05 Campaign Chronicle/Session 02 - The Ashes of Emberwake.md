@@ -109,5 +109,5 @@ The battlefield fell still.
 
 ---
 
-**Chronicle:** [[Campaign Chronicle]]  
+**Chronicle:** [[content/05 Campaign Chronicle/index]]  
 **Navigation:** [[Session 01 - Die Dog, Die|Previous session]] · [[Session 03 - Into Buggie's Den|Next session]]

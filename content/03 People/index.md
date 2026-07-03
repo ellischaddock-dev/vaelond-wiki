@@ -1,5 +1,5 @@
 ---
-title: People
+title: 03 People
 type: index
 status: published
 player_facing: true
@@ -77,6 +77,6 @@ A player-facing index of named figures represented in the campaign records.
 
 - [[content/03 People/Player Characters/index|index]]
 - [[04 Organisations/The Defracturers|The Defracturers]]
-- [[04 Organisations/The Defracturers' Bastion|The Defracturers’ Bastion]]
+- [[The Defracturers' Bastion|The Defracturers’ Bastion]]
 - [[06 Library/Campaign Reference/Horses|Horses]]
-- [[05 Campaign Chronicle/Campaign Chronicle|Campaign Chronicle]]
+- [[content/05 Campaign Chronicle/index|index]]

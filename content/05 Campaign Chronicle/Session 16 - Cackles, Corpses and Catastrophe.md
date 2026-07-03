@@ -96,5 +96,5 @@ Ieuan was tasked with finding a suitable place to make camp, and to his credit h
 
 ---
 
-**Chronicle:** [[Campaign Chronicle]]  
+**Chronicle:** [[content/05 Campaign Chronicle/index]]  
 **Navigation:** [[Session 15 - Stewards, Saddles and Shambling Roots|Previous session]] · [[Session 17 - Shrieks, Widows and Time Juice|Next session]]

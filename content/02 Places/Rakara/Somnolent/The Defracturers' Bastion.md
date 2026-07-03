@@ -1,6 +1,6 @@
 ---
 title: The Defracturers’ Bastion
-type: organisation
+type: bastion
 status: published
 player_facing: true
 aliases:
@@ -8,7 +8,6 @@ aliases:
   - The Bastion
   - Former Perfid Embassy
 tags:
-  - organisation
   - bastion
   - somnolent
 location: Somnolent
@@ -46,6 +45,6 @@ Initial assignments included preparing uniforms and researching the Loyal Crows,
 ## Related
 
 - [[04 Organisations/The Defracturers|The Defracturers]]
-- [[03 People/People#Bastion staff|Bastion staff]]
+- [[content/03 People/index#Bastion staff|Bastion staff]]
 - [[05 Campaign Chronicle/Session 15 - Stewards, Saddles and Shambling Roots|Session 15]]
 - [[05 Campaign Chronicle/Session 16 - Cackles, Corpses and Catastrophe|Session 16]]

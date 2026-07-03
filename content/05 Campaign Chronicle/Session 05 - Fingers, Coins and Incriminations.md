@@ -115,5 +115,5 @@ Bruised, soaked, exhausted, and still haunted by too many unanswered questions, 
 
 ---
 
-**Chronicle:** [[Campaign Chronicle]]  
+**Chronicle:** [[content/05 Campaign Chronicle/index]]  
 **Navigation:** [[Session 04 - Tace Nox|Previous session]] · [[Session 06 - Smoke, Song and Secrets|Next session]]

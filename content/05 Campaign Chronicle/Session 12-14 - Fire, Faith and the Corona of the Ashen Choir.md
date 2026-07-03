@@ -149,5 +149,5 @@ The Defracturers agreed and, in true fashion, began planning something utterly a
 
 ---
 
-**Chronicle:** [[Campaign Chronicle]]  
+**Chronicle:** [[content/05 Campaign Chronicle/index]]  
 **Navigation:** [[Session 11 - Ashes, Brands and Windfalls|Previous session]] · [[Session 15 - Stewards, Saddles and Shambling Roots|Next session]]

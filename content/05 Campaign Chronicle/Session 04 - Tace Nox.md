@@ -130,5 +130,5 @@ And among the carnage, the party stood blinking—alive, but only just. And the 
 
 ---
 
-**Chronicle:** [[Campaign Chronicle]]  
+**Chronicle:** [[content/05 Campaign Chronicle/index]]  
 **Navigation:** [[Session 03 - Into Buggie's Den|Previous session]] · [[Session 05 - Fingers, Coins and Incriminations|Next session]]

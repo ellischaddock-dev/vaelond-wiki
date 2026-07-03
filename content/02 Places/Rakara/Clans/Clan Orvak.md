@@ -57,6 +57,9 @@ The Orvaki are especially skilled in:
 
 Despite its isolation, Orvak is the most racially and culturally diverse of the five clans. It has a long history of accepting exiles and people fleeing persecution elsewhere. In Orvaki lands, quiet contribution matters more than bloodline.
 
+## Known campaign site
+
+[[02 Places/Rakara/Rana Viam|Rana Viam]], an Ardynian Chronarch ruin explored by the Defracturers, lies in the Orvak forest. The party recovered the Bands of Distortion there after defeating a stone golem.
 ## Trade and tensions
 
 Orvak shares a long and tense border with Doro:

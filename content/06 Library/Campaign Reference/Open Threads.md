@@ -78,7 +78,7 @@ updated: 2026-07-02
 
 ## Related
 
-- [[05 Campaign Chronicle/Campaign Chronicle|Campaign Chronicle]]
+- [[content/05 Campaign Chronicle/index|index]]
 - [[04 Organisations/The Defracturers|The Defracturers]]
 - [[06 Library/Campaign Reference/Horses|Horses]]
 - [[04 Organisations/Broken Fang|Broken Fang]]

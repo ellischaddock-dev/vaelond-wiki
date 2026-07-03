@@ -99,4 +99,4 @@ That hypocrisy is not hidden by a central leadership because no such leadership 
 - [[Report on the Death of Anthea Bloodclot]]
 - [[Buggie]]
 - [[Stolen Letter from Alistair Prusset's Study]]
-- [[Campaign Chronicle]]
+- [[content/05 Campaign Chronicle/index]]

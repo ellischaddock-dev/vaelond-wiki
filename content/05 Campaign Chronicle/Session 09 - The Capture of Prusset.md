@@ -79,5 +79,5 @@ And the Defracturers? They were no longer just adventurers. They were now player
 
 ---
 
-**Chronicle:** [[Campaign Chronicle]]  
+**Chronicle:** [[content/05 Campaign Chronicle/index]]  
 **Navigation:** [[Session 08 - The Weight of Secrets|Previous session]] · [[Session 10 - Saints, Spies and Snake Eyes|Next session]]

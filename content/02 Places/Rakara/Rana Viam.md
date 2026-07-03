@@ -8,10 +8,10 @@ aliases:
 tags:
   - places
   - rakara
-  - erzhin
   - ardynia
   - chronarchs
   - campaign
+  - orvak
 region: Rakara
 territory: Clan Erzhin
 current_status: partially explored
@@ -22,7 +22,7 @@ updated: 2026-07-02
 # Rana Viam
 
 > [!summary] At a glance
-> An Ardynian ruin in the Erzhin hills containing Chronarch mechanisms, a message from Saint Vaelen and the construct that guarded the Bands of Distortion.
+> An Ardynian ruin in the forests of Orvak containing Chronarch mechanisms, a message from Saint Vaelen and the construct that guarded the Bands of Distortion.
 
 | | |
 |---|---|
@@ -34,7 +34,7 @@ updated: 2026-07-02
 
 ## Approach and entrance
 
-The Defracturers reached Rana Viam while travelling through the Erzhin hills towards Hushvale. Evidence within and around the site showed that members of the [[04 Organisations/Broken Fang|Broken Fang]] had previously searched the ruin and died there.
+The Defracturers reached Rana Viam while travelling through the Orvak forest towards Hushvale. Evidence within and around the site showed that members of the [[04 Organisations/Broken Fang|Broken Fang]] had previously searched the ruin and died there.
 
 The entrance presented a sequence built around the commands **jump**, **cross** and **run**, establishing the ruin's pattern of testing movement, sacrifice and understanding rather than relying on an ordinary locked door.
 

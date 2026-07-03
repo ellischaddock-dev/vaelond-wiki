@@ -149,5 +149,5 @@ And with that, the next morning’s objective became clear: Storm the Perfid Emb
 
 ---
 
-**Chronicle:** [[Campaign Chronicle]]  
+**Chronicle:** [[content/05 Campaign Chronicle/index]]  
 **Navigation:** [[Session 10 - Saints, Spies and Snake Eyes|Previous session]] · [[Session 12-14 - Fire, Faith and the Corona of the Ashen Choir|Next session]]

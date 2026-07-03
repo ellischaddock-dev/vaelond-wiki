@@ -1,0 +1,1 @@
+Unopened scroll, currently being investigated by Elmwood Bluevine

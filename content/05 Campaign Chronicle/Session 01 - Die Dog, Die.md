@@ -91,5 +91,5 @@ They **rose to level 2**, not just as survivors, but as the first sparks of some
 
 ---
 
-**Chronicle:** [[Campaign Chronicle]]  
+**Chronicle:** [[content/05 Campaign Chronicle/index]]  
 **Navigation:** — · [[Session 02 - The Ashes of Emberwake|Next session]]

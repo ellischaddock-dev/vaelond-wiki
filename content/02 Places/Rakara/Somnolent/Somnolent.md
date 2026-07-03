@@ -109,4 +109,4 @@ With Anthea Bloodclot assassinated just outside its walls, the town is more visi
 
 ## Campaign chronicle
 
-- [[Campaign Chronicle]] — many of the campaign’s opening events take place in and around Somnolent.
+- [[content/05 Campaign Chronicle/index]] — many of the campaign’s opening events take place in and around Somnolent.

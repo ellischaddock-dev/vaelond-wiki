@@ -77,10 +77,6 @@ Following Anthea Bloodclot's assassination, Erzhin has remained calm and methodi
 
 Wind and stone also shape Erzhini worship. The clan is particularly associated with [[01 Welcome to Vaelond/Religion/Rakaran Faiths#Ezaa of the Whispering Gale|Ezaa of the Whispering Gale]] and [[01 Welcome to Vaelond/Religion/Rakaran Faiths#Khurmog the Silent Deep|Khurmog the Silent Deep]].
 
-## Known campaign site
-
-[[02 Places/Rakara/Rana Viam|Rana Viam]], an Ardynian Chronarch ruin explored by the Defracturers, lies in the Erzhin hills. The party recovered the Bands of Distortion there after defeating a stone golem.
-
 ## Related pages
 
 - [[02 Places/Rakara/Rakara's Regions and Clans#Clan Erzhin|Rakara's Regions and Clans]]

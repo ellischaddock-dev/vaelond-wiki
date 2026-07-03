@@ -1,5 +1,5 @@
 ---
-title: 'Library'
+title: 06 Library
 type: index
 status: published
 player_facing: true

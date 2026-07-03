@@ -119,6 +119,6 @@ And there, deep in hostile woods, burdened by a surviving prisoner, cuttings of 
 
 ---
 
-**Chronicle:** [[Campaign Chronicle]]
+**Chronicle:** [[content/05 Campaign Chronicle/index]]
 
 **Navigation:** [[Session 19 - Bands, Broken Stone and the Glass Fang|Previous session]] · —

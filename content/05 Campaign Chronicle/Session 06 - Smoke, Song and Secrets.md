@@ -117,5 +117,5 @@ He had his lead.
 
 ---
 
-**Chronicle:** [[Campaign Chronicle]]  
+**Chronicle:** [[content/05 Campaign Chronicle/index]]  
 **Navigation:** [[Session 05 - Fingers, Coins and Incriminations|Previous session]] · [[Session 07 - Coffee and Contraband|Next session]]
