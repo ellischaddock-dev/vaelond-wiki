@@ -1,5 +1,5 @@
 ---
-title: 'Broken Fang'
+title: Broken Fang
 type: organisation
 status: published
 player_facing: true
@@ -8,22 +8,24 @@ tags:
   - minir
   - mercenaries
   - campaign
-affiliation: 'Minir'
-leader: 'Prodosius'
-source: 'Campaign notes and Sessions 1–20'
-updated: 2026-07-02
+affiliation: Minir
+leader: Prodosius
+source: Campaign notes and Sessions 1–20
+updated: 2026-07-03
 ---
 
 # Broken Fang
 
 ![[Broken Fang Symbol.jpeg|240]]
 
-The **Broken Fang** is a Miniri mercenary organisation led by **Prodosius**. It is personally tied to [[03 People/Player Characters/n'Dong|n'Dong's]] enslavement and the murder of his parents, and has become one of the party's most persistent enemies.
+The **Broken Fang** is a Miniri mercenary organisation led by [[03 People/Notable Figures/Prodosius|Prodosius]].
+
+It is personally tied to [[03 People/Player Characters/n'Dong|n'Dong's]] enslavement and the murder of his parents, and has become one of the party's most persistent enemies.
 
 ## Known activity
 
-- The organisation maintains a smuggling operation in Rakara, including a supply chain through the One Ball Inn.
-- n'Dong destroyed a whiskey shipment and uncovered a small drop site and manifest.
+- The organisation maintains a smuggling operation in Rakara, including a supply chain through the [[03 People/Notable Figures/Antoinne Cassan|One Ball Inn]].
+- n'Dong destroyed a whiskey shipment and uncovered a small drop site and the [[06 Library/Letters and Documents/Broken Fang Contraband Manifest|Broken Fang Contraband Manifest]].
 - [[03 People/Mentioned Figures/Rhul Slowdrift|Rhul Slowdrift]] has been identified only as a **high-ranking Broken Fang member**. His precise role and area of responsibility are not yet known.
 - Members searched Ardynian ruins and died within [[02 Places/Rakara/Rana Viam|Rana Viam]].
 - The organisation is seeking Ardynian relics, though its final purpose remains unknown.
@@ -31,13 +33,14 @@ The **Broken Fang** is a Miniri mercenary organisation led by **Prodosius**. It 
 - Scouts associated with Ulsar confronted the party as they emerged from Rana Viam.
 - Ulsar's forces took the Defracturers' horses while the party explored the ruin.
 - One scout was killed by Erelmor and two others, Salla and Malt, were captured during the subsequent pursuit.
-- Salla and Malt produced crude but broadly consistent maps of the nearby camp, including the approximate position of the stolen horses.
+- Salla and Malt produced [[06 Library/Letters and Documents/Broken Fang Camp Sketches|crude but broadly consistent maps]] of the nearby camp, including the approximate position of the stolen horses.
 - Salla was killed during an attack by Egg Hunter Hatchlings.
 - Malt survived and remained in the Defracturers' custody at the end of Session 20.
 - It is not yet known whether the camp has learned what happened to the missing scouts.
 
 ## Related people
 
+- [[03 People/Notable Figures/Prodosius|Prodosius]]
 - [[03 People/Player Characters/n'Dong|n'Dong]]
 - [[03 People/Notable Figures/Ulsar Quinn|Ulsar Quinn]]
 - [[03 People/Mentioned Figures/Rhul Slowdrift|Rhul Slowdrift]]
@@ -45,6 +48,11 @@ The **Broken Fang** is a Miniri mercenary organisation led by **Prodosius**. It 
 - [[03 People/Notable Deceased/Buggie|Buggie]]
 - [[03 People/Notable Figures/Ouin Brond|Ouin Brond]]
 - [[03 People/Notable Figures/Elmwood Bluevine|Elmwood Bluevine]]
+
+## Related documents
+
+- [[06 Library/Letters and Documents/Broken Fang Contraband Manifest|Broken Fang Contraband Manifest]]
+- [[06 Library/Letters and Documents/Broken Fang Camp Sketches|Broken Fang Camp Sketches]]
 
 ## Related sessions
 

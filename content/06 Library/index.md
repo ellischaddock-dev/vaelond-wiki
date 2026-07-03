@@ -24,6 +24,10 @@ updated: 2026-07-02
 - [[06 Library/Relics and Artefacts/Bands of Distortion|Bands of Distortion]]
 - [[06 Library/Relics and Artefacts/Staff of Broken Time|Staff of Broken Time]]
 - [[06 Library/Relics and Artefacts/Corona of the Ashen Choir|Corona of the Ashen Choir]]
+- [[Ring of Mind Shielding]] — recovered from Tace Nox and inhabited by a soul calling itself Din.
+- [[Eula's Red Coins]] — marked currency that alerts Eula to killings nearby.
+- [[Time Juice]] — green temporal substance used to activate mechanisms in Chronarch ruins.
+
 
 ## Letters and documents
 

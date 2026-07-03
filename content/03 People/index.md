@@ -7,7 +7,7 @@ tags:
   - index
   - people
   - campaign
-updated: 2026-07-02
+updated: 2026-07-03
 ---
 
 # People
@@ -45,9 +45,11 @@ A player-facing index of named figures represented in the campaign records.
 | ![[Gayle Bramble.png\|70]] | [[03 People/Notable Figures/Gayle Bramble|Gayle Bramble]] | Deputy of Somnolent | Active |
 | ![[Xene Redmayne.png\|70]] | [[03 People/Notable Figures/Xene Redmayne|Xene Redmayne]] | Bartender at the Drowsy Coin | Active |
 | ![[Eula.png\|70]] | [[03 People/Notable Figures/Eula|Eula]] | Collector of bodies | Active |
-| ![[Mireya Dinak.png\|70]] | [[03 People/Notable Figures/Mireya Dinak|Mireya Dinak]] | Prospective gambling-hall owner and horse keeper | Active |
+| ![[Mireya Dinak.png\|70]] | [[03 People/Notable Figures/Mireya Dinak|Mireya Dinak]] | Prospective gambling-hall owner travelling toward Hushvale | Active |
 | ![[Summer Quaresh.png\|70]] | [[03 People/Notable Figures/Summer Quaresh|Summer Quaresh]] | Khaali liaison and one of Anthea's Crows | Missing |
 | ![[Ulsar Quinn.png\|70]] | [[03 People/Notable Figures/Ulsar Quinn|Ulsar Quinn]] | Broken Fang commander known as the Glass Fang | Unseen; active |
+| — | [[03 People/Notable Figures/Prodosius|Prodosius]] | Leader of the Broken Fang | Unseen; active |
+| — | [[03 People/Notable Figures/Din|Din]] | Soul bound within Ballar's ring | Active |
 
 ## Notable deceased
 
@@ -75,8 +77,8 @@ A player-facing index of named figures represented in the campaign records.
 
 ## Related references
 
-- [[content/03 People/Player Characters/index|index]]
+- [[03 People/Player Characters/index|Player characters]]
 - [[04 Organisations/The Defracturers|The Defracturers]]
-- [[The Defracturers' Bastion|The Defracturers’ Bastion]]
+- [[02 Places/Rakara/Somnolent/The Defracturers' Bastion|The Defracturers’ Bastion]]
 - [[06 Library/Campaign Reference/Horses|Horses]]
-- [[content/05 Campaign Chronicle/index|index]]
+- [[05 Campaign Chronicle/index|Campaign Chronicle]]

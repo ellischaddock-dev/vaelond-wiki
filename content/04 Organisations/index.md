@@ -14,15 +14,14 @@ updated: 2026-07-02
 
 ## Campaign organisations
 
-| Symbol | Organisation | Known affiliation | Current relevance |
-|---|---|---|---|
-| ![[Chronarchs Symbol.png\|80]] | [[04 Organisations/Chronarchs|Chronarchs]] | Ardynia | Time magic, ruins and Sundering relics |
-| ![[Rootbound Sigil.png\|80]] | [[04 Organisations/Rootbound|The Rootbound]] | Officially unaffiliated; rooted in Orvak | Anthea's assassination and rival autonomous cells |
-| ![[Broken Fang Symbol.jpeg\|80]] | [[04 Organisations/Broken Fang|Broken Fang]] | Minir | Smuggling, n'Dong's past, Rana Viam and the stolen horses |
-| ![[Church of Elgira Symbol.png\|80]] | [[04 Organisations/Church of Elgira|Church of Elgira]] | Perfid | Ordered Anthea's assassination and escaped with a Corona |
-| — | [[04 Organisations/Loyal Crows|Loyal Crows]] | Followers of Anthea Bloodclot | Eden, Summer, the Prusset operation and missing agents |
-| — | [[04 Organisations/The Defracturers|The Defracturers]] | Somnolent | The player party under Romayne Drayton's patronage |
-| — | [[04 Organisations/The Defracturers' Bastion|The Defracturers’ Bastion]] | Somnolent | Party headquarters and household in the former Perfid embassy |
+| Symbol                               | Organisation                                 | Known affiliation           | Current relevance                        |                                                               |
+| ------------------------------------ | -------------------------------------------- | --------------------------- | ---------------------------------------- | ------------------------------------------------------------- |
+| ![[Chronarchs Symbol.png\|80]]       | [[04 Organisations/Chronarchs                | Chronarchs]]                | Ardynia                                  | Time magic, ruins and Sundering relics                        |
+| ![[Rootbound Sigil.png\|80]]         | [[04 Organisations/Rootbound                 | The Rootbound]]             | Officially unaffiliated; rooted in Orvak | Anthea's assassination and rival autonomous cells             |
+| ![[Broken Fang Symbol.jpeg\|80]]     | [[04 Organisations/Broken Fang               | Broken Fang]]               | Minir                                    | Smuggling, n'Dong's past, Rana Viam and the stolen horses     |
+| ![[Church of Elgira Symbol.png\|80]] | [[04 Organisations/Church of Elgira          | Church of Elgira]]          | Perfid                                   | Ordered Anthea's assassination and escaped with a Corona      |
+| —                                    | [[04 Organisations/Loyal Crows               | Loyal Crows]]               | Followers of Anthea Bloodclot            | Eden, Summer, the Prusset operation and missing agents        |
+| —                                    | [[04 Organisations/The Defracturers          | The Defracturers]]          | Somnolent                                | The player party under Romayne Drayton's patronage            |
 
 ## Regional organisations and political structures
 

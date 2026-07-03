@@ -16,7 +16,7 @@ homeland: Minir
 mount: Nail
 current_status: active
 source: Sessions 2–20
-updated: 2026-07-02
+updated: 2026-07-03
 ---
 
 # n'Dong
@@ -30,14 +30,16 @@ updated: 2026-07-02
 - He was enslaved or forced into service by the organisation.
 - [[03 People/Notable Figures/Ulsar Quinn|Ulsar Quinn]] once commanded the unit in which he served.
 - An expedition into an Ardynian ruin ended in disaster and was connected to n'Dong's transformation and eventual escape.
-- His personal objective is to reach Broken Fang leader **Prodosius**.
+- His personal objective is to reach Broken Fang leader [[03 People/Notable Figures/Prodosius|Prodosius]].
 - His magic is strongly associated with acid.
 
 ## Campaign role
 
-n'Dong is a volatile but powerful arcane combatant whose knowledge of Broken Fang procedures and personnel has repeatedly advanced the party's investigation. He uncovered a Broken Fang smuggling route in Somnolent and destroyed one of its whiskey shipments.
+n'Dong is a volatile but powerful arcane combatant whose knowledge of Broken Fang procedures and personnel has repeatedly advanced the party's investigation.
 
-He once wore the mask of **Verei**, which was later shattered. The precise meaning of the mask and the changes surrounding his identity remain unresolved.
+He uncovered a Broken Fang smuggling route in Somnolent, destroyed one of its whiskey shipments and recovered the [[06 Library/Letters and Documents/Broken Fang Contraband Manifest|Broken Fang Contraband Manifest]].
+
+He also recovered [[06 Library/Relics and Artefacts/Virei's Shattered Mask|Virei's Shattered Mask]] beneath the [[02 Places/Rakara/Somnolent/Drowsy Coin|Drowsy Coin]] after invoking Virei, the Shattered Mask. The precise meaning of the mask and the changes surrounding his identity remain unresolved.
 
 During Session 20, n'Dong performed aerial reconnaissance, located Malt and attacked the fleeing scout from above. He was the first Defracturer knocked unconscious by the Egg Hunter Hatchlings and was revived by Ballar.
 
@@ -47,16 +49,16 @@ During Session 20, n'Dong performed aerial reconnaissance, located Malt and atta
 
 ## Active personal threads
 
-- Find Prodosius.
-- Confront Ulsar Quinn and establish his current role in the Broken Fang.
+- Find [[03 People/Notable Figures/Prodosius|Prodosius]].
+- Confront [[03 People/Notable Figures/Ulsar Quinn|Ulsar Quinn]] and establish his current role in the Broken Fang.
 - Learn why the Broken Fang is searching Ardynian ruins and relics.
 - Determine the significance of [[03 People/Mentioned Figures/Rhul Slowdrift|Rhul Slowdrift]], who has only been identified as a high-ranking Broken Fang member.
-- Understand the transformation connected to the ruin expedition and the mask of Verei.
+- Understand the transformation connected to the ruin expedition and [[06 Library/Relics and Artefacts/Virei's Shattered Mask|Virei's Shattered Mask]].
 
 > [!warning] Gaps in the current record
 > - The exact chronology of n'Dong's capture, forced service, ruin expedition, transformation and escape is incomplete.
 > - His original home, family life and status in Minir are not fully described.
-> - The nature of Verei and the mask's relationship to n'Dong remain uncertain.
+> - The nature of Virei and the mask's relationship to n'Dong remain uncertain.
 > - The responsibilities of Ulsar, Rhul and others within the Broken Fang hierarchy are not yet fully known.
 > - It is unclear what n'Dong intends to do if he reaches Prodosius.
 
@@ -64,7 +66,10 @@ During Session 20, n'Dong performed aerial reconnaissance, located Malt and atta
 
 - [[04 Organisations/The Defracturers|The Defracturers]]
 - [[04 Organisations/Broken Fang|Broken Fang]]
+- [[03 People/Notable Figures/Prodosius|Prodosius]]
 - [[03 People/Notable Figures/Ulsar Quinn|Ulsar Quinn]]
 - [[03 People/Mentioned Figures/Rhul Slowdrift|Rhul Slowdrift]]
+- [[06 Library/Relics and Artefacts/Virei's Shattered Mask|Virei's Shattered Mask]]
+- [[06 Library/Letters and Documents/Broken Fang Contraband Manifest|Broken Fang Contraband Manifest]]
 - [[02 Places/Rakara/Rana Viam|Rana Viam]]
 - [[06 Library/Campaign Reference/Horses|Horses]]
