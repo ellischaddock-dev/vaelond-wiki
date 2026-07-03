@@ -56,7 +56,7 @@ Welcome to the player guide for **Vaelond**. This vault is organised as an inter
 ## People and campaign reference
 
 - [[03 People/People|People]] — player characters, notable figures, deceased NPCs, bastion staff and mentioned characters
-- [[03 People/Player Characters/Player Characters|Player Characters]]
+- [[content/03 People/Player Characters/index|index]]
 - [[06 Library/Campaign Reference/Open Threads|Open Threads]] — active goals and unresolved questions
 - [[06 Library/Campaign Reference/Horses|Horses]] — party mounts and their current situation
 - [[06 Library/Letters and Documents/Letters and Documents|Letters and Documents]] — recovered orders, correspondence and ruin notes

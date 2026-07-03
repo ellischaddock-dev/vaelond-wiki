@@ -27,10 +27,11 @@ updated: 2026-07-02
 
 ## Established background
 
-- Ballar is connected to **House Nirrell** in Doro.
-- His parents, Lucinda and Blodren, have links to Doroan diplomacy and the history surrounding the Old Grey Pike.
+- Ballar is a member of **House Nirrell** in Doro.
+- His parents, Lucinda and Xilpeiros, have links to Doroan diplomacy.
 - He is characteristically bold, proud and keen to be seen acting heroically.
 - His paladin oath is associated with glory and the pursuit of memorable deeds.
+- Ouin Brond has longstanding ties to Ballar’s family and acts as his superior and political adviser.
 
 ## Campaign role
 
@@ -47,12 +48,9 @@ During the pursuit in Session 20, Ballar captured Salla, placed him in the bag o
 ## Active personal threads
 
 - Understand Din and determine whether he can safely be given a body.
-- Uncover the full relationship between House Nirrell, the Old Grey Pike and the destruction of Ashenhom.
-- Decide what responsibility Ballar bears for the choices and secrets of his family.
 
 > [!warning] Gaps in the current record
 > - The session notes do not fully establish Ballar's formal standing, inheritance or duties within House Nirrell.
-> - The exact actions of each Nirrell family member during the events surrounding Ashenhom remain incomplete.
 > - Din's original identity, limitations and long-term objective have not been confirmed.
 > - Ballar's life and accomplishments before the campaign are only lightly described.
 
