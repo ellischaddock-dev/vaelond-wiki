@@ -1,48 +1,39 @@
 ---
-title: 01 - Welcome to Vaelond
-type: setting-overview
+title: Welcome to Vaelond
+type: index
 status: published
 player_facing: true
 aliases:
-  - Welcome to the Realms
+  - The Fractured Realm
 tags:
-  - lore
-  - overview
+  - index
   - vaelond
-regions:
-  - Perfid
-  - Doro
-  - Minir
-  - Rakara
-updated: 2026-07-01
+  - lore
+updated: 2026-07-02
 ---
 
 # Welcome to Vaelond
 
-![[Map of Vaelond.png]]
+Vaelond is a fractured world built around the absence of **Ardynia**, the civilisation that vanished five centuries ago. Its surviving peoples rebuilt in four great regions, divided by geography, belief and competing versions of history.
 
-> [!quote]
-> *“The world is old. The world is tired. The world is starting to remember.”*
+## The surviving realms
 
-Five centuries ago, the greatest empire Vaelond had ever known vanished without a trace. **Ardynia**—the dominant city of silver peaks and skycrystal spires—was the heart of enlightenment, unity and unimaginable magic. Then, in a single moment, it was gone, and with it the many advancements its people had made. The world took a giant collective step backwards.
+- **Perfid** in the north is shaped by the Church of Elgira and its struggle with secular power.
+- **Doro** in the west is governed through noble houses, law, trade and inherited influence.
+- **Minir** in the east values knowledge, careful accumulation and long-term advantage.
+- **Rakara** in the south is divided among five clans, each with its own culture, territory and ambitions.
 
-The mountains that held Ardynia became sealed and impassable. Its legacy became myth. In its absence, the four remaining realms became lost and unfocused:
+At the centre lie the **Sera Wilds**, the inaccessible remains of old Ardynia.
 
-- **[[The Powers That Be#Perfid|Perfid]]**, torn between its war machine and a rising church built on forgotten prophecy.
-- **[[The Powers That Be#Doro|Doro]]**, gilded and self-destructive, where noble houses scheme for a throne that does not exist.
-- **[[The Powers That Be#Minir|Minir]]**, quiet and cunning, trading in secrets and slowly accumulating the future.
-- **[[The Powers That Be#Rakara|Rakara]]**, wild and distant, where clans vie for soft power.
+## Begin exploring
 
-You begin in Rakara, a land trying desperately to define its own identity as the world begins to shift again. The assassination of the **Lord of the Five Clans** has thrown the region into uncertainty. Old wounds reopen. Treaties fray. Across the continent, strange signs are stirring: lost ruins revealing themselves, magic gaining strength, forgotten words spoken by strangers in dreams, and lights in the sky no one can explain.
+- [[01 Welcome to Vaelond/The Powers That Be|The Powers That Be]]
+- [[01 Welcome to Vaelond/The Sundering of Ardynia|The Sundering of Ardynia]]
+- [[01 Welcome to Vaelond/Time and Calendars|Time and Calendars]]
+- [[01 Welcome to Vaelond/Religion/Religion|Religion]]
+- [[02 Places/Rakara/Rakara|Rakara]]
+- [[05 Campaign Chronicle/Campaign Chronicle|Campaign Chronicle]]
 
-Something is moving beneath the surface of the world. Something old. Something long buried.
+## Current campaign focus
 
-**The peace is over.**  
-**The veil is thinning.**
-
-## Continue reading
-
-- [[The Sundering of Ardynia]]
-- [[The Powers That Be]]
-- [[Time and Calendars]]
-- [[Religion]]
+The Defracturers began their story in [[02 Places/Rakara/Somnolent/Somnolent|Somnolent]], where the murder of [[03 People/Notable Deceased/Anthea Bloodclot|Anthea Bloodclot]] drew them into a conflict involving the [[04 Organisations/Church of Elgira|Church of Elgira]], [[04 Organisations/Rootbound|the Rootbound]], [[04 Organisations/Broken Fang|the Broken Fang]] and the surviving relics of Ardynia.

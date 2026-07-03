@@ -15,7 +15,7 @@ tags:
 role: Self-styled Lord of the Five Clans
 current_status: deceased
 place_of_death: East of Somnolent
-updated: 2026-07-01
+updated: 2026-07-02
 ---
 
 # Anthea Bloodclot
@@ -25,36 +25,40 @@ updated: 2026-07-01
 
 ## Rise to power
 
-Anthea rose to prominence in the lands of [[Clan Khaali]]. This led to the widespread but incorrect assumption that she was Khaali by origin. Her actual birthplace and early origins were never publicly established.
+Anthea rose to prominence in the lands of [[02 Places/Rakara/Clans/Clan Khaali|Clan Khaali]]. This led to the widespread but incorrect assumption that she was Khaali by origin. Her actual birthplace and early origins were never publicly established.
 
 The title **Lord of the Five Clans** was not a recognised office before Anthea used it. She drew upon an old myth to create a personal following and spent ten years acting as mediator, war-broker and political anchor between the clans.
 
 ## Death
 
-Anthea was found dead inside her caravan approximately two miles east of [[Somnolent]] on the morning of the [[Emberwake Festival]]. The public initially knew only that she had died by unknown means.
+Anthea was found dead inside her caravan approximately two miles east of [[02 Places/Rakara/Somnolent/Somnolent|Somnolent]] on the morning of the [[02 Places/Rakara/Somnolent/Emberwake Festival|Emberwake Festival]].
 
-The party later obtained [[Report on the Death of Anthea Bloodclot|the official report]], which identified likely Bloodspore poisoning administered in wine. The caravan and crime scene disappeared before a comprehensive examination could be completed.
+The public initially knew only that she had died by unknown means. The Defracturers later obtained [[06 Library/Letters and Documents/Report on the Death of Anthea Bloodclot|the official report]], which identified likely Bloodspore poisoning administered in wine. The caravan and crime scene disappeared before a comprehensive examination could be completed.
 
 ## What the Defracturers uncovered
 
 The Defracturers gathered evidence that:
 
-- The [[Church of Elgira]] ordered Anthea's death.
-- [[Alistair Prusset]] arranged contact with a [[Rootbound]] cell.
-- The Rootbound have taken quiet credit without openly confirming responsibility.
-- Church leaders believed Anthea was **Saint Marra** and feared she intended to restore Ardynia.
+- The [[04 Organisations/Church of Elgira|Church of Elgira]] ordered Anthea's death.
+- [[03 People/Notable Deceased/Alistair Prusset|Alistair Prusset]] arranged contact with a [[04 Organisations/Rootbound|Rootbound]] cell.
+- Rootbound agents have taken quiet credit without openly confirming responsibility.
+- Perfidian Church leaders believed, or claimed to believe, that Anthea was **Saint Marra** and feared she intended to restore Ardynia.
 
-The Church's belief about Anthea's identity remains a major question within the campaign rather than settled public history.
+> [!important] The Saint Marra claim
+> The belief that Anthea was Saint Marra is a **Perfidian conclusion**, not an established fact. The Defracturers have found evidence that the Church acted upon this belief, but they have not independently substantiated Anthea's identity.
+
+The message recovered at [[02 Places/Rakara/Rana Viam|Rana Viam]] confirmed that conflict existed among figures associated with the ancient saints. It did not prove that Anthea was Marra.
 
 ## Legacy
 
-Anthea's death fractured the agreements she had built. [[Clan Voruun]] publicly claims the right to succeed her, with [[Clan Khaali]] alone offering open support.
+Anthea's death fractured the agreements she had built. [[02 Places/Rakara/Clans/Clan Voruun|Clan Voruun]] publicly claims the right to succeed her, with [[02 Places/Rakara/Clans/Clan Khaali|Clan Khaali]] alone offering open support.
 
 ## Related
 
-- [[Rakara - Background]]
-- [[Emberwake Festival]]
-- [[Report on the Death of Anthea Bloodclot]]
-- [[Loyal Crows]]
-- [[Eden Carrion]]
-- [[Summer Quaresh]]
+- [[02 Places/Rakara/Rakara - Background|Rakara - Background]]
+- [[02 Places/Rakara/Somnolent/Emberwake Festival|Emberwake Festival]]
+- [[06 Library/Letters and Documents/Report on the Death of Anthea Bloodclot|Report on the Death of Anthea Bloodclot]]
+- [[04 Organisations/Loyal Crows|Loyal Crows]]
+- [[03 People/Notable Figures/Eden Carrion|Eden Carrion]]
+- [[03 People/Notable Figures/Summer Quaresh|Summer Quaresh]]
+- [[06 Library/Campaign Reference/Open Threads|Open Threads]]

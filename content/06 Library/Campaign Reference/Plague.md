@@ -23,7 +23,7 @@ updated: 2026-07-02
 
 ## Known details
 
-- Plague was discovered in the forest near Rana Viam while Ieuan and Erelmor pursued a fleeing Broken Fang scout.
+- Plague was discovered in the forest near [[02 Places/Rakara/Rana Viam|Rana Viam]] while [[03 People/Player Characters/Ieuan|Ieuan]] and [[03 People/Player Characters/Erelmor|Erelmor]] pursued a fleeing Broken Fang scout.
 - Ieuan communicated with it using **Speak with Plants**.
 - It identified itself simply as **Plague**.
 - It appeared simple-minded but capable of bargaining and understanding promises.
@@ -31,24 +31,26 @@ updated: 2026-07-02
 - Plague claimed it had been left in the forest by a “bad mad man”.
 - According to Plague, that figure was later killed by “forest guardians”.
 - It agreed to let Ieuan and Erelmor cross its poisonous growth unharmed in exchange for Ieuan taking and spreading five cuttings.
-- Ieuan planted one cutting in Salla’s corpse following the Egg Hunter attack.
-- Four cuttings remained in Ieuan’s possession at the end of the session.
+- Ieuan planted one cutting in Salla's corpse following the Egg Hunter attack.
+- Four cuttings remained in Ieuan's possession at the end of the session.
 - Ieuan later proposed using Plague as part of the assault on the Broken Fang camp. The idea was designated **Plan E**.
 
 ## Unanswered questions
 
 - Who was the “bad mad man” who created or cultivated Plague?
 - What were the “forest guardians” that killed him?
-- What will happen to Salla’s infected corpse?
+- What will happen to Salla's infected corpse?
 - What consequences might follow if Ieuan spreads the remaining cuttings?
 - Is Plague connected to the other unnatural creatures found in the forest?
 
 ## Campaign appearances
 
-- [[Session 20 - Plague, Pursuit and Plan E]]
+- [[05 Campaign Chronicle/Session 20 - Plague, Pursuit and Plan E|Session 20]]
 
 ## Related
 
-- [[Ieuan]]
-- [[Broken Fang]]
-- [[Rana Viam]]
+- [[03 People/Player Characters/Ieuan|Ieuan]]
+- [[03 People/Player Characters/Erelmor|Erelmor]]
+- [[04 Organisations/Broken Fang|Broken Fang]]
+- [[02 Places/Rakara/Rana Viam|Rana Viam]]
+- [[06 Library/Campaign Reference/Open Threads|Open Threads]]

@@ -14,8 +14,8 @@ tags:
   - campaign
 affiliation: 'Perfid'
 leader: 'High Illuminant Derathel'
-source: 'Campaign notes.docx'
-updated: 2026-07-01
+source: 'Campaign notes and session chronicle'
+updated: 2026-07-02
 ---
 
 # Church of Elgira
@@ -33,20 +33,21 @@ The two titles refer to different people and different positions, not an alias o
 
 ## Known campaign position
 
-- The Church ordered Anthea Bloodclot's murder and used Alistair Prusset to contact a Rootbound cell.
-- Its leadership believed Anthea was **Saint Marra**, one of Elgira's surviving followers, and feared she intended to restore Ardynia.
-- Perfidian agents abducted and tortured Terrick Lowgins.
-- Church agents escaped Somnolent with a **Corona of the Ashen Choir**.
+- The Church ordered [[03 People/Notable Deceased/Anthea Bloodclot|Anthea Bloodclot's]] murder and used [[03 People/Notable Deceased/Alistair Prusset|Alistair Prusset]] to contact a [[04 Organisations/Rootbound|Rootbound]] cell.
+- Its leadership believed, or claimed to believe, that Anthea was **Saint Marra**, one of Elgira's surviving followers, and feared she intended to restore Ardynia.
+- The Defracturers have not independently proven that Anthea was Marra.
+- Perfidian agents abducted and tortured [[03 People/Notable Figures/Terrick Lowgins|Terrick Lowgins]].
+- Church agents escaped Somnolent with a [[06 Library/Relics and Artefacts/Corona of the Ashen Choir|Corona of the Ashen Choir]].
 
 ## Doctrine and history
 
-The Church teaches that Elgira deliberately sacrificed herself at the Battle of the Vale. [[The Sundering of Ardynia|Surviving historical reconstruction]] indicates that she instead survived the battle transformed and ascended shortly afterwards, after the sealing ritual drew catastrophically more life and time energy than intended.
+The Church teaches that Elgira deliberately sacrificed herself at the Battle of the Vale. Other surviving records and reconstructions present a different account of the Sundering.
 
 ## Related
 
-- [[Perfidian Faith]]
-- [[The Sundering of Ardynia]]
-- [[Alistair Prusset]]
-- [[Rootbound]]
-- [[Stolen Letter from Alistair Prusset's Study]]
-- [[Session 12-14 - Fire, Faith and the Corona of the Ashen Choir]]
+- [[01 Welcome to Vaelond/Religion/Perfidian Faith|Perfidian Faith]]
+- [[01 Welcome to Vaelond/The Sundering of Ardynia|The Sundering of Ardynia]]
+- [[03 People/Notable Deceased/Alistair Prusset|Alistair Prusset]]
+- [[04 Organisations/Rootbound|The Rootbound]]
+- [[06 Library/Letters and Documents/Stolen Letter from Alistair Prusset's Study|Stolen Letter from Alistair Prusset's Study]]
+- [[05 Campaign Chronicle/Session 12-14 - Fire, Faith and the Corona of the Ashen Choir|Sessions 12–14]]

@@ -10,7 +10,7 @@ tags:
   - campaign
 affiliation: 'Minir'
 leader: 'Prodosius'
-source: 'Campaign notes and Sessions 19–20'
+source: 'Campaign notes and Sessions 1–20'
 updated: 2026-07-02
 ---
 
@@ -18,38 +18,38 @@ updated: 2026-07-02
 
 ![[Broken Fang Symbol.jpeg|240]]
 
-The **Broken Fang** is a Miniri mercenary organisation led by **Prodosius**. It is personally tied to n’Dong’s enslavement and the murder of his parents, and has become one of the party’s most persistent enemies.
+The **Broken Fang** is a Miniri mercenary organisation led by **Prodosius**. It is personally tied to [[03 People/Player Characters/n'Dong|n'Dong's]] enslavement and the murder of his parents, and has become one of the party's most persistent enemies.
 
 ## Known activity
 
-- Maintains a smuggling operation in Rakara, including a supply chain through the One Ball Inn.
-- n’Dong destroyed a whiskey shipment and uncovered a small drop site and manifest.
-- Rakaran operations are overseen by **Rhul Slowdrift**.
-- Members have searched Ardynian ruins and died within Rana Viam.
+- The organisation maintains a smuggling operation in Rakara, including a supply chain through the One Ball Inn.
+- n'Dong destroyed a whiskey shipment and uncovered a small drop site and manifest.
+- [[03 People/Mentioned Figures/Rhul Slowdrift|Rhul Slowdrift]] has been identified only as a **high-ranking Broken Fang member**. His precise role and area of responsibility are not yet known.
+- Members searched Ardynian ruins and died within [[02 Places/Rakara/Rana Viam|Rana Viam]].
 - The organisation is seeking Ardynian relics, though its final purpose remains unknown.
-- [[Ulsar Quinn]], known as **the Glass Fang**, once commanded the unit in which n’Dong was forced to serve.
-- Scouts under Ulsar confronted the party as they emerged from Rana Viam.
-- Ulsar’s forces took the Defracturers’ horses while the party explored the ruin.
+- [[03 People/Notable Figures/Ulsar Quinn|Ulsar Quinn]], known as the Glass Fang, once commanded the unit in which n'Dong was forced to serve.
+- Scouts associated with Ulsar confronted the party as they emerged from Rana Viam.
+- Ulsar's forces took the Defracturers' horses while the party explored the ruin.
 - One scout was killed by Erelmor and two others, Salla and Malt, were captured during the subsequent pursuit.
-- Salla and Malt produced crude but broadly consistent maps of the nearby Broken Fang camp, including the position of the stolen horses.
+- Salla and Malt produced crude but broadly consistent maps of the nearby camp, including the approximate position of the stolen horses.
 - Salla was killed during an attack by Egg Hunter Hatchlings.
-- Malt survived and remained in the Defracturers’ custody at the end of Session 20.
+- Malt survived and remained in the Defracturers' custody at the end of Session 20.
 - It is not yet known whether the camp has learned what happened to the missing scouts.
 
 ## Related people
 
-- [[Ulsar Quinn]]
-- [[Rhul Slowdrift]]
-- [[Antoinne Cassan]]
-- [[Buggie]]
-- [[Ouin Brond]]
-- [[Elmwood Bluevine]]
-- [[n'Dong]]
+- [[03 People/Player Characters/n'Dong|n'Dong]]
+- [[03 People/Notable Figures/Ulsar Quinn|Ulsar Quinn]]
+- [[03 People/Mentioned Figures/Rhul Slowdrift|Rhul Slowdrift]]
+- [[03 People/Notable Figures/Antoinne Cassan|Antoinne Cassan]]
+- [[03 People/Notable Deceased/Buggie|Buggie]]
+- [[03 People/Notable Figures/Ouin Brond|Ouin Brond]]
+- [[03 People/Notable Figures/Elmwood Bluevine|Elmwood Bluevine]]
 
 ## Related sessions
 
-- [[Session 03 - Into Buggie's Den]]
-- [[Session 07 - Coffee and Contraband]]
-- [[Session 11 - Ashes, Brands and Windfalls]]
-- [[Session 19 - Bands, Broken Stone and the Glass Fang]]
-- [[Session 20 - Plague, Pursuit and Plan E]]
+- [[05 Campaign Chronicle/Session 03 - Into Buggie's Den|Session 3]]
+- [[05 Campaign Chronicle/Session 07 - Coffee and Contraband|Session 7]]
+- [[05 Campaign Chronicle/Session 11 - Ashes, Brands and Windfalls|Session 11]]
+- [[05 Campaign Chronicle/Session 19 - Bands, Broken Stone and the Glass Fang|Session 19]]
+- [[05 Campaign Chronicle/Session 20 - Plague, Pursuit and Plan E|Session 20]]

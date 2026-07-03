@@ -24,25 +24,27 @@ updated: 2026-07-02
 ![[Ulsar Quinn.png|260]]
 
 > [!summary] At a glance
-> A Broken Fang commander known as **the Glass Fang**, tied directly to n’Dong’s enslavement and now holding the Defracturers’ stolen horses at a camp near Rana Viam.
+> A Broken Fang commander known as **the Glass Fang**, tied directly to n'Dong's enslavement and reported to be holding the Defracturers' stolen horses at a camp near Rana Viam.
 
 ## Known details
 
-- Ulsar once commanded the Broken Fang unit in which n’Dong was forced to serve.
-- His command predates n’Dong’s disastrous expedition into the Ardynian ruins, transformation and eventual escape.
-- A scout confronted outside Rana Viam named Ulsar when n’Dong demanded to know who was responsible.
-- Ulsar’s forces took the Defracturers’ horses while the party explored Rana Viam.
-- He is associated with a nearby Broken Fang camp.
-- Two captured scouts, Salla and Malt, produced broadly consistent sketches of that camp and identified the location where the horses were being held.
+- Ulsar once commanded the Broken Fang unit in which [[03 People/Player Characters/n'Dong|n'Dong]] was forced to serve.
+- His command predates n'Dong's disastrous expedition into an Ardynian ruin, transformation and eventual escape.
+- A scout confronted outside [[02 Places/Rakara/Rana Viam|Rana Viam]] named Ulsar when n'Dong demanded to know who was responsible.
+- The scout reported that Ulsar had the Defracturers' horses.
+- Ulsar is associated with a nearby Broken Fang camp.
+- Two captured scouts, Salla and Malt, produced broadly consistent sketches of that camp and identified the approximate location where the horses were being held.
 - The party has not yet confronted Ulsar directly.
 
 ## Campaign appearances
 
-- [[Session 19 - Bands, Broken Stone and the Glass Fang]]
-- [[Session 20 - Plague, Pursuit and Plan E]]
+- [[05 Campaign Chronicle/Session 19 - Bands, Broken Stone and the Glass Fang|Session 19]]
+- [[05 Campaign Chronicle/Session 20 - Plague, Pursuit and Plan E|Session 20]]
 
 ## Related
 
-- [[Broken Fang]]
-- [[n'Dong]]
-- [[Rana Viam]]
+- [[04 Organisations/Broken Fang|Broken Fang]]
+- [[03 People/Player Characters/n'Dong|n'Dong]]
+- [[03 People/Mentioned Figures/Rhul Slowdrift|Rhul Slowdrift]]
+- [[02 Places/Rakara/Rana Viam|Rana Viam]]
+- [[06 Library/Campaign Reference/Horses|Horses]]
