@@ -28,7 +28,7 @@ Father Zantos gave the Star Seed to Ieuan during their conversation in Somnolent
 Their discussion touched on:
 
 - Ieuan's choice to follow the Circle of Stars;
-- the connection between that path and [[01 Welcome to Vaelond/Religion/Orun the Verdant Kin|Orun the Verdant Kin]];
+- the connection between that path and [[01 Welcome to Vaelond/Religion/Rakaran Faiths#Orun, the Verdant Kin|Orun the Verdant Kin]];
 - ancient Ardynian truths preserved in Clan Erzhin's Annals of Stone;
 - Zantos's past connection to the [[04 Organisations/Rootbound|Rootbound]] and his disillusionment with the direction they had taken.
 
@@ -67,4 +67,4 @@ Until it blooms or reacts to a specific event, its role should remain uncertain.
 - [[03 People/Player Characters/Ieuan|Ieuan]]
 - [[03 People/Notable Figures/Father Zantos|Father Zantos]]
 - [[04 Organisations/Rootbound|Rootbound]]
-- [[01 Welcome to Vaelond/Religion/Orun the Verdant Kin|Orun the Verdant Kin]]
+- [[01 Welcome to Vaelond/Religion/Rakaran Faiths#Orun, the Verdant Kin|Orun the Verdant Kin]]

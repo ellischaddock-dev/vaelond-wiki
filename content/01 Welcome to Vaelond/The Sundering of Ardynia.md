@@ -75,7 +75,7 @@ The Church teaches that Elgira watches from beyond the mortal world. Historians 
 
 ## Related pages
 
-- [[content/01 Welcome to Vaelond/index]]
+- [[01 Welcome to Vaelond/index]]
 - [[Perfidian Faith]]
 - [[Church of Elgira]]
 - [[The Powers That Be#Perfid]]

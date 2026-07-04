@@ -16,13 +16,13 @@ homeland: Minir
 mount: Nail
 current_status: active
 source: Sessions 2–20
-updated: 2026-07-03
+updated: 2026-07-04
 ---
 
 # n'Dong
 
 > [!summary] At a glance
-> A dragonborn wizard from Minir whose enslavement by the Broken Fang, transformation in an Ardynian ruin and pursuit of Prodosius have placed the mercenary organisation at the centre of his story.
+> A dragonborn wizard from Minir, trusted by Romayne Drayton but driven by trauma, whose enslavement by the Broken Fang, transformation in an Ardynian ruin and reckless pursuit of Prodosius have placed the mercenary organisation at the centre of his story.
 
 ## Established background
 
@@ -30,18 +30,30 @@ updated: 2026-07-03
 - He was enslaved or forced into service by the organisation.
 - [[03 People/Notable Figures/Ulsar Quinn|Ulsar Quinn]] once commanded the unit in which he served.
 - An expedition into an Ardynian ruin ended in disaster and was connected to n'Dong's transformation and eventual escape.
+- The memory of that ruin remains personally traumatic. When the party first identified the site beneath Thistlewound as Ardynian, n'Dong admitted that ruins like it had twisted him into what he is.
 - His personal objective is to reach Broken Fang leader [[03 People/Notable Figures/Prodosius|Prodosius]].
 - His magic is strongly associated with acid.
+- Romayne Drayton introduced n'Dong to the others as one of his trusted agents during the first investigation after Emberwake.
 
 ## Campaign role
 
-n'Dong is a volatile but powerful arcane combatant whose knowledge of Broken Fang procedures and personnel has repeatedly advanced the party's investigation.
+n'Dong is a volatile but powerful arcane combatant whose knowledge of Broken Fang procedures and personnel has repeatedly advanced the party's investigation. He is also one of the party's clearest examples of reckless improvisation: when a Broken Fang lead appears, he tends to pursue it immediately and worry about consequences afterwards.
 
-He uncovered a Broken Fang smuggling route in Somnolent, destroyed one of its whiskey shipments and recovered the [[06 Library/Letters and Documents/Broken Fang Contraband Manifest|Broken Fang Contraband Manifest]].
+His pursuit of Buggie's trail was not only investigative. After pressing Buggie about [[03 People/Notable Figures/Prodosius|Prodosius]], n'Dong revealed that he had followed the clue because the word "bugbear" might lead him closer to vengeance against the Broken Fang leader who had enslaved him.
 
-He also recovered [[06 Library/Relics and Artefacts/Virei's Shattered Mask|Virei's Shattered Mask]] beneath the [[02 Places/Rakara/Somnolent/Drowsy Coin|Drowsy Coin]] after invoking Virei, the Shattered Mask. The precise meaning of the mask and the changes surrounding his identity remain unresolved.
+He later uncovered a Broken Fang smuggling route in Somnolent, destroyed one of its whiskey shipments and recovered the [[06 Library/Letters and Documents/Broken Fang Contraband Manifest|Broken Fang Contraband Manifest]]. This investigation showed both his usefulness and his recklessness: n'Dong climbed inside a whiskey barrel to follow the shipment, discovered a drop site, sampled an unknown substance that was later identified as **Agony**, and returned with evidence of a wider network reaching Somnolent, Orvak, Voruun and Khaali.
+
+His pursuit of the same network later led him and Erelmor to Broken Fang agents in the woods. After the agents burned n'Dong's crude shelter, the pair attacked them, extracted the name [[03 People/Mentioned Figures/Rhul Slowdrift|Rhul Slowdrift]] from a man called Sunshine, and then burned the bodies to disguise what had happened. This gave n'Dong a new name in the Broken Fang hierarchy, but also reinforced his willingness to destroy evidence when cornered.
+
+n'Dong also recovered [[06 Library/Relics and Artefacts/Virei's Shattered Mask|Virei's Shattered Mask]] beneath the [[02 Places/Rakara/Somnolent/Drowsy Coin|Drowsy Coin]]. The mask forced the party into private visions; n'Dong saw Prodosius boasting of his parents' deaths and warning that n'Dong would soon die. After the resulting apparitions were defeated, n'Dong recited a forgotten prayer to Virei, the Shattered Mask, lifted the curse and claimed the mask. The precise meaning of the mask, the prayer and n'Dong's connection to Virei remain unresolved.
+
+His later use of the mask as a disguise after the failed Silent Court safe robbery suggests a recurring pattern: n'Dong often responds to exposure or danger with immediate magical improvisation, even when the solution may create new risks. He concealed his identity behind Virei's visage despite being one of the only dragonborn in Somnolent.
+
+n'Dong has also repeatedly helped erase dangerous scenes once the party has taken what it needs. He helped burn Buggie's lair after the massacre at Thistlewound, then later burned Broken Fang bodies after the woodland confrontation connected to Rhul Slowdrift. Whether this reflects practicality, panic, vengeance or habit remains unresolved.
 
 During Session 20, n'Dong performed aerial reconnaissance, located Malt and attacked the fleeing scout from above. He was the first Defracturer knocked unconscious by the Egg Hunter Hatchlings and was revived by Ballar.
+
+n'Dong's bluntness also colours his role in the group. He can be direct to the point of social disaster, as seen when he helped rescue Mireya and informed her of her husband's death with very little softness.
 
 ## Mount
 
@@ -49,18 +61,22 @@ During Session 20, n'Dong performed aerial reconnaissance, located Malt and atta
 
 ## Active personal threads
 
-- Find [[03 People/Notable Figures/Prodosius|Prodosius]].
+- Find [[03 People/Notable Figures/Prodosius|Prodosius]] and decide what justice or revenge would actually mean.
 - Confront [[03 People/Notable Figures/Ulsar Quinn|Ulsar Quinn]] and establish his current role in the Broken Fang.
+- Determine the significance of [[03 People/Mentioned Figures/Rhul Slowdrift|Rhul Slowdrift]] and whether he can lead n'Dong closer to Prodosius.
 - Learn why the Broken Fang is searching Ardynian ruins and relics.
-- Determine the significance of [[03 People/Mentioned Figures/Rhul Slowdrift|Rhul Slowdrift]], who has only been identified as a high-ranking Broken Fang member.
-- Understand the transformation connected to the ruin expedition and [[06 Library/Relics and Artefacts/Virei's Shattered Mask|Virei's Shattered Mask]].
+- Understand the transformation connected to the ruin expedition.
+- Understand why [[06 Library/Relics and Artefacts/Virei's Shattered Mask|Virei's Shattered Mask]] responded to him, why he knew the prayer and whether the mask is safe.
+- Decide whether his habit of reckless escalation is survival instinct, vengeance, trauma or something more dangerous.
 
 > [!warning] Gaps in the current record
 > - The exact chronology of n'Dong's capture, forced service, ruin expedition, transformation and escape is incomplete.
 > - His original home, family life and status in Minir are not fully described.
+> - It is not clear whether Prodosius personally killed n'Dong's parents or whether the mask vision showed truth, manipulation, memory or symbolic fear.
 > - The nature of Virei and the mask's relationship to n'Dong remain uncertain.
 > - The responsibilities of Ulsar, Rhul and others within the Broken Fang hierarchy are not yet fully known.
 > - It is unclear what n'Dong intends to do if he reaches Prodosius.
+> - It is unclear whether n'Dong recognises his own pattern of reckless escalation, or whether the party will challenge it before it causes greater harm.
 
 ## Related
 

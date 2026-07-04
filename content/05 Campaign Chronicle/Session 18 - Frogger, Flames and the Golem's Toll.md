@@ -97,5 +97,5 @@ That was enough to make the lesson clear. Shaken and finally willing to listen, 
 
 ---
 
-**Chronicle:** [[content/05 Campaign Chronicle/index]]  
+**Chronicle:** [[05 Campaign Chronicle/index]]  
 **Navigation:** [[Session 17 - Shrieks, Widows and Time Juice|Previous session]] · [[Session 19 - Bands, Broken Stone and the Glass Fang|Next session]]

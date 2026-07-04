@@ -100,5 +100,5 @@ The whole thing looked like a living puzzle. Or, as Erelmor put it with perfect 
 
 ---
 
-**Chronicle:** [[content/05 Campaign Chronicle/index]]  
-**Navigation:** [[Session 16 - Cackles, Corpses and Catastrophe|Previous session]] · [[Session 18 - Frogger, Flames and the Golem’s Toll|Next session]]
+**Chronicle:** [[05 Campaign Chronicle/index]]  
+**Navigation:** [[Session 16 - Cackles, Corpses and Catastrophe|Previous session]] · [[Session 18 - Frogger, Flames and the Golem's Toll|Next session]]

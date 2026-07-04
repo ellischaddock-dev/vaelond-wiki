@@ -45,7 +45,7 @@ Somnolent began as a simple waystation at the fork of two trade routes. Merchant
 
 Today, Somnolent is a neutral haven surrounded by the territory claimed by [[Clan Voruun]]. It never submitted to Anthea Bloodclot's self-styled authority, even at the height of her influence. **Headman Romayne Drayton** has preserved that autonomy through careful diplomacy and, according to persistent rumours, discreet foreign backing.
 
-At the campaign's outset, permanent foreign embassies represented **Doro**, **Minir** and **Perfid**. Perfid's former embassy has since become [[The Defracturers’ Bastion]], while Doro and Minir retain their missions. Among the Rakaran clans, **Eden Carrion** of Voruun, **Summer Quaresh** of Khaali and **Jericho Beech** of Temir maintain permanent missions. Orvak and Erzhin rely on less formal representatives within the town's druid community: **Mother Joygrove** and **Father Zantos**.
+At the campaign's outset, permanent foreign embassies represented **Doro**, **Minir** and **Perfid**. Perfid's former embassy has since become [[02 Places/Rakara/Somnolent/The Defracturers' Bastion|The Defracturers’ Bastion]], while Doro and Minir retain their missions. Among the Rakaran clans, **Eden Carrion** of Voruun, **Summer Quaresh** of Khaali and **Jericho Beech** of Temir maintain permanent missions. Orvak and Erzhin rely on less formal representatives within the town's druid community: **Mother Joygrove** and **Father Zantos**.
 
 > [!note] A poorly kept secret
 > Doro, Minir and Perfid are known to provide discreet support that helps preserve Somnolent's independence. The fact of that support is widely accepted; the precise arrangements are treated as rumour because no government publicly admits them.
@@ -100,6 +100,7 @@ With Anthea Bloodclot assassinated just outside its walls, the town is more visi
 
 ## Related pages
 
+- [[02 Places/Rakara/Somnolent/Drowsy Coin|The Drowsy Coin]]
 - [[Emberwake Festival]]
 - [[Rakara - Background]]
 - [[Rakara's Regions and Clans]]
@@ -109,4 +110,4 @@ With Anthea Bloodclot assassinated just outside its walls, the town is more visi
 
 ## Campaign chronicle
 
-- [[content/05 Campaign Chronicle/index]] — many of the campaign’s opening events take place in and around Somnolent.
+- [[05 Campaign Chronicle/index]] — many of the campaign’s opening events take place in and around Somnolent.

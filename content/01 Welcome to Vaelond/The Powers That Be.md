@@ -60,6 +60,6 @@ See also: [[Rakara]], [[Rakara - Background]], [[Rakara's Regions and Clans]], [
 
 ## Related pages
 
-- [[content/01 Welcome to Vaelond/index]]
+- [[01 Welcome to Vaelond/index]]
 - [[Religion]]
 - [[The Sundering of Ardynia]]

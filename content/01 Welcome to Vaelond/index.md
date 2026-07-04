@@ -32,7 +32,7 @@ At the centre lie the **Sera Wilds**, the inaccessible remains of old Ardynia.
 - [[01 Welcome to Vaelond/Time and Calendars|Time and Calendars]]
 - [[01 Welcome to Vaelond/Religion/Religion|Religion]]
 - [[02 Places/Rakara/Rakara|Rakara]]
-- [[content/05 Campaign Chronicle/index|index]]
+- [[05 Campaign Chronicle/index|index]]
 
 ## Current campaign focus
 

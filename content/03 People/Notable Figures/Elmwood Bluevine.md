@@ -46,4 +46,4 @@ updated: 2026-07-01
 
 - [[Chronarchs]]
 - [[Broken Fang]]
-- [[The Defracturers’ Bastion]]
+- [[02 Places/Rakara/Somnolent/The Defracturers' Bastion|The Defracturers’ Bastion]]

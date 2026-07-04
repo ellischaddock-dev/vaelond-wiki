@@ -1,3 +1,21 @@
+---
+title: Vaelen's sending stone
+type: document
+status: published
+player_facing: true
+aliases:
+  - Vaelen's Sending Stone
+  - Vaelen sending stone
+tags:
+  - library
+  - document
+  - ardynia
+  - chronarchs
+  - campaign
+source: Session 17
+updated: 2026-07-04
+---
+
 My end is near. I am certain, even if I cannot yet name the hand that will finally reach me. If I am fortunate, this record will outlive me. If I am not, then perhaps it will merely serve as proof that at least one of us understood the charge laid upon us.
 
 We were not meant to rule. That is the truth the others have forgotten. We were charged to guide the world, to prepare it, to leave behind something strong enough to resist should the ritual ever fail and Ardynia rise again. We were to cultivate endurance, not dominion. Readiness, not empire. We were never meant to lead the world by the throat.

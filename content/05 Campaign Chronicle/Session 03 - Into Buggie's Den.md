@@ -140,5 +140,5 @@ It opened. But what lay beyond?
 
 ---
 
-**Chronicle:** [[content/05 Campaign Chronicle/index]]  
+**Chronicle:** [[05 Campaign Chronicle/index]]  
 **Navigation:** [[Session 02 - The Ashes of Emberwake|Previous session]] · [[Session 04 - Tace Nox|Next session]]

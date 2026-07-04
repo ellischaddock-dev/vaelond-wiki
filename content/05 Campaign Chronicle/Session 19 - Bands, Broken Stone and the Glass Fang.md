@@ -69,6 +69,6 @@ And there the session hung: with the Bands finally won, the ruin behind them, th
 
 ---
 
-**Chronicle:** [[content/05 Campaign Chronicle/index]]
+**Chronicle:** [[05 Campaign Chronicle/index]]
 
-**Navigation:** [[Session 18 - Frogger, Flames and the Golem’s Toll|Previous session]] · [[Session 20 - Plague, Pursuit and Plan E|Next session]]
+**Navigation:** [[Session 18 - Frogger, Flames and the Golem's Toll|Previous session]] · [[Session 20 - Plague, Pursuit and Plan E|Next session]]

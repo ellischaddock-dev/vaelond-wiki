@@ -80,7 +80,7 @@ A sealed Ardynian scroll was also recovered.
 ## Campaign appearances
 
 - [[05 Campaign Chronicle/Session 17 - Shrieks, Widows and Time Juice|Session 17]]
-- [[05 Campaign Chronicle/Session 18 - Frogger, Flames and the Golem’s Toll|Session 18]]
+- [[05 Campaign Chronicle/Session 18 - Frogger, Flames and the Golem's Toll|Session 18]]
 - [[05 Campaign Chronicle/Session 19 - Bands, Broken Stone and the Glass Fang|Session 19]]
 
 ## Related

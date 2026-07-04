@@ -57,4 +57,4 @@ Her assassination left the title empty, the union uncertain and every clan watch
 
 ## Campaign chronicle
 
-- [[content/05 Campaign Chronicle/index|index]] — the player-facing record of events unfolding across Rakara
+- [[05 Campaign Chronicle/index|index]] — the player-facing record of events unfolding across Rakara

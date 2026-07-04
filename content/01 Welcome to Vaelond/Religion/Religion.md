@@ -27,7 +27,7 @@ Although worship is common across Vaelond, the visage of the gods varies from re
 - [[Perfidian Faith]] — the exclusive worship of Elgira and veneration of her four saints
 
 > [!note] Minir
-> The source extract does not yet contain the Miniran religious tradition. A placeholder and suggested image are included in [[Missing Images and Content]].
+> The current player-facing record does not yet contain a dedicated Miniran religious tradition page.
 
 ## Related pages
 

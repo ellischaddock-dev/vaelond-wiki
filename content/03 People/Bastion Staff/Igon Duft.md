@@ -30,5 +30,5 @@ The candidate was interviewed after the Defracturers acquired their Somnolent ba
 
 ## Related
 
-- [[The Defracturers’ Bastion]]
+- [[02 Places/Rakara/Somnolent/The Defracturers' Bastion|The Defracturers’ Bastion]]
 - [[The Defracturers]]

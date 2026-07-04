@@ -143,5 +143,5 @@ And as Prusset vanished into the Ethereal again, flickering like a dying flame, 
 
 ---
 
-**Chronicle:** [[content/05 Campaign Chronicle/index]]  
+**Chronicle:** [[05 Campaign Chronicle/index]]  
 **Navigation:** [[Session 07 - Coffee and Contraband|Previous session]] · [[Session 09 - The Capture of Prusset|Next session]]

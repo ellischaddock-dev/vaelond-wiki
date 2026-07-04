@@ -48,5 +48,5 @@ updated: 2026-07-01
 ## Related
 
 - [[Somnolent]]
-- [[The Defracturers’ Bastion]]
+- [[02 Places/Rakara/Somnolent/The Defracturers' Bastion|The Defracturers’ Bastion]]
 - [[Open Threads]]

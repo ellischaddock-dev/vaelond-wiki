@@ -25,7 +25,7 @@ Their precise powers remain unknown.
 
 ## Campaign record
 
-- [[Session 18 - Frogger, Flames and the Golem’s Toll]] — the first failed attempt to defeat the guardian.
+- [[05 Campaign Chronicle/Session 18 - Frogger, Flames and the Golem's Toll|Session 18 - Frogger, Flames and the Golem’s Toll]] — the first failed attempt to defeat the guardian.
 - [[Session 19 - Bands, Broken Stone and the Glass Fang]] — the golem is destroyed and the bands are secured.
 
 ## Related

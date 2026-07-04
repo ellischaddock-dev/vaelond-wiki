@@ -35,9 +35,9 @@ Following Perfid's actions in Somnolent, the group entered formal patronage unde
 
 ## Household and mounts
 
-- [[The Defracturers' Bastion|The Defracturers’ Bastion]]
+- [[02 Places/Rakara/Somnolent/The Defracturers' Bastion|The Defracturers’ Bastion]]
 - [[06 Library/Campaign Reference/Horses|Horses]]
-- [[content/03 People/index#Bastion staff|Bastion staff]]
+- [[03 People/index#Bastion staff|Bastion staff]]
 
 ## Current campaign position
 
@@ -54,7 +54,7 @@ After Session 20:
 ## Related
 
 - [[06 Library/Campaign Reference/Open Threads|Open Threads]]
-- [[content/05 Campaign Chronicle/index|index]]
+- [[05 Campaign Chronicle/index|index]]
 - [[04 Organisations/Broken Fang|Broken Fang]]
 - [[04 Organisations/Chronarchs|Chronarchs]]
 - [[02 Places/Rakara/Rana Viam|Rana Viam]]

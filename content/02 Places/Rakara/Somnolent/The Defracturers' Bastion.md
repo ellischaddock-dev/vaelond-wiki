@@ -45,6 +45,6 @@ Initial assignments included preparing uniforms and researching the Loyal Crows,
 ## Related
 
 - [[04 Organisations/The Defracturers|The Defracturers]]
-- [[content/03 People/index#Bastion staff|Bastion staff]]
+- [[03 People/index#Bastion staff|Bastion staff]]
 - [[05 Campaign Chronicle/Session 15 - Stewards, Saddles and Shambling Roots|Session 15]]
 - [[05 Campaign Chronicle/Session 16 - Cackles, Corpses and Catastrophe|Session 16]]

@@ -123,5 +123,5 @@ But just as the sweat dried and the coins were clutched, the Pike smiled, his te
 
 ---
 
-**Chronicle:** [[content/05 Campaign Chronicle/index]]  
+**Chronicle:** [[05 Campaign Chronicle/index]]  
 **Navigation:** [[Session 09 - The Capture of Prusset|Previous session]] · [[Session 11 - Ashes, Brands and Windfalls|Next session]]
