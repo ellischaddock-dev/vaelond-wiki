@@ -16,7 +16,7 @@ role: 'Doro ambassador to Somnolent'
 current_status: 'alive'
 last_known_location: 'Somnolent'
 source: 'Campaign notes.docx'
-updated: 2026-07-01
+updated: 2026-07-05
 ---
 
 # Ouin Brond
@@ -24,7 +24,7 @@ updated: 2026-07-01
 ![[Ouin Brond.png|260]]
 
 > [!summary] At a glance
-> Doro’s ambassador in Somnolent and Ballar’s politically astute superior and adviser.
+> Doro's ambassador in Somnolent and Ballar's politically astute superior and adviser.
 
 ## Known details
 
@@ -44,6 +44,8 @@ updated: 2026-07-01
 
 ## Related
 
-- [[The Powers That Be]]
+- [[01 Welcome to Vaelond/The Powers That Be#Doro|The Powers That Be: Doro]]
+- [[02 Places/Doro/Doro|Doro]]
+- [[02 Places/Doro/Doroan Noble Houses|Doroan Noble Houses]]
 - [[Broken Fang]]
 - [[Ervain Megbanas]]

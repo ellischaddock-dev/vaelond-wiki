@@ -22,14 +22,14 @@ Although worship is common across Vaelond, the visage of the gods varies from re
 
 ## Regional traditions
 
-- [[Rakaran Faiths]] — a varied and practical pantheon shaped by the Five Clans
-- [[Doroan Faiths]] — gods reframed through authority, reputation, contracts and noble society
-- [[Perfidian Faith]] — the exclusive worship of Elgira and veneration of her four saints
+- [[01 Welcome to Vaelond/Religion/Rakaran Faiths|Rakaran Faiths]] — a varied and practical pantheon shaped by the Five Clans
+- [[01 Welcome to Vaelond/Religion/Doroan Faiths|Doroan Faiths]] — gods reframed through authority, reputation, contracts and noble society
+- [[01 Welcome to Vaelond/Religion/Perfidian Faith|Perfidian Faith]] — the exclusive worship of Elgira and veneration of her four saints
 
 > [!note] Minir
 > The current player-facing record does not yet contain a dedicated Miniran religious tradition page.
 
 ## Related pages
 
-- [[The Sundering of Ardynia]]
-- [[The Powers That Be]]
+- [[01 Welcome to Vaelond/The Sundering of Ardynia|The Sundering of Ardynia]]
+- [[01 Welcome to Vaelond/The Powers That Be|The Powers That Be]]

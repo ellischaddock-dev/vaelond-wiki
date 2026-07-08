@@ -12,28 +12,28 @@ tags:
   - religion
   - doro
 region: Doro
-updated: 2026-07-01
+updated: 2026-07-05
 ---
 
 # Doroan Faiths
 
-Doro shares several gods with [[Rakaran Faiths|Rakara]], but interprets them through its own culture of authority, reputation, contracts and noble obligation.
+Doro shares several gods with [[01 Welcome to Vaelond/Religion/Rakaran Faiths|Rakara]], but interprets them through its own culture of authority, reputation, contracts and noble obligation.
 
 > [!note] Shared gods
 > The symbol **∑** marks a god shared with Rakara.
 
 ## Pantheon at a glance
 
-| Deity                                  | Associated with                        | Shared with Rakara |
-| -------------------------------------- | -------------------------------------- | ------------------ |
-| [[#Ulvarn Ascendant ∑]]                | Power, ambition, rule, war             | Yes                |
-| [[#Virei of the Gilded Mask ∑]]        | Art, rhetoric, performance, lies       | Yes                |
-| [[#Talik of the Balanced Ledger ∑]]    | Trade, contracts, luck                 | Yes                |
-| [[#Ezaa the Soft Whisper ∑]]           | Influence, secrets, diplomacy          | Yes                |
-| [[#Domara the Matron Unbroken]]        | Family, lineage, duty, marriage        | No                 |
-| [[#Cassivar the Oath-Bound]]           | Honour, law, reputation                | No                 |
-| [[#Veltrin the Veiled Hand]]           | Assassination, silence, necessary evil | No                 |
-| [[#Rhozka, She Who Records the End ∑]] | Death, legacy, memory                  | Yes                |
+| Deity | Associated with | Shared with Rakara |
+|---|---|---|
+| [[#Ulvarn Ascendant ∑]] | Power, ambition, rule, war | Yes |
+| [[#Verei of the Gilded Mask ∑]] | Art, rhetoric, performance, lies | Yes |
+| [[#Talik of the Balanced Ledger ∑]] | Trade, contracts, luck | Yes |
+| [[#Ezaa the Soft Whisper ∑]] | Influence, secrets, diplomacy | Yes |
+| [[#Domara the Matron Unbroken]] | Family, lineage, duty, marriage | No |
+| [[#Cassivar the Oath-Bound]] | Honour, law, reputation | No |
+| [[#Veltrin the Veiled Hand]] | Assassination, silence, necessary evil | No |
+| [[#Rhozka, She Who Records the End ∑]] | Death, legacy, memory | Yes |
 
 ## Ulvarn Ascendant ∑
 
@@ -49,11 +49,11 @@ Once a steppe god of conquest, Ulvarn in Doro is worshipped as the **legitimiser
 
 > *“Ulvarn, set me above those who doubt me.”*
 
-## Virei of the Gilded Mask ∑
+## Verei of the Gilded Mask ∑
 
 *Art, Rhetoric, Performance, Lies*
 
-Virei is **controlled deception**—the god of speeches, fashion, ceremony and lies that sound like truth.
+Verei is **controlled deception**—the god of speeches, fashion, ceremony and lies that sound like truth.
 
 - **Doctrine:** Reality is what the audience believes.
 - **Worship:** Plays, salons, political debates and curated scandal.
@@ -61,7 +61,7 @@ Virei is **controlled deception**—the god of speeches, fashion, ceremony and l
 
 ### Prayer before court
 
-> *“Virei, let them see only what I choose to show.”*
+> *“Verei, let them see only what I choose to show.”*
 
 ## Talik of the Balanced Ledger ∑
 
@@ -149,6 +149,6 @@ Rhozka is shared with Rakara but interpreted differently: not as a gentle guide,
 
 ## Related pages
 
-- [[Religion]]
-- [[Rakaran Faiths]]
-- [[The Powers That Be#Doro]]
+- [[01 Welcome to Vaelond/Religion/Religion|Religion]]
+- [[01 Welcome to Vaelond/Religion/Rakaran Faiths|Rakaran Faiths]]
+- [[01 Welcome to Vaelond/The Powers That Be#Doro|The Powers That Be]]

@@ -17,7 +17,7 @@ region: Rakara
 clan: Orvak
 leader: Balka
 source_date: 2025-07-04
-updated: 2026-07-01
+updated: 2026-07-05
 ---
 
 # Clan Orvak
@@ -59,7 +59,7 @@ Despite its isolation, Orvak is the most racially and culturally diverse of the 
 
 ## Known campaign site
 
-[[02 Places/Rakara/Rana Viam|Rana Viam]], an Ardynian Chronarch ruin explored by the Defracturers, lies in the Orvak forest. The party recovered the Bands of Distortion there after defeating a stone golem.
+[[02 Places/Rakara/Rana Viam|Rana Viam]], an Ardynian Chronarch ruin explored by the Defracturers, lies in Orvak near the outskirts where Orvak borders [[02 Places/Rakara/Clans/Clan Voruun|Voruun]] territory. It is about half a day by horse from [[02 Places/Rakara/Hushvale|Hushvale]] and about two to three days by horse from [[02 Places/Rakara/Somnolent/Somnolent|Somnolent]]. The party recovered the Bands of Distortion there after defeating a stone golem.
 ## Trade and tensions
 
 Orvak shares a long and tense border with Doro:
@@ -77,6 +77,7 @@ Within Rakara, the other clans tend to regard Orvak as reliable but frustrating.
 
 - [[Rakara's Regions and Clans#Clan Orvak]]
 - [[Rakara]]
+- [[02 Places/Rakara/Hushvale|Hushvale]]
 - [[Rakaran Faiths]]
 - [[Rootbound]]
 - [[Clan Erzhin]]

@@ -22,10 +22,10 @@ When the group crossed the threshold to leave, the staff vanished and returned t
 
 ## Campaign record
 
-- [[Session 04 - Tace Nox]]
+- [[05 Campaign Chronicle/Session 04 - Tace Nox|Session 04 - Tace Nox]]
 
 ## Related
 
-- [[Relics and Artefacts]]
-- [[Bands of Distortion]]
-- [[The Sundering of Ardynia]]
+- [[06 Library/Relics and Artefacts/Relics and Artefacts|Relics and Artefacts]]
+- [[06 Library/Relics and Artefacts/Bands of Distortion|Bands of Distortion]]
+- [[01 Welcome to Vaelond/The Sundering of Ardynia|The Sundering of Ardynia]]

@@ -15,7 +15,7 @@ tags:
   - index
   - vaelond
   - lore
-updated: 2026-07-02
+updated: 2026-07-05
 ---
 
 # Welcome to Vaelond
@@ -38,7 +38,8 @@ At the centre lie the **Sera Wilds**, the inaccessible remains of old Ardynia.
 - [[01 Welcome to Vaelond/Time and Calendars|Time and Calendars]]
 - [[01 Welcome to Vaelond/Religion/Religion|Religion]]
 - [[02 Places/Rakara/Rakara|Rakara]]
-- [[content/05 Campaign Chronicle/index|index]]
+- [[02 Places/Doro/Doro|Doro]]
+- [[05 Campaign Chronicle/index|index]]
 
 ## Current campaign focus
 
@@ -64,7 +65,7 @@ tags:
   - religion
   - doro
 region: Doro
-updated: 2026-07-01
+updated: 2026-07-05
 ---
 
 # Doroan Faiths
@@ -79,7 +80,7 @@ Doro shares several gods with [[Rakaran Faiths|Rakara]], but interprets them thr
 | Deity                                  | Associated with                        | Shared with Rakara |
 | -------------------------------------- | -------------------------------------- | ------------------ |
 | [[#Ulvarn Ascendant âˆ‘]]                | Power, ambition, rule, war             | Yes                |
-| [[#Virei of the Gilded Mask âˆ‘]]        | Art, rhetoric, performance, lies       | Yes                |
+| [[#Verei of the Gilded Mask âˆ‘]]        | Art, rhetoric, performance, lies       | Yes                |
 | [[#Talik of the Balanced Ledger âˆ‘]]    | Trade, contracts, luck                 | Yes                |
 | [[#Ezaa the Soft Whisper âˆ‘]]           | Influence, secrets, diplomacy          | Yes                |
 | [[#Domara the Matron Unbroken]]        | Family, lineage, duty, marriage        | No                 |
@@ -101,11 +102,11 @@ Once a steppe god of conquest, Ulvarn in Doro is worshipped as the **legitimiser
 
 > *â€œUlvarn, set me above those who doubt me.â€*
 
-## Virei of the Gilded Mask âˆ‘
+## Verei of the Gilded Mask âˆ‘
 
 *Art, Rhetoric, Performance, Lies*
 
-Virei is **controlled deception**â€”the god of speeches, fashion, ceremony and lies that sound like truth.
+Verei is **controlled deception**â€”the god of speeches, fashion, ceremony and lies that sound like truth.
 
 - **Doctrine:** Reality is what the audience believes.
 - **Worship:** Plays, salons, political debates and curated scandal.
@@ -113,7 +114,7 @@ Virei is **controlled deception**â€”the god of speeches, fashion, ceremony 
 
 ### Prayer before court
 
-> *â€œVirei, let them see only what I choose to show.â€*
+> *â€œVerei, let them see only what I choose to show.â€*
 
 ## Talik of the Balanced Ledger âˆ‘
 
@@ -301,14 +302,14 @@ tags:
   - religion
   - rakara
 region: Rakara
-updated: 2026-07-01
+updated: 2026-07-05
 ---
 
 # Rakaran Faiths
 
 In [[The Powers That Be#Rakara|Rakara]], where the clans each hold close ties to different gods, the variety of Vaelondian worship is especially clear. A [[Clan Temir|Temir]] fisherman might honour the Sea-Mother daily, yet still whisper a prayer to Ezaa before a long journey. An [[Clan Orvak|Orvak]] herder gives thanks to Orun for fertile fields but lights a candle to Rhozka when burying kin. The gods are many, and all are real, so the wise show respect to all.
 
-Each clan tends to favour certain godsâ€”[[Clan Temir|Temir]] with the Sea-Mother and Moon-Father, [[Clan Khaali|Khaali]] with Ashka and Virei, [[Clan Erzhin|Erzhin]] with Ezaa and Khurmog, and so onâ€”but even within clans, individuals may feel a personal pull towards other deities. A warrior might wear a token of Ulvarn for strength in battle, while a young performer might paint symbols of Virei before a festival dance.
+Each clan tends to favour certain godsâ€”[[Clan Temir|Temir]] with the Sea-Mother and Moon-Father, [[Clan Khaali|Khaali]] with Ashka and Verei, [[Clan Erzhin|Erzhin]] with Ezaa and Khurmog, and so onâ€”but even within clans, individuals may feel a personal pull towards other deities. A warrior might wear a token of Ulvarn for strength in battle, while a young performer might paint symbols of Verei before a festival dance.
 
 People offer thanks when crops grow well or storms pass safely, and they make requests when danger looms or luck runs dry. Even gods feared for their wrath, like Ashka or Talik, receive their dueâ€”to ignore them is to invite misfortune. Worship might be as simple as a whispered phrase at dawn, a coin left at a roadside shrine, or a formal visit to a local temple or spirit-tent.
 
@@ -321,7 +322,7 @@ For most in Rakara, the gods are not distant figures but present forces in the w
 | [[#Sea-Mother and Moon-Father]]  | Water, moon, tides, cycles, rebirth  | A silver wave curled around a crescent moon |
 | [[#Orun, the Verdant Kin]]       | Nature, growth, earth, fertility     | A twisted horn filled with vines and grain  |
 | [[#Ashka the Ember-Dancer]]      | Fire, chaos, inspiration, renewal    | A spiral flame with dancing feet            |
-| [[#Virei the Shattered Mask]]    | Art, expression, emotion, madness    | A half-mask painted with abstract symbols   |
+| [[#Verei the Shattered Mask]]    | Art, expression, emotion, madness    | A half-mask painted with abstract symbols   |
 | [[#Ulvarn the Towering Sun]]     | Ambition, power, order, war          | A blazing tower crowned with light          |
 | [[#Ezaa of the Whispering Gale]] | Wind, influence, speech, travel      | A bird's feather wrapped in a spiral gust   |
 | [[#Khurmog the Silent Deep]]     | Stone, memory, permanence, ancestors | A square spiral engraved into stone         |
@@ -379,7 +380,7 @@ Ashka was born when lightning struck the skull of a slain tyrant. She sprang fro
 
 > *â€œAshka, whose laughter cracks the sky, strike me with your flame. Let my spirit burn wild and bright.â€*
 
-## Virei the Shattered Mask
+## Verei the Shattered Mask
 
 **Associated with:** Art, Expression, Emotion, Madness  
 **Favoured by:** Khaali, Voruun  
@@ -391,11 +392,11 @@ Ashka was born when lightning struck the skull of a slain tyrant. She sprang fro
 
 ### Myth
 
-Virei sculpted the first faces from clay, then shattered their mould. From the shards came poetry, song and dream. She hides her face so that no one may copy her, and whispers inspiration through the cracks in the mind.
+Verei sculpted the first faces from clay, then shattered their mould. From the shards came poetry, song and dream. She hides her face so that no one may copy her, and whispers inspiration through the cracks in the mind.
 
 ### Prayer
 
-> *â€œVirei, mask-maker, soul-breaker, speak through my hands and voice. Let me create what even the gods fear to imagine.â€*
+> *â€œVerei, mask-maker, soul-breaker, speak through my hands and voice. Let me create what even the gods fear to imagine.â€*
 
 ## Ulvarn the Towering Sun
 
@@ -525,7 +526,7 @@ Although worship is common across Vaelond, the visage of the gods varies from re
 - [[Perfidian Faith]] â€” the exclusive worship of Elgira and veneration of her four saints
 
 > [!note] Minir
-> The source extract does not yet contain the Miniran religious tradition. A placeholder and suggested image are included in [[Missing Images and Content]].
+> The current player-facing record does not yet contain a dedicated Miniran religious tradition page.
 
 ## Related pages
 
@@ -555,7 +556,7 @@ regions:
   - Doro
   - Minir
   - Rakara
-updated: 2026-07-01
+updated: 2026-07-05
 ---
 
 # The Powers That Be
@@ -572,11 +573,13 @@ Tensions rise as both factions become more extreme. The Church's efforts to expa
 
 Doro wages war with Perfid by day, and with itself by night.
 
-It is a realm of grand palaces, endless bureaucracy and veiled knives. Though powerful on paper, **Doro is paralysed by internal politics**. Rule is divided between **six Great Houses**, each competing through marriage pacts, scandal, trade and sabotage.
+It is a realm of grand palaces, endless bureaucracy and veiled knives. Though powerful on paper, **Doro is paralysed by internal politics**. Rule is divided between [[02 Places/Doro/Doroan Noble Houses|six Great Houses and ten lesser families]], each competing through marriage pacts, scandal, trade, military command, taxation, propaganda, debt and secrets.
+
+The six Great Houses are [[02 Places/Doro/Noble Houses/House Valmyrion|Valmyrion]], [[02 Places/Doro/Noble Houses/House Trenhalde|Trenhalde]], [[02 Places/Doro/Noble Houses/House Seravell|Seravell]], [[02 Places/Doro/Noble Houses/House Bromere|Bromere]], [[02 Places/Doro/Noble Houses/House Aequinth|Aequinth]] and [[02 Places/Doro/Noble Houses/House Corvenna|Corvenna]]. Beneath them sit ten lesser families, including [[02 Places/Doro/Noble Houses/House Nirrell|House Nirrell]], whose influence is built on espionage and secrets.
 
 Those outside the corridors of power are often treated as thralls or collateral for the war. The people grow weary, but few dare break the ancient web of alliances holding the realm together.
 
-See also: [[Doroan Faiths]].
+See also: [[02 Places/Doro/Doro|Doro]], [[02 Places/Doro/Doroan Noble Houses|Doroan Noble Houses]] and [[Doroan Faiths]].
 
 ## Minir
 
@@ -600,7 +603,7 @@ See also: [[Rakara]], [[Rakara - Background]], [[Rakara's Regions and Clans]], [
 
 ## Related pages
 
-- [[content/01 Welcome to Vaelond/index]]
+- [[01 Welcome to Vaelond/index]]
 - [[Religion]]
 - [[The Sundering of Ardynia]]
 
@@ -687,7 +690,7 @@ The Church teaches that Elgira watches from beyond the mortal world. Historians 
 
 ## Related pages
 
-- [[content/01 Welcome to Vaelond/index]]
+- [[01 Welcome to Vaelond/index]]
 - [[Perfidian Faith]]
 - [[Church of Elgira]]
 - [[The Powers That Be#Perfid]]
@@ -756,8 +759,1035 @@ The campaign's interactive calendar is hosted on Fantasy Calendar:
 
 ## Related pages
 
-- [[content/01 Welcome to Vaelond/index]]
+- [[01 Welcome to Vaelond/index]]
 - [[Religion]]
+
+
+
+---
+# FILE: C:\Users\ellis\Documents\vaelond-wiki\content\02 Places\Doro\Ashenhom.md
+---
+
+---
+title: Ashenhom
+type: destroyed-settlement
+status: published
+player_facing: true
+aliases:
+  - The Ashenhom Destruction
+  - The Razing of Ashenhom
+tags:
+  - places
+  - doro
+  - campaign
+  - ashenhom
+region: Doro
+current_status: destroyed
+updated: 2026-07-05
+---
+
+# Ashenhom
+
+> [!summary] At a glance
+> A destroyed Doroan settlement tied to [[03 People/Player Characters/Erelmor|Erelmor's]] past, the deaths of his wife and children, and the disgrace of [[03 People/Notable Figures/Ervain Megbanas|Ervain Megbanas]], the Old Grey Pike.
+
+## Established account
+
+Ashenhom was razed by Doroan forces after being accused of harbouring Perfid spies. The destruction was intended as an example to others and became one of the defining scandals of the Maw.
+
+The fallout removed [[03 People/Notable Figures/Ervain Megbanas|Ervain Megbanas]], known as **the Old Grey Pike**, from active duty in disgrace.
+
+[[03 People/Player Characters/Erelmor|Erelmor]] survived the destruction. His wife and children were killed there, making Ashenhom the centre of his search for those responsible.
+
+## Unresolved truth
+
+The accusation that Ashenhom harboured Perfid spies remains part of the established account, but the full truth behind the settlement's destruction is still unknown.
+
+The central unresolved questions are not whether Ashenhom was destroyed, but why that accusation was made, who benefited, what role Ervain truly played and whether Doro's official explanation concealed a deeper conspiracy.
+
+## Campaign significance
+
+Ashenhom connects several active threads:
+
+- Erelmor's grief and pursuit of revenge.
+- The Old Grey Pike's disgrace and current presence in Somnolent.
+- Doro's war with Perfid across the Maw.
+- The hidden politics of Doroan noble families, especially where military command, scapegoating and family secrets overlap.
+
+## Related pages
+
+- [[03 People/Player Characters/Erelmor|Erelmor]]
+- [[03 People/Notable Figures/Ervain Megbanas|Ervain Megbanas]]
+- [[02 Places/Doro/Doro|Doro]]
+- [[02 Places/Doro/Doroan Noble Houses|Doroan Noble Houses]]
+- [[01 Welcome to Vaelond/The Powers That Be#Doro|The Powers That Be]]
+- [[06 Library/Campaign Reference/Open Threads|Open Threads]]
+
+
+
+---
+# FILE: C:\Users\ellis\Documents\vaelond-wiki\content\02 Places\Doro\Doro.md
+---
+
+---
+title: Doro
+type: regional-index
+status: published
+player_facing: true
+aliases:
+  - The Western Realm
+  - Doroan Realm
+  - Doro and the West
+tags:
+  - index
+  - places
+  - doro
+  - politics
+region: Doro
+updated: 2026-07-05
+---
+
+# Doro
+
+Doro is the western realm of Vaelond: wealthy, aristocratic, bureaucratic and dangerously divided. It wages war with [[01 Welcome to Vaelond/The Powers That Be#Perfid|Perfid]] across the Spear and the Maw while its own noble families compete for influence through marriage, taxation, trade, military command, public works, scandal and secrets.
+
+## At a glance
+
+| | |
+|---|---|
+| **Region** | Western Vaelond |
+| **Known for** | Noble houses, bureaucracy, trade, war with Perfid and political intrigue |
+| **Political structure** | Six Great Houses supported and challenged by ten lesser families |
+| **Major campaign links** | [[03 People/Player Characters/Ballar Novis|Ballar Novis]], [[03 People/Notable Figures/Ouin Brond|Ouin Brond]], [[03 People/Notable Figures/Ervain Megbanas|the Old Grey Pike]], [[02 Places/Doro/Ashenhom|Ashenhom]] |
+
+## Power and society
+
+Doro is ruled through inherited influence rather than a single uncontested centre of power. The six Great Houses dominate the capital, foreign policy, taxation, the military, magical licensing, trade and guild sentiment. Beneath them sit ten lesser families whose influence is narrower but still vital.
+
+The result is a realm that appears orderly from the outside but is constantly negotiating with itself. Law, honour and bureaucracy matter deeply, but so do blackmail, family obligation, bought loyalty and the ability to make an enemy's name impossible to defend.
+
+Those outside the noble web often become tools of the system: workers, soldiers, informants, debtors, petitioners or collateral in conflicts decided far above them.
+
+## The sixteen families
+
+Doro's noble structure is commonly described through **six Great Houses** and **ten lesser families**.
+
+### Great Houses
+
+| House | Ancestry | Known for |
+|---|---|---|
+| [[02 Places/Doro/Noble Houses/House Valmyrion|House Valmyrion]] | High elf | Diplomacy, manipulation, taxation and foreign trade pacts |
+| [[02 Places/Doro/Noble Houses/House Trenhalde|House Trenhalde]] | Human | Mining, shipping, ore wealth and military supply |
+| [[02 Places/Doro/Noble Houses/House Seravell|House Seravell]] | High elf | Arcane licensing, magical extraction and morality taxes |
+| [[02 Places/Doro/Noble Houses/House Bromere|House Bromere]] | Human | Military command, skirmishes in the Maw and the capital guard |
+| [[02 Places/Doro/Noble Houses/House Aequinth|House Aequinth]] | High elf | Merchant banking, bonded caravans, alchemy and logistics |
+| [[02 Places/Doro/Noble Houses/House Corvenna|House Corvenna]] | High elf | Guild influence, public works and popular sentiment |
+
+### Lesser families
+
+| House | Ancestry | Known for |
+|---|---|---|
+| [[02 Places/Doro/Noble Houses/House Fenmer|House Fenmer]] | Human | Minor mining claims, tariffs and shipping tolls |
+| [[02 Places/Doro/Noble Houses/House Lythean|House Lythean]] | High elf | Mineralogical survey, refinement and magical mining support |
+| [[02 Places/Doro/Noble Houses/House Daskel|House Daskel]] | Human | Arms production, smithing and wartime contracts |
+| [[02 Places/Doro/Noble Houses/House Ilirienne|House Ilirienne]] | High elf | Architecture, bards, cultural patronage and propaganda art |
+| [[02 Places/Doro/Noble Houses/House Trane|House Trane]] | Human | Internal toll roads and local tariffs |
+| [[02 Places/Doro/Noble Houses/House CallorÃ©|House CallorÃ©]] | High elf | Rare magical components, illegal goods and quiet finance |
+| [[02 Places/Doro/Noble Houses/House Brathen|House Brathen]] | Human | Enforcement, muscle and wartime service |
+| [[02 Places/Doro/Noble Houses/House Yelaveth|House Yelaveth]] | High elf | Coastal traditions, sea temples and coastal influence |
+| [[02 Places/Doro/Noble Houses/House Orswick|House Orswick]] | Human | Border strongholds and frontier skirmishing near Perfid |
+| [[02 Places/Doro/Noble Houses/House Nirrell|House Nirrell]] | High elf | Espionage, secrets, blackmail and exposure of rivals |
+
+## Campaign significance
+
+Doro's politics are already entangled with the Defracturers.
+
+- [[03 People/Player Characters/Ballar Novis|Ballar Novis]] is a third son of [[02 Places/Doro/Noble Houses/House Nirrell|House Nirrell]].
+- [[03 People/Notable Figures/Ouin Brond|Ouin Brond]] serves as Doro's ambassador to [[02 Places/Rakara/Somnolent/Somnolent|Somnolent]].
+- [[03 People/Notable Figures/Ervain Megbanas|Ervain Megbanas]], the Old Grey Pike, was removed from active duty after the destruction of [[02 Places/Doro/Ashenhom|Ashenhom]].
+- A [[02 Places/Doro/Noble Houses/House Bromere|House Bromere]] favour coin became part of the trail connecting [[03 People/Notable Deceased/Buggie|Buggie]], the [[04 Organisations/Loyal Crows|Loyal Crows]] and [[03 People/Notable Deceased/Alistair Prusset|Alistair Prusset]].
+
+## Related pages
+
+- [[01 Welcome to Vaelond/The Powers That Be#Doro|The Powers That Be]]
+- [[02 Places/Doro/Doroan Noble Houses|Doroan Noble Houses]]
+- [[01 Welcome to Vaelond/Religion/Doroan Faiths|Doroan Faiths]]
+- [[02 Places/Doro/Ashenhom|Ashenhom]]
+- [[03 People/Notable Figures/Ouin Brond|Ouin Brond]]
+- [[03 People/Player Characters/Ballar Novis|Ballar Novis]]
+
+
+
+---
+# FILE: C:\Users\ellis\Documents\vaelond-wiki\content\02 Places\Doro\Doroan Noble Houses.md
+---
+
+---
+title: Doroan Noble Houses
+type: political-reference
+status: published
+player_facing: true
+aliases:
+  - Doroan Families
+  - Noble Houses of Doro
+  - The Sixteen Families
+tags:
+  - lore
+  - politics
+  - doro
+  - noble-house
+region: Doro
+updated: 2026-07-05
+---
+
+# Doroan Noble Houses
+
+Doroan power is divided between **six Great Houses** and **ten lesser families**. The Great Houses dominate the realm's highest offices, military direction, taxation, trade, magical regulation and public legitimacy. The lesser families hold narrower but still dangerous forms of influence, often acting as specialists, junior partners, enforcers or hidden brokers.
+
+No house rules Doro alone. Influence is built through alliance, debt, scandal, public reputation, military necessity and the ability to make rivals dependent on services they despise.
+
+## Great Houses
+
+| House | Ancestry | Role in Doro |
+|---|---|---|
+| [[02 Places/Doro/Noble Houses/House Valmyrion|House Valmyrion]] | High elf | Traditionalist diplomacy, taxation bureaucracy and foreign trade pacts |
+| [[02 Places/Doro/Noble Houses/House Trenhalde|House Trenhalde]] | Human | Western mining infrastructure, shipping and campaign supply |
+| [[02 Places/Doro/Noble Houses/House Seravell|House Seravell]] | High elf | Arcane licensing, magical extraction and morality taxes |
+| [[02 Places/Doro/Noble Houses/House Bromere|House Bromere]] | Human | Military power, the Maw and capital guard influence |
+| [[02 Places/Doro/Noble Houses/House Aequinth|House Aequinth]] | High elf | Merchant banking, bonded caravans, alchemy and logistics |
+| [[02 Places/Doro/Noble Houses/House Corvenna|House Corvenna]] | High elf | Guild influence, public works and popular sentiment |
+
+## Lesser families
+
+| House | Ancestry | Role in Doro |
+|---|---|---|
+| [[02 Places/Doro/Noble Houses/House Fenmer|House Fenmer]] | Human | Mining claims, tariffs and shipping tolls |
+| [[02 Places/Doro/Noble Houses/House Lythean|House Lythean]] | High elf | Mineral surveys, magical refinement and enchantments |
+| [[02 Places/Doro/Noble Houses/House Daskel|House Daskel]] | Human | Forge districts, smithing and arms production |
+| [[02 Places/Doro/Noble Houses/House Ilirienne|House Ilirienne]] | High elf | Architecture, bards, cultural patronage and propaganda |
+| [[02 Places/Doro/Noble Houses/House Trane|House Trane]] | Human | Internal toll roads and local tariffs |
+| [[02 Places/Doro/Noble Houses/House CallorÃ©|House CallorÃ©]] | High elf | Rare magical components, illegal goods and discreet finance |
+| [[02 Places/Doro/Noble Houses/House Brathen|House Brathen]] | Human | Enforcers, muscle and wartime service |
+| [[02 Places/Doro/Noble Houses/House Yelaveth|House Yelaveth]] | High elf | Coastal settlements, old sea traditions and minor sea temples |
+| [[02 Places/Doro/Noble Houses/House Orswick|House Orswick]] | Human | Perfid borderlands, frontier strongholds and skirmishing |
+| [[02 Places/Doro/Noble Houses/House Nirrell|House Nirrell]] | High elf | Espionage, secrets, blackmail and political exposure |
+
+## Political texture
+
+The Great Houses compete openly through marriage pacts, office-holding, command appointments and public works. The lesser families often decide what those ambitions cost. A campaign in the Maw may need Trenhalde ore, Daskel arms, Aequinth finance, Trane roads, Fenmer tariffs and Bromere officers before a single banner reaches the frontier.
+
+Doro's stability depends on this web functioning. Its cruelty comes from the same source: once enough families benefit from an arrangement, truth and justice become difficult to separate from convenience.
+
+## Related pages
+
+- [[02 Places/Doro/Doro|Doro]]
+- [[01 Welcome to Vaelond/The Powers That Be#Doro|The Powers That Be]]
+- [[01 Welcome to Vaelond/Religion/Doroan Faiths|Doroan Faiths]]
+- [[02 Places/Doro/Ashenhom|Ashenhom]]
+- [[03 People/Player Characters/Ballar Novis|Ballar Novis]]
+- [[03 People/Notable Figures/Ervain Megbanas|Ervain Megbanas]]
+
+
+
+---
+# FILE: C:\Users\ellis\Documents\vaelond-wiki\content\02 Places\Doro\Noble Houses\House Aequinth.md
+---
+
+---
+title: House Aequinth
+type: noble-house
+status: published
+player_facing: true
+aliases:
+  - Aequinth
+tags:
+  - lore
+  - politics
+  - doro
+  - noble-house
+  - great-house
+region: Doro
+rank: Great House
+ancestry: High elf
+updated: 2026-07-05
+---
+
+# House Aequinth
+
+> [!summary] At a glance
+> A high elf great house of Doro known for merchant banking, bonded caravans, alchemy and logistics.
+
+| | |
+|---|---|
+| **Rank** | Great House |
+| **Ancestry** | High elf |
+| **Known for** | Merchant banking, bonded caravans, alchemy and logistics |
+
+## Overview
+
+House Aequinth is a house of mercantile alchemists, financiers and logistical masters.
+
+It controls much of Doro's merchant banking and bonded caravan network. Aequinth prides itself on neutrality in internal disputes, using debts and supply chains to make or break allies and enemies alike.
+
+## Campaign significance
+
+Aequinth's banking and caravan networks make it one of the houses most capable of exerting pressure without appearing to take sides.
+
+## Related pages
+
+- [[02 Places/Doro/Doro|Doro]]
+- [[02 Places/Doro/Doroan Noble Houses|Doroan Noble Houses]]
+- [[01 Welcome to Vaelond/The Powers That Be#Doro|The Powers That Be]]
+
+
+
+---
+# FILE: C:\Users\ellis\Documents\vaelond-wiki\content\02 Places\Doro\Noble Houses\House Brathen.md
+---
+
+---
+title: House Brathen
+type: noble-house
+status: published
+player_facing: true
+aliases:
+  - Brathen
+tags:
+  - lore
+  - politics
+  - doro
+  - noble-house
+  - lesser-family
+region: Doro
+rank: Lesser family
+ancestry: Human
+updated: 2026-07-05
+---
+
+# House Brathen
+
+> [!summary] At a glance
+> A human lesser family of Doro known for enforcement, muscle and wartime service.
+
+| | |
+|---|---|
+| **Rank** | Lesser family |
+| **Ancestry** | Human |
+| **Known for** | Enforcement, muscle and wartime service |
+
+## Overview
+
+House Brathen is lowborn by noble standards, having earned its title through wartime service.
+
+It now acts as enforcers and muscle for more refined houses, turning rough loyalty and violence into political usefulness.
+
+## Related pages
+
+- [[02 Places/Doro/Doro|Doro]]
+- [[02 Places/Doro/Doroan Noble Houses|Doroan Noble Houses]]
+
+
+
+---
+# FILE: C:\Users\ellis\Documents\vaelond-wiki\content\02 Places\Doro\Noble Houses\House Bromere.md
+---
+
+---
+title: House Bromere
+type: noble-house
+status: published
+player_facing: true
+aliases:
+  - Bromere
+tags:
+  - lore
+  - politics
+  - doro
+  - noble-house
+  - great-house
+region: Doro
+rank: Great House
+ancestry: Human
+updated: 2026-07-05
+---
+
+# House Bromere
+
+> [!summary] At a glance
+> A human great house of Doro known for military command, maw skirmishes and capital guard influence.
+
+| | |
+|---|---|
+| **Rank** | Great House |
+| **Ancestry** | Human |
+| **Known for** | Military command, Maw skirmishes and capital guard influence |
+
+## Overview
+
+House Bromere is militaristic, ambitious and widely treated as Doro's sword arm.
+
+Bromere leads more skirmishes across the Maw than any other house. Its prestige is built on military reputation rather than political refinement, but its influence over the capital guard is undeniable.
+
+## Campaign significance
+
+A House Bromere favour coin became part of the trail connecting [[03 People/Notable Deceased/Buggie|Buggie]], the [[04 Organisations/Loyal Crows|Loyal Crows]] and [[03 People/Notable Deceased/Alistair Prusset|Alistair Prusset]]. [[03 People/Notable Figures/Ouin Brond|Ouin Brond]] identified the coin, and [[03 People/Notable Figures/Ervain Megbanas|Ervain Megbanas]] had once owned it before losing it to [[03 People/Notable Figures/Eden Carrion|Eden Carrion]] in a dice game.
+
+## Related pages
+
+- [[02 Places/Doro/Doro|Doro]]
+- [[02 Places/Doro/Doroan Noble Houses|Doroan Noble Houses]]
+- [[01 Welcome to Vaelond/The Powers That Be#Doro|The Powers That Be]]
+- [[03 People/Notable Figures/Ervain Megbanas|Ervain Megbanas]]
+- [[04 Organisations/Loyal Crows|Loyal Crows]]
+
+
+
+---
+# FILE: C:\Users\ellis\Documents\vaelond-wiki\content\02 Places\Doro\Noble Houses\House Calloré.md
+---
+
+---
+title: House CallorÃ©
+type: noble-house
+status: published
+player_facing: true
+aliases:
+  - CallorÃ©
+tags:
+  - lore
+  - politics
+  - doro
+  - noble-house
+  - lesser-family
+region: Doro
+rank: Lesser family
+ancestry: High elf
+updated: 2026-07-05
+---
+
+# House CallorÃ©
+
+> [!summary] At a glance
+> A high elf lesser family of Doro known for rare magical components, illegal goods and discreet finance.
+
+| | |
+|---|---|
+| **Rank** | Lesser family |
+| **Ancestry** | High elf |
+| **Known for** | Rare magical components, illegal goods and discreet finance |
+
+## Overview
+
+House CallorÃ© is a quiet financial house dealing in rare magical components and illegal goods.
+
+Its wealth is shadowed by rumour, and its relationship with House Seravell remains a tense dÃ©tente: useful, dangerous and mutually watchful.
+
+## Related pages
+
+- [[02 Places/Doro/Doro|Doro]]
+- [[02 Places/Doro/Doroan Noble Houses|Doroan Noble Houses]]
+
+
+
+---
+# FILE: C:\Users\ellis\Documents\vaelond-wiki\content\02 Places\Doro\Noble Houses\House Corvenna.md
+---
+
+---
+title: House Corvenna
+type: noble-house
+status: published
+player_facing: true
+aliases:
+  - Corvenna
+tags:
+  - lore
+  - politics
+  - doro
+  - noble-house
+  - great-house
+region: Doro
+rank: Great House
+ancestry: High elf
+updated: 2026-07-05
+---
+
+# House Corvenna
+
+> [!summary] At a glance
+> A high elf great house of Doro known for guild influence, public works and popular sentiment.
+
+| | |
+|---|---|
+| **Rank** | Great House |
+| **Ancestry** | High elf |
+| **Known for** | Guild influence, public works and popular sentiment |
+
+## Overview
+
+House Corvenna is known for populist leanings and deep influence among the guilds.
+
+It stands between noble power and the working class, manipulating public sentiment, funding major public works and using soft power to undercut rivals. Despite this reach, Corvenna remains heavily dependent on alliances with other Great Houses.
+
+## Campaign significance
+
+Corvenna's guild influence makes it a key house wherever noble politics meets public resentment, labour, infrastructure or propaganda.
+
+## Related pages
+
+- [[02 Places/Doro/Doro|Doro]]
+- [[02 Places/Doro/Doroan Noble Houses|Doroan Noble Houses]]
+- [[01 Welcome to Vaelond/The Powers That Be#Doro|The Powers That Be]]
+
+
+
+---
+# FILE: C:\Users\ellis\Documents\vaelond-wiki\content\02 Places\Doro\Noble Houses\House Daskel.md
+---
+
+---
+title: House Daskel
+type: noble-house
+status: published
+player_facing: true
+aliases:
+  - Daskel
+tags:
+  - lore
+  - politics
+  - doro
+  - noble-house
+  - lesser-family
+region: Doro
+rank: Lesser family
+ancestry: Human
+updated: 2026-07-05
+---
+
+# House Daskel
+
+> [!summary] At a glance
+> A human lesser family of Doro known for arms production, smithing and forge districts.
+
+| | |
+|---|---|
+| **Rank** | Lesser family |
+| **Ancestry** | Human |
+| **Known for** | Arms production, smithing and forge districts |
+
+## Overview
+
+House Daskel is deeply involved in arms production and smithing.
+
+It runs one of the largest forge districts in the capital and frequently aligns with House Bromere for wartime contracts.
+
+## Campaign significance
+
+Daskel's arms production makes the family a natural beneficiary of Doro's continuing conflict in the Maw, especially when aligned with [[02 Places/Doro/Noble Houses/House Bromere|House Bromere]].
+
+## Related pages
+
+- [[02 Places/Doro/Doro|Doro]]
+- [[02 Places/Doro/Doroan Noble Houses|Doroan Noble Houses]]
+
+
+
+---
+# FILE: C:\Users\ellis\Documents\vaelond-wiki\content\02 Places\Doro\Noble Houses\House Fenmer.md
+---
+
+---
+title: House Fenmer
+type: noble-house
+status: published
+player_facing: true
+aliases:
+  - Fenmer
+tags:
+  - lore
+  - politics
+  - doro
+  - noble-house
+  - lesser-family
+region: Doro
+rank: Lesser family
+ancestry: Human
+updated: 2026-07-05
+---
+
+# House Fenmer
+
+> [!summary] At a glance
+> A human lesser family of Doro known for minor mining claims, tariffs and shipping tolls.
+
+| | |
+|---|---|
+| **Rank** | Lesser family |
+| **Ancestry** | Human |
+| **Known for** | Minor mining claims, tariffs and shipping tolls |
+
+## Overview
+
+House Fenmer is shrewd, calculating and economically opportunistic.
+
+Its influence comes from minor mining claims, trade tariffs and shipping tolls. Fenmer often operates as a junior partner to House Trenhalde.
+
+## Related pages
+
+- [[02 Places/Doro/Doro|Doro]]
+- [[02 Places/Doro/Doroan Noble Houses|Doroan Noble Houses]]
+
+
+
+---
+# FILE: C:\Users\ellis\Documents\vaelond-wiki\content\02 Places\Doro\Noble Houses\House Ilirienne.md
+---
+
+---
+title: House Ilirienne
+type: noble-house
+status: published
+player_facing: true
+aliases:
+  - Ilirienne
+tags:
+  - lore
+  - politics
+  - doro
+  - noble-house
+  - lesser-family
+region: Doro
+rank: Lesser family
+ancestry: High elf
+updated: 2026-07-05
+---
+
+# House Ilirienne
+
+> [!summary] At a glance
+> A high elf lesser family of Doro known for architecture, bards, cultural patronage and propaganda art.
+
+| | |
+|---|---|
+| **Rank** | Lesser family |
+| **Ancestry** | High elf |
+| **Known for** | Architecture, bards, cultural patronage and propaganda art |
+
+## Overview
+
+House Ilirienne is a family of aesthetic idealists, cultural patrons and careful image-makers.
+
+It produces architects, bards and propaganda artists, shaping public taste and history to exert influence that often looks like beauty until it becomes policy.
+
+## Related pages
+
+- [[02 Places/Doro/Doro|Doro]]
+- [[02 Places/Doro/Doroan Noble Houses|Doroan Noble Houses]]
+
+
+
+---
+# FILE: C:\Users\ellis\Documents\vaelond-wiki\content\02 Places\Doro\Noble Houses\House Lythean.md
+---
+
+---
+title: House Lythean
+type: noble-house
+status: published
+player_facing: true
+aliases:
+  - Lythean
+tags:
+  - lore
+  - politics
+  - doro
+  - noble-house
+  - lesser-family
+region: Doro
+rank: Lesser family
+ancestry: High elf
+updated: 2026-07-05
+---
+
+# House Lythean
+
+> [!summary] At a glance
+> A high elf lesser family of Doro known for mineralogical survey, magical refinement and mining enchantments.
+
+| | |
+|---|---|
+| **Rank** | Lesser family |
+| **Ancestry** | High elf |
+| **Known for** | Mineralogical survey, magical refinement and mining enchantments |
+
+## Overview
+
+House Lythean is scholarly, aloof and more comfortable with mineral lore than ordinary politics.
+
+It specialises in mineralogical survey and magical refinement, providing prized enchantments for mining and warfare while openly disdaining mundane political games.
+
+## Related pages
+
+- [[02 Places/Doro/Doro|Doro]]
+- [[02 Places/Doro/Doroan Noble Houses|Doroan Noble Houses]]
+
+
+
+---
+# FILE: C:\Users\ellis\Documents\vaelond-wiki\content\02 Places\Doro\Noble Houses\House Nirrell.md
+---
+
+---
+title: House Nirrell
+type: noble-house
+status: published
+player_facing: true
+aliases:
+  - Nirrell
+  - House Nirell
+  - Nirell
+tags:
+  - lore
+  - politics
+  - doro
+  - noble-house
+  - lesser-family
+region: Doro
+rank: Lesser family
+ancestry: High elf
+updated: 2026-07-05
+---
+
+# House Nirrell
+
+> [!summary] At a glance
+> A high elf lesser family of Doro known for espionage, secrets, blackmail and exposure of rivals.
+
+| | |
+|---|---|
+| **Rank** | Lesser family |
+| **Ancestry** | High elf |
+| **Known for** | Espionage, secrets, blackmail and exposure of rivals |
+
+## Overview
+
+House Nirrell is steeped in espionage, secrets and hidden influence.
+
+It maintains a powerful but concealed hand in capital politics, blackmailing or exposing rivals when it suits the family's interests.
+
+## Campaign significance
+
+[[03 People/Player Characters/Ballar Novis|Ballar Novis]] is a third son of House Nirrell. His place within the family is shaped by noble status without a clear inheritance, leaving him with privilege, expectation and uncertainty rather than an obvious dynastic future.
+
+House Nirrell's reputation for espionage and secrets also places it close to wider questions around Doroan power, the Old Grey Pike and the unresolved truth behind [[02 Places/Doro/Ashenhom|Ashenhom]].
+
+## Related pages
+
+- [[02 Places/Doro/Doro|Doro]]
+- [[02 Places/Doro/Doroan Noble Houses|Doroan Noble Houses]]
+- [[03 People/Player Characters/Ballar Novis|Ballar Novis]]
+- [[02 Places/Doro/Ashenhom|Ashenhom]]
+
+
+
+---
+# FILE: C:\Users\ellis\Documents\vaelond-wiki\content\02 Places\Doro\Noble Houses\House Orswick.md
+---
+
+---
+title: House Orswick
+type: noble-house
+status: published
+player_facing: true
+aliases:
+  - Orswick
+tags:
+  - lore
+  - politics
+  - doro
+  - noble-house
+  - lesser-family
+region: Doro
+rank: Lesser family
+ancestry: Human
+updated: 2026-07-05
+---
+
+# House Orswick
+
+> [!summary] At a glance
+> A human lesser family of Doro known for perfid borderlands, frontier strongholds and skirmishing.
+
+| | |
+|---|---|
+| **Rank** | Lesser family |
+| **Ancestry** | Human |
+| **Known for** | Perfid borderlands, frontier strongholds and skirmishing |
+
+## Overview
+
+House Orswick is a rustic house with strongholds in the borderlands near Perfid.
+
+It often skirmishes on the frontier, hoping that a major victory will elevate its standing within Doro.
+
+## Campaign significance
+
+Orswick's borderland position makes it a useful reference point for Doro's continuing conflict with Perfid and the politics of the Spear and the Maw.
+
+## Related pages
+
+- [[02 Places/Doro/Doro|Doro]]
+- [[02 Places/Doro/Doroan Noble Houses|Doroan Noble Houses]]
+
+
+
+---
+# FILE: C:\Users\ellis\Documents\vaelond-wiki\content\02 Places\Doro\Noble Houses\House Seravell.md
+---
+
+---
+title: House Seravell
+type: noble-house
+status: published
+player_facing: true
+aliases:
+  - Seravell
+tags:
+  - lore
+  - politics
+  - doro
+  - noble-house
+  - great-house
+region: Doro
+rank: Great House
+ancestry: High elf
+updated: 2026-07-05
+---
+
+# House Seravell
+
+> [!summary] At a glance
+> A high elf great house of Doro known for arcane licensing, magical resources and morality taxes.
+
+| | |
+|---|---|
+| **Rank** | Great House |
+| **Ancestry** | High elf |
+| **Known for** | Arcane licensing, magical resources and morality taxes |
+
+## Overview
+
+House Seravell is elitist, enigmatic and convinced of its spiritual and arcane superiority.
+
+It oversees arcane licensing, magical resource extraction and morality taxes. Seravell often clashes with House Valmyrion and carries a reputation for engineering conflicts with Perfid when those conflicts serve its interests.
+
+## Campaign significance
+
+Seravell's control over arcane licensing and magical resource extraction makes the house an obvious Doroan pressure point wherever magic, war and state authority overlap.
+
+## Related pages
+
+- [[02 Places/Doro/Doro|Doro]]
+- [[02 Places/Doro/Doroan Noble Houses|Doroan Noble Houses]]
+- [[01 Welcome to Vaelond/The Powers That Be#Doro|The Powers That Be]]
+
+
+
+---
+# FILE: C:\Users\ellis\Documents\vaelond-wiki\content\02 Places\Doro\Noble Houses\House Trane.md
+---
+
+---
+title: House Trane
+type: noble-house
+status: published
+player_facing: true
+aliases:
+  - Trane
+tags:
+  - lore
+  - politics
+  - doro
+  - noble-house
+  - lesser-family
+region: Doro
+rank: Lesser family
+ancestry: Human
+updated: 2026-07-05
+---
+
+# House Trane
+
+> [!summary] At a glance
+> A human lesser family of Doro known for internal toll roads and local tariffs.
+
+| | |
+|---|---|
+| **Rank** | Lesser family |
+| **Ancestry** | Human |
+| **Known for** | Internal toll roads and local tariffs |
+
+## Overview
+
+House Trane rose from traders into tax-collectors and road administrators.
+
+It oversees internal toll roads and local tariffs. Trane is often resented, but too essential to ignore.
+
+## Related pages
+
+- [[02 Places/Doro/Doro|Doro]]
+- [[02 Places/Doro/Doroan Noble Houses|Doroan Noble Houses]]
+
+
+
+---
+# FILE: C:\Users\ellis\Documents\vaelond-wiki\content\02 Places\Doro\Noble Houses\House Trenhalde.md
+---
+
+---
+title: House Trenhalde
+type: noble-house
+status: published
+player_facing: true
+aliases:
+  - Trenhalde
+tags:
+  - lore
+  - politics
+  - doro
+  - noble-house
+  - great-house
+region: Doro
+rank: Great House
+ancestry: Human
+updated: 2026-07-05
+---
+
+# House Trenhalde
+
+> [!summary] At a glance
+> A human great house of Doro known for mining, shipping and campaign supply.
+
+| | |
+|---|---|
+| **Rank** | Great House |
+| **Ancestry** | Human |
+| **Known for** | Mining, shipping and campaign supply |
+
+## Overview
+
+House Trenhalde is pragmatic, industrious and immensely wealthy, with power rooted in western mining infrastructure and shipping operations.
+
+Its prestige rises and falls with ore exports. Trenhalde frequently backs war leaders in the Maw, supplying entire campaigns in exchange for land claims and future leverage.
+
+## Campaign significance
+
+Trenhalde's ability to supply campaigns in the Maw makes it one of the houses most capable of shaping military decisions without personally commanding the battlefield.
+
+## Related pages
+
+- [[02 Places/Doro/Doro|Doro]]
+- [[02 Places/Doro/Doroan Noble Houses|Doroan Noble Houses]]
+- [[01 Welcome to Vaelond/The Powers That Be#Doro|The Powers That Be]]
+
+
+
+---
+# FILE: C:\Users\ellis\Documents\vaelond-wiki\content\02 Places\Doro\Noble Houses\House Valmyrion.md
+---
+
+---
+title: House Valmyrion
+type: noble-house
+status: published
+player_facing: true
+aliases:
+  - Valmyrion
+tags:
+  - lore
+  - politics
+  - doro
+  - noble-house
+  - great-house
+region: Doro
+rank: Great House
+ancestry: High elf
+updated: 2026-07-05
+---
+
+# House Valmyrion
+
+> [!summary] At a glance
+> A high elf great house of Doro known for taxation, diplomacy and foreign trade pacts.
+
+| | |
+|---|---|
+| **Rank** | Great House |
+| **Ancestry** | High elf |
+| **Known for** | Taxation, diplomacy and foreign trade pacts |
+
+## Overview
+
+House Valmyrion is the longest established of Doro's six Great Houses, tracing its lineage to pre-Doro highborns and serving as the traditionalist backbone of the capital.
+
+Valmyrion is known for diplomacy and manipulation. It dominates the taxation bureaucracy and foreign trade pacts, and while it rarely fields military leaders directly, it often helps decide who receives command and when.
+
+## Campaign significance
+
+Valmyrion's hold over taxation and foreign trade pacts makes it central to Doro's relationships with Somnolent, Minir, Perfid and Rakara's trade routes.
+
+## Related pages
+
+- [[02 Places/Doro/Doro|Doro]]
+- [[02 Places/Doro/Doroan Noble Houses|Doroan Noble Houses]]
+- [[01 Welcome to Vaelond/The Powers That Be#Doro|The Powers That Be]]
+
+
+
+---
+# FILE: C:\Users\ellis\Documents\vaelond-wiki\content\02 Places\Doro\Noble Houses\House Yelaveth.md
+---
+
+---
+title: House Yelaveth
+type: noble-house
+status: published
+player_facing: true
+aliases:
+  - Yelaveth
+tags:
+  - lore
+  - politics
+  - doro
+  - noble-house
+  - lesser-family
+region: Doro
+rank: Lesser family
+ancestry: High elf
+updated: 2026-07-05
+---
+
+# House Yelaveth
+
+> [!summary] At a glance
+> A high elf lesser family of Doro known for coastal settlements, sea temples and old coastal traditions.
+
+| | |
+|---|---|
+| **Rank** | Lesser family |
+| **Ancestry** | High elf |
+| **Known for** | Coastal settlements, sea temples and old coastal traditions |
+
+## Overview
+
+House Yelaveth is dedicated to old coastal traditions and minor sea temples.
+
+Its influence is limited inland, but it commands respect among coastal settlements where Doroan power meets tide, trade and older rites.
+
+## Related pages
+
+- [[02 Places/Doro/Doro|Doro]]
+- [[02 Places/Doro/Doroan Noble Houses|Doroan Noble Houses]]
 
 
 
@@ -941,7 +1971,7 @@ region: Rakara
 clan: Khaali
 leader: Sifaya Flameborn
 source_date: 2025-07-05
-updated: 2026-07-01
+updated: 2026-07-05
 ---
 
 # Clan Khaali
@@ -976,7 +2006,7 @@ Khaali buildings are painted in rich reds, oranges and deep blacks. Music and da
 
 The Khaalites carry colour in their dress, boldness in their speech and spectacle into their rituals. Every harvest becomes a celebration and every decision a performance. Beneath that pageantry lies formidable force: Khaali maintains the largest circle of trained pyromancers in Rakara.
 
-The clan's faith is particularly associated with [[Rakaran Faiths#Ashka the Ember-Dancer|Ashka the Ember-Dancer]] and [[Rakaran Faiths#Virei the Shattered Mask|Virei the Shattered Mask]].
+The clan's faith is particularly associated with [[Rakaran Faiths#Ashka the Ember-Dancer|Ashka the Ember-Dancer]] and [[Rakaran Faiths#Verei the Shattered Mask|Verei the Shattered Mask]].
 
 ## Trade and tensions
 
@@ -1021,7 +2051,7 @@ region: Rakara
 clan: Orvak
 leader: Balka
 source_date: 2025-07-04
-updated: 2026-07-01
+updated: 2026-07-05
 ---
 
 # Clan Orvak
@@ -1063,7 +2093,7 @@ Despite its isolation, Orvak is the most racially and culturally diverse of the 
 
 ## Known campaign site
 
-[[02 Places/Rakara/Rana Viam|Rana Viam]], an Ardynian Chronarch ruin explored by the Defracturers, lies in the Orvak forest. The party recovered the Bands of Distortion there after defeating a stone golem.
+[[02 Places/Rakara/Rana Viam|Rana Viam]], an Ardynian Chronarch ruin explored by the Defracturers, lies in Orvak near the outskirts where Orvak borders [[02 Places/Rakara/Clans/Clan Voruun|Voruun]] territory. It is about half a day by horse from [[02 Places/Rakara/Hushvale|Hushvale]] and about two to three days by horse from [[02 Places/Rakara/Somnolent/Somnolent|Somnolent]]. The party recovered the Bands of Distortion there after defeating a stone golem.
 ## Trade and tensions
 
 Orvak shares a long and tense border with Doro:
@@ -1081,6 +2111,7 @@ Within Rakara, the other clans tend to regard Orvak as reliable but frustrating.
 
 - [[Rakara's Regions and Clans#Clan Orvak]]
 - [[Rakara]]
+- [[02 Places/Rakara/Hushvale|Hushvale]]
 - [[Rakaran Faiths]]
 - [[Rootbound]]
 - [[Clan Erzhin]]
@@ -1202,7 +2233,7 @@ region: Rakara
 clan: Voruun
 leader: Relka of the Chain-Eye
 source_date: 2025-07-07
-updated: 2026-07-01
+updated: 2026-07-08
 ---
 
 # Clan Voruun
@@ -1211,6 +2242,7 @@ updated: 2026-07-01
 |---|---|
 | **Region** | Central Rakara |
 | **Leader** | Relka of the Chain-Eye |
+| **Capital** | [[02 Places/Rakara/Voruun/Dazuun|Dazuun]] |
 | **Key routes** | Salt Spine and Trade Horizon |
 | **Known for** | Trade, infrastructure, social mobility, fighting pits and controlled aggression |
 
@@ -1221,7 +2253,7 @@ updated: 2026-07-01
 The sigil of Clan Voruun bears a **silver serpent passing through a broken chain on a dark bronze shield**, backed by an angular sunburst. It presents liberation and progress, although critics see opportunism and unchecked ambition.
 
 - **Serpent:** cleverness, patience and deadly precision.
-- **Broken chain:** strength through liberationâ€”and rejection of unity or tradition when convenient.
+- **Broken chain:** strength through liberationÃ¢â‚¬â€and rejection of unity or tradition when convenient.
 - **Sunburst:** innovation and a dawning era, with a sharpness that can resemble self-righteous ambition.
 
 ## Background
@@ -1230,7 +2262,7 @@ Clan Voruun is the dominant force in central Rakara, controlling the **Salt Spin
 
 Under **Relka of the Chain-Eye**, the clan has become a force of opportunists, modernisers and masters of controlled aggression. Relka is a strategist, populist and tactician with no illusions about power. She rose from pit-fighter to general and then ruler, not merely through force but by making herself indispensable.
 
-Voruun claims to represent a new Rakara built on infrastructure, diplomacy and enlightened government. Since Anthea's death, it has publicly declared itself the rightful successor to her project. Only Khaali openly supports this claim. Its cities expand, its envoys travel widely and scholars write decrees beside mercenaries. Beneath that polish remains the heart of a war-clan. The fighting pits of **Dazuun** still determine advancement, honour still demands blood and council seats may be earned through cunning or brute force.
+Voruun claims to represent a new Rakara built on infrastructure, diplomacy and enlightened government. Since Anthea's death, it has publicly declared itself the rightful successor to her project. Only Khaali openly supports this claim. Its cities expand, its envoys travel widely and scholars write decrees beside mercenaries. Beneath that polish remains the heart of a war-clan. The fighting pits of [[02 Places/Rakara/Voruun/Dazuun|Dazuun]], Voruun's capital, still determine advancement, honour and reputation. Council seats may be earned through cunning or brute force.
 
 ## People and culture
 
@@ -1253,8 +2285,13 @@ Control of the Salt Spine and Trade Horizon gives Voruun enormous leverage. The 
 
 Voruun casts a long and hungry shadow. It leads Rakara in wealth, movement and centrality, but aggression has left it with few true friends. Relka balances the need for unity against the temptation to force submission from those who will not cooperate.
 
+## Current campaign significance
+
+After Session 21, the Defracturers learned that [[03 People/Mentioned Figures/Rhul Slowdrift|Rhul Slowdrift]] has taken control of Dazuun's fighting pits as part of a [[04 Organisations/Broken Fang|Broken Fang]] operation. [[03 People/Notable Deceased/Ulsar Quinn|Ulsar Quinn]] also claimed that pit contestants are being supplied with [[06 Library/Campaign Reference/Dragon's Dandruff|Dragon's Dandruff]], a stimulant produced by three Khaali alchemists from a lab south of Somnolent.
+
 ## Related pages
 
+- [[02 Places/Rakara/Voruun/Dazuun|Dazuun]]
 - [[Rakara's Regions and Clans#Clan Voruun]]
 - [[Rakara's Regions and Clans#Somnolent|Somnolent]]
 - [[Rakara]]
@@ -1282,48 +2319,67 @@ tags:
 region: Rakara
 territory: Clan Orvak
 current_status: not yet visited
-source: Sessions 17, 19 and 20
-updated: 2026-07-03
+source: Sessions 17, 19, 20 and 21
+updated: 2026-07-08
 ---
 
 # Hushvale
 
 > [!summary] At a glance
-> An Orvaki settlement that the Defracturers intended to reach after exploring Rana Viam. The party has not yet arrived, and little reliable information about the community has entered the campaign record.
+> An Orvaki settlement half a day's ride from [[02 Places/Rakara/Rana Viam|Rana Viam]]. The Defracturers have not yet arrived, but their current understanding is that Hushvale is unusually closed, unwelcoming to outsiders and not fully in keeping with ordinary Orvaki culture.
 
 | | |
 |---|---|
 | **Region** | Rakara |
 | **Territory** | [[02 Places/Rakara/Clans/Clan Orvak|Clan Orvak]] |
+| **Distance from Rana Viam** | About half a day by horse |
 | **Party status** | Intended destination |
 | **Known prospective resident** | [[03 People/Notable Figures/Mireya Dinak|Mireya Dinak]] |
 
-## What the party knows
+## Current understanding
 
-Mireya and her husband were travelling towards Hushvale with plans to establish a gambling hall there. Their journey ended in an ogre attack that killed Mireya's husband and destroyed their cart.
+Hushvale lies in Orvak, close enough to [[02 Places/Rakara/Rana Viam|Rana Viam]] that the Defracturers expected to reach it after leaving the ruin.
 
-After the Defracturers rescued Mireya, she travelled with them to [[02 Places/Rakara/Rana Viam|Rana Viam]] and looked after their horses while they entered the ruin.
+The party's current understanding of Hushvale is limited but consistent: it is known as an unwelcoming settlement, especially towards outsiders, and its guarded character does not sit comfortably with what the party understands of ordinary Orvaki culture.
 
-Following the recovery of the [[06 Library/Relics and Artefacts/Bands of Distortion|Bands of Distortion]], the party planned to leave Rana Viam and continue to Hushvale. That journey was interrupted when Broken Fang scouts confronted them and revealed that [[03 People/Notable Figures/Ulsar Quinn|Ulsar Quinn]] had taken their horses.
+[[03 People/Player Characters/Ieuan|Ieuan]] may have passed through Hushvale previously, but the settlement has not yet been explored during the campaign.
+
+## Mireya's journey
+
+[[03 People/Notable Figures/Mireya Dinak|Mireya Dinak]] and her husband were travelling towards Hushvale with plans to establish a gambling hall there. Their journey ended in an ogre attack that killed Mireya's husband and destroyed their cart.
+
+After the Defracturers rescued Mireya, she travelled with them to Rana Viam and looked after their horses while they entered the ruin.
+
+Following the recovery of the [[06 Library/Relics and Artefacts/Bands of Distortion|Bands of Distortion]], the party planned to leave Rana Viam and continue to Hushvale. That journey was interrupted when Broken Fang scouts confronted them and revealed that [[03 People/Notable Deceased/Ulsar Quinn|Ulsar Quinn]] had taken their horses.
+
+The resulting confrontation at Ulsar's camp ended with the camp destroyed and Mireya killed in the fire. Ballar later found her burned body and cast **Gentle Repose**, preserving what remained for possible resurrection.
 
 ## Current significance
 
-Hushvale remains the party's intended destination once the immediate Broken Fang crisis is resolved.
+Hushvale remains the party's intended destination after the destruction of Ulsar's camp, but Mireya's condition now complicates the journey.
 
-No session record has yet established the settlement's leadership, size, principal buildings, defences or attitude towards outsiders.
+Its significance currently rests on four threads:
+
+- it is the nearest known settlement to Rana Viam;
+- Mireya's interrupted plan was tied to the town, but her body is now preserved after the Broken Fang camp battle;
+- the settlement's reputation suggests something is wrong or unusual beneath the surface;
+- the Broken Fang's activity near Rana Viam may affect the party's approach.
 
 > [!question] Unresolved
-> - Why did Mireya and her husband choose Hushvale for their gambling hall?
+> - Why is Hushvale so unwelcoming to outsiders?
+> - What makes the settlement feel out of step with ordinary Orvaki culture?
 > - Who governs the settlement?
+> - Why did Mireya and her husband choose Hushvale for their gambling hall?
 > - What reception will the Defracturers receive?
 > - Has news of the Broken Fang reached Hushvale?
-> - Will Mireya continue with her original plan after her husband's death?
+> - Can Mireya be restored, and would she still continue with her original plan?
 
 ## Campaign references
 
 - [[05 Campaign Chronicle/Session 17 - Shrieks, Widows and Time Juice|Session 17]]
 - [[05 Campaign Chronicle/Session 19 - Bands, Broken Stone and the Glass Fang|Session 19]]
 - [[05 Campaign Chronicle/Session 20 - Plague, Pursuit and Plan E|Session 20]]
+- [[05 Campaign Chronicle/Session 21 - Contracts, Command, and a Burning Camp|Session 21]]
 
 ## Related
 
@@ -1432,7 +2488,7 @@ tags:
   - places
   - rakara
 region: Rakara
-updated: 2026-07-02
+updated: 2026-07-05
 ---
 
 # Rakara
@@ -1462,7 +2518,8 @@ Her assassination left the title empty, the union uncertain and every clan watch
 
 - [[02 Places/Rakara/Somnolent/Somnolent|Somnolent]] â€” the fiercely independent crossroads town
 - [[02 Places/Rakara/Somnolent/Emberwake Festival|Emberwake Festival]] â€” Somnolent's celebration of renewal and the assassination that changed it
-- [[02 Places/Rakara/Rana Viam|Rana Viam]] â€” an Ardynian ruin explored in the Erzhin hills
+- [[02 Places/Rakara/Rana Viam|Rana Viam]] â€” an Ardynian ruin in Orvak, near the Voruun border and close to Hushvale
+- [[02 Places/Rakara/Hushvale|Hushvale]] â€” an Orvaki settlement with an unusually closed reputation
 
 ## Organisations
 
@@ -1477,7 +2534,7 @@ Her assassination left the title empty, the union uncertain and every clan watch
 
 ## Campaign chronicle
 
-- [[content/05 Campaign Chronicle/index|index]] â€” the player-facing record of events unfolding across Rakara
+- [[05 Campaign Chronicle/index|index]] â€” the player-facing record of events unfolding across Rakara
 
 
 
@@ -1595,28 +2652,32 @@ tags:
   - campaign
   - orvak
 region: Rakara
-territory: Clan Erzhin
+territory: Clan Orvak
 current_status: partially explored
-source: Sessions 17â€“19
-updated: 2026-07-02
+source: Sessions 17-21
+updated: 2026-07-08
 ---
 
 # Rana Viam
 
 > [!summary] At a glance
-> An Ardynian ruin in the forests of Orvak containing Chronarch mechanisms, a message from Saint Vaelen and the construct that guarded the Bands of Distortion.
+> An Ardynian ruin in Orvak, near the outskirts where Orvak borders Voruun territory, containing Chronarch mechanisms, a message from Saint Vaelen and the construct that guarded the Bands of Distortion.
 
 | | |
 |---|---|
 | **Region** | Rakara |
-| **Territory** | Erzhin hills |
+| **Territory** | Clan Orvak, near the Voruun border |
 | **Known builders or users** | Ardynian Chronarchs |
-| **Explored** | Sessions 17â€“19 |
+| **Distance from Somnolent** | About two to three days by horse |
+| **Distance from Hushvale** | About half a day by horse |
+| **Explored** | Sessions 17Ã¢â‚¬â€œ19 |
 | **Relic recovered** | Bands of Distortion |
 
 ## Approach and entrance
 
-The Defracturers reached Rana Viam while travelling through the Orvak forest towards Hushvale. Evidence within and around the site showed that members of the [[04 Organisations/Broken Fang|Broken Fang]] had previously searched the ruin and died there.
+The Defracturers reached Rana Viam while travelling through Orvak towards Hushvale. The ruin lies towards the outskirts of Orvak, close to the border of [[02 Places/Rakara/Clans/Clan Voruun|Voruun]] territory. It is about two to three days' ride from [[02 Places/Rakara/Somnolent/Somnolent|Somnolent]] and about half a day's ride from [[02 Places/Rakara/Hushvale|Hushvale]].
+
+Evidence within and around the site showed that members of the [[04 Organisations/Broken Fang|Broken Fang]] had previously searched the ruin and died there.
 
 The entrance presented a sequence built around the commands **jump**, **cross** and **run**, establishing the ruin's pattern of testing movement, sacrifice and understanding rather than relying on an ordinary locked door.
 
@@ -1650,6 +2711,7 @@ A sealed Ardynian scroll was also recovered.
 - The Bands of Distortion and their heart stone have been removed.
 - The party left the ruin at the end of Session 19.
 - Broken Fang scouts were waiting outside, beginning the pursuit recorded in Session 20.
+- The pursuit culminated in the destruction of Ulsar Quinn's nearby Broken Fang camp in Session 21.
 - It is not clear whether every chamber or function of Rana Viam has been discovered.
 
 > [!question] Unresolved
@@ -1662,16 +2724,71 @@ A sealed Ardynian scroll was also recovered.
 ## Campaign appearances
 
 - [[05 Campaign Chronicle/Session 17 - Shrieks, Widows and Time Juice|Session 17]]
-- [[05 Campaign Chronicle/Session 18 - Frogger, Flames and the Golemâ€™s Toll|Session 18]]
+- [[05 Campaign Chronicle/Session 18 - Frogger, Flames and the Golem's Toll|Session 18]]
 - [[05 Campaign Chronicle/Session 19 - Bands, Broken Stone and the Glass Fang|Session 19]]
+- [[05 Campaign Chronicle/Session 20 - Plague, Pursuit and Plan E|Session 20]]
+- [[05 Campaign Chronicle/Session 21 - Contracts, Command, and a Burning Camp|Session 21]]
 
 ## Related
 
-- [[02 Places/Rakara/Clans/Clan Erzhin|Clan Erzhin]]
+- [[02 Places/Rakara/Clans/Clan Orvak|Clan Orvak]]
+- [[02 Places/Rakara/Clans/Clan Voruun|Clan Voruun]]
+- [[02 Places/Rakara/Hushvale|Hushvale]]
 - [[04 Organisations/Chronarchs|Chronarchs]]
 - [[04 Organisations/Broken Fang|Broken Fang]]
 - [[06 Library/Relics and Artefacts/Bands of Distortion|Bands of Distortion]]
 - [[06 Library/Campaign Reference/Open Threads|Open Threads]]
+
+
+
+---
+# FILE: C:\Users\ellis\Documents\vaelond-wiki\content\02 Places\Rakara\Somnolent\Drowsy Coin.md
+---
+
+---
+title: The Drowsy Coin
+type: location
+status: published
+player_facing: true
+aliases:
+  - Drowsy Coin
+  - The principal travellers' inn
+tags:
+  - places
+  - somnolent
+  - inn
+  - campaign
+region: Rakara
+settlement: Somnolent
+updated: 2026-07-05
+---
+
+# The Drowsy Coin
+
+> [!summary] At a glance
+> Somnolent's principal travellers' inn, run by [[03 People/Notable Figures/Callum Redmayne|Callum Redmayne]] and known for stiff beds, honest stew and stories traded by candlelight.
+
+## Campaign role
+
+The Drowsy Coin has served as one of the Defracturers' main bases in [[02 Places/Rakara/Somnolent/Somnolent|Somnolent]], especially during the early investigation into the Emberwake attack and Anthea Bloodclot's death.
+
+[[03 People/Notable Figures/Elmwood Bluevine|Elmwood Bluevine]] protected the inn with powerful wards during the goblin attack. The inn later became a place where songs about the party spread, where [[03 People/Notable Figures/Ersil Loquella|Ersil Loquella]] performed, and where several personal tensions came to the surface.
+
+## Known events
+
+- [[03 People/Notable Figures/Callum Redmayne|Callum Redmayne]] spoke during the [[02 Places/Rakara/Somnolent/Emberwake Festival|Emberwake Festival]].
+- [[03 People/Notable Figures/Xene Redmayne|Xene Redmayne]] served festival food and drinks there.
+- Enrak celebrated songs about the party at the inn.
+- Ballar rented a suite, while Enrak rented a standard room.
+- The cellar became connected to the discovery of [[06 Library/Relics and Artefacts/Verei's Shattered Mask|Verei's Shattered Mask]].
+
+## Related
+
+- [[02 Places/Rakara/Somnolent/Somnolent|Somnolent]]
+- [[03 People/Notable Figures/Callum Redmayne|Callum Redmayne]]
+- [[03 People/Notable Figures/Xene Redmayne|Xene Redmayne]]
+- [[03 People/Notable Figures/Elmwood Bluevine|Elmwood Bluevine]]
+- [[06 Library/Relics and Artefacts/Verei's Shattered Mask|Verei's Shattered Mask]]
 
 
 
@@ -1805,7 +2922,7 @@ Somnolent began as a simple waystation at the fork of two trade routes. Merchant
 
 Today, Somnolent is a neutral haven surrounded by the territory claimed by [[Clan Voruun]]. It never submitted to Anthea Bloodclot's self-styled authority, even at the height of her influence. **Headman Romayne Drayton** has preserved that autonomy through careful diplomacy and, according to persistent rumours, discreet foreign backing.
 
-At the campaign's outset, permanent foreign embassies represented **Doro**, **Minir** and **Perfid**. Perfid's former embassy has since become [[The Defracturersâ€™ Bastion]], while Doro and Minir retain their missions. Among the Rakaran clans, **Eden Carrion** of Voruun, **Summer Quaresh** of Khaali and **Jericho Beech** of Temir maintain permanent missions. Orvak and Erzhin rely on less formal representatives within the town's druid community: **Mother Joygrove** and **Father Zantos**.
+At the campaign's outset, permanent foreign embassies represented **Doro**, **Minir** and **Perfid**. Perfid's former embassy has since become [[02 Places/Rakara/Somnolent/The Defracturers' Bastion|The Defracturersâ€™ Bastion]], while Doro and Minir retain their missions. Among the Rakaran clans, **Eden Carrion** of Voruun, **Summer Quaresh** of Khaali and **Jericho Beech** of Temir maintain permanent missions. Orvak and Erzhin rely on less formal representatives within the town's druid community: **Mother Joygrove** and **Father Zantos**.
 
 > [!note] A poorly kept secret
 > Doro, Minir and Perfid are known to provide discreet support that helps preserve Somnolent's independence. The fact of that support is widely accepted; the precise arrangements are treated as rumour because no government publicly admits them.
@@ -1860,6 +2977,7 @@ With Anthea Bloodclot assassinated just outside its walls, the town is more visi
 
 ## Related pages
 
+- [[02 Places/Rakara/Somnolent/Drowsy Coin|The Drowsy Coin]]
 - [[Emberwake Festival]]
 - [[Rakara - Background]]
 - [[Rakara's Regions and Clans]]
@@ -1869,7 +2987,7 @@ With Anthea Bloodclot assassinated just outside its walls, the town is more visi
 
 ## Campaign chronicle
 
-- [[content/05 Campaign Chronicle/index]] â€” many of the campaignâ€™s opening events take place in and around Somnolent.
+- [[05 Campaign Chronicle/index]] â€” many of the campaignâ€™s opening events take place in and around Somnolent.
 
 
 
@@ -1924,7 +3042,7 @@ Initial assignments included preparing uniforms and researching the Loyal Crows,
 ## Related
 
 - [[04 Organisations/The Defracturers|The Defracturers]]
-- [[content/03 People/index#Bastion staff|Bastion staff]]
+- [[03 People/index#Bastion staff|Bastion staff]]
 - [[05 Campaign Chronicle/Session 15 - Stewards, Saddles and Shambling Roots|Session 15]]
 - [[05 Campaign Chronicle/Session 16 - Cackles, Corpses and Catastrophe|Session 16]]
 
@@ -2141,6 +3259,71 @@ The threshold leading to Tace Nox may remain accessible to anyone who knows how 
 
 
 ---
+# FILE: C:\Users\ellis\Documents\vaelond-wiki\content\02 Places\Rakara\Voruun\Dazuun.md
+---
+
+---
+title: Dazuun
+type: city
+status: published
+player_facing: true
+aliases:
+  - Capital of Voruun
+  - Fighting Pits of Dazuun
+tags:
+  - places
+  - rakara
+  - voruun
+  - broken-fang
+  - campaign
+region: Rakara
+territory: Clan Voruun
+current_status: Broken Fang influence confirmed
+source: Session 21
+updated: 2026-07-08
+---
+
+# Dazuun
+
+> [!summary] At a glance
+> The capital of [[02 Places/Rakara/Clans/Clan Voruun|Clan Voruun]], known for fighting pits where advancement, honour and reputation are tested, and now linked to Rhul Slowdrift's Broken Fang operation.
+
+## Overview
+
+Dazuun is the capital of Clan Voruun and one of the clearest expressions of Vorunni ambition. It is a city where trade, courtly manoeuvring and ritualised violence sit comfortably beside one another.
+
+The city's fighting pits are central to its reputation. Within Voruun, advancement can be earned through cunning, strength, spectacle and the ability to survive public testing. The pits are not merely entertainment; they are a route to honour, influence and social ascent.
+
+## Fighting pits
+
+The fighting pits of Dazuun are among the best-known institutions in Voruun. They reflect the clan's belief that merit should be proven under pressure, whether in debate, business or bloodshed.
+
+After Session 21, the Defracturers learned that [[03 People/Mentioned Figures/Rhul Slowdrift|Rhul Slowdrift]] has taken control of the pits. Ulsar Quinn claimed that this operation is Rhul's main Rakaran power base.
+
+## Broken Fang influence
+
+According to [[03 People/Notable Deceased/Ulsar Quinn|Ulsar Quinn]], Rhul's Dazuun operation uses [[06 Library/Campaign Reference/Dragon's Dandruff|Dragon's Dandruff]], a potent stimulant produced by three [[02 Places/Rakara/Clans/Clan Khaali|Khaali]] alchemists working from a lab south of [[02 Places/Rakara/Somnolent/Somnolent|Somnolent]].
+
+Ulsar believed that killing Rhul or destroying his Rakaran operation would likely draw [[03 People/Notable Figures/Prodosius|Prodosius]] into the open, because Prodosius's pride would not allow the humiliation to stand.
+
+> [!question] Unresolved
+> - How did Rhul gain control of the fighting pits?
+> - Who within Dazuun is cooperating with the Broken Fang?
+> - How widely is Dragon's Dandruff being used by pit contestants?
+> - Does Clan Voruun know Rhul controls the pits, and if so, does anyone approve?
+> - Would damaging the Dazuun operation truly force Prodosius to respond personally?
+
+## Related
+
+- [[02 Places/Rakara/Clans/Clan Voruun|Clan Voruun]]
+- [[04 Organisations/Broken Fang|Broken Fang]]
+- [[03 People/Mentioned Figures/Rhul Slowdrift|Rhul Slowdrift]]
+- [[03 People/Notable Figures/Prodosius|Prodosius]]
+- [[06 Library/Campaign Reference/Dragon's Dandruff|Dragon's Dandruff]]
+
+
+
+---
 # FILE: C:\Users\ellis\Documents\vaelond-wiki\content\03 People\Bastion Staff\Derrick Lowgins.md
 ---
 
@@ -2176,7 +3359,7 @@ The candidate was interviewed after the Defracturers acquired their Somnolent ba
 
 ## Related
 
-- [[The Defracturersâ€™ Bastion]]
+- [[02 Places/Rakara/Somnolent/The Defracturers' Bastion|The Defracturersâ€™ Bastion]]
 - [[The Defracturers]]
 - [[Terrick Lowgins]]
 
@@ -2218,7 +3401,7 @@ The candidate was interviewed after the Defracturers acquired their Somnolent ba
 
 ## Related
 
-- [[The Defracturersâ€™ Bastion]]
+- [[02 Places/Rakara/Somnolent/The Defracturers' Bastion|The Defracturersâ€™ Bastion]]
 - [[The Defracturers]]
 
 
@@ -2259,7 +3442,7 @@ The candidate was interviewed after the Defracturers acquired their Somnolent ba
 
 ## Related
 
-- [[The Defracturersâ€™ Bastion]]
+- [[02 Places/Rakara/Somnolent/The Defracturers' Bastion|The Defracturersâ€™ Bastion]]
 - [[The Defracturers]]
 - [[Saffron Araffas]]
 
@@ -2301,7 +3484,7 @@ The candidate was interviewed after the Defracturers acquired their Somnolent ba
 
 ## Related
 
-- [[The Defracturersâ€™ Bastion]]
+- [[02 Places/Rakara/Somnolent/The Defracturers' Bastion|The Defracturersâ€™ Bastion]]
 - [[The Defracturers]]
 
 
@@ -2342,7 +3525,7 @@ The candidate was interviewed after the Defracturers acquired their Somnolent ba
 
 ## Related
 
-- [[The Defracturersâ€™ Bastion]]
+- [[02 Places/Rakara/Somnolent/The Defracturers' Bastion|The Defracturersâ€™ Bastion]]
 - [[The Defracturers]]
 
 
@@ -2360,7 +3543,7 @@ tags:
   - index
   - people
   - campaign
-updated: 2026-07-03
+updated: 2026-07-08
 ---
 
 # People
@@ -2398,19 +3581,19 @@ A player-facing index of named figures represented in the campaign records.
 | ![[Gayle Bramble.png\|70]] | [[03 People/Notable Figures/Gayle Bramble|Gayle Bramble]] | Deputy of Somnolent | Active |
 | ![[Xene Redmayne.png\|70]] | [[03 People/Notable Figures/Xene Redmayne|Xene Redmayne]] | Bartender at the Drowsy Coin | Active |
 | ![[Eula.png\|70]] | [[03 People/Notable Figures/Eula|Eula]] | Collector of bodies | Active |
-| ![[Mireya Dinak.png\|70]] | [[03 People/Notable Figures/Mireya Dinak|Mireya Dinak]] | Prospective gambling-hall owner travelling toward Hushvale | Active |
+| ![[Mireya Dinak.png\|70]] | [[03 People/Notable Figures/Mireya Dinak|Mireya Dinak]] | Prospective gambling-hall owner travelling toward Hushvale | Deceased; body preserved |
 | ![[Summer Quaresh.png\|70]] | [[03 People/Notable Figures/Summer Quaresh|Summer Quaresh]] | Khaali liaison and one of Anthea's Crows | Missing |
-| ![[Ulsar Quinn.png\|70]] | [[03 People/Notable Figures/Ulsar Quinn|Ulsar Quinn]] | Broken Fang commander known as the Glass Fang | Unseen; active |
-| â€” | [[03 People/Notable Figures/Prodosius|Prodosius]] | Leader of the Broken Fang | Unseen; active |
-| â€” | [[03 People/Notable Figures/Din|Din]] | Soul bound within Ballar's ring | Active |
+| Ã¢â‚¬â€ | [[03 People/Notable Figures/Prodosius|Prodosius]] | Leader of the Broken Fang | Unseen; active |
+| Ã¢â‚¬â€ | [[03 People/Notable Figures/Din|Din]] | Soul bound within Ballar's ring | Active |
 
 ## Notable deceased
 
 | Portrait | Figure | Known role | Status |
 |---|---|---|---|
-| â€” | [[03 People/Notable Deceased/Anthea Bloodclot|Anthea Bloodclot]] | Self-styled Lord of the Five Clans | Deceased |
+| Ã¢â‚¬â€ | [[03 People/Notable Deceased/Anthea Bloodclot|Anthea Bloodclot]] | Self-styled Lord of the Five Clans | Deceased |
 | ![[Buggie.png\|70]] | [[03 People/Notable Deceased/Buggie|Buggie]] | Displaced warlord and mercenary leader | Deceased |
 | ![[Alistair Prusset.png\|70]] | [[03 People/Notable Deceased/Alistair Prusset|Alistair Prusset]] | Former Perfid ambassador to Somnolent | Deceased |
+| ![[Ulsar Quinn.png\|70]] | [[03 People/Notable Deceased/Ulsar Quinn|Ulsar Quinn]] | Broken Fang commander known as the Glass Fang | Deceased |
 
 ## Bastion staff
 
@@ -2426,13 +3609,13 @@ A player-facing index of named figures represented in the campaign records.
 
 - [[03 People/Mentioned Figures/Orrian Leovyre|Orrian Leovyre]]
 - [[03 People/Mentioned Figures/Tranwyl Bruun|Tranwyl Bruun]]
-- [[03 People/Mentioned Figures/Rhul Slowdrift|Rhul Slowdrift]] â€” named as a high-ranking Broken Fang member; not yet encountered
+- [[03 People/Mentioned Figures/Rhul Slowdrift|Rhul Slowdrift]] - Broken Fang figure linked to Dazuun's fighting pits; not yet encountered
 
 ## Related references
 
 - [[03 People/Player Characters/index|Player characters]]
 - [[04 Organisations/The Defracturers|The Defracturers]]
-- [[02 Places/Rakara/Somnolent/The Defracturers' Bastion|The Defracturersâ€™ Bastion]]
+- [[02 Places/Rakara/Somnolent/The Defracturers' Bastion|The DefracturersÃ¢â‚¬â„¢ Bastion]]
 - [[06 Library/Campaign Reference/Horses|Horses]]
 - [[05 Campaign Chronicle/index|Campaign Chronicle]]
 
@@ -2482,37 +3665,47 @@ tags:
   - npc
   - mentioned
   - broken-fang
-role: High-ranking Broken Fang member
+role: Broken Fang commander connected to the Dazuun fighting pits
 current_status: unknown
 last_known_location: unknown
-source: Campaign notes through Session 20
-updated: 2026-07-02
+source: Campaign notes through Session 21
+updated: 2026-07-08
 ---
 
 # Rhul Slowdrift
 
 > [!summary] At a glance
-> A name connected to the upper ranks of the Broken Fang. Rhul Slowdrift has not been seen or directly encountered by the Defracturers.
+> A high-ranking Broken Fang figure whose main known Rakaran operation is the fighting pits of Dazuun, the capital of Clan Voruun.
 
 ## What is known
 
 - Rhul is a **high-ranking member** of the [[04 Organisations/Broken Fang|Broken Fang]].
-- His name has emerged during the party's investigation of the organisation.
-- He is considered a possible link in the chain leading towards Broken Fang leader **Prodosius**.
+- His name first emerged during the party's investigation of the organisation.
+- He is considered a possible link in the chain leading towards Broken Fang leader [[03 People/Notable Figures/Prodosius|Prodosius]].
+- [[03 People/Notable Deceased/Ulsar Quinn|Ulsar Quinn]] and Rhul despised one another.
+- Rhul's main known Rakaran operation is in [[02 Places/Rakara/Voruun/Dazuun|Dazuun]], the capital of [[02 Places/Rakara/Clans/Clan Voruun|Clan Voruun]], where he has taken control of the city's fighting pits.
+- Ulsar claimed Rhul has three [[02 Places/Rakara/Clans/Clan Khaali|Khaali]] alchemists producing [[06 Library/Campaign Reference/Dragon's Dandruff|Dragon's Dandruff]], a potent stimulant used by pit contestants.
+- The alchemists work from a lab south of [[02 Places/Rakara/Somnolent/Somnolent|Somnolent]].
+- Ulsar suggested that killing Rhul or destroying his Rakaran operation would likely draw Prodosius into the open, because Prodosius's pride would not allow the humiliation to stand.
 
 ## What is not known
 
 - The Defracturers have not met Rhul.
 - His appearance, ancestry and abilities are unknown.
-- His exact title, territory and responsibilities have not been established.
-- His current location and relationship with [[03 People/Notable Figures/Ulsar Quinn|Ulsar Quinn]] are unknown.
-- There is not yet enough evidence to state that he commands all Broken Fang activity in Rakara.
+- His exact title within the Broken Fang has not been established.
+- It is not clear whether Rhul personally oversees the Dazuun pits or controls them through agents.
+- It is not clear whether Clan Voruun knows he controls the pits.
+- It is not clear whether he is based in Dazuun or elsewhere.
+- It is not clear how his rank compared with Ulsar's before Ulsar's death.
 
 ## Related
 
 - [[04 Organisations/Broken Fang|Broken Fang]]
 - [[03 People/Player Characters/n'Dong|n'Dong]]
-- [[03 People/Notable Figures/Ulsar Quinn|Ulsar Quinn]]
+- [[03 People/Notable Deceased/Ulsar Quinn|Ulsar Quinn]]
+- [[03 People/Notable Figures/Prodosius|Prodosius]]
+- [[02 Places/Rakara/Voruun/Dazuun|Dazuun]]
+- [[06 Library/Campaign Reference/Dragon's Dandruff|Dragon's Dandruff]]
 - [[06 Library/Campaign Reference/Open Threads|Open Threads]]
 
 
@@ -2738,6 +3931,77 @@ updated: 2026-07-01
 
 
 ---
+# FILE: C:\Users\ellis\Documents\vaelond-wiki\content\03 People\Notable Deceased\Ulsar Quinn.md
+---
+
+---
+title: 'Ulsar Quinn'
+type: npc
+status: published
+player_facing: true
+aliases:
+  - 'The Glass Fang'
+tags:
+  - people
+  - npc
+  - deceased
+  - campaign
+  - broken-fang
+ancestry: 'Unknown'
+gender: 'Male'
+role: 'Broken Fang commander and one of the Fangs'
+current_status: 'deceased'
+last_known_location: 'Broken Fang camp near Rana Viam'
+source: 'Sessions 19-21'
+updated: 2026-07-08
+---
+
+# Ulsar Quinn
+
+![[Ulsar Quinn.png|260]]
+
+> [!summary] At a glance
+> A Broken Fang commander known as **the Glass Fang**, one of Prodosius's trusted Fangs, tied directly to n'Dong's enslavement and killed when the Defracturers destroyed his camp near Rana Viam.
+
+## Known details
+
+- Ulsar was one of the Broken Fang commanders known as **the Fangs**, trusted advisors and enforcers of [[03 People/Notable Figures/Prodosius|Prodosius]].
+- He once commanded the Broken Fang unit in which [[03 People/Player Characters/n'Dong|n'Dong]] was forced to serve.
+- His command predates n'Dong's disastrous expedition into an Ardynian ruin, transformation and eventual escape.
+- Scouts confronted outside [[02 Places/Rakara/Rana Viam|Rana Viam]] named Ulsar when n'Dong demanded to know who was responsible for taking the party's horses.
+- Ulsar used the sending stone recovered from the dead Broken Fang party in Rana Viam to contact n'Dong directly.
+- During the parley at his camp, Ulsar tried to humiliate n'Dong by casting **Command** and ordering him to grovel.
+- Ulsar demanded either the [[06 Library/Relics and Artefacts/Bands of Distortion|Bands of Distortion]] or the heart stone that tethered them in exchange for Mireya and the party's horses.
+- He claimed that possessing either the Bands or the heart stone would be enough, because a failed attunement to the Bands would return them to the heart stone.
+- He revealed that [[03 People/Mentioned Figures/Rhul Slowdrift|Rhul Slowdrift]] had taken control of the fighting pits in [[02 Places/Rakara/Voruun/Dazuun|Dazuun]], the capital of Voruun.
+- He claimed three [[02 Places/Rakara/Clans/Clan Khaali|Khaali]] alchemists were producing [[06 Library/Campaign Reference/Dragon's Dandruff|Dragon's Dandruff]] for Rhul's pit operation from a lab south of [[02 Places/Rakara/Somnolent/Somnolent|Somnolent]].
+- He believed that killing Rhul or destroying Rhul's Rakaran operation would likely draw Prodosius into the open.
+- Ulsar was brought down during the battle at his camp, and his body was later destroyed by n'Dong's acid as Talan Rook attempted to carry it away.
+
+## Death
+
+The parley with Ulsar collapsed when the party attempted to free the horses and rescue [[03 People/Notable Figures/Mireya Dinak|Mireya Dinak]]. The camp erupted into open battle. Ulsar badly injured Ballar, survived a devastating Chromatic Orb from n'Dong, and was finally dropped by Erelmor's Ray of Sickness.
+
+Talan Rook tried to recover Ulsar's body and flee. n'Dong prevented this with a massive acid attack, destroying Ulsar's corpse and killing Talan as well.
+
+## Campaign appearances
+
+- [[05 Campaign Chronicle/Session 19 - Bands, Broken Stone and the Glass Fang|Session 19]]
+- [[05 Campaign Chronicle/Session 20 - Plague, Pursuit and Plan E|Session 20]]
+- [[05 Campaign Chronicle/Session 21 - Contracts, Command, and a Burning Camp|Session 21]]
+
+## Related
+
+- [[04 Organisations/Broken Fang|Broken Fang]]
+- [[03 People/Player Characters/n'Dong|n'Dong]]
+- [[03 People/Mentioned Figures/Rhul Slowdrift|Rhul Slowdrift]]
+- [[03 People/Notable Figures/Prodosius|Prodosius]]
+- [[06 Library/Relics and Artefacts/Bands of Distortion|Bands of Distortion]]
+- [[02 Places/Rakara/Rana Viam|Rana Viam]]
+
+
+
+---
 # FILE: C:\Users\ellis\Documents\vaelond-wiki\content\03 People\Notable Figures\Alaaric Hammerfall.md
 ---
 
@@ -2791,7 +4055,7 @@ updated: 2026-07-01
 ## Related
 
 - [[Somnolent]]
-- [[The Defracturersâ€™ Bastion]]
+- [[02 Places/Rakara/Somnolent/The Defracturers' Bastion|The Defracturersâ€™ Bastion]]
 - [[Open Threads]]
 
 
@@ -2967,7 +4231,7 @@ role: 'Landlord of the Drowsy Coin'
 current_status: 'alive'
 last_known_location: 'Somnolent'
 source: 'Campaign notes.docx'
-updated: 2026-07-01
+updated: 2026-07-05
 ---
 
 # Callum Redmayne
@@ -2981,7 +4245,7 @@ updated: 2026-07-01
 
 - Spoke at Emberwake.
 - Explained how Elmwood protected the Drowsy Coin during the goblin attack.
-- Asked the party to investigate strange events in his cellar and could not explain how a relic of Virei had reached it.
+- Asked the party to investigate strange events in his cellar and could not explain how a relic of Verei had reached it.
 - Rented a standard room to Enrak and a suite to Ballar.
 
 ## Campaign appearances
@@ -3185,7 +4449,7 @@ updated: 2026-07-01
 
 - [[Chronarchs]]
 - [[Broken Fang]]
-- [[The Defracturersâ€™ Bastion]]
+- [[02 Places/Rakara/Somnolent/The Defracturers' Bastion|The Defracturersâ€™ Bastion]]
 
 
 
@@ -3265,7 +4529,7 @@ role: 'The Old Grey Pike'
 current_status: 'alive'
 last_known_location: 'Somnolent'
 source: 'Campaign notes.docx'
-updated: 2026-07-01
+updated: 2026-07-05
 ---
 
 # Ervain Megbanas
@@ -3273,14 +4537,23 @@ updated: 2026-07-01
 ![[Ervain Megbanas.png|260]]
 
 > [!summary] At a glance
-> A disgraced former Doro general, gambler and possible link to the destruction of Erelmorâ€™s family.
+> A disgraced former Doro general, gambler and possible link to the destruction of Erelmor's family at [[02 Places/Doro/Ashenhom|Ashenhom]].
 
 ## Known details
 
 - Formerly commanded Doro forces in the Maw.
-- May be connected to the murder of Erelmorâ€™s family.
+- Is known as **the Old Grey Pike**.
+- [[02 Places/Doro/Ashenhom|Ashenhom]] was razed by Doroan forces as an example after being accused of harbouring Perfid spies.
+- The fallout from Ashenhom led to Ervain being removed from active duty in disgrace.
+- His true role in the destruction of Ashenhom and the deaths of Erelmor's family remains unresolved.
 - Dislikes Ballar and enjoys high-stakes dice.
-- Once owned the House Bromere favour coin later used to pay Buggie, but lost it to Eden Carrion during a dice game.
+- Once owned the [[02 Places/Doro/Noble Houses/House Bromere|House Bromere]] favour coin later used to pay Buggie, but lost it to Eden Carrion during a dice game.
+
+## Ashenhom
+
+[[02 Places/Doro/Ashenhom|Ashenhom]] sits at the centre of Ervain's unresolved significance. The settlement was destroyed by Doroan forces after being accused of harbouring Perfid spies, with the razing used as an example to others.
+
+The political and military fallout ended Ervain's active command. That disgrace does not yet explain what truly happened at Ashenhom, why the accusation was made, or how directly Ervain was involved in the deaths of [[03 People/Player Characters/Erelmor|Erelmor's]] wife and children.
 
 ## Campaign appearances
 
@@ -3293,9 +4566,13 @@ updated: 2026-07-01
 
 ## Related
 
-- [[The Powers That Be]]
+- [[01 Welcome to Vaelond/The Powers That Be#Doro|The Powers That Be: Doro]]
+- [[02 Places/Doro/Doro|Doro]]
+- [[02 Places/Doro/Ashenhom|Ashenhom]]
+- [[02 Places/Doro/Noble Houses/House Bromere|House Bromere]]
 - [[Eden Carrion]]
-- [[Open Threads]]
+- [[03 People/Player Characters/Erelmor|Erelmor]]
+- [[06 Library/Campaign Reference/Open Threads|Open Threads]]
 
 
 
@@ -3320,7 +4597,7 @@ role: 'Collector of bodies'
 current_status: 'unknown'
 last_known_location: 'Unknown'
 source: 'Campaign notes.docx'
-updated: 2026-07-01
+updated: 2026-07-08
 ---
 
 # Eula
@@ -3328,23 +4605,38 @@ updated: 2026-07-01
 ![[Eula.png|260]]
 
 > [!summary] At a glance
-> A mysterious magical broker who pays marked coin for corpses and arrives when killings occur nearby.
+> A mysterious magical broker who pays marked coin for corpses and is alerted when someone is killed in the presence of one of her coins.
 
 ## Known details
 
 - Collects bodies and pays well for them.
-- Her marked coins alert her when a killing occurs nearby.
+- Her marked coins alert her when someone is killed in the presence of one of the coins.
 - Uses teleportation magic and has offered the party repeat business.
 - Her ultimate purpose for the bodies remains unknown.
+
+## Marked coins
+
+Eula's reddish marked coins are not ordinary currency. The party established during the ogre encounter that she is alerted when someone is killed in the presence of one of the coins. Erelmor also tested a coin on an already dead body, which did not immediately summon her.
+
+The exact range and limitations of this magic remain unresolved.
+
+## Session 21
+
+Eula appeared again after Salla's corpse had been infested with a cutting of [[06 Library/Campaign Reference/Plague|Plague]]. She seemed genuinely delighted by the grotesque result and asked whether it had been Erelmor's doing.
+
+Ballar sent a rat to harass her, which repeatedly tried to bite her before she finally burned it with bonfire magic. Eula then claimed Salla's plague-ridden body and vanished. As she disappeared, the forest seemed to release a long and pained howl.
 
 ## Campaign appearances
 
 - [[Session 16 - Cackles, Corpses and Catastrophe]]
 - [[Session 17 - Shrieks, Widows and Time Juice]]
+- [[Session 21 - Contracts, Command, and a Burning Camp]]
 
 ## Related
 
+- [[06 Library/Relics and Artefacts/Eula's Red Coins|Eula's Red Coins]]
 - [[Open Threads]]
+- [[06 Library/Campaign Reference/Plague|Plague]]
 
 
 
@@ -3473,10 +4765,10 @@ tags:
 ancestry: 'Wood elf'
 gender: 'Female'
 role: 'Prospective gambling-hall owner and horse keeper'
-current_status: 'alive'
-last_known_location: 'Near Rana Viam'
-source: 'Campaign notes.docx'
-updated: 2026-07-01
+current_status: 'deceased; body preserved'
+last_known_location: 'Broken Fang camp near Rana Viam'
+source: 'Campaign notes and Sessions 17-21'
+updated: 2026-07-08
 ---
 
 # Mireya Dinak
@@ -3484,23 +4776,32 @@ updated: 2026-07-01
 ![[Mireya Dinak.png|260]]
 
 > [!summary] At a glance
-> An Erzhini traveller rescued from ogres who agreed to watch the Defracturersâ€™ horses while they explored Rana Viam.
+> An Erzhini traveller rescued from ogres who agreed to watch the Defracturers' horses, was captured by Ulsar Quinn, and whose burned body was preserved by Ballar for possible resurrection.
 
 ## Known details
 
 - Was rescued from ogres by the party; her husband was killed in the attack.
-- Her late husband had planned to establish a gambling hall in Hushvale.
-- Comes from Clan Erzhin.
-- Agreed to care for the Defracturersâ€™ horses during the Rana Viam expedition.
+- Her late husband had planned to establish a gambling hall in [[02 Places/Rakara/Hushvale|Hushvale]].
+- Comes from [[02 Places/Rakara/Clans/Clan Erzhin|Clan Erzhin]].
+- Agreed to care for the Defracturers' horses during the Rana Viam expedition.
+- Was captured by [[03 People/Notable Deceased/Ulsar Quinn|Ulsar Quinn]] when the Broken Fang took the horses.
+- Was bound inside Ulsar's tent during the parley at the Broken Fang camp.
+- Tried to create a distraction after n'Dong contacted her through the sending stone, but was injured and unable to do much more than kick over a brazier and whimper.
+- Ulsar knocked her unconscious after noticing the brazier.
+- She was killed when Enrak's Fireball and the burning tent consumed the camp.
+- Ballar later found her burned body and cast **Gentle Repose**, preserving what remained and buying the party time to bring her back.
 
 ## Campaign appearances
 
-- [[Session 17 - Shrieks, Widows and Time Juice]]
+- [[05 Campaign Chronicle/Session 17 - Shrieks, Widows and Time Juice|Session 17]]
+- [[05 Campaign Chronicle/Session 21 - Contracts, Command, and a Burning Camp|Session 21]]
 
 ## Related
 
-- [[Clan Erzhin]]
-- [[Horses]]
+- [[02 Places/Rakara/Clans/Clan Erzhin|Clan Erzhin]]
+- [[02 Places/Rakara/Hushvale|Hushvale]]
+- [[06 Library/Campaign Reference/Horses|Horses]]
+- [[03 People/Notable Deceased/Ulsar Quinn|Ulsar Quinn]]
 
 
 
@@ -3526,7 +4827,7 @@ role: 'Doro ambassador to Somnolent'
 current_status: 'alive'
 last_known_location: 'Somnolent'
 source: 'Campaign notes.docx'
-updated: 2026-07-01
+updated: 2026-07-05
 ---
 
 # Ouin Brond
@@ -3534,7 +4835,7 @@ updated: 2026-07-01
 ![[Ouin Brond.png|260]]
 
 > [!summary] At a glance
-> Doroâ€™s ambassador in Somnolent and Ballarâ€™s politically astute superior and adviser.
+> Doro's ambassador in Somnolent and Ballar's politically astute superior and adviser.
 
 ## Known details
 
@@ -3554,7 +4855,9 @@ updated: 2026-07-01
 
 ## Related
 
-- [[The Powers That Be]]
+- [[01 Welcome to Vaelond/The Powers That Be#Doro|The Powers That Be: Doro]]
+- [[02 Places/Doro/Doro|Doro]]
+- [[02 Places/Doro/Doroan Noble Houses|Doroan Noble Houses]]
 - [[Broken Fang]]
 - [[Ervain Megbanas]]
 
@@ -3579,8 +4882,8 @@ ancestry: Bugbear
 role: Leader of the Broken Fang
 current_status: active
 last_known_location: Unknown
-source: Sessions 3 and 7
-updated: 2026-07-03
+source: Sessions 3, 7 and 21
+updated: 2026-07-08
 ---
 
 # Prodosius
@@ -3595,38 +4898,41 @@ updated: 2026-07-03
 - Buggie said that his displaced tribe had fled Minir to escape the Broken Fang and knew Prodosius as a dangerous figure.
 - The Broken Fang was already expanding from the Miniri borderlands towards [[02 Places/Rakara/Clans/Clan Erzhin|Clan Erzhin]] when the Defracturers first learned Prodosius's name.
 - During a vision caused by the mask of Verei, Prodosius appeared before n'Dong, boasted of the deaths of n'Dong's parents and threatened that n'Dong would soon die as well. Whether this vision reproduced a memory, revealed a truth or manipulated n'Dong remains uncertain.
+- Before his death, [[03 People/Notable Deceased/Ulsar Quinn|Ulsar Quinn]] claimed that Prodosius's pride could be used against him: killing [[03 People/Mentioned Figures/Rhul Slowdrift|Rhul Slowdrift]] or destroying Rhul's operation in Rakara would likely draw Prodosius into the open.
 
 ## Place within the Broken Fang
 
-Prodosius appears to sit above the commanders currently known to the party:
+Power within the Broken Fang is heavily concentrated through Prodosius. He rules the organisation with an iron will, and his authority passes through trusted advisors and commanders known as **the Fangs**.
 
-- [[03 People/Notable Figures/Ulsar Quinn|Ulsar Quinn]] once commanded the unit in which n'Dong was forced to serve.
-- [[03 People/Mentioned Figures/Rhul Slowdrift|Rhul Slowdrift]] has been identified as a high-ranking Broken Fang figure connected to its Rakaran operations.
-
-The precise responsibilities and relationships between Prodosius, Ulsar and Rhul have not yet been established.
+Ulsar Quinn, the Glass Fang, was one of these commanders and once led the unit in which n'Dong was forced to serve. Rhul Slowdrift has also been identified as a high-ranking Broken Fang figure, with a current known operation centred on the fighting pits of [[02 Places/Rakara/Voruun/Dazuun|Dazuun]].
 
 ## Current significance
 
 Finding Prodosius remains one of n'Dong's principal personal objectives. The Broken Fang's interest in Ardynian ruins and relics has brought the wider party closer to that confrontation, but the Defracturers have not yet encountered Prodosius directly.
+
+Rhul's Dazuun operation is now the clearest known pressure point. Destroying it may provoke Prodosius into appearing, though this comes from Ulsar's claim rather than direct proof.
 
 > [!question] Unresolved
 > - Where is Prodosius currently based?
 > - Did he personally kill n'Dong's parents?
 > - What role did he play in n'Dong's expedition into an Ardynian ruin?
 > - Why is the Broken Fang searching for Ardynian relics?
-> - How much authority do Ulsar Quinn and Rhul Slowdrift hold beneath him?
+> - How directly does Prodosius oversee Rhul's Dazuun operation?
+> - Would destroying Rhul's operation truly force Prodosius to respond personally?
 
 ## Campaign references
 
 - [[05 Campaign Chronicle/Session 03 - Into Buggie's Den|Session 3]]
 - [[05 Campaign Chronicle/Session 07 - Coffee and Contraband|Session 7]]
+- [[05 Campaign Chronicle/Session 21 - Contracts, Command, and a Burning Camp|Session 21]]
 
 ## Related
 
 - [[04 Organisations/Broken Fang|Broken Fang]]
 - [[03 People/Player Characters/n'Dong|n'Dong]]
-- [[03 People/Notable Figures/Ulsar Quinn|Ulsar Quinn]]
+- [[03 People/Notable Deceased/Ulsar Quinn|Ulsar Quinn]]
 - [[03 People/Mentioned Figures/Rhul Slowdrift|Rhul Slowdrift]]
+- [[02 Places/Rakara/Voruun/Dazuun|Dazuun]]
 
 
 
@@ -3850,63 +5156,6 @@ updated: 2026-07-01
 
 
 ---
-# FILE: C:\Users\ellis\Documents\vaelond-wiki\content\03 People\Notable Figures\Ulsar Quinn.md
----
-
----
-title: 'Ulsar Quinn'
-type: npc
-status: published
-player_facing: true
-aliases:
-  - 'The Glass Fang'
-tags:
-  - people
-  - npc
-  - campaign
-  - broken-fang
-ancestry: 'Unknown'
-gender: 'Male'
-role: 'Broken Fang commander'
-current_status: 'active'
-last_known_location: 'Broken Fang camp near Rana Viam'
-source: 'Sessions 19â€“20'
-updated: 2026-07-02
----
-
-# Ulsar Quinn
-
-![[Ulsar Quinn.png|260]]
-
-> [!summary] At a glance
-> A Broken Fang commander known as **the Glass Fang**, tied directly to n'Dong's enslavement and reported to be holding the Defracturers' stolen horses at a camp near Rana Viam.
-
-## Known details
-
-- Ulsar once commanded the Broken Fang unit in which [[03 People/Player Characters/n'Dong|n'Dong]] was forced to serve.
-- His command predates n'Dong's disastrous expedition into an Ardynian ruin, transformation and eventual escape.
-- A scout confronted outside [[02 Places/Rakara/Rana Viam|Rana Viam]] named Ulsar when n'Dong demanded to know who was responsible.
-- The scout reported that Ulsar had the Defracturers' horses.
-- Ulsar is associated with a nearby Broken Fang camp.
-- Two captured scouts, Salla and Malt, produced broadly consistent sketches of that camp and identified the approximate location where the horses were being held.
-- The party has not yet confronted Ulsar directly.
-
-## Campaign appearances
-
-- [[05 Campaign Chronicle/Session 19 - Bands, Broken Stone and the Glass Fang|Session 19]]
-- [[05 Campaign Chronicle/Session 20 - Plague, Pursuit and Plan E|Session 20]]
-
-## Related
-
-- [[04 Organisations/Broken Fang|Broken Fang]]
-- [[03 People/Player Characters/n'Dong|n'Dong]]
-- [[03 People/Mentioned Figures/Rhul Slowdrift|Rhul Slowdrift]]
-- [[02 Places/Rakara/Rana Viam|Rana Viam]]
-- [[06 Library/Campaign Reference/Horses|Horses]]
-
-
-
----
 # FILE: C:\Users\ellis\Documents\vaelond-wiki\content\03 People\Notable Figures\Xene Redmayne.md
 ---
 
@@ -3981,7 +5230,7 @@ homeland: Doro
 mount: Kingcup
 current_status: active
 source: Sessions 1â€“20
-updated: 2026-07-04
+updated: 2026-07-05
 ---
 
 # Ballar Novis
@@ -3991,7 +5240,7 @@ updated: 2026-07-04
 
 ## Established background
 
-Ballar is the son of the head of **House Nirrell**, one of Doroâ€™s ten lesser houses.
+Ballar is the son of the head of [[02 Places/Doro/Noble Houses/House Nirrell|House Nirrell]], one of Doro's ten lesser families.
 
 Although noble, wealthy and well connected, Ballar is the **third child of five** and the **third son**. His older brothers were raised as the meaningful heirs to the house, leaving Ballar with status, expectations and opportunity, but no obvious dynastic purpose.
 
@@ -4081,13 +5330,13 @@ Kingcupâ€™s elegance and temperament mirror Ballarâ€™s own self-image:
 - Decide what purpose Ballar has beyond being the third son of House Nirrell.
 - Define whether his future lies with Doro, Somnolent, the Defracturers or some more personal ideal of glory.
 - Understand [[03 People/Notable Figures/Din|Din]] and determine whether he can safely be given a body.
-- Uncover the full relationship between House Nirrell, the Old Grey Pike and the destruction of Ashenhom.
+- Uncover the full relationship between [[02 Places/Doro/Noble Houses/House Nirrell|House Nirrell]], the Old Grey Pike and the destruction of [[02 Places/Doro/Ashenhom|Ashenhom]].
 - Decide what responsibility Ballar bears for the choices and secrets of his family.
 - Resolve his strained loyalties between Ouinâ€™s Doroan guidance and the Defracturersâ€™ collective judgement.
 - Determine whether his attraction to spectacle can become genuine leadership rather than performance.
 
 > [!warning] Gaps in the current record
-> - The exact duties, resources and internal politics of House Nirrell remain incomplete.
+> - The exact duties, resources and internal politics of [[02 Places/Doro/Noble Houses/House Nirrell|House Nirrell]] remain incomplete.
 > - Ballarâ€™s older siblings have not yet been fully named or described.
 > - The exact actions of each Nirrell family member during the events surrounding Ashenhom remain unresolved.
 > - Dinâ€™s original identity, limitations and long-term objective have not been confirmed.
@@ -4101,6 +5350,9 @@ Kingcupâ€™s elegance and temperament mirror Ballarâ€™s own self-image:
 - [[06 Library/Relics and Artefacts/Ring of Mind Shielding|Ring of Mind Shielding]]
 - [[03 People/Notable Figures/Ouin Brond|Ouin Brond]]
 - [[03 People/Notable Figures/Ervain Megbanas|Ervain Megbanas]]
+- [[02 Places/Doro/Noble Houses/House Nirrell|House Nirrell]]
+- [[02 Places/Doro/Doroan Noble Houses|Doroan Noble Houses]]
+- [[02 Places/Doro/Ashenhom|Ashenhom]]
 - [[03 People/Notable Figures/Balur Moonclaw|Balur Moonclaw]]
 - [[03 People/Notable Figures/Ersil Loquella|Ersil Loquella]]
 - [[06 Library/Campaign Reference/Open Threads|Open Threads]]
@@ -4132,7 +5384,7 @@ homeland: Clan Khaali
 mount: Bracken
 current_status: active
 source: Sessions 1-20 and original character notes
-updated: 2026-07-04
+updated: 2026-07-05
 ---
 
 # Enrak Kiran
@@ -4168,7 +5420,7 @@ During [[05 Campaign Chronicle/Session 01 - Die Dog, Die|Emberwake]], Enrak kill
 
 In Somnolent, Enrak developed an enthusiasm for bardic attention. He enjoyed [[03 People/Notable Figures/Ersil Loquella|Ersil Loquella's]] praise and the growing legend of the "Brazen Flame", even while some of his companions worried that songs about the party made them easier to identify. During a later conversation, Enrak told Ersil of his ambition to rise in Khaali and uncover Anthea's killer. Ersil's bitter song about Anthea, and his admission that he and Anthea were childhood friends who were not born in Khaali, gave Enrak a more personal and unsettling lead into Anthea's past.
 
-The vision caused by [[06 Library/Relics and Artefacts/Virei's Shattered Mask|Virei's Shattered Mask]] placed Enrak before Ashka, goddess of fire, chaos, inspiration and renewal. Ashka asked him who he was. The meaning of that question remains unresolved, but it sits at the centre of Enrak's self-image: whether he is a failed scholar, a chosen flame, a self-made legend or something stranger.
+The vision caused by [[06 Library/Relics and Artefacts/Verei's Shattered Mask|Verei's Shattered Mask]] placed Enrak before Ashka, goddess of fire, chaos, inspiration and renewal. Ashka asked him who he was. The meaning of that question remains unresolved, but it sits at the centre of Enrak's self-image: whether he is a failed scholar, a chosen flame, a self-made legend or something stranger.
 
 Enrak also has a personal link to [[03 People/Notable Figures/Summer Quaresh|Summer Quaresh]], a Khaali liaison in Somnolent and apparent member of Anthea's Crows. Summer was present when [[03 People/Notable Deceased/Alistair Prusset|Alistair Prusset]] was burned alive in custody and later vanished. Enrak's belief that Summer would not willingly have helped murder Prusset makes her disappearance a personal and political thread.
 
@@ -4211,7 +5463,7 @@ During Session 20, Enrak pursued Salla alongside Ballar, resisted the bog siren'
 - [[03 People/Notable Deceased/Anthea Bloodclot|Anthea Bloodclot]]
 - [[03 People/Notable Figures/Summer Quaresh|Summer Quaresh]]
 - [[03 People/Notable Figures/Ersil Loquella|Ersil Loquella]]
-- [[06 Library/Relics and Artefacts/Virei's Shattered Mask|Virei's Shattered Mask]]
+- [[06 Library/Relics and Artefacts/Verei's Shattered Mask|Verei's Shattered Mask]]
 - [[02 Places/Rakara/Tace Nox|Tace Nox]]
 - [[02 Places/Rakara/Rana Viam|Rana Viam]]
 - [[06 Library/Relics and Artefacts/Bands of Distortion|Bands of Distortion]]
@@ -4238,7 +5490,7 @@ class: Rogue
 mount: Vesper
 current_status: active
 source: Sessions 1â€“20
-updated: 2026-07-04
+updated: 2026-07-05
 ---
 
 # Erelmor
@@ -4248,8 +5500,10 @@ updated: 2026-07-04
 
 ## Established background
 
-- Erelmor survived the destruction of **Ashenhom**.
+- Erelmor survived the destruction of [[02 Places/Doro/Ashenhom|Ashenhom]].
 - His wife and children were killed there.
+- [[02 Places/Doro/Ashenhom|Ashenhom]] was razed by Doroan forces as an example after being accused of harbouring Perfid spies.
+- The fallout from Ashenhom led to [[03 People/Notable Figures/Ervain Megbanas|Ervain Megbanas]], the Old Grey Pike, being removed from active duty in disgrace.
 - He has past knowledge of, or contacts among, the [[04 Organisations/Rootbound|Rootbound]].
 - His central personal objective is to identify and punish those responsible for his family's deaths.
 - His grief is not distant or settled. Visions, songs and memories have repeatedly dragged Ashenhom back into the present.
@@ -4264,17 +5518,17 @@ In battle, Erelmor is effective but not always controlled. His actions can end t
 
 ## Campaign role
 
-Erelmor is the party's scout, infiltrator and most direct practitioner of covert violence. His experience with the Rootbound and the history of Ashenhom frequently place him at the centre of investigations involving Doro, House Nirrell and the Old Grey Pike.
+Erelmor is the party's scout, infiltrator and most direct practitioner of covert violence. His experience with the Rootbound and the history of Ashenhom frequently place him at the centre of investigations involving [[02 Places/Doro/Doro|Doro]], [[02 Places/Doro/Noble Houses/House Nirrell|House Nirrell]] and the Old Grey Pike.
 
 During the exploration of [[02 Places/Rakara/Tace Nox|Tace Nox]], Erelmor's eye for treasure was already clear. He attempted to reach the jeweled eyes of a statue and later reacted badly when n'Dong pocketed jade crystals from the ruin. His practical skill also came through when he solved the light-arrow puzzle after the others struggled with the mechanism.
 
 After the massacre at [[02 Places/Rakara/Thistlewound|Thistlewound]], Buggie was found dead among his slaughtered people. Buggie had torn an insignia from one of the attackers, which Erelmor recognised as belonging to the [[04 Organisations/Rootbound|Rootbound]]. This gave the party one of its clearest early signs that the movement was involved in the wider conspiracy surrounding Anthea Bloodclot's death.
 
-Erelmor's sleep has repeatedly been disturbed by nightmares and by a song connected to **the Pike**. The song stirred memories of smoke, ash and the destruction of his home. In Somnolent, this led him to violently question a former soldier after hearing a connection between the song, the Maw and the One Ball Inn. The party later established that [[03 People/Notable Figures/Ervain Megbanas|Ervain Megbanas]] is the Old Grey Pike, but the full Ashenhom conspiracy remains unresolved.
+Erelmor's sleep has repeatedly been disturbed by nightmares and by a song connected to **the Pike**. The song stirred memories of smoke, ash and the destruction of his home. In Somnolent, this led him to violently question a former soldier after hearing a connection between the song, the Maw and the One Ball Inn. The party later established that [[03 People/Notable Figures/Ervain Megbanas|Ervain Megbanas]] is the Old Grey Pike. [[02 Places/Doro/Ashenhom|Ashenhom]] was razed by Doroan forces after being accused of harbouring Perfid spies, and the fallout removed Ervain from active duty in disgrace. The truth behind Ashenhom's destruction remains unresolved.
 
-The Pike thread has narrowed in some ways without being closed. Ervain once owned the House Bromere favour coin later used to pay Buggie, but lost it to Eden Carrion during a dice game. This weakened the idea that Ervain was directly responsible for the immediate Bromere-coin trail, while leaving his deeper connection to the Maw, Ashenhom and Erelmor's family unresolved.
+The Pike thread has narrowed in some ways without being closed. Ervain once owned the [[02 Places/Doro/Noble Houses/House Bromere|House Bromere]] favour coin later used to pay Buggie, but lost it to Eden Carrion during a dice game. This weakened the idea that Ervain was directly responsible for the immediate Bromere-coin trail, while leaving his deeper connection to the Maw, Ashenhom and Erelmor's family unresolved.
 
-In the basement of the [[02 Places/Rakara/Somnolent/Drowsy Coin|Drowsy Coin]], [[06 Library/Relics and Artefacts/Virei's Shattered Mask|Virei's Shattered Mask]] forced Erelmor into a vision of his dying wife, who begged him to explain why he had not saved her. When the visions fractured, an apparition of his wife remained and attacked the party. Whether this reflected memory, guilt, manipulation by the mask or something more supernatural is unknown.
+In the basement of the [[02 Places/Rakara/Somnolent/Drowsy Coin|Drowsy Coin]], [[06 Library/Relics and Artefacts/Verei's Shattered Mask|Verei's Shattered Mask]] forced Erelmor into a vision of his dying wife, who begged him to explain why he had not saved her. When the visions fractured, an apparition of his wife remained and attacked the party. Whether this reflected memory, guilt, manipulation by the mask or something more supernatural is unknown.
 
 Erelmor later joined n'Dong in breaking into the Silent Court. The attempted heist was poorly controlled: they entered without a clear plan, found Alaaric Hammerfall's warded safe, failed to open it and were magically branded by its defences. The incident remains one of the clearest examples of Erelmor's appetite for valuables overriding caution.
 
@@ -4288,9 +5542,10 @@ During Session 20, Erelmor used psychic communication to keep the divided pursui
 
 ## Active personal threads
 
-- Identify the people and institutions responsible for Ashenhom.
+- Identify the people and institutions responsible for [[02 Places/Doro/Ashenhom|Ashenhom]].
+- Determine why [[02 Places/Doro/Ashenhom|Ashenhom]] was accused of harbouring Perfid spies and what truth lay beneath that accusation.
 - Determine the Old Grey Pike's true role in the destruction of Erelmor's home and family.
-- Understand whether the vision of his wife reflected memory, guilt, manipulation by [[06 Library/Relics and Artefacts/Virei's Shattered Mask|Virei's Shattered Mask]] or something more supernatural.
+- Understand whether the vision of his wife reflected memory, guilt, manipulation by [[06 Library/Relics and Artefacts/Verei's Shattered Mask|Verei's Shattered Mask]] or something more supernatural.
 - Reconcile Erelmor's former Rootbound associations with the movement's involvement in Anthea's murder and the slaughter at Thistlewound.
 - Decide how far he is willing to go in pursuit of revenge.
 - Decide whether revenge, wealth or survival is now the stronger pull on his decisions.
@@ -4301,7 +5556,7 @@ During Session 20, Erelmor used psychic communication to keep the divided pursui
 > - His precise role and life in Ashenhom before its destruction remain unclear.
 > - The nature and duration of his past Rootbound involvement are only partially established.
 > - The source and meaning of the song and nightmares connected to the Pike remain unresolved.
-> - The truth of the vision caused by Virei's Shattered Mask has not been established.
+> - The truth of the vision caused by Verei's Shattered Mask has not been established.
 > - The extent of Erelmor's appetite for treasure, and whether it is simple greed or a survival response, remains open to interpretation.
 > - The exact pattern of battlefield accidents and collateral harm involving Ballar is not fully recorded in the session chronicle.
 
@@ -4310,8 +5565,12 @@ During Session 20, Erelmor used psychic communication to keep the divided pursui
 - [[04 Organisations/The Defracturers|The Defracturers]]
 - [[04 Organisations/Rootbound|The Rootbound]]
 - [[03 People/Notable Figures/Ervain Megbanas|Ervain Megbanas]]
+- [[02 Places/Doro/Ashenhom|Ashenhom]]
+- [[02 Places/Doro/Doro|Doro]]
+- [[02 Places/Doro/Noble Houses/House Bromere|House Bromere]]
+- [[02 Places/Doro/Noble Houses/House Nirrell|House Nirrell]]
 - [[03 People/Player Characters/Ballar Novis|Ballar Novis]]
-- [[06 Library/Relics and Artefacts/Virei's Shattered Mask|Virei's Shattered Mask]]
+- [[06 Library/Relics and Artefacts/Verei's Shattered Mask|Verei's Shattered Mask]]
 - [[06 Library/Relics and Artefacts/Eula's Red Coins|Eula's Red Coins]]
 - [[03 People/Notable Figures/Eula|Eula]]
 - [[02 Places/Rakara/Tace Nox|Tace Nox]]
@@ -4476,8 +5735,8 @@ specialism: Acid magic
 homeland: Minir
 mount: Nail
 current_status: active
-source: Sessions 2â€“20
-updated: 2026-07-04
+source: Sessions 2-21
+updated: 2026-07-08
 ---
 
 # n'Dong
@@ -4489,7 +5748,9 @@ updated: 2026-07-04
 
 - n'Dong's parents were killed by the [[04 Organisations/Broken Fang|Broken Fang]].
 - He was enslaved or forced into service by the organisation.
-- [[03 People/Notable Figures/Ulsar Quinn|Ulsar Quinn]] once commanded the unit in which he served.
+- [[03 People/Notable Deceased/Ulsar Quinn|Ulsar Quinn]] once commanded the unit in which he served.
+- The Broken Fang concentrates power through [[03 People/Notable Figures/Prodosius|Prodosius]] and his trusted commanders, known as **the Fangs**.
+- Ulsar Quinn is one of those Fangs.
 - An expedition into an Ardynian ruin ended in disaster and was connected to n'Dong's transformation and eventual escape.
 - The memory of that ruin remains personally traumatic. When the party first identified the site beneath Thistlewound as Ardynian, n'Dong admitted that ruins like it had twisted him into what he is.
 - His personal objective is to reach Broken Fang leader [[03 People/Notable Figures/Prodosius|Prodosius]].
@@ -4506,13 +5767,15 @@ He later uncovered a Broken Fang smuggling route in Somnolent, destroyed one of 
 
 His pursuit of the same network later led him and Erelmor to Broken Fang agents in the woods. After the agents burned n'Dong's crude shelter, the pair attacked them, extracted the name [[03 People/Mentioned Figures/Rhul Slowdrift|Rhul Slowdrift]] from a man called Sunshine, and then burned the bodies to disguise what had happened. This gave n'Dong a new name in the Broken Fang hierarchy, but also reinforced his willingness to destroy evidence when cornered.
 
-n'Dong also recovered [[06 Library/Relics and Artefacts/Virei's Shattered Mask|Virei's Shattered Mask]] beneath the [[02 Places/Rakara/Somnolent/Drowsy Coin|Drowsy Coin]]. The mask forced the party into private visions; n'Dong saw Prodosius boasting of his parents' deaths and warning that n'Dong would soon die. After the resulting apparitions were defeated, n'Dong recited a forgotten prayer to Virei, the Shattered Mask, lifted the curse and claimed the mask. The precise meaning of the mask, the prayer and n'Dong's connection to Virei remain unresolved.
+n'Dong also recovered [[06 Library/Relics and Artefacts/Verei's Shattered Mask|Verei's Shattered Mask]] beneath the [[02 Places/Rakara/Somnolent/Drowsy Coin|Drowsy Coin]]. The mask forced the party into private visions; n'Dong saw Prodosius boasting of his parents' deaths and warning that n'Dong would soon die. After the resulting apparitions were defeated, n'Dong recited a forgotten prayer to Verei, the Shattered Mask, lifted the curse and claimed the mask. The mask appears to function almost like an arcane focus, making it easier to receive a blessing from Verei. Such a blessing is not necessarily safe, beneficial or under the bearer's control. The precise meaning of the mask, the prayer and n'Dong's connection to Verei remain unresolved.
 
-His later use of the mask as a disguise after the failed Silent Court safe robbery suggests a recurring pattern: n'Dong often responds to exposure or danger with immediate magical improvisation, even when the solution may create new risks. He concealed his identity behind Virei's visage despite being one of the only dragonborn in Somnolent.
+His later use of the mask as a disguise after the failed Silent Court safe robbery suggests a recurring pattern: n'Dong often responds to exposure or danger with immediate magical improvisation, even when the solution may create new risks. He concealed his identity behind Verei's visage despite being one of the only dragonborn in Somnolent.
 
 n'Dong has also repeatedly helped erase dangerous scenes once the party has taken what it needs. He helped burn Buggie's lair after the massacre at Thistlewound, then later burned Broken Fang bodies after the woodland confrontation connected to Rhul Slowdrift. Whether this reflects practicality, panic, vengeance or habit remains unresolved.
 
 During Session 20, n'Dong performed aerial reconnaissance, located Malt and attacked the fleeing scout from above. He was the first Defracturer knocked unconscious by the Egg Hunter Hatchlings and was revived by Ballar.
+
+During Session 21, Ulsar contacted n'Dong through the sending stone recovered from Rana Viam and invited him to the Broken Fang camp. In the parley that followed, Ulsar tried to reassert old hierarchies by casting Command and ordering n'Dong to grovel. n'Dong later struck Ulsar with a devastating critical Chromatic Orb, and after Talan Rook tried to flee with Ulsar's body, n'Dong destroyed the corpse and killed Talan with acid. This closed the immediate Ulsar thread while sharpening the path towards Rhul Slowdrift, Dazuun and Prodosius.
 
 n'Dong's bluntness also colours his role in the group. He can be direct to the point of social disaster, as seen when he helped rescue Mireya and informed her of her husband's death with very little softness.
 
@@ -4523,19 +5786,19 @@ n'Dong's bluntness also colours his role in the group. He can be direct to the p
 ## Active personal threads
 
 - Find [[03 People/Notable Figures/Prodosius|Prodosius]] and decide what justice or revenge would actually mean.
-- Confront [[03 People/Notable Figures/Ulsar Quinn|Ulsar Quinn]] and establish his current role in the Broken Fang.
-- Determine the significance of [[03 People/Mentioned Figures/Rhul Slowdrift|Rhul Slowdrift]] and whether he can lead n'Dong closer to Prodosius.
+- Decide how to use the information Ulsar revealed before his death.
+- Determine whether striking [[03 People/Mentioned Figures/Rhul Slowdrift|Rhul Slowdrift]] or his operation in [[02 Places/Rakara/Voruun/Dazuun|Dazuun]] can draw n'Dong closer to Prodosius.
 - Learn why the Broken Fang is searching Ardynian ruins and relics.
 - Understand the transformation connected to the ruin expedition.
-- Understand why [[06 Library/Relics and Artefacts/Virei's Shattered Mask|Virei's Shattered Mask]] responded to him, why he knew the prayer and whether the mask is safe.
+- Understand why [[06 Library/Relics and Artefacts/Verei's Shattered Mask|Verei's Shattered Mask]] responded to him, why he knew the prayer and whether the mask is safe.
 - Decide whether his habit of reckless escalation is survival instinct, vengeance, trauma or something more dangerous.
 
 > [!warning] Gaps in the current record
 > - The exact chronology of n'Dong's capture, forced service, ruin expedition, transformation and escape is incomplete.
 > - His original home, family life and status in Minir are not fully described.
 > - It is not clear whether Prodosius personally killed n'Dong's parents or whether the mask vision showed truth, manipulation, memory or symbolic fear.
-> - The nature of Virei and the mask's relationship to n'Dong remain uncertain.
-> - The responsibilities of Ulsar, Rhul and others within the Broken Fang hierarchy are not yet fully known.
+> - The nature of Verei and the mask's relationship to n'Dong remain uncertain.
+> - Rhul Slowdrift's full title, abilities and exact authority within the Broken Fang hierarchy are not yet known.
 > - It is unclear what n'Dong intends to do if he reaches Prodosius.
 > - It is unclear whether n'Dong recognises his own pattern of reckless escalation, or whether the party will challenge it before it causes greater harm.
 
@@ -4544,9 +5807,9 @@ n'Dong's bluntness also colours his role in the group. He can be direct to the p
 - [[04 Organisations/The Defracturers|The Defracturers]]
 - [[04 Organisations/Broken Fang|Broken Fang]]
 - [[03 People/Notable Figures/Prodosius|Prodosius]]
-- [[03 People/Notable Figures/Ulsar Quinn|Ulsar Quinn]]
+- [[03 People/Notable Deceased/Ulsar Quinn|Ulsar Quinn]]
 - [[03 People/Mentioned Figures/Rhul Slowdrift|Rhul Slowdrift]]
-- [[06 Library/Relics and Artefacts/Virei's Shattered Mask|Virei's Shattered Mask]]
+- [[06 Library/Relics and Artefacts/Verei's Shattered Mask|Verei's Shattered Mask]]
 - [[06 Library/Letters and Documents/Broken Fang Contraband Manifest|Broken Fang Contraband Manifest]]
 - [[02 Places/Rakara/Rana Viam|Rana Viam]]
 - [[06 Library/Campaign Reference/Horses|Horses]]
@@ -4569,8 +5832,8 @@ tags:
   - campaign
 affiliation: Minir
 leader: Prodosius
-source: Campaign notes and Sessions 1â€“20
-updated: 2026-07-03
+source: Campaign notes and Sessions 1-21
+updated: 2026-07-08
 ---
 
 # Broken Fang
@@ -4581,27 +5844,50 @@ The **Broken Fang** is a Miniri mercenary organisation led by [[03 People/Notabl
 
 It is personally tied to [[03 People/Player Characters/n'Dong|n'Dong's]] enslavement and the murder of his parents, and has become one of the party's most persistent enemies.
 
+## Structure and command
+
+Power within the Broken Fang is concentrated around [[03 People/Notable Figures/Prodosius|Prodosius]], who rules the organisation with an iron will.
+
+That authority passes down through his most trusted advisors and commanders, known as **the Fangs**. The Fangs act as extensions of Prodosius's command, carrying his will into field operations, discipline and expansion.
+
+[[03 People/Notable Deceased/Ulsar Quinn|Ulsar Quinn]], known as **the Glass Fang**, was one of these Fangs and once commanded the unit in which n'Dong was forced to serve. He was killed when the Defracturers destroyed his camp near Rana Viam.
+
+[[03 People/Mentioned Figures/Rhul Slowdrift|Rhul Slowdrift]] has also been identified as a high-ranking Broken Fang member. His main known Rakaran operation is now the fighting pits of [[02 Places/Rakara/Voruun/Dazuun|Dazuun]], the capital of Voruun.
+
 ## Known activity
 
 - The organisation maintains a smuggling operation in Rakara, including a supply chain through the [[03 People/Notable Figures/Antoinne Cassan|One Ball Inn]].
 - n'Dong destroyed a whiskey shipment and uncovered a small drop site and the [[06 Library/Letters and Documents/Broken Fang Contraband Manifest|Broken Fang Contraband Manifest]].
-- [[03 People/Mentioned Figures/Rhul Slowdrift|Rhul Slowdrift]] has been identified only as a **high-ranking Broken Fang member**. His precise role and area of responsibility are not yet known.
+- The manifest connected the Broken Fang to deliveries moving through Somnolent, Orvak, Voruun and Khaali.
 - Members searched Ardynian ruins and died within [[02 Places/Rakara/Rana Viam|Rana Viam]].
 - The organisation is seeking Ardynian relics, though its final purpose remains unknown.
-- [[03 People/Notable Figures/Ulsar Quinn|Ulsar Quinn]], known as the Glass Fang, once commanded the unit in which n'Dong was forced to serve.
-- Scouts associated with Ulsar confronted the party as they emerged from Rana Viam.
-- Ulsar's forces took the Defracturers' horses while the party explored the ruin.
-- One scout was killed by Erelmor and two others, Salla and Malt, were captured during the subsequent pursuit.
-- Salla and Malt produced [[06 Library/Letters and Documents/Broken Fang Camp Sketches|crude but broadly consistent maps]] of the nearby camp, including the approximate position of the stolen horses.
-- Salla was killed during an attack by Egg Hunter Hatchlings.
-- Malt survived and remained in the Defracturers' custody at the end of Session 20.
-- It is not yet known whether the camp has learned what happened to the missing scouts.
+- Ulsar Quinn's forces took the Defracturers' horses while the party explored Rana Viam.
+- Salla and Malt, two Broken Fang scouts, produced [[06 Library/Letters and Documents/Broken Fang Camp Sketches|crude but broadly consistent maps]] of Ulsar's nearby camp.
+- Salla was killed during an attack by Egg Hunter Hatchlings. Malt survived and remained in the Defracturers' custody.
+- Ulsar's camp near Rana Viam was later destroyed by the Defracturers. Ulsar and Talan Rook were killed.
+- Ulsar revealed that Rhul Slowdrift had taken control of the fighting pits of Dazuun.
+- Ulsar also revealed that three Khaali alchemists were producing [[06 Library/Campaign Reference/Dragon's Dandruff|Dragon's Dandruff]] for Rhul's operation from a lab south of [[02 Places/Rakara/Somnolent/Somnolent|Somnolent]].
+
+## Rhul's Dazuun operation
+
+Ulsar Quinn revealed that Rhul's main Rakaran operation is based around the fighting pits of [[02 Places/Rakara/Voruun/Dazuun|Dazuun]], the capital of [[02 Places/Rakara/Clans/Clan Voruun|Clan Voruun]]. Rhul has taken control of the pits and uses three Khaali alchemists to produce Dragon's Dandruff, a potent stimulant used by contestants.
+
+The alchemists work from a lab south of Somnolent.
+
+According to Ulsar, killing Rhul or destroying this operation would likely draw Prodosius into the open because Prodosius's pride would not allow the humiliation to stand.
+
+> [!question] Unresolved
+> - Why is the Broken Fang searching for Ardynian relics?
+> - How did Rhul take control of the Dazuun fighting pits?
+> - Where exactly is the Dragon's Dandruff lab south of Somnolent?
+> - Are the Khaali alchemists willing collaborators, coerced specialists or something else?
+> - Would destroying Rhul's operation truly bring Prodosius into the open?
 
 ## Related people
 
 - [[03 People/Notable Figures/Prodosius|Prodosius]]
 - [[03 People/Player Characters/n'Dong|n'Dong]]
-- [[03 People/Notable Figures/Ulsar Quinn|Ulsar Quinn]]
+- [[03 People/Notable Deceased/Ulsar Quinn|Ulsar Quinn]]
 - [[03 People/Mentioned Figures/Rhul Slowdrift|Rhul Slowdrift]]
 - [[03 People/Notable Figures/Antoinne Cassan|Antoinne Cassan]]
 - [[03 People/Notable Deceased/Buggie|Buggie]]
@@ -4620,6 +5906,7 @@ It is personally tied to [[03 People/Player Characters/n'Dong|n'Dong's]] enslave
 - [[05 Campaign Chronicle/Session 11 - Ashes, Brands and Windfalls|Session 11]]
 - [[05 Campaign Chronicle/Session 19 - Bands, Broken Stone and the Glass Fang|Session 19]]
 - [[05 Campaign Chronicle/Session 20 - Plague, Pursuit and Plan E|Session 20]]
+- [[05 Campaign Chronicle/Session 21 - Contracts, Command, and a Burning Camp|Session 21]]
 
 
 
@@ -4745,14 +6032,12 @@ updated: 2026-07-02
 
 ## Campaign organisations
 
-| Symbol                               | Organisation                                 | Known affiliation           | Current relevance                        |                                                               |
-| ------------------------------------ | -------------------------------------------- | --------------------------- | ---------------------------------------- | ------------------------------------------------------------- |
-| ![[Chronarchs Symbol.png\|80]]       | [[04 Organisations/Chronarchs                | Chronarchs]]                | Ardynia                                  | Time magic, ruins and Sundering relics                        |
-| ![[Rootbound Sigil.png\|80]]         | [[04 Organisations/Rootbound                 | The Rootbound]]             | Officially unaffiliated; rooted in Orvak | Anthea's assassination and rival autonomous cells             |
-| ![[Broken Fang Symbol.jpeg\|80]]     | [[04 Organisations/Broken Fang               | Broken Fang]]               | Minir                                    | Smuggling, n'Dong's past, Rana Viam and the stolen horses     |
-| ![[Church of Elgira Symbol.png\|80]] | [[04 Organisations/Church of Elgira          | Church of Elgira]]          | Perfid                                   | Ordered Anthea's assassination and escaped with a Corona      |
-| â€”                                    | [[04 Organisations/Loyal Crows               | Loyal Crows]]               | Followers of Anthea Bloodclot            | Eden, Summer, the Prusset operation and missing agents        |
-| â€”                                    | [[04 Organisations/The Defracturers          | The Defracturers]]          | Somnolent                                | The player party under Romayne Drayton's patronage            |
+- ![[Chronarchs Symbol.png|80]] [[04 Organisations/Chronarchs|Chronarchs]] â€” **Ardynia**; time magic, ruins and Sundering relics.
+- ![[Rootbound Sigil.png|80]] [[04 Organisations/Rootbound|The Rootbound]] â€” **Officially unaffiliated; rooted in Orvak**; Anthea's assassination and rival autonomous cells.
+- ![[Broken Fang Symbol.jpeg|80]] [[04 Organisations/Broken Fang|Broken Fang]] â€” **Minir**; smuggling, n'Dong's past, Rana Viam and the stolen horses.
+- ![[Church of Elgira Symbol.png|80]] [[04 Organisations/Church of Elgira|Church of Elgira]] â€” **Perfid**; ordered Anthea's assassination and escaped with a Corona.
+- â€” [[04 Organisations/Loyal Crows|Loyal Crows]] â€” **Followers of Anthea Bloodclot**; Eden, Summer, the Prusset operation and missing agents.
+- â€” [[04 Organisations/The Defracturers|The Defracturers]] â€” **Somnolent**; the player party under Romayne Drayton's patronage.
 
 ## Regional organisations and political structures
 
@@ -4917,7 +6202,7 @@ That hypocrisy is not hidden by a central leadership because no such leadership 
 - [[Report on the Death of Anthea Bloodclot]]
 - [[Buggie]]
 - [[Stolen Letter from Alistair Prusset's Study]]
-- [[content/05 Campaign Chronicle/index]]
+- [[05 Campaign Chronicle/index]]
 
 
 
@@ -4941,20 +6226,20 @@ tags:
 patron: 'Romayne Drayton'
 base: 'Former Perfid embassy, Somnolent'
 source: 'Campaign notes and session chronicle'
-updated: 2026-07-02
+updated: 2026-07-08
 ---
 
 # The Defracturers
 
-The adventurers were informally called the **Squishy Boys** during their earliest exploits. They formally adopted the name **The Defracturers** when they accepted [[03 People/Notable Figures/Romayne Drayton|Romayne Draytonâ€™s]] patronage in Session 11.
+The adventurers were informally called the **Squishy Boys** during their earliest exploits. They formally adopted the name **The Defracturers** when they accepted [[03 People/Notable Figures/Romayne Drayton|Romayne DraytonÃ¢â‚¬â„¢s]] patronage in Session 11.
 
 ## Members
 
-- [[03 People/Player Characters/Ballar Novis|Ballar Novis]] â€” high-elf paladin connected to Doro and House Nirrell
-- [[03 People/Player Characters/Erelmor|Erelmor]] â€” drow rogue pursuing those responsible for the destruction of his family
-- [[03 People/Player Characters/Ieuan|Ieuan]] â€” wood-elf Circle of Stars druid with ties to Clan Orvak
-- [[03 People/Player Characters/Enrak Kiran|Enrak Kiran]] â€” half-elf fire mage from Clan Khaali
-- [[03 People/Player Characters/n'Dong|n'Dong]] â€” dragonborn wizard and former captive of the Broken Fang
+- [[03 People/Player Characters/Ballar Novis|Ballar Novis]] Ã¢â‚¬â€ high-elf paladin connected to Doro and House Nirrell
+- [[03 People/Player Characters/Erelmor|Erelmor]] Ã¢â‚¬â€ drow rogue pursuing those responsible for the destruction of his family
+- [[03 People/Player Characters/Ieuan|Ieuan]] Ã¢â‚¬â€ wood-elf Circle of Stars druid with ties to Clan Orvak
+- [[03 People/Player Characters/Enrak Kiran|Enrak Kiran]] Ã¢â‚¬â€ half-elf fire mage from Clan Khaali
+- [[03 People/Player Characters/n'Dong|n'Dong]] Ã¢â‚¬â€ dragonborn wizard and former captive of the Broken Fang
 
 ## Formal status
 
@@ -4962,26 +6247,27 @@ Following Perfid's actions in Somnolent, the group entered formal patronage unde
 
 ## Household and mounts
 
-- [[The Defracturers' Bastion|The Defracturersâ€™ Bastion]]
+- [[02 Places/Rakara/Somnolent/The Defracturers' Bastion|The DefracturersÃ¢â‚¬â„¢ Bastion]]
 - [[06 Library/Campaign Reference/Horses|Horses]]
-- [[content/03 People/index#Bastion staff|Bastion staff]]
+- [[03 People/index#Bastion staff|Bastion staff]]
 
 ## Current campaign position
 
-After Session 20:
+After Session 21:
 
 - The party holds the [[06 Library/Relics and Artefacts/Bands of Distortion|Bands of Distortion]] and their heart stone.
-- Their horses remain in the hands of forces associated with [[03 People/Notable Figures/Ulsar Quinn|Ulsar Quinn]].
-- They possess two crude but broadly consistent sketches of the nearby Broken Fang camp.
-- [[03 People/Player Characters/Ieuan|Ieuan]] carries four remaining cuttings of [[06 Library/Campaign Reference/Plague|Plague]].
-- One cutting was planted in Salla's corpse.
-- Malt, a captured Broken Fang scout, remained alive and in the party's custody.
-- The group had not yet agreed how to infiltrate the camp and recover the horses.
+- [[03 People/Notable Deceased/Ulsar Quinn|Ulsar Quinn]] and Talan Rook are dead.
+- Ulsar's Broken Fang camp near Rana Viam has been destroyed.
+- The horses are no longer in Broken Fang hands, though Kingcup was badly hurt during the battle.
+- [[03 People/Notable Figures/Mireya Dinak|Mireya Dinak]] is dead, but Ballar preserved her body with Gentle Repose for possible resurrection.
+- Ulsar revealed that [[03 People/Mentioned Figures/Rhul Slowdrift|Rhul Slowdrift]] controls the fighting pits of [[02 Places/Rakara/Voruun/Dazuun|Dazuun]].
+- Ulsar also revealed that three Khaali alchemists are producing [[06 Library/Campaign Reference/Dragon's Dandruff|Dragon's Dandruff]] for Rhul from a lab south of Somnolent.
+- Hushvale remains an intended destination, but Rhul, Dazuun, the alchemy lab and Mireya's condition may now compete for priority.
 
 ## Related
 
 - [[06 Library/Campaign Reference/Open Threads|Open Threads]]
-- [[content/05 Campaign Chronicle/index|index]]
+- [[05 Campaign Chronicle/index|index]]
 - [[04 Organisations/Broken Fang|Broken Fang]]
 - [[04 Organisations/Chronarchs|Chronarchs]]
 - [[02 Places/Rakara/Rana Viam|Rana Viam]]
@@ -4998,54 +6284,53 @@ type: campaign-index
 status: published
 player_facing: true
 campaign: Vaelond
-latest_session: 20
+latest_session: 21
 tags:
   - campaign
   - chronicle
   - index
-updated: 2026-07-02
+updated: 2026-07-08
 ---
 
 # Campaign Chronicle
 
-A session-by-session account of the Defracturersâ€™ adventures, beginning with the [[Emberwake Festival]] and continuing through Rana Viam into their pursuit of the Broken Fang. The chronicle is ongoing and will expand as new sessions are played.
+A session-by-session account of the Defracturers' adventures, beginning with the [[Emberwake Festival]] and continuing through Rana Viam into their pursuit of the Broken Fang. The chronicle is ongoing and will expand as new sessions are played.
 
 > [!info] Source coverage
-> The supplied document contains individual notes for Sessions 1â€“11 and 15â€“20. Sessions 12â€“14 are preserved as one combined account because the source does not identify reliable boundaries between those sessions.
+> The supplied document contains individual notes for Sessions 1-11 and 15-21. Sessions 12-14 are preserved as one combined account because the source does not identify reliable boundaries between those sessions.
 
-**Latest published entry:** [[Session 20 - Plague, Pursuit and Plan E]]
+**Latest published entry:** [[Session 21 - Contracts, Command, and a Burning Camp]]
 
 ## Session index
 
-| Session | Title                                                           | Recorded                                        | Overview              |                                                                                                                             |
-| ------: | --------------------------------------------------------------- | ----------------------------------------------- | --------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-|       1 | [[Session 01 - Die Dog, Die                                     | Die Dog, Die]]                                  | 22 July 2025          | The party meets during Emberwake and defends Somnolent from a coordinated goblin attack.                                    |
-|       2 | [[Session 02 - The Ashes of Emberwake                           | The Ashes of Emberwake]]                        | 12 August 2025        | The first clues point towards Buggie and a Crow as the party follows Terrick towards Thistlewound.                          |
-|       3 | [[Session 03 - Into Buggie's Den                                | Into Buggie's Den]]                             | 06 September 2025     | A tense parley with Buggie reveals new enemies before the party enters the Ardynian ruins beneath Thistlewound.             |
-|       4 | [[Session 04 - Tace Nox                                         | Tace Nox]]                                      | 23 September 2025     | The party confronts time magic, sacrificial machinery and corrupted relics within Tace Nox.                                 |
-|       5 | [[Session 05 - Fingers, Coins and Incriminations                | Fingers, Coins and Incriminations]]             | 02 October 2025       | The Thistlewound massacre, cursed coins and a roadside ambush deepen the conspiracy around Anthea and Perfid.               |
-|       6 | [[Session 06 - Smoke, Song and Secrets                          | Smoke, Song and Secrets]]                       | 23 October 2025       | Back in Somnolent, each adventurer follows a separate lead involving the Pike, Ardynia and Broken Fang contraband.          |
-|       7 | [[Session 07 - Coffee and Contraband                            | Coffee and Contraband]]                         | 11 November 2025      | Elmwood reveals his interest in Tace Nox, nâ€™Dong uncovers a smuggling network and a cursed mask forces personal reckonings. |
-|       8 | [[Session 08 - The Weight of Secrets                            | The Weight of Secrets]]                         | 01 December 2025      | Romayne forces the truth into the open as the party pursues Ambassador Prusset through Somnolent.                           |
-|       9 | [[Session 09 - The Capture of Prusset                           | The Capture of Prusset]]                        | 23 December 2025      | After a desperate running battle, the party captures Prusset but fractures over who should receive him.                     |
-|      10 | [[Session 10 - Saints, Spies and Snake Eyes                     | Saints, Spies and Snake Eyes]]                  | 04 January 2026       | Prusset names the Church behind Antheaâ€™s murder while the party infiltrates the One Ball Inn gambling circle.               |
-|      11 | [[Session 11 - Ashes, Brands and Windfalls                      | Ashes, Brands and Windfalls]]                   | 11 February 2026      | A Broken Fang lead, a failed safe robbery and Romayneâ€™s formal patronage transform the party into agents of Somnolent.      |
-|   12â€“14 | [[Session 12-14 - Fire, Faith and the Corona of the Ashen Choir | Fire, Faith and the Corona of the Ashen Choir]] | 26 March 2026         | The Defracturers assault the Perfid embassy, rescue Terrick and pursue the Corona as Prusset is murdered in custody.        |
-|      15 | [[Session 15 - Stewards, Saddles and Shambling Roots            | Stewards, Saddles and Shambling Roots]]         | Friday, 27 March 2026 | The new bastion gains staff and horses before the road to Rana Viam begins with a deadly shambling mound.                   |
-|      16 | [[Session 16 - Cackles, Corpses and Catastrophe                 | Cackles, Corpses and Catastrophe]]              | 08 April 2026         | Bandits, Eula, stirges and Cackle Fever turn the journey towards Rana Viam into a disastrous retreat.                       |
-|      17 | [[Session 17 - Shrieks, Widows and Time Juice                   | Shrieks, Widows and Time Juice]]                | 22 April 2026         | After an owlbear attack and an ogre rescue, the party reaches Rana Viam and hears Saint Vaelenâ€™s warning.                   |
-|      18 | [[Session 18 - Frogger, Flames and the Golemâ€™s Toll             | Frogger, Flames and the Golemâ€™s Toll]]          | 03 May 2026           | The party crosses Rana Viamâ€™s living time puzzle and is annihilated by the golem guarding the relic.                        |
-|      19 | [[Session 19 - Bands, Broken Stone and the Glass Fang           | Bands, Broken Stone and the Glass Fang]]        | 23 June 2026          | The golem falls, the relic is secured and Broken Fang scouts confront the party as they leave Rana Viam.                    |
-|      20 | [[Session 20 - Plague, Pursuit and Plan E                       | Plague, Pursuit and Plan E]]                    | 02 July 2026          | The party pursues the scouts, bargains with Plague and captures a map to Ulsar Quinnâ€™s camp.                                |
+- **Session 1:** [[05 Campaign Chronicle/Session 01 - Die Dog, Die|Die Dog, Die]] - 22 July 2025. The party meets during Emberwake and defends Somnolent from a coordinated goblin attack.
+- **Session 2:** [[05 Campaign Chronicle/Session 02 - The Ashes of Emberwake|The Ashes of Emberwake]] - 12 August 2025. The first clues point towards Buggie and a Crow as the party follows Terrick towards Thistlewound.
+- **Session 3:** [[05 Campaign Chronicle/Session 03 - Into Buggie's Den|Into Buggie's Den]] - 06 September 2025. A tense parley with Buggie reveals new enemies before the party enters the Ardynian ruins beneath Thistlewound.
+- **Session 4:** [[05 Campaign Chronicle/Session 04 - Tace Nox|Tace Nox]] - 23 September 2025. The party confronts time magic, sacrificial machinery and corrupted relics within Tace Nox.
+- **Session 5:** [[05 Campaign Chronicle/Session 05 - Fingers, Coins and Incriminations|Fingers, Coins and Incriminations]] - 02 October 2025. The Thistlewound massacre, cursed coins and a roadside ambush deepen the conspiracy around Anthea and Perfid.
+- **Session 6:** [[05 Campaign Chronicle/Session 06 - Smoke, Song and Secrets|Smoke, Song and Secrets]] - 23 October 2025. Back in Somnolent, each adventurer follows a separate lead involving the Pike, Ardynia and Broken Fang contraband.
+- **Session 7:** [[05 Campaign Chronicle/Session 07 - Coffee and Contraband|Coffee and Contraband]] - 11 November 2025. Elmwood reveals his interest in Tace Nox, n'Dong uncovers a smuggling network and a cursed mask forces personal reckonings.
+- **Session 8:** [[05 Campaign Chronicle/Session 08 - The Weight of Secrets|The Weight of Secrets]] - 01 December 2025. Romayne forces the truth into the open as the party pursues Ambassador Prusset through Somnolent.
+- **Session 9:** [[05 Campaign Chronicle/Session 09 - The Capture of Prusset|The Capture of Prusset]] - 23 December 2025. After a desperate running battle, the party captures Prusset but fractures over who should receive him.
+- **Session 10:** [[05 Campaign Chronicle/Session 10 - Saints, Spies and Snake Eyes|Saints, Spies and Snake Eyes]] - 04 January 2026. Prusset names the Church behind Anthea's murder while the party infiltrates the One Ball Inn gambling circle.
+- **Session 11:** [[05 Campaign Chronicle/Session 11 - Ashes, Brands and Windfalls|Ashes, Brands and Windfalls]] - 11 February 2026. A Broken Fang lead, a failed safe robbery and Romayne's formal patronage transform the party into agents of Somnolent.
+- **Session 12-14:** [[05 Campaign Chronicle/Session 12-14 - Fire, Faith and the Corona of the Ashen Choir|Fire, Faith and the Corona of the Ashen Choir]] - 26 March 2026. The Defracturers assault the Perfid embassy, rescue Terrick and pursue the Corona as Prusset is murdered in custody.
+- **Session 15:** [[05 Campaign Chronicle/Session 15 - Stewards, Saddles and Shambling Roots|Stewards, Saddles and Shambling Roots]] - Friday, 27 March 2026. The new bastion gains staff and horses before the road to Rana Viam begins with a deadly shambling mound.
+- **Session 16:** [[05 Campaign Chronicle/Session 16 - Cackles, Corpses and Catastrophe|Cackles, Corpses and Catastrophe]] - 08 April 2026. Bandits, Eula, stirges and Cackle Fever turn the journey towards Rana Viam into a disastrous retreat.
+- **Session 17:** [[05 Campaign Chronicle/Session 17 - Shrieks, Widows and Time Juice|Shrieks, Widows and Time Juice]] - 22 April 2026. After an owlbear attack and an ogre rescue, the party reaches Rana Viam and hears Saint Vaelen's warning.
+- **Session 18:** [[05 Campaign Chronicle/Session 18 - Frogger, Flames and the Golem's Toll|Frogger, Flames and the Golem's Toll]] - 03 May 2026. The party crosses Rana Viam's living time puzzle and is annihilated by the golem guarding the relic.
+- **Session 19:** [[05 Campaign Chronicle/Session 19 - Bands, Broken Stone and the Glass Fang|Bands, Broken Stone and the Glass Fang]] - 23 June 2026. The golem falls, the relic is secured and Broken Fang scouts confront the party as they leave Rana Viam.
+- **Session 20:** [[05 Campaign Chronicle/Session 20 - Plague, Pursuit and Plan E|Plague, Pursuit and Plan E]] - 02 July 2026. The party pursues the scouts, bargains with Plague and captures a map to Ulsar Quinn's camp.
+- **Session 21:** [[05 Campaign Chronicle/Session 21 - Contracts, Command, and a Burning Camp|Contracts, Command, and a Burning Camp]] - 08 July 2026. Eula claims Salla's plague-ridden body, Ulsar Quinn reveals Rhul's Dazuun operation, and the Broken Fang camp burns as Ulsar and Talan fall.
 
 ## Major arcs
 
-- **Emberwake and Thistlewound:** Sessions 1â€“5
-- **Secrets in Somnolent:** Sessions 6â€“11
-- **The Perfid embassy:** Sessions 12â€“14
-- **The road to Rana Viam:** Sessions 15â€“17
-- **Rana Viam:** Sessions 18â€“19
-- **The Broken Fang pursuit:** Sessions 20â€“
+- **Emberwake and Thistlewound:** Sessions 1-5
+- **Secrets in Somnolent:** Sessions 6-11
+- **The Perfid embassy:** Sessions 12-14
+- **The road to Rana Viam:** Sessions 15-17
+- **Rana Viam:** Sessions 18-19
+- **The Broken Fang pursuit:** Sessions 20-21
 
 ## Related lore
 
@@ -5054,7 +6339,10 @@ A session-by-session account of the Defracturersâ€™ adventures, beginning w
 - [[Rakara]]
 - [[Rootbound]]
 - [[Broken Fang]]
-- [[Ulsar Quinn]]
+- [[03 People/Notable Deceased/Ulsar Quinn|Ulsar Quinn]]
+- [[03 People/Mentioned Figures/Rhul Slowdrift|Rhul Slowdrift]]
+- [[02 Places/Rakara/Voruun/Dazuun|Dazuun]]
+- [[06 Library/Campaign Reference/Dragon's Dandruff|Dragon's Dandruff]]
 - [[Plague]]
 - [[The Sundering of Ardynia]]
 - [[Perfidian Faith]]
@@ -5158,7 +6446,7 @@ They **rose to level 2**, not just as survivors, but as the first sparks of some
 
 ---
 
-**Chronicle:** [[content/05 Campaign Chronicle/index]]  
+**Chronicle:** [[05 Campaign Chronicle/index]]  
 **Navigation:** â€” Â· [[Session 02 - The Ashes of Emberwake|Next session]]
 
 
@@ -5278,7 +6566,7 @@ The battlefield fell still.
 
 ---
 
-**Chronicle:** [[content/05 Campaign Chronicle/index]]  
+**Chronicle:** [[05 Campaign Chronicle/index]]  
 **Navigation:** [[Session 01 - Die Dog, Die|Previous session]] Â· [[Session 03 - Into Buggie's Den|Next session]]
 
 
@@ -5429,7 +6717,7 @@ It opened. But what lay beyond?
 
 ---
 
-**Chronicle:** [[content/05 Campaign Chronicle/index]]  
+**Chronicle:** [[05 Campaign Chronicle/index]]  
 **Navigation:** [[Session 02 - The Ashes of Emberwake|Previous session]] Â· [[Session 04 - Tace Nox|Next session]]
 
 
@@ -5570,7 +6858,7 @@ And among the carnage, the party stood blinkingâ€”alive, but only just. And
 
 ---
 
-**Chronicle:** [[content/05 Campaign Chronicle/index]]  
+**Chronicle:** [[05 Campaign Chronicle/index]]  
 **Navigation:** [[Session 03 - Into Buggie's Den|Previous session]] Â· [[Session 05 - Fingers, Coins and Incriminations|Next session]]
 
 
@@ -5696,7 +6984,7 @@ Bruised, soaked, exhausted, and still haunted by too many unanswered questions, 
 
 ---
 
-**Chronicle:** [[content/05 Campaign Chronicle/index]]  
+**Chronicle:** [[05 Campaign Chronicle/index]]  
 **Navigation:** [[Session 04 - Tace Nox|Previous session]] Â· [[Session 06 - Smoke, Song and Secrets|Next session]]
 
 
@@ -5824,7 +7112,7 @@ He had his lead.
 
 ---
 
-**Chronicle:** [[content/05 Campaign Chronicle/index]]  
+**Chronicle:** [[05 Campaign Chronicle/index]]  
 **Navigation:** [[Session 05 - Fingers, Coins and Incriminations|Previous session]] Â· [[Session 07 - Coffee and Contraband|Next session]]
 
 
@@ -5861,7 +7149,7 @@ tags:
   - campaign
   - chronicle
   - session-notes
-updated: 2026-07-01
+updated: 2026-07-05
 ---
 
 # Session 07: Coffee and Contraband
@@ -5988,7 +7276,7 @@ The fight was brutal â€” not in blows traded, but in what it cost. The spec
 
 What remained was the mask â€” still and silent.
 
-As the group caught their breath, nâ€™Dong approached the mask with rare solemnity. Without prompting, without thought, he recited a forgotten prayer â€” a supplication to Virei, the Shattered Mask, whose broken visage watches over secrets and spirits.
+As the group caught their breath, nâ€™Dong approached the mask with rare solemnity. Without prompting, without thought, he recited a forgotten prayer â€” a supplication to Verei, the Shattered Mask, whose broken visage watches over secrets and spirits.
 
 The curse lifted. The mask fell inert. Without ceremony, nâ€™Dong pocketed it.
 
@@ -6000,8 +7288,8 @@ Whatever had happened in the basement wasnâ€™t just a haunting. It was a re
 
 ---
 
-**Chronicle:** [[content/05 Campaign Chronicle/index]]  
-**Navigation:** [[Session 06 - Smoke, Song and Secrets|Previous session]] Â· [[Session 08 - The Weight of Secrets|Next session]]
+**Chronicle:** [[05 Campaign Chronicle/index]]  
+**Navigation:** [[Session 06 - Smoke, Song and Secrets|Previous session]] Ã‚Â· [[Session 08 - The Weight of Secrets|Next session]]
 
 
 
@@ -6154,7 +7442,7 @@ And as Prusset vanished into the Ethereal again, flickering like a dying flame, 
 
 ---
 
-**Chronicle:** [[content/05 Campaign Chronicle/index]]  
+**Chronicle:** [[05 Campaign Chronicle/index]]  
 **Navigation:** [[Session 07 - Coffee and Contraband|Previous session]] Â· [[Session 09 - The Capture of Prusset|Next session]]
 
 
@@ -6244,7 +7532,7 @@ And the Defracturers? They were no longer just adventurers. They were now player
 
 ---
 
-**Chronicle:** [[content/05 Campaign Chronicle/index]]  
+**Chronicle:** [[05 Campaign Chronicle/index]]  
 **Navigation:** [[Session 08 - The Weight of Secrets|Previous session]] Â· [[Session 10 - Saints, Spies and Snake Eyes|Next session]]
 
 
@@ -6378,7 +7666,7 @@ But just as the sweat dried and the coins were clutched, the Pike smiled, his te
 
 ---
 
-**Chronicle:** [[content/05 Campaign Chronicle/index]]  
+**Chronicle:** [[05 Campaign Chronicle/index]]  
 **Navigation:** [[Session 09 - The Capture of Prusset|Previous session]] Â· [[Session 11 - Ashes, Brands and Windfalls|Next session]]
 
 
@@ -6415,7 +7703,7 @@ tags:
   - campaign
   - chronicle
   - session-notes
-updated: 2026-07-01
+updated: 2026-07-05
 ---
 
 # Session 11: Ashes, Brands and Windfalls
@@ -6479,7 +7767,7 @@ When they attempted to force the mechanism, the safe responded immediately. Ther
 
 The safe did not open. It marked them. The weight of their mistake settled in quickly. This was not a trap meant to kill. It was meant to identify.
 
-Realizing how exposed they now were, the pair abandoned any further attempt and fled. nâ€™Dong dropped the illusion of Alaaric, reverting to his true form, but immediately concealed himself behind the visage of Vireiâ€™s Shattered Mask, understanding that his distinctive appearance would be remembered.
+Realizing how exposed they now were, the pair abandoned any further attempt and fled. nâ€™Dong dropped the illusion of Alaaric, reverting to his true form, but immediately concealed himself behind the visage of Vereiâ€™s Shattered Mask, understanding that his distinctive appearance would be remembered.
 
 ## Marks, Mandates & War
 
@@ -6538,8 +7826,8 @@ And with that, the next morningâ€™s objective became clear: Storm the Perfi
 
 ---
 
-**Chronicle:** [[content/05 Campaign Chronicle/index]]  
-**Navigation:** [[Session 10 - Saints, Spies and Snake Eyes|Previous session]] Â· [[Session 12-14 - Fire, Faith and the Corona of the Ashen Choir|Next session]]
+**Chronicle:** [[05 Campaign Chronicle/index]]  
+**Navigation:** [[Session 10 - Saints, Spies and Snake Eyes|Previous session]] Ã‚Â· [[Session 12-14 - Fire, Faith and the Corona of the Ashen Choir|Next session]]
 
 
 
@@ -6694,11 +7982,11 @@ The zealots had escaped. The truth was unraveling faster than anyone could conta
 
 Romayne thanked the party, though the weight behind his words was heavier than gratitude. He instructed them to regroup at the embassy in the morning.
 
-The Defracturers agreed and, in true fashion, began planning something utterly absurd in the face of mounting crisis: A grand canapÃ© luncheon.
+The Defracturers agreed and, in true fashion, began planning something utterly absurd in the face of mounting crisis: A grand canapÃƒÂ© luncheon.
 
 ---
 
-**Chronicle:** [[content/05 Campaign Chronicle/index]]  
+**Chronicle:** [[05 Campaign Chronicle/index]]  
 **Navigation:** [[Session 11 - Ashes, Brands and Windfalls|Previous session]] Â· [[Session 15 - Stewards, Saddles and Shambling Roots|Next session]]
 
 
@@ -6854,7 +8142,7 @@ Because of course he did
 
 ---
 
-**Chronicle:** [[content/05 Campaign Chronicle/index]]  
+**Chronicle:** [[05 Campaign Chronicle/index]]  
 **Navigation:** [[Session 12-14 - Fire, Faith and the Corona of the Ashen Choir|Previous session]] Â· [[Session 16 - Cackles, Corpses and Catastrophe|Next session]]
 
 
@@ -6961,7 +8249,7 @@ Ieuan was tasked with finding a suitable place to make camp, and to his credit h
 
 ---
 
-**Chronicle:** [[content/05 Campaign Chronicle/index]]  
+**Chronicle:** [[05 Campaign Chronicle/index]]  
 **Navigation:** [[Session 15 - Stewards, Saddles and Shambling Roots|Previous session]] Â· [[Session 17 - Shrieks, Widows and Time Juice|Next session]]
 
 
@@ -7072,8 +8360,8 @@ The whole thing looked like a living puzzle. Or, as Erelmor put it with perfect 
 
 ---
 
-**Chronicle:** [[content/05 Campaign Chronicle/index]]  
-**Navigation:** [[Session 16 - Cackles, Corpses and Catastrophe|Previous session]] Â· [[Session 18 - Frogger, Flames and the Golemâ€™s Toll|Next session]]
+**Chronicle:** [[05 Campaign Chronicle/index]]  
+**Navigation:** [[Session 16 - Cackles, Corpses and Catastrophe|Previous session]] Â· [[Session 18 - Frogger, Flames and the Golem's Toll|Next session]]
 
 
 
@@ -7180,7 +8468,7 @@ That was enough to make the lesson clear. Shaken and finally willing to listen, 
 
 ---
 
-**Chronicle:** [[content/05 Campaign Chronicle/index]]  
+**Chronicle:** [[05 Campaign Chronicle/index]]  
 **Navigation:** [[Session 17 - Shrieks, Widows and Time Juice|Previous session]] Â· [[Session 19 - Bands, Broken Stone and the Glass Fang|Next session]]
 
 
@@ -7260,9 +8548,9 @@ And there the session hung: with the Bands finally won, the ruin behind them, th
 
 ---
 
-**Chronicle:** [[content/05 Campaign Chronicle/index]]
+**Chronicle:** [[05 Campaign Chronicle/index]]
 
-**Navigation:** [[Session 18 - Frogger, Flames and the Golemâ€™s Toll|Previous session]] Â· [[Session 20 - Plague, Pursuit and Plan E|Next session]]
+**Navigation:** [[Session 18 - Frogger, Flames and the Golem's Toll|Previous session]] Â· [[Session 20 - Plague, Pursuit and Plan E|Next session]]
 
 
 
@@ -7286,7 +8574,7 @@ party:
   - Erelmor
   - Ieuan
   - Enrak Kiran
-  - nâ€™Dong
+  - nÃ¢â‚¬â„¢Dong
 aliases:
   - Session 20
   - Plague, Pursuit and Plan E
@@ -7300,7 +8588,7 @@ updated: 2026-07-02
 # Session 20: Plague, Pursuit and Plan E
 
 > [!abstract] Session summary
-> The Defracturers pursue two fleeing Broken Fang scouts, bargain with a sentient fungus named Plague and secure rough maps of Ulsar Quinnâ€™s campâ€”at the cost of one prisoner and several increasingly questionable decisions.
+> The Defracturers pursue two fleeing Broken Fang scouts, bargain with a sentient fungus named Plague and secure rough maps of Ulsar QuinnÃ¢â‚¬â„¢s campÃ¢â‚¬â€at the cost of one prisoner and several increasingly questionable decisions.
 
 | | |
 |---|---|
@@ -7309,27 +8597,27 @@ updated: 2026-07-02
 
 The moment hung for only a heartbeat.
 
-Erelmorâ€™s arm snapped forward, dagger flashing as the party looked on with a mixture of hope and dread. For one brief instant, they all seemed to pray for the same thingâ€”that the rogueâ€™s strike might go wide, that they might still salvage a live prisoner, that reason might somehow prevail.
+ErelmorÃ¢â‚¬â„¢s arm snapped forward, dagger flashing as the party looked on with a mixture of hope and dread. For one brief instant, they all seemed to pray for the same thingÃ¢â‚¬â€that the rogueÃ¢â‚¬â„¢s strike might go wide, that they might still salvage a live prisoner, that reason might somehow prevail.
 
 It did not.
 
-The blade struck cleanly, slitting the scoutâ€™s throat with a wet, ugly finality. The body sagged in nâ€™Dongâ€™s grip, and whatever advantage interrogation might have brought died with it. The rest of the party swallowed their frustration as best they could and turned immediately to the more pressing problem: two more scouts had fled, and if they reached the Broken Fang camp with warning, the horsesâ€”and perhaps any advantage the Defracturers still heldâ€”would be lost.
+The blade struck cleanly, slitting the scoutÃ¢â‚¬â„¢s throat with a wet, ugly finality. The body sagged in nÃ¢â‚¬â„¢DongÃ¢â‚¬â„¢s grip, and whatever advantage interrogation might have brought died with it. The rest of the party swallowed their frustration as best they could and turned immediately to the more pressing problem: two more scouts had fled, and if they reached the Broken Fang camp with warning, the horsesÃ¢â‚¬â€and perhaps any advantage the Defracturers still heldÃ¢â‚¬â€would be lost.
 
-The response was immediate and chaotic in that distinct Defracturer fashion. nâ€™Dong took to the air for reconnaissance, while Ieuan shifted into elk form and carried Erelmor westward through the forest. Ballar, meanwhile, summoned a new steed: a hideous necrotic doe, an ooze of venomous tendrils forced into equine shape, which he and Enrak rode into the trees like some nightmare procession.
+The response was immediate and chaotic in that distinct Defracturer fashion. nÃ¢â‚¬â„¢Dong took to the air for reconnaissance, while Ieuan shifted into elk form and carried Erelmor westward through the forest. Ballar, meanwhile, summoned a new steed: a hideous necrotic doe, an ooze of venomous tendrils forced into equine shape, which he and Enrak rode into the trees like some nightmare procession.
 
-Ieuan picked up the fleeing scoutsâ€™ trail almost immediately, but it soon split into two routes. With no time to waste, the party divided. Erelmor established a psychic link between Enrak and nâ€™Dong, keeping the separated groups in contact while nâ€™Dong tried to maintain an aerial position somewhere between them.
+Ieuan picked up the fleeing scoutsÃ¢â‚¬â„¢ trail almost immediately, but it soon split into two routes. With no time to waste, the party divided. Erelmor established a psychic link between Enrak and nÃ¢â‚¬â„¢Dong, keeping the separated groups in contact while nÃ¢â‚¬â„¢Dong tried to maintain an aerial position somewhere between them.
 
 Ballar and Enrak, taking the north-eastern route, were the first to catch their man. They drove the terrified scout toward a riverbank and boxed him in. He babbled in panic, pleading with them not to make too much noise, not to call out, not to draw attention.
 
 Then the forest itself answered the warning.
 
-From somewhere to the north came a sweet, lilting shanty, almost impossibly charming, the kind of song that seemed to drift directly into the mind rather than the ear. For a moment, everything threatened to go sidewaysâ€”but Ballar, Enrak and even the scout all managed to resist the lure. The prisoner, now even more frantic, stammered out the explanation: a bog siren, something that haunted the swamps and had lured many of the Broken Fang to their deaths.
+From somewhere to the north came a sweet, lilting shanty, almost impossibly charming, the kind of song that seemed to drift directly into the mind rather than the ear. For a moment, everything threatened to go sidewaysÃ¢â‚¬â€but Ballar, Enrak and even the scout all managed to resist the lure. The prisoner, now even more frantic, stammered out the explanation: a bog siren, something that haunted the swamps and had lured many of the Broken Fang to their deaths.
 
 Ballar had heard enough. The man had no horse, no useful information worth the time it took to wring it from him and no dignity left to preserve. So Ballar simply knocked him unconscious and stuffed him into the bag of holding, ignoring the muffled panic and increasingly reasonable complaints emanating from within. With Enrak in tow, he followed the creek, determined to rejoin the others.
 
 That was when the forest began to rustle.
 
-To the west, Ieuan and Erelmor had problems of their own. nâ€™Dongâ€™s aerial scouting, while earnest, was of debatable usefulnessâ€”his reports of â€œcowsâ€ and then â€œnaked cowsâ€ provided little clarity. Still, the pair pressed on until they came to a choice between scaling a cliff face or traversing a patch of suspicious-looking fungus. True to form, Ieuan chose the fungus without hesitation.
+To the west, Ieuan and Erelmor had problems of their own. nÃ¢â‚¬â„¢DongÃ¢â‚¬â„¢s aerial scouting, while earnest, was of debatable usefulnessÃ¢â‚¬â€his reports of Ã¢â‚¬Å“cowsÃ¢â‚¬Â and then Ã¢â‚¬Å“naked cowsÃ¢â‚¬Â provided little clarity. Still, the pair pressed on until they came to a choice between scaling a cliff face or traversing a patch of suspicious-looking fungus. True to form, Ieuan chose the fungus without hesitation.
 
 Having identified it as poisonous, he made an even stranger choice and cast Speak with Plants.
 
@@ -7337,45 +8625,45 @@ The fungus responded.
 
 It called itself [[Plague]].
 
-The entity was simple-minded but disturbingly earnest, utterly consumed by its singular purpose: to spread. It explained that it had been left there by a â€œbad mad manâ€ of the forest, one later killed by the â€œforest guardians.â€ It knew little beyond that, except its own hunger to proliferate.
+The entity was simple-minded but disturbingly earnest, utterly consumed by its singular purpose: to spread. It explained that it had been left there by a Ã¢â‚¬Å“bad mad manÃ¢â‚¬Â of the forest, one later killed by the Ã¢â‚¬Å“forest guardians.Ã¢â‚¬Â It knew little beyond that, except its own hunger to proliferate.
 
 In one of the more alarming negotiations the party had yet engaged in, Ieuan struck a bargain. If Plague allowed them to pass without harm, he would take five cuttings and spread them elsewhere. As he carefully clipped samples from the fungus, concentrating with all the delicacy of a druid handling some eldritch horticultural contract, he felt Erelmor tug at his cloak.
 
 Something was wrong.
 
-Through the telepathic link came panicked cries from the othersâ€”webs and spiders.
+Through the telepathic link came panicked cries from the othersÃ¢â‚¬â€webs and spiders.
 
-Ballar and Enrak had barely entered the creek before two giant spiders descended upon them. Ballarâ€™s grotesque summoned doe was quickly torn apart, while Enrak was wrapped in fresh webbing almost at once. From inside the bag of holding, the prisonerâ€”now identified as Sallaâ€”screamed the incredibly fair question:
+Ballar and Enrak had barely entered the creek before two giant spiders descended upon them. BallarÃ¢â‚¬â„¢s grotesque summoned doe was quickly torn apart, while Enrak was wrapped in fresh webbing almost at once. From inside the bag of holding, the prisonerÃ¢â‚¬â€now identified as SallaÃ¢â‚¬â€screamed the incredibly fair question:
 
-> â€œWhy did you run into the spiders?!â€
+> Ã¢â‚¬Å“Why did you run into the spiders?!Ã¢â‚¬Â
 
-Ballar, however, was in no mood for criticism from luggage. He threw himself into full heroics, helping Enrak and charging the spiders head-on. The pair fought with savage urgency, throwing magic and steel into the fray, and Ballar even released a small rat from his bag of tricks to aid the battle. The ratâ€™s contribution was, charitably, limited. Still, the spiders fell, and the pair pushed on through the dense forest toward the others.
+Ballar, however, was in no mood for criticism from luggage. He threw himself into full heroics, helping Enrak and charging the spiders head-on. The pair fought with savage urgency, throwing magic and steel into the fray, and Ballar even released a small rat from his bag of tricks to aid the battle. The ratÃ¢â‚¬â„¢s contribution was, charitably, limited. Still, the spiders fell, and the pair pushed on through the dense forest toward the others.
 
-Back on the western route, Ieuan and Erelmor emerged past the poisonous growth only to find the ground split again, their path blocked by a pool of tar. Opinions on how best to proceed varied wildly. There was talk of misty stepping. There was, from Ballar through the psychic link, the deeply unhelpful but very sincere suggestion to â€œlick it.â€
+Back on the western route, Ieuan and Erelmor emerged past the poisonous growth only to find the ground split again, their path blocked by a pool of tar. Opinions on how best to proceed varied wildly. There was talk of misty stepping. There was, from Ballar through the psychic link, the deeply unhelpful but very sincere suggestion to Ã¢â‚¬Å“lick it.Ã¢â‚¬Â
 
-Before anyone could commit to that spectacularly poor idea, nâ€™Dong spotted the second scout from the air. He acted instantly, hurling a bolt of fire down at the fleeing man and calling for aid by announcing, with admirable uselessness, that the target was near â€œthe naked cows.â€
+Before anyone could commit to that spectacularly poor idea, nÃ¢â‚¬â„¢Dong spotted the second scout from the air. He acted instantly, hurling a bolt of fire down at the fleeing man and calling for aid by announcing, with admirable uselessness, that the target was near Ã¢â‚¬Å“the naked cows.Ã¢â‚¬Â
 
-Salla, from his imprisonment, insisted they would never catch the man. This second scout, he explained, was named Malt, and Malt was â€œthe fastest man alive.â€
+Salla, from his imprisonment, insisted they would never catch the man. This second scout, he explained, was named Malt, and Malt was Ã¢â‚¬Å“the fastest man alive.Ã¢â‚¬Â
 
 That turned out to be a bold but inaccurate claim.
 
-With nâ€™Dong raining fire from above and Ieuan and Erelmor racing through the trees to cut off his escape, Malt was swiftly cornered and singed into surrender. The full party regrouped at last, now with two prisoners instead of one corpse and one lost lead.
+With nÃ¢â‚¬â„¢Dong raining fire from above and Ieuan and Erelmor racing through the trees to cut off his escape, Malt was swiftly cornered and singed into surrender. The full party regrouped at last, now with two prisoners instead of one corpse and one lost lead.
 
-Faced with the need for useful intelligence, the Defracturers offered the scouts a grim little contest: one of them might live, depending on who gave the most useful information. Their immediate demand was simple enoughâ€”a map of the Broken Fang camp, especially the location of the stolen horses.
+Faced with the need for useful intelligence, the Defracturers offered the scouts a grim little contest: one of them might live, depending on who gave the most useful information. Their immediate demand was simple enoughÃ¢â‚¬â€a map of the Broken Fang camp, especially the location of the stolen horses.
 
-Even in manacles, both scouts did their best. The resulting sketches were crude, sparse and lacking in the detail the party would have preferred, but they were close enough to one another to be believable. The Defracturers, though unimpressed, decided the pair would liveâ€”for now. There was always the possibility they might still prove useful later.
+Even in manacles, both scouts did their best. The resulting sketches were crude, sparse and lacking in the detail the party would have preferred, but they were close enough to one another to be believable. The Defracturers, though unimpressed, decided the pair would liveÃ¢â‚¬â€for now. There was always the possibility they might still prove useful later.
 
 The party pressed on through the forest in search of somewhere safe to rest and think.
 
 The forest, however, had not finished with them.
 
-With nâ€™Dong taking point, the group blundered straight into a nest of Egg Hunter Hatchlings, and the creatures swarmed them almost instantly. nâ€™Dong was the first to go down, quickly followed by Salla and Malt, both of whom proved less resilient when caught in the middle of a monster ambush. Ballar managed to revive nâ€™Dong, while Ieuan cast Spare the Dying on Malt. But with the hatchlings crashing over the party in waves, there was no chance to save Salla.
+With nÃ¢â‚¬â„¢Dong taking point, the group blundered straight into a nest of Egg Hunter Hatchlings, and the creatures swarmed them almost instantly. nÃ¢â‚¬â„¢Dong was the first to go down, quickly followed by Salla and Malt, both of whom proved less resilient when caught in the middle of a monster ambush. Ballar managed to revive nÃ¢â‚¬â„¢Dong, while Ieuan cast Spare the Dying on Malt. But with the hatchlings crashing over the party in waves, there was no chance to save Salla.
 
 The fight that followed was ugly, frantic and exhausting. By the time the last of the creatures were dead, the Defracturers were panting, bloodied and thoroughly sick of the forest.
 
 Then Ieuan made things stranger still.
 
-Calmly, almost proudly, he took one of the Plague cuttings and planted it directly into Sallaâ€™s corpse.
+Calmly, almost proudly, he took one of the Plague cuttings and planted it directly into SallaÃ¢â‚¬â„¢s corpse.
 
 The group stared at him in open confusion.
 
@@ -7383,7 +8671,7 @@ That, somehow, was the point at which the conversation finally turned to plannin
 
 The reception was immediate and firm.
 
-It was, he was told, an â€œacceptable Plan E.â€
+It was, he was told, an Ã¢â‚¬Å“acceptable Plan E.Ã¢â‚¬Â
 
 Thus chastened, and increasingly aware that the others did not share his enthusiasm for fungal warfare, Ieuan looked down at his feet while the rest of the Defracturers debated what their actual next move should be.
 
@@ -7391,9 +8679,230 @@ And there, deep in hostile woods, burdened by a surviving prisoner, cuttings of 
 
 ---
 
-**Chronicle:** [[content/05 Campaign Chronicle/index]]
+**Chronicle:** [[05 Campaign Chronicle/index]]
 
-**Navigation:** [[Session 19 - Bands, Broken Stone and the Glass Fang|Previous session]] Â· â€”
+**Navigation:** [[Session 19 - Bands, Broken Stone and the Glass Fang|Previous session]] Â· [[Session 21 - Contracts, Command, and a Burning Camp|Next session]]
+
+
+
+---
+# FILE: C:\Users\ellis\Documents\vaelond-wiki\content\05 Campaign Chronicle\Session 21 - Contracts, Command, and a Burning Camp.md
+---
+
+---
+title: 'Session 21: Contracts, Command, and a Burning Camp'
+type: session-note
+status: published
+player_facing: true
+session: 21
+arc: Broken Fang Pursuit
+locations:
+  - Forests near Rana Viam
+  - Broken Fang camp near Rana Viam
+factions:
+  - Broken Fang
+party:
+  - Ballar Novis
+  - Erelmor
+  - Ieuan
+  - Enrak Kiran
+  - nâ€™Dong
+aliases:
+  - Session 21
+  - Contracts, Command, and a Burning Camp
+tags:
+  - campaign
+  - chronicle
+  - session-notes
+updated: 2026-07-08
+---
+
+# Session 21: Contracts, Command, and a Burning Camp
+
+> [!abstract] Session summary
+> Eula claims Sallaâ€™s plague-ridden body, the Defracturers parley with Ulsar Quinn, and the Broken Fang camp burns as Ulsar and Talan fall while Mireya's body is preserved for possible resurrection.
+
+| | |
+|---|---|
+| **Session** | 21 |
+| **Arc** | Broken Fang Pursuit |
+
+The forest did not stay quiet for long.
+
+Before the Defracturers could settle fully into planning their next move, [[03 People/Notable Figures/Eula|Eula]] appeared once more, drawn as reliably as ever by the promise of fresh dead. This time she found something that seemed to genuinely amuse her: the body of Salla, now thoroughly infested with the clipped growths of [[06 Library/Campaign Reference/Plague|Plague]] that [[03 People/Player Characters/Ieuan|Ieuan]] had so thoughtfully planted inside him. She paused over the corpse with visible delight, and even stopped to ask whether this particular piece of grotesque creativity had been [[03 People/Player Characters/Erelmor|Erelmorâ€™s]] doing.
+
+[[03 People/Player Characters/Ballar Novis|Ballar]], still deeply uncomfortable with the arrangement no matter how much the others had normalised it, decided to express his feelings in perhaps the most childish possible way. He sent his rat to harass Eula, and watched with palpable delight as the tiny beast repeatedly tried to bite her while somehow dodging the bonfire magic she flicked at it in irritation. Eventually, though, Eula managed to burn the vermin and reclaim the plague-ridden corpse. As she vanished with the body, the forest itself seemed to cry out, releasing a long and pained howl that suggested something deeper had just been disturbed.
+
+The party, now in desperate need of proper rest, slowed their advance. Ieuan cast Pass Without Trace, allowing the group to edge stealthily toward the [[04 Organisations/Broken Fang|Broken Fang]] camp while Nocturna flew ahead to scout its layout. During this cautious approach, Erelmor identified a clearing east of the camp that looked defensible enough for a long rest.
+
+Unfortunately, it was not empty.
+
+A dire wolf occupied the space, great and hungry and in no mood to share. Ieuan, never one to let a potentially dangerous animal go unreasonably unconversed-with, cast Speak with Animals and opened negotiations. The wolfâ€™s initial assessment of the party was blunt enough: they smelled tasty.
+
+At that point Ballar stepped in with a different kind of diplomacy. He pulled a brown bear from his Bag of Tricks and, for reasons known only to Ballar, instructed it to submit to the dire wolf. The wolf wasted no time whatsoever in going for the bearâ€™s throat and dragged the mauled creature away into the woods. Apparently satisfied by this tribute, it left the party in peace.
+
+So the Defracturers finally took their long rest.
+
+It was, by their standards, relatively successful. Erelmor, displaying a startling degree of self-awareness, gagged himself before trancing in an effort to muffle the screams that so often accompanied his nightmares. Ieuan spent part of the rest studying his [[06 Library/Relics and Artefacts/Star Seed|Star Seed]], trying to focus on the beauty unfolding within it, but found his attention repeatedly stolen by the whispers of Plague, which happily informed him that its first cutting was settling in nicely:
+
+> *â€œItâ€™s so nice here. So many bodies. So many opportunities.â€*
+
+Elsewhere, Maltâ€”the surviving scoutâ€”finally pieced together who exactly these people were and what they had already done. Between laughter and apparent disbelief, he explained that [[03 People/Mentioned Figures/Rhul Slowdrift|Rhul]] and [[03 People/Notable Deceased/Ulsar Quinn|Ulsar]] despised one another, and that the partyâ€™s disruptions in Rakara might actually have put them in Ulsarâ€™s good graces rather than his wrath.
+
+Then came the more direct confirmation.
+
+Using the sending stone recovered from the dead Broken Fang party in [[02 Places/Rakara/Rana Viam|Rana Viam]], [[03 People/Player Characters/n'Dong|nâ€™Dong]] received a message in a voice he would never have mistaken:
+
+> *â€œnâ€™Dong, I do hope you picked up this stone. Come see me, itâ€™s been too long.â€*
+
+It was Ulsar.
+
+With that, the path ahead became clear.
+
+The Defracturers approached the camp with a divided strategy. Erelmor and Ieuan slipped around the back under cover of stealthâ€”Erelmor aided by Pass Without Trace, and Ieuan by invisibilityâ€”with the aim of reaching the horses and cutting them free. Meanwhile, Ballar, [[03 People/Player Characters/Enrak Kiran|Enrak]], and nâ€™Dong walked openly through the front, cloaking themselves in the language of false diplomacy.
+
+Inside the camp, the meeting quickly turned into a standoff.
+
+Ballar tried to insist the discussion take place on neutral ground, but [[03 People/Notable Deceased/Ulsar Quinn|Ulsar Quinn]] saw no reason whatsoever to leave the comfort of his own camp. Matters sharpened further when Talan Rook vaulted the horse pen fence and pressed a greatsword to Brackenâ€™s neck, making it abundantly clear that Ulsar had leverage and knew how to use it. The party, wary and furious in equal measure, complied.
+
+What followed was less a negotiation than a contest of wills.
+
+Ulsar openly praised the group for the damage they had done to Rhulâ€™s operations in Rakara, then immediately tried to reinforce old hierarchies by casting Command on nâ€™Dong and ordering him to grovel. The first attempt failed, but the message was plain enough. Ulsar then laid out his opening offer: the [[06 Library/Relics and Artefacts/Bands of Distortion|Bands of Distortion]] in exchange for [[03 People/Notable Figures/Mireya Dinak|Mireya]] and the horses.
+
+The Defracturers refused.
+
+Instead, they proposed a partnership of convenience, offering to further undermine Rhul if Ulsar would simply return their companions and let them go.
+
+Ulsar declined politely, then successfully commanded nâ€™Dong to grovel, taking evident pleasure in reminding him exactly where he believed his former subordinate belonged. Even so, he was intrigued by the possibility of turning the party into a weapon against the Water Fang, and so he explained the real shape of his desired bargain.
+
+With deeply unsettling knowledge, Ulsar revealed that he knew not only about the bracers, but also about the heart stone that tethered them. He explained that he only needed one or the other. If someone failed to attune to the bracers, they would return to the heart stone. Possessing either was enough.
+
+While Ballar, nâ€™Dong, and Enrak tried to keep him talkingâ€”pressing him for every scrap of information they could about Rhul, [[03 People/Notable Figures/Prodosius|Prodosius]], and the Broken Fangâ€™s internal divisionsâ€”Erelmor and Ieuan worked behind the camp to free the horses. Ulsar, to his credit, was astonishingly forthcoming. He described the infighting among the Broken Fangâ€™s upper ranks, their contempt for Rhulâ€™s current efforts in Rakara, Prodosiusâ€™s relentless drive to expand operations, and the best ways to expose or strike Rhul so as to draw Prodosius himself into the open.
+
+More concretely, Ulsar claimed that killing Rhul or destroying his operation in Rakara would likely bring Prodosius into the open, because Prodosius's pride would not allow the humiliation to stand. Rhul's main Rakaran operation was the fighting pits of [[02 Places/Rakara/Voruun/Dazuun|Dazuun]], the capital of [[02 Places/Rakara/Clans/Clan Voruun|Voruun]], which he had somehow managed to take control of. Ulsar also revealed that three alchemists from [[02 Places/Rakara/Clans/Clan Khaali|Clan Khaali]] were producing [[06 Library/Campaign Reference/Dragon's Dandruff|Dragon's Dandruff]], a potent stimulant used by contestants in the pits, from a lab south of [[02 Places/Rakara/Somnolent/Somnolent|Somnolent]].
+
+It was a remarkable display of apparent good faith.
+
+Then he asked once more if they had a deal.
+
+At the same time, nâ€™Dongâ€”spotting Mireya tied up inside Ulsarâ€™s tentâ€”used the sending stone to tell her to make a distraction. She tried. She kicked over a brazier and attempted to scream. Unfortunately, injured and bound, the best she could manage was a weak whimper.
+
+Ballar, desperate to stretch the moment, leaned on every ounce of charm and perfume-fuelled confidence he had left, persuading Ulsar to at least draw up a contract. With a weary sigh, Ulsar turned toward his tent to do just that.
+
+Inside, he saw the brazier.
+
+Without hesitation, he stamped out the embers and struck Mireya hard enough to knock her unconscious.
+
+Meanwhile, at the horse pen, conditions were deteriorating. The horses were not simply tethered individually; they were tied to one another and to the fence itself, with nine ropes in total complicating any quick escape. Erelmor had some success, severing two of the three ropes holding Nail, but Ieuan made agonisingly slow progress. Through the telepathic connection, they could hear Ulsarâ€™s patience thinning, his temper beginning to fray.
+
+Ieuan made the decision.
+
+He cast Command on Talan, ordering him to flee.
+
+Everything collapsed at once.
+
+Hell broke loose across the camp. nâ€™Dong tried to take flight but was caught in a grapple. Enrak, dispensing entirely with subtlety, went supernova, casting Fireball into the camp and incinerating half the battlefieldâ€”including the tent and, disastrously, Mireya inside it. Ulsar answered by tearing into Ballar with devastating force, while Talan, obeying the command to flee, still managed to drop Ballar on the way out. In the chaos, Kingcup was kicked by a warhorse and nearly died.
+
+Then nâ€™Dong answered in kind, landing a natural 20 Chromatic Orb on Ulsar that left the Glass Fang captain barely standing.
+
+As the fight spiralled, Ieuan used Nocturna to revive Ballar, while Enrak was overwhelmed and went down under attacks from scouts and bugbears. Ballar, grappled and prone, had to Misty Step out of the press of bodies just to stay alive.
+
+And then, in the midst of all that chaos, Erelmor delivered the fatal blow.
+
+A natural 20 Ray of Sickness struck Ulsar cleanly, finally bringing him down.
+
+It should have been the end.
+
+Instead, Talan Rook returned, cutting down Erelmor as he tried to recover his masterâ€™s body. Ballar re-entered the fray long enough to revive Enrak with Lay on Hands, then desperately searched the burning tent for Mireyaâ€™s body, but found nothing in the inferno. Talan, meanwhile, seized Ulsarâ€™s corpse and tried to flee with it.
+
+nâ€™Dong would not allow that.
+
+From the sky, he unleashed a massive Acid Ball, finally taking his revenge on the man who had once broken him. The acid melted Ulsarâ€™s body and brought down Talan with it, ending both men in a ruin of burning flesh and vengeance.
+
+After that, the remaining resistance in the Broken Fang camp was quickly dealt with. The Defracturers picked off whatever was left, and Ieuan, ever mindful of bargains made, howled into the forest for the dire wolves to come and claim the food they had been promised.
+
+Only then did Ballar return to the ruined tent.
+
+This time, he found Mireyaâ€™s burned body. Realising there might still be time to save her, he cast Gentle Repose, preserving what remained and buying the party the chance to bring her back later.
+
+By the end of it all, the camp was in ruins, Ulsar was dead, Talan was dead, Mireya was not quite beyond saving, and the Defracturers stood amid yet another victory that looked suspiciously like a disaster.
+
+Which, for them, was about normal.
+
+---
+
+**Chronicle:** [[05 Campaign Chronicle/index]]
+
+**Navigation:** [[Session 20 - Plague, Pursuit and Plan E|Previous session]] Â· â€”
+
+
+
+---
+# FILE: C:\Users\ellis\Documents\vaelond-wiki\content\06 Library\Campaign Reference\Dragon's Dandruff.md
+---
+
+---
+title: Dragon's Dandruff
+type: substance
+status: published
+player_facing: true
+aliases:
+  - Dragons Dandruff
+  - Dragon Dandruff
+tags:
+  - campaign
+  - reference
+  - substance
+  - magic
+  - broken-fang
+  - voruun
+source: Session 21
+updated: 2026-07-08
+---
+
+# Dragon's Dandruff
+
+> [!summary] At a glance
+> A flaky amber salt traditionally used as seasoning by lizard-folk, now linked to Rhul Slowdrift's fighting-pit operation in Dazuun.
+
+## Description
+
+Dragon's Dandruff is a flaky amber salt traditionally used as seasoning by lizard-folk. Its signature **chilli-high** makes any party memorable, though one unnamed individual unused to the taste described it as akin to chewing on a hot coal.
+
+In Session 21, [[03 People/Notable Deceased/Ulsar Quinn|Ulsar Quinn]] revealed that three [[02 Places/Rakara/Clans/Clan Khaali|Khaali]] alchemists are producing Dragon's Dandruff for use by contestants in the fighting pits of [[02 Places/Rakara/Voruun/Dazuun|Dazuun]].
+
+## Effects
+
+A teaspoon of Dragon's Dandruff causes an initial burning sizzle, dealing **1d4 radiant damage**.
+
+Afterwards, the consumer experiences a rushing sensation of joy, increasing **Charisma by 1 for one hour**.
+
+Once the salt metabolises, the consumer becomes flooded with adrenaline. For one hour, their **Strength, Stamina and Dexterity increase by 2**, and they feel compelled to undertake physical tasks.
+
+After the effects fade, the consumer suffers **1 level of exhaustion**.
+
+These effects do **not stack**.
+
+Undead creatures take **1d8 radiant damage for every teaspoon consumed**.
+
+## Current significance
+
+Dragon's Dandruff is now tied to the [[04 Organisations/Broken Fang|Broken Fang's]] Rakaran operations. [[03 People/Mentioned Figures/Rhul Slowdrift|Rhul Slowdrift]] has taken control of the fighting pits of Dazuun, and the stimulant appears to be part of that control.
+
+> [!question] Unresolved
+> - Are the pit contestants taking Dragon's Dandruff willingly?
+> - How addictive or dangerous is repeated use?
+> - Are the Khaali alchemists working under duress, for profit or for political reasons?
+> - Where exactly is the lab south of Somnolent?
+
+## Related
+
+- [[04 Organisations/Broken Fang|Broken Fang]]
+- [[03 People/Mentioned Figures/Rhul Slowdrift|Rhul Slowdrift]]
+- [[02 Places/Rakara/Voruun/Dazuun|Dazuun]]
+- [[02 Places/Rakara/Clans/Clan Voruun|Clan Voruun]]
+- [[02 Places/Rakara/Clans/Clan Khaali|Clan Khaali]]
+- [[06 Library/Letters and Documents/Broken Fang Contraband Manifest|Broken Fang Contraband Manifest]]
 
 
 
@@ -7411,7 +8920,7 @@ tags:
   - reference
   - horses
 source: 'Campaign notes and session chronicle'
-updated: 2026-07-02
+updated: 2026-07-08
 ---
 
 # Horses
@@ -7470,12 +8979,14 @@ Beautiful, vain, difficult and more suited to a parade ground than a battlefield
 
 ## Current situation
 
-At the end of [[05 Campaign Chronicle/Session 20 - Plague, Pursuit and Plan E|Session 20]]:
+At the end of [[05 Campaign Chronicle/Session 21 - Contracts, Command, and a Burning Camp|Session 21]]:
 
-- The horses remained at a Broken Fang camp associated with [[03 People/Notable Figures/Ulsar Quinn|Ulsar Quinn]].
-- Captured scouts Salla and Malt produced separate maps that broadly agreed on the camp's layout and the horses' approximate position.
-- The party had not yet entered the camp or recovered any of the mounts.
-- There is no confirmed indication that any horse has been injured.
+- The horses are no longer held by Ulsar Quinn's forces.
+- Ulsar's Broken Fang camp near Rana Viam was destroyed.
+- Bracken was threatened by Talan Rook during the parley, when Talan pressed a greatsword to his neck.
+- Erelmor began freeing Nail during the infiltration, cutting two of the three ropes holding him.
+- Kingcup was kicked by a warhorse during the chaos and nearly died.
+- Mireya, who had been watching the horses, was killed in the burning camp and preserved by Ballar with Gentle Repose.
 
 ## Related
 
@@ -7503,35 +9014,36 @@ tags:
   - campaign
   - reference
   - goals
-coverage: Sessions 1-20
-updated: 2026-07-02
+coverage: Sessions 1-21
+updated: 2026-07-08
 ---
 
 # Open Threads
 
 > [!info] Review basis
-> This tracker has been reconciled against the chronicle through Session 20.
+> This tracker has been reconciled against the chronicle through Session 21.
 
 **New** threads emerged recently, **active** threads still drive the campaign, **reframed** threads remain relevant but no longer in their original form, and **stale** threads have seen no meaningful progress for many sessions.
 
-## Immediate after Session 20
+## Immediate after Session 21
 
 | Status | Thread | Current position |
 |---|---|---|
-| **Urgent** | Recover the party's horses and confront or evade [[03 People/Notable Figures/Ulsar Quinn|Ulsar Quinn]] | Salla and Malt drew broadly consistent camp maps, including the approximate horse location. The party has not agreed on an infiltration plan. |
-| **Urgent** | Decide what to do with Malt | Malt survived the Egg Hunter attack after Ieuan stabilised him and remains the party's prisoner. |
-| **New / dangerous** | Resolve Ieuan's bargain with [[06 Library/Campaign Reference/Plague|Plague]] | One of five cuttings was planted in Salla's corpse. Ieuan retains four and promised to spread them. |
-| **Urgent** | Protect the [[06 Library/Relics and Artefacts/Bands of Distortion|Bands of Distortion]] | The relic and its heart stone have been removed from Rana Viam and are likely targets for the Broken Fang and other relic hunters. |
-| **Active** | Reach Hushvale | The party intended to travel there after leaving Rana Viam, but the pursuit and camp problem have interrupted that plan. |
+| **Urgent** | Decide whether and how to restore [[03 People/Notable Figures/Mireya Dinak|Mireya Dinak]] | Mireya was killed in the burning Broken Fang camp. Ballar preserved her body with Gentle Repose, creating a limited opportunity to bring her back. |
+| **Urgent** | Decide whether to strike [[03 People/Mentioned Figures/Rhul Slowdrift|Rhul Slowdrift]] through [[02 Places/Rakara/Voruun/Dazuun|Dazuun]] | Ulsar claimed Rhul controls the fighting pits of Dazuun and that destroying the operation may draw Prodosius into the open. |
+| **Urgent / dangerous** | Locate the [[06 Library/Campaign Reference/Dragon's Dandruff|Dragon's Dandruff]] lab south of Somnolent | Ulsar claimed three Khaali alchemists are producing the stimulant for Rhul's pit operation. |
+| **New / dangerous** | Resolve Ieuan's bargain with [[06 Library/Campaign Reference/Plague|Plague]] | One cutting was planted in Salla's corpse, which Eula has now taken. Ieuan still has remaining cuttings unless later used or destroyed. |
+| **Urgent** | Protect the [[06 Library/Relics and Artefacts/Bands of Distortion|Bands of Distortion]] | Ulsar revealed that the heart stone is as strategically important as the Bands themselves. |
+| **Active** | Reach Hushvale | Hushvale remains the intended destination, but Mireya's death, Rhul's operation and the alchemy lab may now compete for attention. |
 
 ## Active investigations
 
 | Thread | Focus | Current position |
 |---|---|---|
-| Find **Prodosius** | [[03 People/Player Characters/n'Dong|n'Dong]] | Ulsar Quinn and the named high-ranking member [[03 People/Mentioned Figures/Rhul Slowdrift|Rhul Slowdrift]] may provide links towards him. Rhul's exact role is unknown. |
-| Investigate [[04 Organisations/Broken Fang|Broken Fang]] activity | Whole party | The faction runs a smuggling network, searches Ardynian sites and has seized the party's horses. |
+| Find **Prodosius** | [[03 People/Player Characters/n'Dong|n'Dong]] | Ulsar is dead, but claimed that killing Rhul or destroying Rhul's Rakaran operation would likely draw Prodosius into the open. |
+| Investigate [[04 Organisations/Broken Fang|Broken Fang]] activity | Whole party | The faction runs a smuggling network, searches Ardynian sites, held a camp near Rana Viam and now appears to control Dazuun's fighting pits through Rhul. |
 | Discover who murdered Erelmor's family | [[03 People/Player Characters/Erelmor|Erelmor]] | [[03 People/Notable Figures/Ervain Megbanas|Ervain Megbanas]] remains connected to the history of the Maw, but no longer appears to be part of the immediate Anthea and Bromere-coin conspiracy. |
-| Understand [[03 People/Notable Figures/Eula|Eula]] and the cursed coins | Whole party | The coins alert Eula to killings nearby. Why she collects bodies, who she serves and what the corpses become remain unknown. |
+| Understand [[03 People/Notable Figures/Eula|Eula]] and the cursed coins | Whole party | Eula now has Salla's plague-infested body. Why she collects bodies, who she serves and what the corpses become remain unknown. |
 | Trace the remaining Ardynian relics | Whole party | The party has the Bands of Distortion. The Staff of Broken Time, the Coronas of the Ashen Choir and other Sundering tools remain in play. |
 | Understand Din and find him a body | [[03 People/Player Characters/Ballar Novis|Ballar]] | The soul in Ballar's ring has offered guidance in return for a body. His identity and full agenda remain unresolved. |
 | Determine whether Anthea was Saint Marra | Whole party | The Perfidian Church believed or claimed that she was. Vaelen's message confirms ancient conflict but does not substantiate Anthea's identity. |
@@ -7544,6 +9056,8 @@ updated: 2026-07-02
 
 | Original thread | Status | Why |
 |---|---|---|
+| Confront [[03 People/Notable Deceased/Ulsar Quinn|Ulsar Quinn]] | **Closed / reframed** | Ulsar is dead and his camp destroyed. The useful intelligence he provided now points towards Rhul, Dazuun and Prodosius. |
+| Recover the party's horses | **Closed as immediate crisis** | The horses are no longer held by Ulsar's camp, though Kingcup was badly injured during the battle. |
 | Identify and question or kill the Old Grey Pike | **Reframed** | The party met Ervain and established that Eden won his House Bromere coin at dice. The immediate conspiracy thread is closed, but Erelmor's family connection remains active. |
 | Identify the Loyal Crow | **Identity closed; pursuit active** | Eden Carrion is identified, but her whereabouts and current plans remain unresolved. |
 | Investigate other Ardynian ruins | **Ongoing relic arc** | Tace Nox and Rana Viam have been explored. The broader search for Sundering tools is now the meaningful version of this goal. |
@@ -7553,6 +9067,7 @@ updated: 2026-07-02
 
 | Thread | Outcome |
 |---|---|
+| Resolve Ulsar's Broken Fang camp | **Closed.** The camp was destroyed, Ulsar and Talan Rook died, and Mireya's body was preserved. |
 | Resolve the scouts outside Rana Viam | **Closed as an immediate pursuit.** Erelmor killed the restrained scout; Salla and Malt were captured; Salla later died; Malt remains a prisoner. |
 | Find who owned the House Bromere favour coin | **Closed.** It belonged to Ervain Megbanas, who lost it to Eden Carrion at dice. |
 | Find Buggie and learn why Prusset was targeted | **Closed.** Buggie was hired by Eden to abduct Prusset and steal information. |
@@ -7565,17 +9080,19 @@ updated: 2026-07-02
 
 | Thread | Recommendation |
 |---|---|
-| Fighting-pit introduction from Balur Moonclaw | **Stale but available.** Offered early in the campaign and not pursued through Session 20. |
+| Fighting-pit introduction from Balur Moonclaw | **Relevant again.** Dazuun's fighting pits are now part of Rhul's operation, so this older hook may become useful. |
 | Return to the One Ball Inn gambling circle | **Dormant.** Useful if the party needs underworld contacts, but no longer an immediate goal. |
 
 ## Related
 
-- [[content/05 Campaign Chronicle/index|index]]
+- [[05 Campaign Chronicle/index|index]]
 - [[04 Organisations/The Defracturers|The Defracturers]]
 - [[06 Library/Campaign Reference/Horses|Horses]]
 - [[04 Organisations/Broken Fang|Broken Fang]]
 - [[04 Organisations/Rootbound|The Rootbound]]
 - [[06 Library/Campaign Reference/Plague|Plague]]
+- [[02 Places/Rakara/Voruun/Dazuun|Dazuun]]
+- [[06 Library/Campaign Reference/Dragon's Dandruff|Dragon's Dandruff]]
 
 
 
@@ -7584,60 +9101,64 @@ updated: 2026-07-02
 ---
 
 ---
-title: 'Plague'
+title: Plague
 type: campaign-reference
 status: published
 player_facing: true
 aliases:
-  - 'The Fungus'
+  - Sentient fungus
+  - Poison fungus
+  - The bad mad man's fungus
 tags:
   - campaign
-  - creature
+  - reference
   - fungus
-  - rakara
-current_status: 'active'
-last_known_location: 'Forest near Rana Viam'
-source: 'Session 20'
-updated: 2026-07-02
+  - ieuan
+source: Sessions 20-21
+updated: 2026-07-08
 ---
 
 # Plague
 
 > [!summary] At a glance
-> A sentient colony of poisonous fungus whose only clearly expressed desire is to spread.
+> A sentient poisonous fungus encountered in the forest near Rana Viam, which bargained with Ieuan to spread its cuttings elsewhere.
 
-## Known details
+## Encounter
 
-- Plague was discovered in the forest near [[02 Places/Rakara/Rana Viam|Rana Viam]] while [[03 People/Player Characters/Ieuan|Ieuan]] and [[03 People/Player Characters/Erelmor|Erelmor]] pursued a fleeing Broken Fang scout.
-- Ieuan communicated with it using **Speak with Plants**.
-- It identified itself simply as **Plague**.
-- It appeared simple-minded but capable of bargaining and understanding promises.
-- Its overriding purpose is to spread.
-- Plague claimed it had been left in the forest by a â€œbad mad manâ€.
-- According to Plague, that figure was later killed by â€œforest guardiansâ€.
-- It agreed to let Ieuan and Erelmor cross its poisonous growth unharmed in exchange for Ieuan taking and spreading five cuttings.
-- Ieuan planted one cutting in Salla's corpse following the Egg Hunter attack.
-- Four cuttings remained in Ieuan's possession at the end of the session.
-- Ieuan later proposed using Plague as part of the assault on the Broken Fang camp. The idea was designated **Plan E**.
+While pursuing Broken Fang scouts through the forest after leaving Rana Viam, [[03 People/Player Characters/Ieuan|Ieuan]] chose to cross a patch of suspicious poisonous fungus and cast **Speak with Plants**.
 
-## Unanswered questions
+The fungus identified itself as **Plague**.
 
-- Who was the â€œbad mad manâ€ who created or cultivated Plague?
-- What were the â€œforest guardiansâ€ that killed him?
-- What will happen to Salla's infected corpse?
-- What consequences might follow if Ieuan spreads the remaining cuttings?
-- Is Plague connected to the other unnatural creatures found in the forest?
+Plague described itself as having been left by a **bad mad man** of the forest, one later killed by the **forest guardians**. Its understanding of the world was simple but alarming: it wanted to spread.
 
-## Campaign appearances
+## Bargain with Ieuan
 
-- [[05 Campaign Chronicle/Session 20 - Plague, Pursuit and Plan E|Session 20]]
+Ieuan negotiated safe passage by agreeing to take five cuttings and spread them elsewhere.
+
+One cutting was later planted in Salla's corpse after the Broken Fang scout died during the Egg Hunter Hatchling attack. In Session 21, [[03 People/Notable Figures/Eula|Eula]] claimed Salla's plague-infested body and vanished with it. As she disappeared, the forest seemed to release a long, pained howl.
+
+During the party's rest, Plague whispered to Ieuan that its first cutting was settling in nicely:
+
+> *"It's so nice here. So many bodies. So many opportunities."*
+
+## Current state
+
+Ieuan originally took five cuttings. One was planted in Salla's corpse, which is now in Eula's possession. The remaining cuttings are still with Ieuan unless later used or destroyed.
+
+> [!question] Unresolved
+> - What will Eula do with Salla's infected corpse?
+> - What does it mean that Plague is settling into a body now in Eula's possession?
+> - Was the forest howl caused by Plague, Eula, the land, or something else?
+> - What were the forest guardians that killed the bad mad man?
+> - Does Plague understand or care about the consequences of spreading?
+> - Will Ieuan honour, reinterpret or break his bargain?
 
 ## Related
 
 - [[03 People/Player Characters/Ieuan|Ieuan]]
-- [[03 People/Player Characters/Erelmor|Erelmor]]
-- [[04 Organisations/Broken Fang|Broken Fang]]
-- [[02 Places/Rakara/Rana Viam|Rana Viam]]
+- [[03 People/Notable Figures/Eula|Eula]]
+- [[05 Campaign Chronicle/Session 20 - Plague, Pursuit and Plan E|Session 20]]
+- [[05 Campaign Chronicle/Session 21 - Contracts, Command, and a Burning Camp|Session 21]]
 - [[06 Library/Campaign Reference/Open Threads|Open Threads]]
 
 
@@ -7785,7 +9306,7 @@ updated: 2026-07-03
 # Broken Fang Camp Sketches
 
 > [!summary] At a glance
-> Two crude maps drawn by the captured Broken Fang scouts Salla and Malt, showing the camp commanded by [[03 People/Notable Figures/Ulsar Quinn|Ulsar Quinn]] and the approximate location of the Defracturers' stolen horses.
+> Two crude maps drawn by the captured Broken Fang scouts Salla and Malt, showing the camp commanded by [[03 People/Notable Deceased/Ulsar Quinn|Ulsar Quinn]] and the approximate location of the Defracturers' stolen horses.
 
 ## Circumstances
 
@@ -7862,10 +9383,13 @@ It is not yet known whether the camp has been warned about the missing scouts or
 ## Related
 
 - [[04 Organisations/Broken Fang|Broken Fang]]
-- [[03 People/Notable Figures/Ulsar Quinn|Ulsar Quinn]]
+- [[03 People/Notable Deceased/Ulsar Quinn|Ulsar Quinn]]
 - [[06 Library/Campaign Reference/Horses|Horses]]
 - [[02 Places/Rakara/Rana Viam|Rana Viam]]
 - [[06 Library/Campaign Reference/Open Threads|Open Threads]]
+
+
+
 
 
 
@@ -7889,8 +9413,8 @@ tags:
 author: Unknown
 recovered_by: n'Dong
 recovered_at: Broken Fang drop site near Somnolent
-source: Session 7
-updated: 2026-07-03
+source: Sessions 7 and 21
+updated: 2026-07-08
 ---
 
 # Broken Fang Contraband Manifest
@@ -7910,8 +9434,8 @@ The following entries are preserved in the Session 7 record:
 
 | Destination | Recorded delivery |
 |---|---|
-| **One Ball Inn, Somnolent** | 4 Ã— barrels of whiskey |
-| **The Scythian Tree, Orvak** | 2 Ã— rations; 4 Ã— weapons or armour |
+| **One Ball Inn, Somnolent** | 4 x barrels of whiskey |
+| **The Scythian Tree, Orvak** | 2 x rations; 4 x weapons or armour |
 | **Fighting Pits, Voruun** | Agony; Powdered Power; Dragon's Dandruff |
 | **Ashka's Den, Khaali** | Unicorn Wax; Ember Berries |
 
@@ -7927,12 +9451,14 @@ It also established that:
 - a separate Khaali contact or destination received rare materials;
 - the Somnolent shipment was only one part of a wider operation.
 
+The party later learned from [[03 People/Notable Deceased/Ulsar Quinn|Ulsar Quinn]] that [[06 Library/Campaign Reference/Dragon's Dandruff|Dragon's Dandruff]] is a potent stimulant used by contestants in the fighting pits of [[02 Places/Rakara/Voruun/Dazuun|Dazuun]]. Three Khaali alchemists are producing it for [[03 People/Mentioned Figures/Rhul Slowdrift|Rhul Slowdrift's]] operation from a lab south of [[02 Places/Rakara/Somnolent/Somnolent|Somnolent]].
+
 The purpose and legality of each listed substance have not all been confirmed.
 
 > [!question] Unresolved
 > - Who prepared the manifest?
 > - Who collected each delivery?
-> - What are Powdered Power, Dragon's Dandruff, Unicorn Wax and Ember Berries?
+> - What are Powdered Power, Unicorn Wax and Ember Berries?
 > - Why were weapons and armour being sent to the Scythian Tree?
 > - Is Ashka a person, organisation or place?
 > - Does the same distribution network remain active?
@@ -7940,6 +9466,7 @@ The purpose and legality of each listed substance have not all been confirmed.
 ## Campaign reference
 
 - [[05 Campaign Chronicle/Session 07 - Coffee and Contraband|Session 7]]
+- [[05 Campaign Chronicle/Session 21 - Contracts, Command, and a Burning Camp|Session 21]]
 
 ## Related
 
@@ -7948,7 +9475,9 @@ The purpose and legality of each listed substance have not all been confirmed.
 - [[03 People/Notable Figures/Antoinne Cassan|Antoinne Cassan]]
 - [[02 Places/Rakara/Clans/Clan Orvak|Clan Orvak]]
 - [[02 Places/Rakara/Clans/Clan Voruun|Clan Voruun]]
+- [[02 Places/Rakara/Voruun/Dazuun|Dazuun]]
 - [[02 Places/Rakara/Clans/Clan Khaali|Clan Khaali]]
+- [[06 Library/Campaign Reference/Dragon's Dandruff|Dragon's Dandruff]]
 
 
 
@@ -8193,6 +9722,24 @@ The letter directly authorises decisive action against Anthea Bloodclot and inst
 # FILE: C:\Users\ellis\Documents\vaelond-wiki\content\06 Library\Letters and Documents\Vaelen's sending stone.md
 ---
 
+---
+title: Vaelen's sending stone
+type: document
+status: published
+player_facing: true
+aliases:
+  - Vaelen's Sending Stone
+  - Vaelen sending stone
+tags:
+  - library
+  - document
+  - ardynia
+  - chronarchs
+  - campaign
+source: Session 17
+updated: 2026-07-04
+---
+
 My end is near. I am certain, even if I cannot yet name the hand that will finally reach me. If I am fortunate, this record will outlive me. If I am not, then perhaps it will merely serve as proof that at least one of us understood the charge laid upon us.
 
 We were not meant to rule. That is the truth the others have forgotten. We were charged to guide the world, to prepare it, to leave behind something strong enough to resist should the ritual ever fail and Ardynia rise again. We were to cultivate endurance, not dominion. Readiness, not empire. We were never meant to lead the world by the throat.
@@ -8208,6 +9755,7 @@ Perhaps Erith is the wiser of us. Willingly giving up power was the only honest 
 I confess I do not meet that prospect of death with grace. I fear it. I fear ending. So I have made preparations. If my enemies take my body, they shall not so easily claim all of me. I have preserved what I can preserve. My soul, at least, will not be surrendered willingly to oblivion. If this is cowardice, then it is cowardice I embrace gladly.
 
 â€” Vaelen
+
 
 
 ---
@@ -8228,27 +9776,32 @@ tags:
   - rana-viam
   - campaign
 current_holder: The Defracturers
-updated: 2026-07-01
+updated: 2026-07-08
 ---
 
 # Bands of Distortion
 
-The **Bands of Distortion** are an Ardynian relic recovered from the stone golem guarding Rana Viam.
+The **Bands of Distortion** are an Ardynian relic recovered from the stone golem guarding [[02 Places/Rakara/Rana Viam|Rana Viam]].
 
 The bands were linked to the golem through a **heart stone**. Ieuan determined that removing the stone alongside the relic would prevent the bands from returning to the ruin in the manner of the [[Staff of Broken Time]]. The party stored the bands in a fitted holding case and did not immediately attempt to wear them.
+
+During the parley at Ulsar Quinn's camp, Ulsar revealed that he knew not only about the Bands but also about the heart stone. He claimed he only needed one or the other: if someone failed to attune to the Bands, they would return to the heart stone. Possessing either object would therefore be enough to threaten the party's control of the relic.
 
 Their precise powers remain unknown.
 
 ## Campaign record
 
-- [[Session 18 - Frogger, Flames and the Golemâ€™s Toll]] â€” the first failed attempt to defeat the guardian.
-- [[Session 19 - Bands, Broken Stone and the Glass Fang]] â€” the golem is destroyed and the bands are secured.
+- [[05 Campaign Chronicle/Session 18 - Frogger, Flames and the Golem's Toll|Session 18 - Frogger, Flames and the Golem's Toll]] - the first failed attempt to defeat the guardian.
+- [[05 Campaign Chronicle/Session 19 - Bands, Broken Stone and the Glass Fang|Session 19 - Bands, Broken Stone and the Glass Fang]] - the golem is destroyed and the bands are secured.
+- [[05 Campaign Chronicle/Session 21 - Contracts, Command, and a Burning Camp|Session 21 - Contracts, Command, and a Burning Camp]] - Ulsar reveals that the heart stone is a strategic vulnerability as well as a safeguard.
 
 ## Related
 
 - [[Relics and Artefacts]]
 - [[The Sundering of Ardynia]]
 - [[Chronarchs]]
+- [[02 Places/Rakara/Rana Viam|Rana Viam]]
+- [[03 People/Notable Deceased/Ulsar Quinn|Ulsar Quinn]]
 
 
 
@@ -8311,13 +9864,13 @@ tags:
   - campaign
 current_holder: The Defracturers
 source: Sessions 5, 16 and 17
-updated: 2026-07-03
+updated: 2026-07-05
 ---
 
 # Eula's Red Coins
 
 > [!summary] At a glance
-> Reddish gold coins marked by tracking magic and used by [[03 People/Notable Figures/Eula|Eula]] when purchasing corpses.
+> Reddish gold coins marked by tracking magic and used by [[03 People/Notable Figures/Eula|Eula]] when purchasing corpses. Eula is alerted when someone is killed in the presence of one of the coins.
 
 ## Appearance
 
@@ -8330,12 +9883,12 @@ The party first encountered the marked currency after a hooded woman paid Erelmo
 The Defracturers have established or observed that:
 
 - Eula pays marked coin in exchange for fresh corpses.
-- The coins can alert Eula when a killing occurs nearby.
+- The coins alert Eula when someone is killed in the presence of one of the coins.
 - Eula may appear rapidly through teleportation magic to collect bodies and conduct a transaction.
 - Placing a coin on a body that was already dead did not immediately summon her.
 - The coins remain usable as currency, but carrying or spending them may spread Eula's influence or allow her to track events connected to them.
 
-The exact trigger, range and limitations of the magic remain unknown.
+The exact range and limitations of the magic remain unknown.
 
 ## Campaign record
 
@@ -8353,18 +9906,17 @@ Erelmor also placed one of the coins on an already dead body as an experiment. E
 
 ### The ogres
 
-After the Defracturers killed three ogres, Eula arrived and paid seventy-five marked coins for the bodies. Questioning her led the party to understand that the coins notify her when killings occur nearby.
+After the Defracturers killed three ogres, Eula arrived and paid seventy-five marked coins for the bodies. Questioning her established that the coins notify her when someone is killed in the presence of one of them.
 
 ## Current status
 
 The party retained at least some of Eula's payment. The exact number carried and their current storage have not been recorded.
 
 > [!warning] Caution
-> The coins should not be treated as ordinary treasure. Their tracking effect may expose the holder, nearby deaths or the party's movements to Eula.
+> The coins should not be treated as ordinary treasure. Their tracking effect may expose the holder, nearby deaths or the party's movements to Eula if violence occurs in their presence.
 
 > [!question] Unresolved
-> - What precisely activates a coin?
-> - How far away can Eula detect a killing?
+> - How close must a killing be to a coin for Eula to be alerted?
 > - Does spending a coin transfer the mark to a new holder?
 > - Can the magic be removed?
 > - Why does Eula collect bodies?
@@ -8387,7 +9939,26 @@ The party retained at least some of Eula's payment. The exact number carried and
 # FILE: C:\Users\ellis\Documents\vaelond-wiki\content\06 Library\Relics and Artefacts\Rana Viam scroll.md
 ---
 
+---
+title: Rana Viam scroll
+type: relic
+status: published
+player_facing: true
+aliases:
+  - Rana Viam Scroll
+  - Sealed Ardynian scroll from Rana Viam
+tags:
+  - library
+  - relic
+  - artefact
+  - ardynia
+  - campaign
+source: Sessions 17-19
+updated: 2026-07-04
+---
+
 Unopened scroll
+
 
 
 ---
@@ -8404,7 +9975,7 @@ tags:
   - relics
   - ardynia
   - campaign
-updated: 2026-07-03
+updated: 2026-07-05
 ---
 
 # Relics and Artefacts
@@ -8425,7 +9996,7 @@ These artefacts are connected to the Sundering of Ardynia. Their complete functi
 - [[Eula's Red Coins]] â€” marked currency that alerts Eula to killings nearby.
 - [[Time Juice]] â€” green temporal substance used to activate mechanisms in Chronarch ruins.
 - [[Star Seed]] â€” a seed gifted to Ieuan by Father Zantos, promised to bloom once Ieuan fully embraces his druidic path.
-- [[Virei's Shattered Mask]] â€” a cursed or spiritual mask found beneath the Drowsy Coin and now carried by n'Dong.
+- [[Verei's Shattered Mask]] â€” a cursed or spiritual mask found beneath the Drowsy Coin and now carried by n'Dong.
 
 ## Related references
 
@@ -8572,7 +10143,7 @@ tags:
   - campaign
 current_holder: Ieuan
 source: Session 6
-updated: 2026-07-03
+updated: 2026-07-08
 ---
 
 # Star Seed
@@ -8587,7 +10158,7 @@ Father Zantos gave the Star Seed to Ieuan during their conversation in Somnolent
 Their discussion touched on:
 
 - Ieuan's choice to follow the Circle of Stars;
-- the connection between that path and [[01 Welcome to Vaelond/Religion/Orun the Verdant Kin|Orun the Verdant Kin]];
+- the connection between that path and [[01 Welcome to Vaelond/Religion/Rakaran Faiths#Orun, the Verdant Kin|Orun the Verdant Kin]];
 - ancient Ardynian truths preserved in Clan Erzhin's Annals of Stone;
 - Zantos's past connection to the [[04 Organisations/Rootbound|Rootbound]] and his disillusionment with the direction they had taken.
 
@@ -8621,12 +10192,18 @@ Until it blooms or reacts to a specific event, its role should remain uncertain.
 
 - [[05 Campaign Chronicle/Session 06 - Smoke, Song and Secrets|Session 6]]
 
+## Session 21
+
+During the long rest before the attack on Ulsar Quinn's camp, Ieuan studied the Star Seed and tried to focus on the beauty unfolding within it. His attention was repeatedly pulled away by the whispers of [[06 Library/Campaign Reference/Plague|Plague]], which told him its first cutting was settling in nicely.
+
+The Star Seed's exact powers remain unclear.
+
 ## Related
 
 - [[03 People/Player Characters/Ieuan|Ieuan]]
 - [[03 People/Notable Figures/Father Zantos|Father Zantos]]
 - [[04 Organisations/Rootbound|Rootbound]]
-- [[01 Welcome to Vaelond/Religion/Orun the Verdant Kin|Orun the Verdant Kin]]
+- [[01 Welcome to Vaelond/Religion/Rakaran Faiths#Orun, the Verdant Kin|Orun the Verdant Kin]]
 
 
 
@@ -8634,7 +10211,26 @@ Until it blooms or reacts to a specific event, its role should remain uncertain.
 # FILE: C:\Users\ellis\Documents\vaelond-wiki\content\06 Library\Relics and Artefacts\Tace Nox scroll.md
 ---
 
+---
+title: Tace Nox scroll
+type: relic
+status: published
+player_facing: true
+aliases:
+  - Tace Nox Scroll
+  - Sealed Ardynian scroll from Tace Nox
+tags:
+  - library
+  - relic
+  - artefact
+  - ardynia
+  - campaign
+source: Session 4
+updated: 2026-07-04
+---
+
 Unopened scroll, currently being investigated by Elmwood Bluevine
+
 
 
 ---
@@ -8722,17 +10318,17 @@ The party recovered multiple samples but used some to open the Rana Viam passage
 
 
 ---
-# FILE: C:\Users\ellis\Documents\vaelond-wiki\content\06 Library\Relics and Artefacts\Virei's Shattered Mask.md
+# FILE: C:\Users\ellis\Documents\vaelond-wiki\content\06 Library\Relics and Artefacts\Verei's Shattered Mask.md
 ---
 
 ---
-title: Virei's Shattered Mask
+title: Verei's Shattered Mask
 type: artefact
 status: published
 player_facing: true
 aliases:
   - The Shattered Mask
-  - Virei's Mask
+  - Verei's Mask
   - Verei's Shattered Mask
 tags:
   - artefact
@@ -8742,13 +10338,13 @@ tags:
   - campaign
 current_holder: n'Dong
 source: Session 7
-updated: 2026-07-03
+updated: 2026-07-05
 ---
 
-# Virei's Shattered Mask
+# Verei's Shattered Mask
 
 > [!summary] At a glance
-> An old brittle mask found beneath the Drowsy Coin, which forced the Defracturers into private visions before n'Dong invoked Virei, the Shattered Mask, and lifted its curse.
+> An old brittle mask found beneath the Drowsy Coin, which forced the Defracturers into private visions before n'Dong invoked Verei, the Shattered Mask, and lifted its curse. The mask now appears to act almost like an arcane focus for receiving Verei's blessing, though that blessing may be dangerous.
 
 ## Discovery
 
@@ -8770,9 +10366,9 @@ Known visions included:
 
 When the visions fractured, apparitions of Ballar's mother and Erelmor's wife remained and attacked the party.
 
-## The prayer to Virei
+## The prayer to Verei
 
-After the apparitions were defeated, n'Dong approached the mask and recited a forgotten prayer to **Virei, the Shattered Mask**, whose broken visage watches over secrets and spirits.
+After the apparitions were defeated, n'Dong approached the mask and recited a forgotten prayer to **Verei, the Shattered Mask**, whose broken visage watches over secrets and spirits.
 
 The curse lifted. The mask fell inert, and n'Dong took it.
 
@@ -8783,19 +10379,19 @@ The mask has demonstrated the ability to:
 - trigger intensely personal visions or memories;
 - manifest hostile spiritual apparitions;
 - draw upon guilt, grief, fear or hidden trauma;
-- respond to a prayer associated with Virei.
+- respond to a prayer associated with Verei.
 
-After n'Dong's prayer, the mask appeared inert. It has not yet shown any further powers in the chronicle.
+After n'Dong's prayer, the mask appeared inert, but it should not be treated as powerless. It appears to function almost like an arcane focus, making it easier for the bearer to receive a blessing from Verei. Such a blessing is not necessarily safe, beneficial or under the bearer's control.
 
 ## Current status
 
-n'Dong currently carries the mask. Whether it is harmless, sleeping, purified or waiting for another trigger remains unknown.
+n'Dong currently carries the mask. It is best understood as dormant rather than harmless: an object that can focus Verei's influence and make blessings easier to receive, while leaving the cost, danger and control of those blessings unresolved.
 
 > [!warning] Caution
-> The mask should not be assumed safe merely because the immediate curse was lifted. Its connection to secrets, spirits and personal trauma remains unexplained.
+> The mask should not be assumed safe merely because the immediate curse was lifted. Its connection to secrets, spirits, personal trauma and Verei's blessings remains unexplained.
 
 > [!question] Unresolved
-> - What is Virei?
+> - What is Verei?
 > - Why did n'Dong know the prayer?
 > - Was the mask a relic, holy object, cursed object or prison?
 > - Why was it hidden beneath the Drowsy Coin?
@@ -8868,16 +10464,16 @@ Welcome to the player guide for **Vaelond**. This vault is organised as an inter
 
 ## Organisations
 
-- [[content/04 Organisations/index|index]] â€” campaign factions, political groups and the partyâ€™s household
+- [[04 Organisations/index|index]] â€” campaign factions, political groups and the partyâ€™s household
 - [[04 Organisations/Rootbound|The Rootbound]] â€” an underground movement born from dissent within Orvak
 - [[04 Organisations/Broken Fang|Broken Fang]] â€” mercenaries tied to n'Dong's past
 - [[04 Organisations/The Defracturers|The Defracturers]] â€” the adventuring party
-- [[The Defracturers' Bastion|The Defracturersâ€™ Bastion]] â€” the party's headquarters in Somnolent
+- [[02 Places/Rakara/Somnolent/The Defracturers' Bastion|The Defracturersâ€™ Bastion]] â€” the party's headquarters in Somnolent
 
 ## People and campaign reference
 
-- [[content/03 People/index|index]] â€” player characters, notable figures, deceased NPCs, bastion staff and mentioned characters
-- [[content/03 People/Player Characters/index|index]]
+- [[03 People/index|index]] â€” player characters, notable figures, deceased NPCs, bastion staff and mentioned characters
+- [[03 People/Player Characters/index|index]]
 - [[06 Library/Campaign Reference/Open Threads|Open Threads]] â€” active goals and unresolved questions
 - [[06 Library/Campaign Reference/Horses|Horses]] â€” party mounts and their current situation
 - [[06 Library/Letters and Documents/Letters and Documents|Letters and Documents]] â€” recovered orders, correspondence and ruin notes
@@ -8887,7 +10483,7 @@ Welcome to the player guide for **Vaelond**. This vault is organised as an inter
 
 ## Campaign chronicle
 
-- [[content/05 Campaign Chronicle/index|index]] â€” the complete session-by-session record
+- [[05 Campaign Chronicle/index|index]] â€” the complete session-by-session record
 - [[05 Campaign Chronicle/Session 20 - Plague, Pursuit and Plan E|Session 20: Plague, Pursuit and Plan E]] â€” the latest supplied session note
 
 ## Map

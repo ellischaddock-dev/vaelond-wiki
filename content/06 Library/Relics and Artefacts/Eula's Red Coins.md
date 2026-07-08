@@ -14,13 +14,13 @@ tags:
   - campaign
 current_holder: The Defracturers
 source: Sessions 5, 16 and 17
-updated: 2026-07-03
+updated: 2026-07-05
 ---
 
 # Eula's Red Coins
 
 > [!summary] At a glance
-> Reddish gold coins marked by tracking magic and used by [[03 People/Notable Figures/Eula|Eula]] when purchasing corpses.
+> Reddish gold coins marked by tracking magic and used by [[03 People/Notable Figures/Eula|Eula]] when purchasing corpses. Eula is alerted when someone is killed in the presence of one of the coins.
 
 ## Appearance
 
@@ -33,12 +33,12 @@ The party first encountered the marked currency after a hooded woman paid Erelmo
 The Defracturers have established or observed that:
 
 - Eula pays marked coin in exchange for fresh corpses.
-- The coins can alert Eula when a killing occurs nearby.
+- The coins alert Eula when someone is killed in the presence of one of the coins.
 - Eula may appear rapidly through teleportation magic to collect bodies and conduct a transaction.
 - Placing a coin on a body that was already dead did not immediately summon her.
 - The coins remain usable as currency, but carrying or spending them may spread Eula's influence or allow her to track events connected to them.
 
-The exact trigger, range and limitations of the magic remain unknown.
+The exact range and limitations of the magic remain unknown.
 
 ## Campaign record
 
@@ -56,18 +56,17 @@ Erelmor also placed one of the coins on an already dead body as an experiment. E
 
 ### The ogres
 
-After the Defracturers killed three ogres, Eula arrived and paid seventy-five marked coins for the bodies. Questioning her led the party to understand that the coins notify her when killings occur nearby.
+After the Defracturers killed three ogres, Eula arrived and paid seventy-five marked coins for the bodies. Questioning her established that the coins notify her when someone is killed in the presence of one of them.
 
 ## Current status
 
 The party retained at least some of Eula's payment. The exact number carried and their current storage have not been recorded.
 
 > [!warning] Caution
-> The coins should not be treated as ordinary treasure. Their tracking effect may expose the holder, nearby deaths or the party's movements to Eula.
+> The coins should not be treated as ordinary treasure. Their tracking effect may expose the holder, nearby deaths or the party's movements to Eula if violence occurs in their presence.
 
 > [!question] Unresolved
-> - What precisely activates a coin?
-> - How far away can Eula detect a killing?
+> - How close must a killing be to a coin for Eula to be alerted?
 > - Does spending a coin transfer the mark to a new holder?
 > - Can the magic be removed?
 > - Why does Eula collect bodies?

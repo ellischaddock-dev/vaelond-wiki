@@ -9,7 +9,7 @@ tags:
   - index
   - vaelond
   - lore
-updated: 2026-07-02
+updated: 2026-07-05
 ---
 
 # Welcome to Vaelond
@@ -32,6 +32,7 @@ At the centre lie the **Sera Wilds**, the inaccessible remains of old Ardynia.
 - [[01 Welcome to Vaelond/Time and Calendars|Time and Calendars]]
 - [[01 Welcome to Vaelond/Religion/Religion|Religion]]
 - [[02 Places/Rakara/Rakara|Rakara]]
+- [[02 Places/Doro/Doro|Doro]]
 - [[05 Campaign Chronicle/index|index]]
 
 ## Current campaign focus

@@ -13,7 +13,7 @@ tags:
   - campaign
 current_holder: Ieuan
 source: Session 6
-updated: 2026-07-03
+updated: 2026-07-08
 ---
 
 # Star Seed
@@ -61,6 +61,12 @@ Until it blooms or reacts to a specific event, its role should remain uncertain.
 ## Campaign reference
 
 - [[05 Campaign Chronicle/Session 06 - Smoke, Song and Secrets|Session 6]]
+
+## Session 21
+
+During the long rest before the attack on Ulsar Quinn's camp, Ieuan studied the Star Seed and tried to focus on the beauty unfolding within it. His attention was repeatedly pulled away by the whispers of [[06 Library/Campaign Reference/Plague|Plague]], which told him its first cutting was settling in nicely.
+
+The Star Seed's exact powers remain unclear.
 
 ## Related
 

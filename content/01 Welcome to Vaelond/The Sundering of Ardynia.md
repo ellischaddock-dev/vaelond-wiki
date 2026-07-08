@@ -54,7 +54,7 @@ This was not the deliberate self-sacrifice later taught by the Church. It was th
 
 Elgira and the four generals refused to explain the full price of the Sundering. They taught only vigilance: Ardynia had been **sealed**, not slain, and one day the seal might fail.
 
-From these teachings grew the **[[Perfidian Faith|Church of Elgira]]**, also called the Church of the Saviour, the Saviour's Church and the Faith of Elgira. Over generations, guilt, secrecy and incomplete memory hardened into doctrine. Elgira's survival, transformation and later ascension were retold as a single perfect sacrifice at the moment of victory.
+From these teachings grew the **[[01 Welcome to Vaelond/Religion/Perfidian Faith|Church of Elgira]]**, also called the Church of the Saviour, the Saviour's Church and the Faith of Elgira. Over generations, guilt, secrecy and incomplete memory hardened into doctrine. Elgira's survival, transformation and later ascension were retold as a single perfect sacrifice at the moment of victory.
 
 Her four generals became saints:
 
@@ -76,7 +76,7 @@ The Church teaches that Elgira watches from beyond the mortal world. Historians 
 ## Related pages
 
 - [[01 Welcome to Vaelond/index]]
-- [[Perfidian Faith]]
-- [[Church of Elgira]]
-- [[The Powers That Be#Perfid]]
-- [[Chronarchs]]
+- [[01 Welcome to Vaelond/Religion/Perfidian Faith|Perfidian Faith]]
+- [[04 Organisations/Church of Elgira|Church of Elgira]]
+- [[01 Welcome to Vaelond/The Powers That Be#Perfid|The Powers That Be]]
+- [[04 Organisations/Chronarchs|Chronarchs]]

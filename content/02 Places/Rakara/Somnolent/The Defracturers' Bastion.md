@@ -1,5 +1,5 @@
 ---
-title: The Defracturers’ Bastion
+title: The Defracturers' Bastion
 type: bastion
 status: published
 player_facing: true
@@ -15,7 +15,7 @@ source: Campaign notes and session chronicle
 updated: 2026-07-02
 ---
 
-# The Defracturers’ Bastion
+# The Defracturers' Bastion
 
 The party's headquarters occupies the former Perfid embassy in [[02 Places/Rakara/Somnolent/Somnolent|Somnolent]]. It was granted to the Defracturers after they entered [[03 People/Notable Figures/Romayne Drayton|Romayne Drayton's]] patronage and assaulted the embassy to rescue [[03 People/Notable Figures/Terrick Lowgins|Terrick Lowgins]].
 

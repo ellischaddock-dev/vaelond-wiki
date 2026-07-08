@@ -18,7 +18,7 @@ homeland: Clan Khaali
 mount: Bracken
 current_status: active
 source: Sessions 1-20 and original character notes
-updated: 2026-07-04
+updated: 2026-07-05
 ---
 
 # Enrak Kiran
@@ -54,7 +54,7 @@ During [[05 Campaign Chronicle/Session 01 - Die Dog, Die|Emberwake]], Enrak kill
 
 In Somnolent, Enrak developed an enthusiasm for bardic attention. He enjoyed [[03 People/Notable Figures/Ersil Loquella|Ersil Loquella's]] praise and the growing legend of the "Brazen Flame", even while some of his companions worried that songs about the party made them easier to identify. During a later conversation, Enrak told Ersil of his ambition to rise in Khaali and uncover Anthea's killer. Ersil's bitter song about Anthea, and his admission that he and Anthea were childhood friends who were not born in Khaali, gave Enrak a more personal and unsettling lead into Anthea's past.
 
-The vision caused by [[06 Library/Relics and Artefacts/Virei's Shattered Mask|Virei's Shattered Mask]] placed Enrak before Ashka, goddess of fire, chaos, inspiration and renewal. Ashka asked him who he was. The meaning of that question remains unresolved, but it sits at the centre of Enrak's self-image: whether he is a failed scholar, a chosen flame, a self-made legend or something stranger.
+The vision caused by [[06 Library/Relics and Artefacts/Verei's Shattered Mask|Verei's Shattered Mask]] placed Enrak before Ashka, goddess of fire, chaos, inspiration and renewal. Ashka asked him who he was. The meaning of that question remains unresolved, but it sits at the centre of Enrak's self-image: whether he is a failed scholar, a chosen flame, a self-made legend or something stranger.
 
 Enrak also has a personal link to [[03 People/Notable Figures/Summer Quaresh|Summer Quaresh]], a Khaali liaison in Somnolent and apparent member of Anthea's Crows. Summer was present when [[03 People/Notable Deceased/Alistair Prusset|Alistair Prusset]] was burned alive in custody and later vanished. Enrak's belief that Summer would not willingly have helped murder Prusset makes her disappearance a personal and political thread.
 
@@ -97,7 +97,7 @@ During Session 20, Enrak pursued Salla alongside Ballar, resisted the bog siren'
 - [[03 People/Notable Deceased/Anthea Bloodclot|Anthea Bloodclot]]
 - [[03 People/Notable Figures/Summer Quaresh|Summer Quaresh]]
 - [[03 People/Notable Figures/Ersil Loquella|Ersil Loquella]]
-- [[06 Library/Relics and Artefacts/Virei's Shattered Mask|Virei's Shattered Mask]]
+- [[06 Library/Relics and Artefacts/Verei's Shattered Mask|Verei's Shattered Mask]]
 - [[02 Places/Rakara/Tace Nox|Tace Nox]]
 - [[02 Places/Rakara/Rana Viam|Rana Viam]]
 - [[06 Library/Relics and Artefacts/Bands of Distortion|Bands of Distortion]]

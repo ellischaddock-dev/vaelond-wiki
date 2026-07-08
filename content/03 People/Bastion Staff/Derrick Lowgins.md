@@ -18,7 +18,7 @@ updated: 2026-07-01
 ![[Derrick Lowgins.png|260]]
 
 > [!summary] At a glance
-> Terrick Lowgins’s brother. His interview raised uncomfortable questions about Terrick’s private home life.
+> Terrick Lowgins's brother. His interview raised uncomfortable questions about Terrick's private home life.
 
 ## Appointment
 
@@ -26,10 +26,10 @@ The candidate was interviewed after the Defracturers acquired their Somnolent ba
 
 ## Campaign appearances
 
-- [[Session 15 - Stewards, Saddles and Shambling Roots]]
+- [[05 Campaign Chronicle/Session 15 - Stewards, Saddles and Shambling Roots|Session 15 - Stewards, Saddles and Shambling Roots]]
 
 ## Related
 
-- [[02 Places/Rakara/Somnolent/The Defracturers' Bastion|The Defracturers’ Bastion]]
-- [[The Defracturers]]
-- [[Terrick Lowgins]]
+- [[02 Places/Rakara/Somnolent/The Defracturers' Bastion|The Defracturers' Bastion]]
+- [[04 Organisations/The Defracturers|The Defracturers]]
+- [[03 People/Notable Figures/Terrick Lowgins|Terrick Lowgins]]

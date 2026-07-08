@@ -63,7 +63,7 @@ Her four surviving generals are revered as **saints**, not gods. Each represents
 
 ## Related pages
 
-- [[The Sundering of Ardynia]]
-- [[Church of Elgira]]
-- [[The Powers That Be#Perfid]]
-- [[Religion]]
+- [[01 Welcome to Vaelond/The Sundering of Ardynia|The Sundering of Ardynia]]
+- [[04 Organisations/Church of Elgira|Church of Elgira]]
+- [[01 Welcome to Vaelond/The Powers That Be#Perfid|The Powers That Be]]
+- [[01 Welcome to Vaelond/Religion/Religion|Religion]]

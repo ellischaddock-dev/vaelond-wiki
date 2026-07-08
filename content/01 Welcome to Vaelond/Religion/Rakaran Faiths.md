@@ -12,14 +12,14 @@ tags:
   - religion
   - rakara
 region: Rakara
-updated: 2026-07-01
+updated: 2026-07-05
 ---
 
 # Rakaran Faiths
 
-In [[The Powers That Be#Rakara|Rakara]], where the clans each hold close ties to different gods, the variety of Vaelondian worship is especially clear. A [[Clan Temir|Temir]] fisherman might honour the Sea-Mother daily, yet still whisper a prayer to Ezaa before a long journey. An [[Clan Orvak|Orvak]] herder gives thanks to Orun for fertile fields but lights a candle to Rhozka when burying kin. The gods are many, and all are real, so the wise show respect to all.
+In [[01 Welcome to Vaelond/The Powers That Be#Rakara|Rakara]], where the clans each hold close ties to different gods, the variety of Vaelondian worship is especially clear. A [[02 Places/Rakara/Clans/Clan Temir|Temir]] fisherman might honour the Sea-Mother daily, yet still whisper a prayer to Ezaa before a long journey. An [[02 Places/Rakara/Clans/Clan Orvak|Orvak]] herder gives thanks to Orun for fertile fields but lights a candle to Rhozka when burying kin. The gods are many, and all are real, so the wise show respect to all.
 
-Each clan tends to favour certain gods—[[Clan Temir|Temir]] with the Sea-Mother and Moon-Father, [[Clan Khaali|Khaali]] with Ashka and Virei, [[Clan Erzhin|Erzhin]] with Ezaa and Khurmog, and so on—but even within clans, individuals may feel a personal pull towards other deities. A warrior might wear a token of Ulvarn for strength in battle, while a young performer might paint symbols of Virei before a festival dance.
+Each clan tends to favour certain gods—[[02 Places/Rakara/Clans/Clan Temir|Temir]] with the Sea-Mother and Moon-Father, [[02 Places/Rakara/Clans/Clan Khaali|Khaali]] with Ashka and Verei, [[02 Places/Rakara/Clans/Clan Erzhin|Erzhin]] with Ezaa and Khurmog, and so on—but even within clans, individuals may feel a personal pull towards other deities. A warrior might wear a token of Ulvarn for strength in battle, while a young performer might paint symbols of Verei before a festival dance.
 
 People offer thanks when crops grow well or storms pass safely, and they make requests when danger looms or luck runs dry. Even gods feared for their wrath, like Ashka or Talik, receive their due—to ignore them is to invite misfortune. Worship might be as simple as a whispered phrase at dawn, a coin left at a roadside shrine, or a formal visit to a local temple or spirit-tent.
 
@@ -27,17 +27,17 @@ For most in Rakara, the gods are not distant figures but present forces in the w
 
 ## Pantheon at a glance
 
-| Deity                            | Associated with                      | Symbol                                      |
-| -------------------------------- | ------------------------------------ | ------------------------------------------- |
-| [[#Sea-Mother and Moon-Father]]  | Water, moon, tides, cycles, rebirth  | A silver wave curled around a crescent moon |
-| [[#Orun, the Verdant Kin]]       | Nature, growth, earth, fertility     | A twisted horn filled with vines and grain  |
-| [[#Ashka the Ember-Dancer]]      | Fire, chaos, inspiration, renewal    | A spiral flame with dancing feet            |
-| [[#Virei the Shattered Mask]]    | Art, expression, emotion, madness    | A half-mask painted with abstract symbols   |
-| [[#Ulvarn the Towering Sun]]     | Ambition, power, order, war          | A blazing tower crowned with light          |
-| [[#Ezaa of the Whispering Gale]] | Wind, influence, speech, travel      | A bird's feather wrapped in a spiral gust   |
-| [[#Khurmog the Silent Deep]]     | Stone, memory, permanence, ancestors | A square spiral engraved into stone         |
-| [[#Talik the Laughing Coin]]     | Trade, luck, trickery                | A laughing-and-crying coin                  |
-| [[#Rhozka the Veiled One]]       | Secrets, death, dreams, passage      | A black veil over a sleeping face           |
+| Deity | Associated with | Symbol |
+|---|---|---|
+| [[#Sea-Mother and Moon-Father]] | Water, moon, tides, cycles, rebirth | A silver wave curled around a crescent moon |
+| [[#Orun, the Verdant Kin]] | Nature, growth, earth, fertility | A twisted horn filled with vines and grain |
+| [[#Ashka the Ember-Dancer]] | Fire, chaos, inspiration, renewal | A spiral flame with dancing feet |
+| [[#Verei the Shattered Mask]] | Art, expression, emotion, madness | A half-mask painted with abstract symbols |
+| [[#Ulvarn the Towering Sun]] | Ambition, power, order, war | A blazing tower crowned with light |
+| [[#Ezaa of the Whispering Gale]] | Wind, influence, speech, travel | A bird's feather wrapped in a spiral gust |
+| [[#Khurmog the Silent Deep]] | Stone, memory, permanence, ancestors | A square spiral engraved into stone |
+| [[#Talik the Laughing Coin]] | Trade, luck, trickery | A laughing-and-crying coin |
+| [[#Rhozka the Veiled One]] | Secrets, death, dreams, passage | A black veil over a sleeping face |
 
 ## Sea-Mother and Moon-Father
 
@@ -90,7 +90,7 @@ Ashka was born when lightning struck the skull of a slain tyrant. She sprang fro
 
 > *“Ashka, whose laughter cracks the sky, strike me with your flame. Let my spirit burn wild and bright.”*
 
-## Virei the Shattered Mask
+## Verei the Shattered Mask
 
 **Associated with:** Art, Expression, Emotion, Madness  
 **Favoured by:** Khaali, Voruun  
@@ -102,11 +102,11 @@ Ashka was born when lightning struck the skull of a slain tyrant. She sprang fro
 
 ### Myth
 
-Virei sculpted the first faces from clay, then shattered their mould. From the shards came poetry, song and dream. She hides her face so that no one may copy her, and whispers inspiration through the cracks in the mind.
+Verei sculpted the first faces from clay, then shattered their mould. From the shards came poetry, song and dream. She hides her face so that no one may copy her, and whispers inspiration through the cracks in the mind.
 
 ### Prayer
 
-> *“Virei, mask-maker, soul-breaker, speak through my hands and voice. Let me create what even the gods fear to imagine.”*
+> *“Verei, mask-maker, soul-breaker, speak through my hands and voice. Let me create what even the gods fear to imagine.”*
 
 ## Ulvarn the Towering Sun
 
@@ -195,8 +195,8 @@ Rhozka was the first to pass beyond the veil, and the only one to return. They c
 
 ## Related pages
 
-- [[Religion]]
-- [[Doroan Faiths]] — regional interpretations of several shared gods
-- [[The Powers That Be#Rakara]]
-- [[Rakara]]
-- [[Rakara's Regions and Clans]]
+- [[01 Welcome to Vaelond/Religion/Religion|Religion]]
+- [[01 Welcome to Vaelond/Religion/Doroan Faiths|Doroan Faiths]] — regional interpretations of several shared gods
+- [[01 Welcome to Vaelond/The Powers That Be#Rakara|The Powers That Be]]
+- [[02 Places/Rakara/Rakara|Rakara]]
+- [[02 Places/Rakara/Rakara's Regions and Clans|Rakara's Regions and Clans]]

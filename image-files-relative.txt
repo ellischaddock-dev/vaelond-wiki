@@ -1,0 +1,48 @@
+﻿_Assets\Ulsar Quinn.png
+_Assets\Bastion Staff\Derrick Lowgins.png
+_Assets\Bastion Staff\Ghorgadush.png
+_Assets\Bastion Staff\Gorbels Valebrew.png
+_Assets\Bastion Staff\Igon Duft.png
+_Assets\Bastion Staff\Mariasz Salhum.png
+_Assets\Documents\Anthea Bloodclot's Note on Tace Nox.png
+_Assets\Documents\Letter from Arch-Illuminant Serathiel.png
+_Assets\Documents\Loyal Crow's Orders to Buggie.png
+_Assets\Horses\Bracken.png
+_Assets\Horses\Cobb.png
+_Assets\Horses\Kingcup.png
+_Assets\Horses\Nail.png
+_Assets\Horses\Vesper.png
+_Assets\Maps\Map of Vaelond.png
+_Assets\Maps\Rakara Regions and Clans.png
+_Assets\Maps\Somnolent Town Map.png
+_Assets\Organisations\Broken Fang Symbol.jpeg
+_Assets\Organisations\Chronarchs Symbol.png
+_Assets\Organisations\Church of Elgira Symbol.png
+_Assets\People\Alaaric Hammerfall.png
+_Assets\People\Alistair Prusset.png
+_Assets\People\Antoinne Cassan.png
+_Assets\People\Balur Moonclaw.png
+_Assets\People\Billy Hill.png
+_Assets\People\Buggie.png
+_Assets\People\Callum Redmayne.png
+_Assets\People\Eden Carrion.png
+_Assets\People\Elmwood Bluevine.png
+_Assets\People\Ersil Loquella.png
+_Assets\People\Ervain Megbanas.png
+_Assets\People\Eula.png
+_Assets\People\Father Zantos.png
+_Assets\People\Gayle Bramble.png
+_Assets\People\Mireya Dinak.png
+_Assets\People\Ouin Brond.png
+_Assets\People\Romayne Drayton.png
+_Assets\People\Saffron Araffas.png
+_Assets\People\Summer Quaresh.png
+_Assets\People\Terrick Lowgins.png
+_Assets\People\Xene Redmayne.png
+_Assets\Sigils\Clan Erzhin Sigil.png
+_Assets\Sigils\Clan Khaali Sigil.png
+_Assets\Sigils\Clan Orvak Sigil.png
+_Assets\Sigils\Clan Temir Sigil.png
+_Assets\Sigils\Clan Voruun Sigil.png
+_Assets\Sigils\Rootbound Sigil.png
+_Assets\Sigils\Somnolent Sigil.png

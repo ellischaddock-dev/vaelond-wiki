@@ -8,7 +8,7 @@ tags:
   - reference
   - horses
 source: 'Campaign notes and session chronicle'
-updated: 2026-07-02
+updated: 2026-07-08
 ---
 
 # Horses
@@ -67,12 +67,14 @@ Beautiful, vain, difficult and more suited to a parade ground than a battlefield
 
 ## Current situation
 
-At the end of [[05 Campaign Chronicle/Session 20 - Plague, Pursuit and Plan E|Session 20]]:
+At the end of [[05 Campaign Chronicle/Session 21 - Contracts, Command, and a Burning Camp|Session 21]]:
 
-- The horses remained at a Broken Fang camp associated with [[03 People/Notable Figures/Ulsar Quinn|Ulsar Quinn]].
-- Captured scouts Salla and Malt produced separate maps that broadly agreed on the camp's layout and the horses' approximate position.
-- The party had not yet entered the camp or recovered any of the mounts.
-- There is no confirmed indication that any horse has been injured.
+- The horses are no longer held by Ulsar Quinn's forces.
+- Ulsar's Broken Fang camp near Rana Viam was destroyed.
+- Bracken was threatened by Talan Rook during the parley, when Talan pressed a greatsword to his neck.
+- Erelmor began freeing Nail during the infiltration, cutting two of the three ropes holding him.
+- Kingcup was kicked by a warhorse during the chaos and nearly died.
+- Mireya, who had been watching the horses, was killed in the burning camp and preserved by Ballar with Gentle Repose.
 
 ## Related
 

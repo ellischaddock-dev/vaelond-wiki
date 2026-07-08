@@ -12,7 +12,7 @@ tags:
   - places
   - rakara
 region: Rakara
-updated: 2026-07-02
+updated: 2026-07-05
 ---
 
 # Rakara
@@ -42,7 +42,8 @@ Her assassination left the title empty, the union uncertain and every clan watch
 
 - [[02 Places/Rakara/Somnolent/Somnolent|Somnolent]] — the fiercely independent crossroads town
 - [[02 Places/Rakara/Somnolent/Emberwake Festival|Emberwake Festival]] — Somnolent's celebration of renewal and the assassination that changed it
-- [[02 Places/Rakara/Rana Viam|Rana Viam]] — an Ardynian ruin explored in the Erzhin hills
+- [[02 Places/Rakara/Rana Viam|Rana Viam]] — an Ardynian ruin in Orvak, near the Voruun border and close to Hushvale
+- [[02 Places/Rakara/Hushvale|Hushvale]] — an Orvaki settlement with an unusually closed reputation
 
 ## Organisations
 

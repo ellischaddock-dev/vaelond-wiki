@@ -17,7 +17,7 @@ homeland: Doro
 mount: Kingcup
 current_status: active
 source: Sessions 1–20
-updated: 2026-07-04
+updated: 2026-07-05
 ---
 
 # Ballar Novis
@@ -27,7 +27,7 @@ updated: 2026-07-04
 
 ## Established background
 
-Ballar is the son of the head of **House Nirrell**, one of Doro’s ten lesser houses.
+Ballar is the son of the head of [[02 Places/Doro/Noble Houses/House Nirrell|House Nirrell]], one of Doro's ten lesser families.
 
 Although noble, wealthy and well connected, Ballar is the **third child of five** and the **third son**. His older brothers were raised as the meaningful heirs to the house, leaving Ballar with status, expectations and opportunity, but no obvious dynastic purpose.
 
@@ -117,13 +117,13 @@ Kingcup’s elegance and temperament mirror Ballar’s own self-image: impressiv
 - Decide what purpose Ballar has beyond being the third son of House Nirrell.
 - Define whether his future lies with Doro, Somnolent, the Defracturers or some more personal ideal of glory.
 - Understand [[03 People/Notable Figures/Din|Din]] and determine whether he can safely be given a body.
-- Uncover the full relationship between House Nirrell, the Old Grey Pike and the destruction of Ashenhom.
+- Uncover the full relationship between [[02 Places/Doro/Noble Houses/House Nirrell|House Nirrell]], the Old Grey Pike and the destruction of [[02 Places/Doro/Ashenhom|Ashenhom]].
 - Decide what responsibility Ballar bears for the choices and secrets of his family.
 - Resolve his strained loyalties between Ouin’s Doroan guidance and the Defracturers’ collective judgement.
 - Determine whether his attraction to spectacle can become genuine leadership rather than performance.
 
 > [!warning] Gaps in the current record
-> - The exact duties, resources and internal politics of House Nirrell remain incomplete.
+> - The exact duties, resources and internal politics of [[02 Places/Doro/Noble Houses/House Nirrell|House Nirrell]] remain incomplete.
 > - Ballar’s older siblings have not yet been fully named or described.
 > - The exact actions of each Nirrell family member during the events surrounding Ashenhom remain unresolved.
 > - Din’s original identity, limitations and long-term objective have not been confirmed.
@@ -137,6 +137,9 @@ Kingcup’s elegance and temperament mirror Ballar’s own self-image: impressiv
 - [[06 Library/Relics and Artefacts/Ring of Mind Shielding|Ring of Mind Shielding]]
 - [[03 People/Notable Figures/Ouin Brond|Ouin Brond]]
 - [[03 People/Notable Figures/Ervain Megbanas|Ervain Megbanas]]
+- [[02 Places/Doro/Noble Houses/House Nirrell|House Nirrell]]
+- [[02 Places/Doro/Doroan Noble Houses|Doroan Noble Houses]]
+- [[02 Places/Doro/Ashenhom|Ashenhom]]
 - [[03 People/Notable Figures/Balur Moonclaw|Balur Moonclaw]]
 - [[03 People/Notable Figures/Ersil Loquella|Ersil Loquella]]
 - [[06 Library/Campaign Reference/Open Threads|Open Threads]]

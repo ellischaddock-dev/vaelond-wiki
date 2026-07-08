@@ -13,7 +13,7 @@ tags:
   - campaign
 region: Rakara
 settlement: Somnolent
-updated: 2026-07-04
+updated: 2026-07-05
 ---
 
 # The Drowsy Coin
@@ -33,7 +33,7 @@ The Drowsy Coin has served as one of the Defracturers' main bases in [[02 Places
 - [[03 People/Notable Figures/Xene Redmayne|Xene Redmayne]] served festival food and drinks there.
 - Enrak celebrated songs about the party at the inn.
 - Ballar rented a suite, while Enrak rented a standard room.
-- The cellar became connected to the discovery of [[06 Library/Relics and Artefacts/Virei's Shattered Mask|Virei's Shattered Mask]].
+- The cellar became connected to the discovery of [[06 Library/Relics and Artefacts/Verei's Shattered Mask|Verei's Shattered Mask]].
 
 ## Related
 
@@ -41,4 +41,4 @@ The Drowsy Coin has served as one of the Defracturers' main bases in [[02 Places
 - [[03 People/Notable Figures/Callum Redmayne|Callum Redmayne]]
 - [[03 People/Notable Figures/Xene Redmayne|Xene Redmayne]]
 - [[03 People/Notable Figures/Elmwood Bluevine|Elmwood Bluevine]]
-- [[06 Library/Relics and Artefacts/Virei's Shattered Mask|Virei's Shattered Mask]]
+- [[06 Library/Relics and Artefacts/Verei's Shattered Mask|Verei's Shattered Mask]]

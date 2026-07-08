@@ -26,7 +26,7 @@ tags:
   - campaign
   - chronicle
   - session-notes
-updated: 2026-07-01
+updated: 2026-07-05
 ---
 
 # Session 07: Coffee and Contraband
@@ -153,7 +153,7 @@ The fight was brutal — not in blows traded, but in what it cost. The spectres 
 
 What remained was the mask — still and silent.
 
-As the group caught their breath, n’Dong approached the mask with rare solemnity. Without prompting, without thought, he recited a forgotten prayer — a supplication to Virei, the Shattered Mask, whose broken visage watches over secrets and spirits.
+As the group caught their breath, n’Dong approached the mask with rare solemnity. Without prompting, without thought, he recited a forgotten prayer — a supplication to Verei, the Shattered Mask, whose broken visage watches over secrets and spirits.
 
 The curse lifted. The mask fell inert. Without ceremony, n’Dong pocketed it.
 
@@ -166,4 +166,4 @@ Whatever had happened in the basement wasn’t just a haunting. It was a reckoni
 ---
 
 **Chronicle:** [[05 Campaign Chronicle/index]]  
-**Navigation:** [[Session 06 - Smoke, Song and Secrets|Previous session]] · [[Session 08 - The Weight of Secrets|Next session]]
+**Navigation:** [[Session 06 - Smoke, Song and Secrets|Previous session]] Â· [[Session 08 - The Weight of Secrets|Next session]]

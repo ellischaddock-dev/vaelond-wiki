@@ -18,7 +18,7 @@ role: 'The Old Grey Pike'
 current_status: 'alive'
 last_known_location: 'Somnolent'
 source: 'Campaign notes.docx'
-updated: 2026-07-01
+updated: 2026-07-05
 ---
 
 # Ervain Megbanas
@@ -26,14 +26,23 @@ updated: 2026-07-01
 ![[Ervain Megbanas.png|260]]
 
 > [!summary] At a glance
-> A disgraced former Doro general, gambler and possible link to the destruction of Erelmor’s family.
+> A disgraced former Doro general, gambler and possible link to the destruction of Erelmor's family at [[02 Places/Doro/Ashenhom|Ashenhom]].
 
 ## Known details
 
 - Formerly commanded Doro forces in the Maw.
-- May be connected to the murder of Erelmor’s family.
+- Is known as **the Old Grey Pike**.
+- [[02 Places/Doro/Ashenhom|Ashenhom]] was razed by Doroan forces as an example after being accused of harbouring Perfid spies.
+- The fallout from Ashenhom led to Ervain being removed from active duty in disgrace.
+- His true role in the destruction of Ashenhom and the deaths of Erelmor's family remains unresolved.
 - Dislikes Ballar and enjoys high-stakes dice.
-- Once owned the House Bromere favour coin later used to pay Buggie, but lost it to Eden Carrion during a dice game.
+- Once owned the [[02 Places/Doro/Noble Houses/House Bromere|House Bromere]] favour coin later used to pay Buggie, but lost it to Eden Carrion during a dice game.
+
+## Ashenhom
+
+[[02 Places/Doro/Ashenhom|Ashenhom]] sits at the centre of Ervain's unresolved significance. The settlement was destroyed by Doroan forces after being accused of harbouring Perfid spies, with the razing used as an example to others.
+
+The political and military fallout ended Ervain's active command. That disgrace does not yet explain what truly happened at Ashenhom, why the accusation was made, or how directly Ervain was involved in the deaths of [[03 People/Player Characters/Erelmor|Erelmor's]] wife and children.
 
 ## Campaign appearances
 
@@ -46,6 +55,10 @@ updated: 2026-07-01
 
 ## Related
 
-- [[The Powers That Be]]
+- [[01 Welcome to Vaelond/The Powers That Be#Doro|The Powers That Be: Doro]]
+- [[02 Places/Doro/Doro|Doro]]
+- [[02 Places/Doro/Ashenhom|Ashenhom]]
+- [[02 Places/Doro/Noble Houses/House Bromere|House Bromere]]
 - [[Eden Carrion]]
-- [[Open Threads]]
+- [[03 People/Player Characters/Erelmor|Erelmor]]
+- [[06 Library/Campaign Reference/Open Threads|Open Threads]]

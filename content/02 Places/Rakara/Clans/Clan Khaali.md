@@ -16,7 +16,7 @@ region: Rakara
 clan: Khaali
 leader: Sifaya Flameborn
 source_date: 2025-07-05
-updated: 2026-07-01
+updated: 2026-07-05
 ---
 
 # Clan Khaali
@@ -51,7 +51,7 @@ Khaali buildings are painted in rich reds, oranges and deep blacks. Music and da
 
 The Khaalites carry colour in their dress, boldness in their speech and spectacle into their rituals. Every harvest becomes a celebration and every decision a performance. Beneath that pageantry lies formidable force: Khaali maintains the largest circle of trained pyromancers in Rakara.
 
-The clan's faith is particularly associated with [[Rakaran Faiths#Ashka the Ember-Dancer|Ashka the Ember-Dancer]] and [[Rakaran Faiths#Virei the Shattered Mask|Virei the Shattered Mask]].
+The clan's faith is particularly associated with [[Rakaran Faiths#Ashka the Ember-Dancer|Ashka the Ember-Dancer]] and [[Rakaran Faiths#Verei the Shattered Mask|Verei the Shattered Mask]].
 
 ## Trade and tensions
 

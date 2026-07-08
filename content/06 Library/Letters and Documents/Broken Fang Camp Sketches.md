@@ -22,7 +22,7 @@ updated: 2026-07-03
 # Broken Fang Camp Sketches
 
 > [!summary] At a glance
-> Two crude maps drawn by the captured Broken Fang scouts Salla and Malt, showing the camp commanded by [[03 People/Notable Figures/Ulsar Quinn|Ulsar Quinn]] and the approximate location of the Defracturers' stolen horses.
+> Two crude maps drawn by the captured Broken Fang scouts Salla and Malt, showing the camp commanded by [[03 People/Notable Deceased/Ulsar Quinn|Ulsar Quinn]] and the approximate location of the Defracturers' stolen horses.
 
 ## Circumstances
 
@@ -99,7 +99,10 @@ It is not yet known whether the camp has been warned about the missing scouts or
 ## Related
 
 - [[04 Organisations/Broken Fang|Broken Fang]]
-- [[03 People/Notable Figures/Ulsar Quinn|Ulsar Quinn]]
+- [[03 People/Notable Deceased/Ulsar Quinn|Ulsar Quinn]]
 - [[06 Library/Campaign Reference/Horses|Horses]]
 - [[02 Places/Rakara/Rana Viam|Rana Viam]]
 - [[06 Library/Campaign Reference/Open Threads|Open Threads]]
+
+
+

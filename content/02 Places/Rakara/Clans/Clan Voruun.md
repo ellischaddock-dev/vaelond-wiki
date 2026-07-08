@@ -16,7 +16,7 @@ region: Rakara
 clan: Voruun
 leader: Relka of the Chain-Eye
 source_date: 2025-07-07
-updated: 2026-07-01
+updated: 2026-07-08
 ---
 
 # Clan Voruun
@@ -25,6 +25,7 @@ updated: 2026-07-01
 |---|---|
 | **Region** | Central Rakara |
 | **Leader** | Relka of the Chain-Eye |
+| **Capital** | [[02 Places/Rakara/Voruun/Dazuun|Dazuun]] |
 | **Key routes** | Salt Spine and Trade Horizon |
 | **Known for** | Trade, infrastructure, social mobility, fighting pits and controlled aggression |
 
@@ -35,7 +36,7 @@ updated: 2026-07-01
 The sigil of Clan Voruun bears a **silver serpent passing through a broken chain on a dark bronze shield**, backed by an angular sunburst. It presents liberation and progress, although critics see opportunism and unchecked ambition.
 
 - **Serpent:** cleverness, patience and deadly precision.
-- **Broken chain:** strength through liberation—and rejection of unity or tradition when convenient.
+- **Broken chain:** strength through liberationâ€”and rejection of unity or tradition when convenient.
 - **Sunburst:** innovation and a dawning era, with a sharpness that can resemble self-righteous ambition.
 
 ## Background
@@ -44,7 +45,7 @@ Clan Voruun is the dominant force in central Rakara, controlling the **Salt Spin
 
 Under **Relka of the Chain-Eye**, the clan has become a force of opportunists, modernisers and masters of controlled aggression. Relka is a strategist, populist and tactician with no illusions about power. She rose from pit-fighter to general and then ruler, not merely through force but by making herself indispensable.
 
-Voruun claims to represent a new Rakara built on infrastructure, diplomacy and enlightened government. Since Anthea's death, it has publicly declared itself the rightful successor to her project. Only Khaali openly supports this claim. Its cities expand, its envoys travel widely and scholars write decrees beside mercenaries. Beneath that polish remains the heart of a war-clan. The fighting pits of **Dazuun** still determine advancement, honour still demands blood and council seats may be earned through cunning or brute force.
+Voruun claims to represent a new Rakara built on infrastructure, diplomacy and enlightened government. Since Anthea's death, it has publicly declared itself the rightful successor to her project. Only Khaali openly supports this claim. Its cities expand, its envoys travel widely and scholars write decrees beside mercenaries. Beneath that polish remains the heart of a war-clan. The fighting pits of [[02 Places/Rakara/Voruun/Dazuun|Dazuun]], Voruun's capital, still determine advancement, honour and reputation. Council seats may be earned through cunning or brute force.
 
 ## People and culture
 
@@ -67,8 +68,13 @@ Control of the Salt Spine and Trade Horizon gives Voruun enormous leverage. The 
 
 Voruun casts a long and hungry shadow. It leads Rakara in wealth, movement and centrality, but aggression has left it with few true friends. Relka balances the need for unity against the temptation to force submission from those who will not cooperate.
 
+## Current campaign significance
+
+After Session 21, the Defracturers learned that [[03 People/Mentioned Figures/Rhul Slowdrift|Rhul Slowdrift]] has taken control of Dazuun's fighting pits as part of a [[04 Organisations/Broken Fang|Broken Fang]] operation. [[03 People/Notable Deceased/Ulsar Quinn|Ulsar Quinn]] also claimed that pit contestants are being supplied with [[06 Library/Campaign Reference/Dragon's Dandruff|Dragon's Dandruff]], a stimulant produced by three Khaali alchemists from a lab south of Somnolent.
+
 ## Related pages
 
+- [[02 Places/Rakara/Voruun/Dazuun|Dazuun]]
 - [[Rakara's Regions and Clans#Clan Voruun]]
 - [[Rakara's Regions and Clans#Somnolent|Somnolent]]
 - [[Rakara]]

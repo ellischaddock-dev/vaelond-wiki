@@ -26,9 +26,9 @@ The candidate was interviewed after the Defracturers acquired their Somnolent ba
 
 ## Campaign appearances
 
-- [[Session 15 - Stewards, Saddles and Shambling Roots]]
+- [[05 Campaign Chronicle/Session 15 - Stewards, Saddles and Shambling Roots|Session 15 - Stewards, Saddles and Shambling Roots]]
 
 ## Related
 
-- [[02 Places/Rakara/Somnolent/The Defracturers' Bastion|The Defracturers’ Bastion]]
-- [[The Defracturers]]
+- [[02 Places/Rakara/Somnolent/The Defracturers' Bastion|The Defracturers' Bastion]]
+- [[04 Organisations/The Defracturers|The Defracturers]]

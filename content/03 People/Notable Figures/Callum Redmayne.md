@@ -15,7 +15,7 @@ role: 'Landlord of the Drowsy Coin'
 current_status: 'alive'
 last_known_location: 'Somnolent'
 source: 'Campaign notes.docx'
-updated: 2026-07-01
+updated: 2026-07-05
 ---
 
 # Callum Redmayne
@@ -29,7 +29,7 @@ updated: 2026-07-01
 
 - Spoke at Emberwake.
 - Explained how Elmwood protected the Drowsy Coin during the goblin attack.
-- Asked the party to investigate strange events in his cellar and could not explain how a relic of Virei had reached it.
+- Asked the party to investigate strange events in his cellar and could not explain how a relic of Verei had reached it.
 - Rented a standard room to Enrak and a suite to Ballar.
 
 ## Campaign appearances

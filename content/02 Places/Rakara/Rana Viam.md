@@ -13,28 +13,32 @@ tags:
   - campaign
   - orvak
 region: Rakara
-territory: Clan Erzhin
+territory: Clan Orvak
 current_status: partially explored
-source: Sessions 17–19
-updated: 2026-07-02
+source: Sessions 17-21
+updated: 2026-07-08
 ---
 
 # Rana Viam
 
 > [!summary] At a glance
-> An Ardynian ruin in the forests of Orvak containing Chronarch mechanisms, a message from Saint Vaelen and the construct that guarded the Bands of Distortion.
+> An Ardynian ruin in Orvak, near the outskirts where Orvak borders Voruun territory, containing Chronarch mechanisms, a message from Saint Vaelen and the construct that guarded the Bands of Distortion.
 
 | | |
 |---|---|
 | **Region** | Rakara |
-| **Territory** | Erzhin hills |
+| **Territory** | Clan Orvak, near the Voruun border |
 | **Known builders or users** | Ardynian Chronarchs |
-| **Explored** | Sessions 17–19 |
+| **Distance from Somnolent** | About two to three days by horse |
+| **Distance from Hushvale** | About half a day by horse |
+| **Explored** | Sessions 17â€“19 |
 | **Relic recovered** | Bands of Distortion |
 
 ## Approach and entrance
 
-The Defracturers reached Rana Viam while travelling through the Orvak forest towards Hushvale. Evidence within and around the site showed that members of the [[04 Organisations/Broken Fang|Broken Fang]] had previously searched the ruin and died there.
+The Defracturers reached Rana Viam while travelling through Orvak towards Hushvale. The ruin lies towards the outskirts of Orvak, close to the border of [[02 Places/Rakara/Clans/Clan Voruun|Voruun]] territory. It is about two to three days' ride from [[02 Places/Rakara/Somnolent/Somnolent|Somnolent]] and about half a day's ride from [[02 Places/Rakara/Hushvale|Hushvale]].
+
+Evidence within and around the site showed that members of the [[04 Organisations/Broken Fang|Broken Fang]] had previously searched the ruin and died there.
 
 The entrance presented a sequence built around the commands **jump**, **cross** and **run**, establishing the ruin's pattern of testing movement, sacrifice and understanding rather than relying on an ordinary locked door.
 
@@ -68,6 +72,7 @@ A sealed Ardynian scroll was also recovered.
 - The Bands of Distortion and their heart stone have been removed.
 - The party left the ruin at the end of Session 19.
 - Broken Fang scouts were waiting outside, beginning the pursuit recorded in Session 20.
+- The pursuit culminated in the destruction of Ulsar Quinn's nearby Broken Fang camp in Session 21.
 - It is not clear whether every chamber or function of Rana Viam has been discovered.
 
 > [!question] Unresolved
@@ -82,10 +87,14 @@ A sealed Ardynian scroll was also recovered.
 - [[05 Campaign Chronicle/Session 17 - Shrieks, Widows and Time Juice|Session 17]]
 - [[05 Campaign Chronicle/Session 18 - Frogger, Flames and the Golem's Toll|Session 18]]
 - [[05 Campaign Chronicle/Session 19 - Bands, Broken Stone and the Glass Fang|Session 19]]
+- [[05 Campaign Chronicle/Session 20 - Plague, Pursuit and Plan E|Session 20]]
+- [[05 Campaign Chronicle/Session 21 - Contracts, Command, and a Burning Camp|Session 21]]
 
 ## Related
 
-- [[02 Places/Rakara/Clans/Clan Erzhin|Clan Erzhin]]
+- [[02 Places/Rakara/Clans/Clan Orvak|Clan Orvak]]
+- [[02 Places/Rakara/Clans/Clan Voruun|Clan Voruun]]
+- [[02 Places/Rakara/Hushvale|Hushvale]]
 - [[04 Organisations/Chronarchs|Chronarchs]]
 - [[04 Organisations/Broken Fang|Broken Fang]]
 - [[06 Library/Relics and Artefacts/Bands of Distortion|Bands of Distortion]]

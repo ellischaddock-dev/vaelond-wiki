@@ -1,11 +1,11 @@
 ---
-title: Virei's Shattered Mask
+title: Verei's Shattered Mask
 type: artefact
 status: published
 player_facing: true
 aliases:
   - The Shattered Mask
-  - Virei's Mask
+  - Verei's Mask
   - Verei's Shattered Mask
 tags:
   - artefact
@@ -15,13 +15,12 @@ tags:
   - campaign
 current_holder: n'Dong
 source: Session 7
-updated: 2026-07-03
+updated: 2026-07-05
 ---
-
-# Virei's Shattered Mask
+# Verei's Shattered Mask
 
 > [!summary] At a glance
-> An old brittle mask found beneath the Drowsy Coin, which forced the Defracturers into private visions before n'Dong invoked Virei, the Shattered Mask, and lifted its curse.
+> An old brittle mask found beneath the Drowsy Coin, which forced the Defracturers into private visions before n'Dong invoked Verei, the Shattered Mask, and lifted its curse. The mask now appears to act almost like an arcane focus for receiving Verei's blessing, though that blessing may be dangerous.
 
 ## Discovery
 
@@ -43,9 +42,9 @@ Known visions included:
 
 When the visions fractured, apparitions of Ballar's mother and Erelmor's wife remained and attacked the party.
 
-## The prayer to Virei
+## The prayer to Verei
 
-After the apparitions were defeated, n'Dong approached the mask and recited a forgotten prayer to **Virei, the Shattered Mask**, whose broken visage watches over secrets and spirits.
+After the apparitions were defeated, n'Dong approached the mask and recited a forgotten prayer to **Verei, the Shattered Mask**, whose broken visage watches over secrets and spirits.
 
 The curse lifted. The mask fell inert, and n'Dong took it.
 
@@ -56,19 +55,19 @@ The mask has demonstrated the ability to:
 - trigger intensely personal visions or memories;
 - manifest hostile spiritual apparitions;
 - draw upon guilt, grief, fear or hidden trauma;
-- respond to a prayer associated with Virei.
+- respond to a prayer associated with Verei.
 
-After n'Dong's prayer, the mask appeared inert. It has not yet shown any further powers in the chronicle.
+After n'Dong's prayer, the mask appeared inert, but it should not be treated as powerless. It appears to function almost like an arcane focus, making it easier for the bearer to receive a blessing from Verei. Such a blessing is not necessarily safe, beneficial or under the bearer's control.
 
 ## Current status
 
-n'Dong currently carries the mask. Whether it is harmless, sleeping, purified or waiting for another trigger remains unknown.
+n'Dong currently carries the mask. It is best understood as dormant rather than harmless: an object that can focus Verei's influence and make blessings easier to receive, while leaving the cost, danger and control of those blessings unresolved.
 
 > [!warning] Caution
-> The mask should not be assumed safe merely because the immediate curse was lifted. Its connection to secrets, spirits and personal trauma remains unexplained.
+> The mask should not be assumed safe merely because the immediate curse was lifted. Its connection to secrets, spirits, personal trauma and Verei's blessings remains unexplained.
 
 > [!question] Unresolved
-> - What is Virei?
+> - What is Verei?
 > - Why did n'Dong know the prayer?
 > - Was the mask a relic, holy object, cursed object or prison?
 > - Why was it hidden beneath the Drowsy Coin?

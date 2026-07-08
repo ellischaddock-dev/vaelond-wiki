@@ -26,7 +26,7 @@ tags:
   - campaign
   - chronicle
   - session-notes
-updated: 2026-07-01
+updated: 2026-07-05
 ---
 
 # Session 11: Ashes, Brands and Windfalls
@@ -90,7 +90,7 @@ When they attempted to force the mechanism, the safe responded immediately. Ther
 
 The safe did not open. It marked them. The weight of their mistake settled in quickly. This was not a trap meant to kill. It was meant to identify.
 
-Realizing how exposed they now were, the pair abandoned any further attempt and fled. n’Dong dropped the illusion of Alaaric, reverting to his true form, but immediately concealed himself behind the visage of Virei’s Shattered Mask, understanding that his distinctive appearance would be remembered.
+Realizing how exposed they now were, the pair abandoned any further attempt and fled. n’Dong dropped the illusion of Alaaric, reverting to his true form, but immediately concealed himself behind the visage of Verei’s Shattered Mask, understanding that his distinctive appearance would be remembered.
 
 ## Marks, Mandates & War
 
@@ -150,4 +150,4 @@ And with that, the next morning’s objective became clear: Storm the Perfid Emb
 ---
 
 **Chronicle:** [[05 Campaign Chronicle/index]]  
-**Navigation:** [[Session 10 - Saints, Spies and Snake Eyes|Previous session]] · [[Session 12-14 - Fire, Faith and the Corona of the Ashen Choir|Next session]]
+**Navigation:** [[Session 10 - Saints, Spies and Snake Eyes|Previous session]] Â· [[Session 12-14 - Fire, Faith and the Corona of the Ashen Choir|Next session]]
