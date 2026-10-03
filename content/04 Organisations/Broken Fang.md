@@ -10,8 +10,8 @@ tags:
   - campaign
 affiliation: Minir
 leader: Prodosius
-source: Campaign notes and Sessions 1-21
-updated: 2026-07-08
+source: Campaign notes and Sessions 1-24
+updated: 2026-10-03
 ---
 
 # Broken Fang
@@ -41,7 +41,7 @@ That authority passes down through his most trusted advisors and commanders, kno
 - The organisation is seeking Ardynian relics, though its final purpose remains unknown.
 - Ulsar Quinn's forces took the Defracturers' horses while the party explored Rana Viam.
 - Salla and Malt, two Broken Fang scouts, produced [[06 Library/Letters and Documents/Broken Fang Camp Sketches|crude but broadly consistent maps]] of Ulsar's nearby camp.
-- Salla was killed during an attack by Egg Hunter Hatchlings. Malt survived and remained in the Defracturers' custody.
+- Salla was killed during an attack by Egg Hunter Hatchlings. Malt survived and remained in the Defracturers' custody until Session 23, when Ballar released him with the Bushtache mission.
 - Ulsar's camp near Rana Viam was later destroyed by the Defracturers. Ulsar and Talan Rook were killed.
 - Ulsar revealed that Rhul Slowdrift had taken control of the fighting pits of Dazuun.
 - Ulsar also revealed that three Khaali alchemists were producing [[06 Library/Campaign Reference/Dragon's Dandruff|Dragon's Dandruff]] for Rhul's operation from a lab south of [[02 Places/Rakara/Somnolent/Somnolent|Somnolent]].
@@ -53,6 +53,18 @@ Ulsar Quinn revealed that Rhul's main Rakaran operation is based around the figh
 The alchemists work from a lab south of Somnolent.
 
 According to Ulsar, killing Rhul or destroying this operation would likely draw Prodosius into the open because Prodosius's pride would not allow the humiliation to stand.
+
+
+## Developments in Sessions 22-24
+
+- n'Dong recovered **two vials of [[06 Library/Campaign Reference/Dragon's Dandruff|Dragon's Dandruff]]** from [[03 People/Notable Deceased/Talan Rook|Talan Rook]]'s tent after Ulsar's camp was destroyed.
+- Malt no longer remains a prisoner. Ballar released him in Session 23 with the task of finding a Pot of Awakening for [[06 Library/Campaign Reference/Bushtache|Bushtache]].
+- Session 24 confirmed that the [[02 Places/Rakara/Somnolent/One Ball Inn|One Ball Inn]] remained an active **fencing point** for the organisation. Two men pressuring [[03 People/Notable Figures/Antoinne Cassan|Antoinne Cassan]] explicitly invoked [[03 People/Mentioned Figures/Rhul Slowdrift|Rhul Slowdrift]] and his concern for discretion.
+- A barrel abandoned by smugglers beside the river was later connected to Antoinne. It contained expensive goods with merchant markings stripped or obscured.
+- Antoinne subsequently disappeared. His office was found ransacked, with blood, coded transactions and missing ledger pages. The One Ball Inn burned down the following morning and no body was recovered.
+- Enrak also found **chalky footprints leading north-east** from the destroyed camp. The supplied record does not identify who or what made them or record a later follow-up.
+
+These developments confirm that Rhul's network reached directly into Somnolent rather than existing only through Ulsar's account of the Dazuun pits.
 
 > [!question] Unresolved
 > - Why is the Broken Fang searching for Ardynian relics?

@@ -51,7 +51,7 @@ The interviews for a new head steward were, in their own way, as dangerous as an
 
 First came Mariasz Salhum, a former chief steward from a Temiri trading vessel. She carried herself with the calm authority of someone who had long ago learned how to keep difficult people fed, organized, and alive. Strong-willed, sensible, and plainly competent, she immediately stood apart from the field.
 
-Then came Gorbels Valebrew, a so-called coffee mage whose references were dubious, his manner erratic, and whose deep personal vendetta against Brewed Awakening suggested a man with as many grievances as recipes.
+Then came Joe-Seff Gorbels, a so-called coffee mage whose references were dubious, his manner erratic, and whose deep personal vendetta against Brewed Awakening suggested a man with as many grievances as recipes.
 
 Igon Duft followed, a gaunt and deeply unsettling figure with a glass eye and the air of a man who could absolutely solve problems, though perhaps not in ways anyone would later be comfortable learning about.
 

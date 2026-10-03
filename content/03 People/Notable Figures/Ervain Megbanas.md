@@ -16,9 +16,9 @@ ancestry: 'Half-orc'
 gender: 'Male'
 role: 'The Old Grey Pike'
 current_status: 'alive'
-last_known_location: 'Somnolent'
+last_known_location: "Unknown; left Somnolent during the Defracturers' absence"
 source: 'Campaign notes.docx'
-updated: 2026-07-05
+updated: 2026-10-03
 ---
 
 # Ervain Megbanas
@@ -44,6 +44,12 @@ updated: 2026-07-05
 
 The political and military fallout ended Ervain's active command. That disgrace does not yet explain what truly happened at Ashenhom, why the accusation was made, or how directly Ervain was involved in the deaths of [[03 People/Player Characters/Erelmor|Erelmor's]] wife and children.
 
+## Departure from Somnolent
+
+During the Defracturers' absence, Alaaric sent word to their Bastion that the Old Grey Pike had **left Somnolent**. No destination was recorded in Session 24.
+
+The timing matters because Erelmor's fixation on Ervain has intensified. During the return journey to Somnolent, Erelmor suffered a nightmare in which the Pike murdered his younger sister and woke convinced again that Ervain needed to die.
+
 ## Campaign appearances
 
 - [[Session 06 - Smoke, Song and Secrets]]
@@ -52,6 +58,7 @@ The political and military fallout ended Ervain's active command. That disgrace 
 - [[Session 10 - Saints, Spies and Snake Eyes]]
 - [[Session 11 - Ashes, Brands and Windfalls]]
 - [[Session 15 - Stewards, Saddles and Shambling Roots]]
+- [[05 Campaign Chronicle/Session 24 - Pies, Pike and a one ball blaze|Session 24]]
 
 ## Related
 

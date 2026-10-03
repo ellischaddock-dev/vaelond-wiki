@@ -9,8 +9,8 @@ tags:
   - bastion-staff
 role: 'Cook'
 current_status: 'alive'
-source: 'Campaign notes.docx'
-updated: 2026-07-01
+source: 'Campaign notes and Session 24'
+updated: 2026-09-10
 ---
 
 # Igon Duft
@@ -24,9 +24,16 @@ updated: 2026-07-01
 
 The candidate was interviewed after the Defracturers acquired their Somnolent bastion. Mariasz was appointed Head Steward; the remaining candidates were offered lesser household positions.
 
+## Session 24
+
+Igon helped keep the Bastion functioning during the Defracturers' absence and assisted with errands for Somnolent's reduced authorities. He joined Mariasz and Ghorgadush in collecting the One Ball Inn's gaming levy and overheard the confrontation that exposed the inn as a fencing point tied to Rhul's network.
+
+When the Crimson Shield recovered a suspicious barrel from fleeing smugglers, Igon quietly noted that he knew a man who knew a man who might be able to move such goods. The barrel was handed to Alaaric instead.
+
 ## Campaign appearances
 
 - [[05 Campaign Chronicle/Session 15 - Stewards, Saddles and Shambling Roots|Session 15 - Stewards, Saddles and Shambling Roots]]
+- [[05 Campaign Chronicle/Session 24 - Pies, Pike and a one ball blaze|Session 24]]
 
 ## Related
 

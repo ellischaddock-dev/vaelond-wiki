@@ -11,8 +11,8 @@ tags:
 region: Rakara
 territory: Clan Orvak
 current_status: not yet visited
-source: Sessions 17, 19, 20 and 21
-updated: 2026-07-08
+source: Sessions 17, 19-23
+updated: 2026-10-03
 ---
 
 # Hushvale
@@ -25,7 +25,7 @@ updated: 2026-07-08
 | **Region** | Rakara |
 | **Territory** | [[02 Places/Rakara/Clans/Clan Orvak|Clan Orvak]] |
 | **Distance from Rana Viam** | About half a day by horse |
-| **Party status** | Intended destination |
+| **Party status** | Unvisited; immediate journey deferred |
 | **Known prospective resident** | [[03 People/Notable Figures/Mireya Dinak|Mireya Dinak]] |
 
 ## Current understanding
@@ -46,9 +46,15 @@ Following the recovery of the [[06 Library/Relics and Artefacts/Bands of Distort
 
 The resulting confrontation at Ulsar's camp ended with the camp destroyed and Mireya killed in the fire. Ballar later found her burned body and cast **Gentle Repose**, preserving what remained for possible resurrection.
 
+## Sessions 22-23
+
+After the Broken Fang camp was destroyed, Ieuan contacted Elmwood and was advised that the party might want to return to Somnolent. The group subsequently dealt with the False Gardener's corruption and then made the decision explicit: the Shrine of Orun and Hushvale could wait.
+
+By the end of Session 23 the Defracturers were only a few hours from Somnolent. Hushvale therefore remains a future destination rather than the party's immediate next stop.
+
 ## Current significance
 
-Hushvale remains the party's intended destination after the destruction of Ulsar's camp, but Mireya's condition now complicates the journey.
+Hushvale remains unvisited. After the destruction of Ulsar's camp, the party decided to defer the journey and return to Somnolent instead.
 
 Its significance currently rests on four threads:
 
@@ -72,6 +78,8 @@ Its significance currently rests on four threads:
 - [[05 Campaign Chronicle/Session 19 - Bands, Broken Stone and the Glass Fang|Session 19]]
 - [[05 Campaign Chronicle/Session 20 - Plague, Pursuit and Plan E|Session 20]]
 - [[05 Campaign Chronicle/Session 21 - Contracts, Command, and a Burning Camp|Session 21]]
+- [[05 Campaign Chronicle/Session 22 - Bodies, Blight, and Bushtache|Session 22]]
+- [[05 Campaign Chronicle/Session 23 - Ettins, Owlbears, and Betting Losses|Session 23]]
 
 ## Related
 

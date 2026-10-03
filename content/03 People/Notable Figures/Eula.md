@@ -14,8 +14,8 @@ gender: 'Female'
 role: 'Collector of bodies'
 current_status: 'unknown'
 last_known_location: 'Unknown'
-source: 'Campaign notes.docx'
-updated: 2026-07-08
+source: 'Campaign notes and Sessions 16-22'
+updated: 2026-09-10
 ---
 
 # Eula
@@ -44,11 +44,24 @@ Eula appeared again after Salla's corpse had been infested with a cutting of [[0
 
 Ballar sent a rat to harass her, which repeatedly tried to bite her before she finally burned it with bonfire magic. Eula then claimed Salla's plague-ridden body and vanished. As she disappeared, the forest seemed to release a long and pained howl.
 
+## Session 22
+
+Eula returned to the ruins of Ulsar Quinn's camp to collect more Broken Fang corpses. When dire wolves contested the bodies, she destroyed three of them with **Tidal Wave** and drove the survivors away.
+
+Ieuan demanded to know what she was doing and overturned the floating disk carrying the corpses. Eula responded by trapping him in **Black Tentacles**. The wider party refused further participation in her corpse trade, and Erelmor attempted to return the marked gold he had accumulated.
+
+Eula argued that the Defracturers themselves were leaving a trail of bodies across Rakara and that she merely paid for what they had already discarded. Before vanishing she gave the clearest statement yet of her broader purpose:
+
+> **"Ardynia is returning, and I intend to be prepared, with or without your help."**
+
+This narrows her motive but does not explain what she does with the bodies, who else is involved or what form those preparations take.
+
 ## Campaign appearances
 
 - [[Session 16 - Cackles, Corpses and Catastrophe]]
 - [[Session 17 - Shrieks, Widows and Time Juice]]
 - [[Session 21 - Contracts, Command, and a Burning Camp]]
+- [[05 Campaign Chronicle/Session 22 - Bodies, Blight, and Bushtache|Session 22]]
 
 ## Related
 

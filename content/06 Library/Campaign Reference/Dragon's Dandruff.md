@@ -13,8 +13,8 @@ tags:
   - magic
   - broken-fang
   - voruun
-source: Session 21
-updated: 2026-07-08
+source: Sessions 21-22
+updated: 2026-10-03
 ---
 
 # Dragon's Dandruff
@@ -51,6 +51,12 @@ Dragon's Dandruff is now tied to the [[04 Organisations/Broken Fang|Broken Fang'
 > - How addictive or dangerous is repeated use?
 > - Are the Khaali alchemists working under duress, for profit or for political reasons?
 > - Where exactly is the lab south of Somnolent?
+
+## Recovered samples
+
+After Ulsar Quinn's camp was destroyed, [[03 People/Player Characters/n'Dong|n'Dong]] searched [[03 People/Notable Deceased/Talan Rook|Talan Rook]]'s tent and recovered **two vials of Dragon's Dandruff**.
+
+The party therefore now possesses physical samples of the substance rather than relying solely on Ulsar's description of Rhul's supply chain.
 
 ## Related
 

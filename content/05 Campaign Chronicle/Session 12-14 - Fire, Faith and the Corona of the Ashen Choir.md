@@ -145,7 +145,7 @@ The zealots had escaped. The truth was unraveling faster than anyone could conta
 
 Romayne thanked the party, though the weight behind his words was heavier than gratitude. He instructed them to regroup at the embassy in the morning.
 
-The Defracturers agreed and, in true fashion, began planning something utterly absurd in the face of mounting crisis: A grand canapÃ© luncheon.
+The Defracturers agreed and, in true fashion, began planning something utterly absurd in the face of mounting crisis: A grand canapé luncheon.
 
 ---
 

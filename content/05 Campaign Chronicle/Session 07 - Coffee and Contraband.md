@@ -166,4 +166,4 @@ Whatever had happened in the basement wasn’t just a haunting. It was a reckoni
 ---
 
 **Chronicle:** [[05 Campaign Chronicle/index]]  
-**Navigation:** [[Session 06 - Smoke, Song and Secrets|Previous session]] Â· [[Session 08 - The Weight of Secrets|Next session]]
+**Navigation:** [[Session 06 - Smoke, Song and Secrets|Previous session]] · [[Session 08 - The Weight of Secrets|Next session]]

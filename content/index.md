@@ -6,7 +6,7 @@ player_facing: true
 tags:
   - index
   - vaelond
-updated: 2026-07-02
+updated: 2026-10-03
 ---
 
 # An Adventurer's Guide to Vaelond
@@ -43,7 +43,7 @@ Welcome to the player guide for **Vaelond**. This vault is organised as an inter
 - [[02 Places/Rakara/Clans/Clan Voruun|Clan Voruun]]
 - [[02 Places/Rakara/Somnolent/Somnolent|Somnolent]] — the independent crossroads town
 - [[02 Places/Rakara/Somnolent/Emberwake Festival|Emberwake Festival]] — Somnolent's annual rite of renewal
-- [[02 Places/Rakara/Rana Viam|Rana Viam]] — an explored Ardynian ruin in the Erzhin hills
+- [[02 Places/Rakara/Rana Viam|Rana Viam]] — an explored Ardynian ruin in Orvak near the Voruun border
 
 ## Organisations
 
@@ -67,7 +67,7 @@ Welcome to the player guide for **Vaelond**. This vault is organised as an inter
 ## Campaign chronicle
 
 - [[05 Campaign Chronicle/index|index]] — the complete session-by-session record
-- [[05 Campaign Chronicle/Session 20 - Plague, Pursuit and Plan E|Session 20: Plague, Pursuit and Plan E]] — the latest supplied session note
+- [[05 Campaign Chronicle/Session 24 - Pies, Pike and a one ball blaze|Bastion Interlude: Pies, Pike and the One Ball Blaze]] — the latest supplied chronicle entry
 
 ## Map
 

@@ -8,7 +8,7 @@ tags:
   - reference
   - horses
 source: 'Campaign notes and session chronicle'
-updated: 2026-07-08
+updated: 2026-09-10
 ---
 
 # Horses
@@ -67,14 +67,11 @@ Beautiful, vain, difficult and more suited to a parade ground than a battlefield
 
 ## Current situation
 
-At the end of [[05 Campaign Chronicle/Session 21 - Contracts, Command, and a Burning Camp|Session 21]]:
+The horses are back with the Defracturers and travelling toward Somnolent.
 
-- The horses are no longer held by Ulsar Quinn's forces.
-- Ulsar's Broken Fang camp near Rana Viam was destroyed.
-- Bracken was threatened by Talan Rook during the parley, when Talan pressed a greatsword to his neck.
-- Erelmor began freeing Nail during the infiltration, cutting two of the three ropes holding him.
-- Kingcup was kicked by a warhorse during the chaos and nearly died.
-- Mireya, who had been watching the horses, was killed in the burning camp and preserved by Ballar with Gentle Repose.
+After the destruction of Ulsar's camp, Ballar spent time soothing [[03 People/Player Characters/Ballar Novis|Ballar's]] difficult mare Kingcup. Session 22 marked one of the first moments in which she appeared close to not regarding him with contempt; during the return journey in Session 23, grooming earned what the chronicle describes as perhaps the most genuine affection she had yet shown him.
+
+By the end of Session 23, the party and its mounts were only a few hours from Somnolent.
 
 ## Related
 

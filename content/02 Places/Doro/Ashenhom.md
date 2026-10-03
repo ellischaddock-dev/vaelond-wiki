@@ -13,7 +13,7 @@ tags:
   - ashenhom
 region: Doro
 current_status: destroyed
-updated: 2026-07-05
+updated: 2026-10-03
 ---
 
 # Ashenhom
@@ -40,7 +40,7 @@ The central unresolved questions are not whether Ashenhom was destroyed, but why
 Ashenhom connects several active threads:
 
 - Erelmor's grief and pursuit of revenge.
-- The Old Grey Pike's disgrace and current presence in Somnolent.
+- The Old Grey Pike's disgrace, his departure from Somnolent and his unknown current whereabouts.
 - Doro's war with Perfid across the Maw.
 - The hidden politics of Doroan noble families, especially where military command, scapegoating and family secrets overlap.
 

@@ -31,7 +31,7 @@ updated: 2026-07-08
 | **Known builders or users** | Ardynian Chronarchs |
 | **Distance from Somnolent** | About two to three days by horse |
 | **Distance from Hushvale** | About half a day by horse |
-| **Explored** | Sessions 17â€“19 |
+| **Explored** | Sessions 17–19 |
 | **Relic recovered** | Bands of Distortion |
 
 ## Approach and entrance

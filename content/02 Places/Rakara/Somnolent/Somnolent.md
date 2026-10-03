@@ -15,7 +15,7 @@ tags:
   - rakara
 region: Rakara
 leader: Romayne Drayton
-updated: 2026-07-01
+updated: 2026-10-03
 ---
 
 # Somnolent
@@ -66,6 +66,14 @@ The town's markets deal in textiles, spices, scrolls, alchemical goods, livestoc
 
 With Anthea Bloodclot assassinated just outside its walls, the town is more visible—and vulnerable—than ever. Whispers of sabotage, bribery and foreign influence are constant. Somnolent nevertheless endures: a steady flame at the crossroads of power.
 
+## Developments during the Defracturers' absence
+
+While the party was away, Somnolent's authorities and the Bastion staff developed a credible lead on missing Crows [[03 People/Notable Figures/Eden Carrion|Eden Carrion]] and [[03 People/Notable Figures/Summer Quaresh|Summer Quaresh]]. The lead pointed toward a region where old records describe magic as naturally dampened, and [[03 People/Mentioned Figures/Job Ashmere|Job Ashmere]] and [[03 People/Notable Figures/Gayle Bramble|Gayle Bramble]] prepared to leave town to investigate.
+
+At the same time, the [[02 Places/Rakara/Somnolent/One Ball Inn|One Ball Inn]] was exposed as an active Broken Fang fencing point. Proprietor [[03 People/Notable Figures/Antoinne Cassan|Antoinne Cassan]] disappeared after pressure from men invoking Rhul Slowdrift. His office was found ransacked with blood and missing ledger pages. The inn burned down the following morning and no body was recovered.
+
+[[03 People/Notable Figures/Ervain Megbanas|the Old Grey Pike]] also left Somnolent during this period.
+
 ## Town map
 
 ![[Somnolent Town Map.png]]
@@ -88,7 +96,7 @@ With Anthea Bloodclot assassinated just outside its walls, the town is more visi
 | 12 | **The Silent Court** | A cramped, orderly office registering trade licences, property, marriages and grievances. |
 | 13 | **The Scrappers' Yard** | Part arena and part training pit, used for sanctioned disputes and martial practice. |
 | 14 | **Bramblehorn Stables** | Stables serving local residents and a small number of town-guard mounts. |
-| 15 | **The One Ball Inn** | A rougher local inn known for gambling dice, pickled eggs, laughter and relaxed standards of behaviour. |
+| 15 | **[[02 Places/Rakara/Somnolent/One Ball Inn|The One Ball Inn]]** | Former rough local inn and gambling venue; burned to the ground during the Defracturers' absence after its Broken Fang fencing links surfaced. |
 | 16 | **Sixhalls** | Six stone-lined market halls run cooperatively for local tradespeople. |
 | 17 | **Northbend Farm** | A major local producer of crops and livestock. |
 | 18 | **Lowfold** | A working district of narrow paths, garden plots and weathered cottages. |

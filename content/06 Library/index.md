@@ -7,7 +7,7 @@ tags:
   - index
   - library
   - campaign
-updated: 2026-07-02
+updated: 2026-10-03
 ---
 
 # Library
@@ -17,6 +17,8 @@ updated: 2026-07-02
 - [[06 Library/Campaign Reference/Open Threads|Open Threads]] — active goals, answered questions and failed plans
 - [[06 Library/Campaign Reference/Horses|Horses]] — the party's mounts and their current situation
 - [[06 Library/Campaign Reference/Plague|Plague]] — the sentient fungus encountered near Rana Viam
+- [[06 Library/Campaign Reference/Dragon's Dandruff|Dragon's Dandruff]] — stimulant tied to Rhul Slowdrift's Dazuun operation
+- [[06 Library/Campaign Reference/Bushtache|Bushtache]] — Ballar's cabbage, sent away with Malt to be awakened
 
 ## Relics and artefacts
 
@@ -26,6 +28,8 @@ updated: 2026-07-02
 - [[06 Library/Relics and Artefacts/Corona of the Ashen Choir|Corona of the Ashen Choir]]
 - [[Ring of Mind Shielding]] — recovered from Tace Nox and inhabited by a soul calling itself Din.
 - [[Eula's Red Coins]] — marked currency that alerts Eula to killings nearby.
+- [[06 Library/Relics and Artefacts/Star Seed|Star Seed]] — Ieuan's devotional object, now beginning to awaken.
+- [[06 Library/Relics and Artefacts/False Gardener's Notebook|False Gardener's Notebook]] — Maelor Vey's recovered research, now held by Ieuan.
 - [[Time Juice]] — green temporal substance used to activate mechanisms in Chronarch ruins.
 
 

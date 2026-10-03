@@ -11,11 +11,11 @@ tags:
   - campaign
 ancestry: 'Half-elf'
 gender: 'Female'
-role: 'Barista at Brewed Awakening'
+role: 'Barista at [[02 Places/Rakara/Somnolent/Brewed Awakening|Brewed Awakening]]'
 current_status: 'alive'
 last_known_location: 'Somnolent'
 source: 'Campaign notes.docx'
-updated: 2026-07-01
+updated: 2026-10-03
 ---
 
 # Saffron Araffas
@@ -30,11 +30,16 @@ updated: 2026-07-01
 - Refused to make a cortado and required the group to order from the menu.
 - Administered Brewed Awakening loyalty sigils to Ballar.
 
+## Session 24
+
+During the Defracturers' absence, [[03 People/Bastion Staff/Ghorgadush|Ghorgadush]] persuaded Saffron to trial slices of his Goodberry pie at [[02 Places/Rakara/Somnolent/Brewed Awakening|Brewed Awakening]]. They negotiated a favourable profit split, and within days the pies were regularly selling out.
+
 ## Campaign appearances
 
 - [[Session 07 - Coffee and Contraband]]
+- [[05 Campaign Chronicle/Session 24 - Pies, Pike and a one ball blaze|Session 24]]
 
 ## Related
 
 - [[Somnolent]]
-- [[Gorbels Valebrew]]
+- [[Joe-Seff Gorbels]]

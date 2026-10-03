@@ -7,7 +7,7 @@ tags:
   - index
   - organisations
   - campaign
-updated: 2026-07-02
+updated: 2026-10-03
 ---
 
 # Organisations
@@ -16,10 +16,11 @@ updated: 2026-07-02
 
 - ![[Chronarchs Symbol.png|80]] [[04 Organisations/Chronarchs|Chronarchs]] — **Ardynia**; time magic, ruins and Sundering relics.
 - ![[Rootbound Sigil.png|80]] [[04 Organisations/Rootbound|The Rootbound]] — **Officially unaffiliated; rooted in Orvak**; Anthea's assassination and rival autonomous cells.
-- ![[Broken Fang Symbol.jpeg|80]] [[04 Organisations/Broken Fang|Broken Fang]] — **Minir**; smuggling, n'Dong's past, Rana Viam and the stolen horses.
+- ![[Broken Fang Symbol.jpeg|80]] [[04 Organisations/Broken Fang|Broken Fang]] — **Minir**; smuggling, n'Dong's past, Ardynian relics, Dazuun and the former One Ball fencing operation.
 - ![[Church of Elgira Symbol.png|80]] [[04 Organisations/Church of Elgira|Church of Elgira]] — **Perfid**; ordered Anthea's assassination and escaped with a Corona.
 - — [[04 Organisations/Loyal Crows|Loyal Crows]] — **Followers of Anthea Bloodclot**; Eden, Summer, the Prusset operation and missing agents.
 - — [[04 Organisations/The Defracturers|The Defracturers]] — **Somnolent**; the player party under Romayne Drayton's patronage.
+- — [[04 Organisations/Crimson Shield|Crimson Shield]] — independent adventuring company led by Orrian Leovyre.
 
 ## Regional organisations and political structures
 

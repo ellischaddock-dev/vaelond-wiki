@@ -15,8 +15,8 @@ subclass: Circle of Stars
 homeland: Clan Orvak
 mount: Cobb
 current_status: active
-source: Sessions 1–20
-updated: 2026-07-04
+source: Sessions 1-23
+updated: 2026-09-10
 ---
 
 # Ieuan
@@ -57,6 +57,14 @@ Zantos praised Ieuan's path as a Circle of Stars druid and linked it to Orun's w
 ## Mount
 
 [[06 Library/Campaign Reference/Horses#Cobb|Cobb]] is Ieuan's recorded mount: dependable, calm and sturdy.
+
+## Sessions 22-23
+
+After Ulsar's camp, Ieuan concluded that his judgement had deteriorated since accepting [[06 Library/Campaign Reference/Plague|Plague's]] bargain and planted the remaining cuttings rather than continue carrying them.
+
+He was then confronted by [[03 People/Mentioned Figures/Oakrah Woodfrey|Oakrah Woodfrey]], who identified Plague as part of the legacy of [[03 People/Mentioned Figures/Maelor Vey|Maelor Vey, the False Gardener]]. The Defracturers destroyed the immediate corruption beneath Maelor's ruined home. Ballar later handed Ieuan the [[06 Library/Relics and Artefacts/False Gardener's Notebook|False Gardener's Notebook]].
+
+Plague's influence nevertheless persisted. During Session 23 its command to *Spread* obstructed Ieuan's attempt to understand the [[06 Library/Relics and Artefacts/Star Seed|Star Seed]] through nature. A later attempt through faith succeeded: another leaf unfurled and Ieuan understood the Seed as a devotional object awakening gradually, with dormant **Star Forms** within it.
 
 ## Active personal threads
 

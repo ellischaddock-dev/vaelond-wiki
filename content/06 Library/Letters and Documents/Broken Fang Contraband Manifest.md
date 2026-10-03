@@ -15,7 +15,7 @@ author: Unknown
 recovered_by: n'Dong
 recovered_at: Broken Fang drop site near Somnolent
 source: Sessions 7 and 21
-updated: 2026-07-08
+updated: 2026-10-03
 ---
 
 # Broken Fang Contraband Manifest
@@ -46,7 +46,7 @@ The manifest shows that the [[04 Organisations/Broken Fang|Broken Fang]] operate
 
 It also established that:
 
-- the [[03 People/Notable Figures/Antoinne Cassan|One Ball Inn]] was part of the supply route;
+- the [[02 Places/Rakara/Somnolent/One Ball Inn|One Ball Inn]] was part of the supply route;
 - weapons and armour were being moved towards Orvak;
 - unusual substances were being delivered to the Voruun fighting pits;
 - a separate Khaali contact or destination received rare materials;
@@ -62,12 +62,21 @@ The purpose and legality of each listed substance have not all been confirmed.
 > - What are Powdered Power, Unicorn Wax and Ember Berries?
 > - Why were weapons and armour being sent to the Scythian Tree?
 > - Is Ashka a person, organisation or place?
-> - Does the same distribution network remain active?
+> - How much of the wider distribution network survives after the destruction of the One Ball Inn?
 
 ## Campaign reference
 
 - [[05 Campaign Chronicle/Session 07 - Coffee and Contraband|Session 7]]
 - [[05 Campaign Chronicle/Session 21 - Contracts, Command, and a Burning Camp|Session 21]]
+- [[05 Campaign Chronicle/Session 24 - Pies, Pike and a one ball blaze|Session 24]]
+
+## Session 24 confirmation
+
+The One Ball connection did not remain merely historical. During the Defracturers' absence, Bastion staff overheard men pressuring [[03 People/Notable Figures/Antoinne Cassan|Antoinne Cassan]] about the inn's use as an easy place to **fence** goods. The men explicitly referred to [[03 People/Mentioned Figures/Rhul Slowdrift|Rhul Slowdrift]] and the need for discretion.
+
+A separate barrel abandoned by fleeing smugglers contained expensive goods with merchant markings stripped or obscured and was later connected to Antoinne. Shortly afterwards Antoinne disappeared and the One Ball Inn burned down.
+
+The open question is therefore no longer whether the One Ball network was still active, but how much of the wider route survives after the loss of that node.
 
 ## Related
 

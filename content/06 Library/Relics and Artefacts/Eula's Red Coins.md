@@ -12,9 +12,9 @@ tags:
   - cursed-item
   - eula
   - campaign
-current_holder: The Defracturers
-source: Sessions 5, 16 and 17
-updated: 2026-07-05
+current_holder: Uncertain after Session 22
+source: Sessions 5, 16, 17 and 22
+updated: 2026-10-03
 ---
 
 # Eula's Red Coins
@@ -58,9 +58,13 @@ Erelmor also placed one of the coins on an already dead body as an experiment. E
 
 After the Defracturers killed three ogres, Eula arrived and paid seventy-five marked coins for the bodies. Questioning her established that the coins notify her when someone is killed in the presence of one of them.
 
-## Current status
+## Session 22 and current status
 
-The party retained at least some of Eula's payment. The exact number carried and their current storage have not been recorded.
+At Ulsar Quinn's destroyed camp, Erelmor attempted to return **every piece of tainted gold he had accumulated** by slipping the coins into Eula's pocket. The party then refused further participation in Eula's corpse trade.
+
+The record does not explicitly inventory every marked coin held by every party member after this exchange, so the current holder and exact number remaining should be treated as **uncertain** rather than assuming the Defracturers still possess them.
+
+Eula also gave the clearest statement yet of her wider motive: **"Ardynia is returning, and I intend to be prepared, with or without your help."** This narrows her purpose but does not explain what she does with the bodies or how they relate to those preparations.
 
 > [!warning] Caution
 > The coins should not be treated as ordinary treasure. Their tracking effect may expose the holder, nearby deaths or the party's movements to Eula if violence occurs in their presence.
@@ -69,7 +73,7 @@ The party retained at least some of Eula's payment. The exact number carried and
 > - How close must a killing be to a coin for Eula to be alerted?
 > - Does spending a coin transfer the mark to a new holder?
 > - Can the magic be removed?
-> - Why does Eula collect bodies?
+> - How does Eula intend to use the bodies to prepare for Ardynia's return?
 > - Who or what receives the corpses after she takes them?
 
 ## Campaign references
@@ -77,6 +81,7 @@ The party retained at least some of Eula's payment. The exact number carried and
 - [[05 Campaign Chronicle/Session 05 - Fingers, Coins and Incriminations|Session 5]]
 - [[05 Campaign Chronicle/Session 16 - Cackles, Corpses and Catastrophe|Session 16]]
 - [[05 Campaign Chronicle/Session 17 - Shrieks, Widows and Time Juice|Session 17]]
+- [[05 Campaign Chronicle/Session 22 - Bodies, Blight, and Bushtache|Session 22]]
 
 ## Related
 

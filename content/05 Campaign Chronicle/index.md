@@ -4,22 +4,22 @@ type: campaign-index
 status: published
 player_facing: true
 campaign: Vaelond
-latest_session: 21
+latest_session: 24
 tags:
   - campaign
   - chronicle
   - index
-updated: 2026-07-08
+updated: 2026-10-03
 ---
 
 # Campaign Chronicle
 
-A session-by-session account of the Defracturers' adventures, beginning with the [[Emberwake Festival]] and continuing through Rana Viam into their pursuit of the Broken Fang. The chronicle is ongoing and will expand as new sessions are played.
+A session-by-session account of the Defracturers' adventures, beginning with the [[02 Places/Rakara/Somnolent/Emberwake Festival|Emberwake Festival]] and continuing through Rana Viam, the Broken Fang pursuit, the False Gardener and the return toward Somnolent.
 
 > [!info] Source coverage
-> The supplied document contains individual notes for Sessions 1-11 and 15-21. Sessions 12-14 are preserved as one combined account because the source does not identify reliable boundaries between those sessions.
+> The supplied document contains individual notes for Sessions 1-11 and 15-24. Sessions 12-14 are preserved as one combined account because the source does not identify reliable boundaries between those sessions. Session 24 is a parallel Bastion interlude covering events in Somnolent during the Defracturers' absence.
 
-**Latest published entry:** [[Session 21 - Contracts, Command, and a Burning Camp]]
+**Latest published entry:** [[05 Campaign Chronicle/Session 24 - Pies, Pike and a one ball blaze|Bastion Interlude: Pies, Pike and the One Ball Blaze]]
 
 ## Session index
 
@@ -34,14 +34,17 @@ A session-by-session account of the Defracturers' adventures, beginning with the
 - **Session 9:** [[05 Campaign Chronicle/Session 09 - The Capture of Prusset|The Capture of Prusset]] - 23 December 2025. After a desperate running battle, the party captures Prusset but fractures over who should receive him.
 - **Session 10:** [[05 Campaign Chronicle/Session 10 - Saints, Spies and Snake Eyes|Saints, Spies and Snake Eyes]] - 04 January 2026. Prusset names the Church behind Anthea's murder while the party infiltrates the One Ball Inn gambling circle.
 - **Session 11:** [[05 Campaign Chronicle/Session 11 - Ashes, Brands and Windfalls|Ashes, Brands and Windfalls]] - 11 February 2026. A Broken Fang lead, a failed safe robbery and Romayne's formal patronage transform the party into agents of Somnolent.
-- **Session 12-14:** [[05 Campaign Chronicle/Session 12-14 - Fire, Faith and the Corona of the Ashen Choir|Fire, Faith and the Corona of the Ashen Choir]] - 26 March 2026. The Defracturers assault the Perfid embassy, rescue Terrick and pursue the Corona as Prusset is murdered in custody.
-- **Session 15:** [[05 Campaign Chronicle/Session 15 - Stewards, Saddles and Shambling Roots|Stewards, Saddles and Shambling Roots]] - Friday, 27 March 2026. The new bastion gains staff and horses before the road to Rana Viam begins with a deadly shambling mound.
+- **Sessions 12-14:** [[05 Campaign Chronicle/Session 12-14 - Fire, Faith and the Corona of the Ashen Choir|Fire, Faith and the Corona of the Ashen Choir]] - 26 March 2026. The Defracturers assault the Perfid embassy, rescue Terrick and pursue the Corona as Prusset is murdered in custody.
+- **Session 15:** [[05 Campaign Chronicle/Session 15 - Stewards, Saddles and Shambling Roots|Stewards, Saddles and Shambling Roots]] - 27 March 2026. The new Bastion gains staff and horses before the road to Rana Viam begins with a deadly shambling mound.
 - **Session 16:** [[05 Campaign Chronicle/Session 16 - Cackles, Corpses and Catastrophe|Cackles, Corpses and Catastrophe]] - 08 April 2026. Bandits, Eula, stirges and Cackle Fever turn the journey towards Rana Viam into a disastrous retreat.
 - **Session 17:** [[05 Campaign Chronicle/Session 17 - Shrieks, Widows and Time Juice|Shrieks, Widows and Time Juice]] - 22 April 2026. After an owlbear attack and an ogre rescue, the party reaches Rana Viam and hears Saint Vaelen's warning.
 - **Session 18:** [[05 Campaign Chronicle/Session 18 - Frogger, Flames and the Golem's Toll|Frogger, Flames and the Golem's Toll]] - 03 May 2026. The party crosses Rana Viam's living time puzzle and is annihilated by the golem guarding the relic.
 - **Session 19:** [[05 Campaign Chronicle/Session 19 - Bands, Broken Stone and the Glass Fang|Bands, Broken Stone and the Glass Fang]] - 23 June 2026. The golem falls, the relic is secured and Broken Fang scouts confront the party as they leave Rana Viam.
 - **Session 20:** [[05 Campaign Chronicle/Session 20 - Plague, Pursuit and Plan E|Plague, Pursuit and Plan E]] - 02 July 2026. The party pursues the scouts, bargains with Plague and captures a map to Ulsar Quinn's camp.
-- **Session 21:** [[05 Campaign Chronicle/Session 21 - Contracts, Command, and a Burning Camp|Contracts, Command, and a Burning Camp]] - 08 July 2026. Eula claims Salla's plague-ridden body, Ulsar Quinn reveals Rhul's Dazuun operation, and the Broken Fang camp burns as Ulsar and Talan fall.
+- **Session 21:** [[05 Campaign Chronicle/Session 21 - Contracts, Command, and a Burning Camp|Contracts, Command, and a Burning Camp]] - 08 July 2026. Eula claims Salla's plague-ridden body, Ulsar reveals Rhul's Dazuun operation, and the Broken Fang camp burns as Ulsar and Talan fall.
+- **Session 22:** [[05 Campaign Chronicle/Session 22 - Bodies, Blight, and Bushtache|Bodies, Blight, and Bushtache]]. Eula's purpose becomes clearer, the party discovers what remains of Maelor Vey's corruption and destroys the immediate blight beneath his ruined home.
+- **Session 23:** [[05 Campaign Chronicle/Session 23 - Ettins, Owlbears, and Betting Losses|Ettins, Owlbears, and Betting Losses]] - 24 August 2026. The party releases Malt with Bushtache, advances Ieuan's Star Seed and continues the return journey toward Somnolent.
+- **Session 24:** [[05 Campaign Chronicle/Session 24 - Pies, Pike and a one ball blaze|Bastion Interlude: Pies, Pike and the One Ball Blaze]] - 07 September 2026. A parallel Bastion interlude reveals a lead on Eden and Summer, the Pike's departure, Antoinne's disappearance and the destruction of the One Ball Inn.
 
 ## Major arcs
 
@@ -51,18 +54,21 @@ A session-by-session account of the Defracturers' adventures, beginning with the
 - **The road to Rana Viam:** Sessions 15-17
 - **Rana Viam:** Sessions 18-19
 - **The Broken Fang pursuit:** Sessions 20-21
+- **The False Gardener:** Session 22
+- **Return to Somnolent:** Session 23
+- **Bastion downtime:** Session 24, occurring in parallel with the party's absence
 
 ## Related lore
 
-- [[Somnolent]]
-- [[Emberwake Festival]]
-- [[Rakara]]
-- [[Rootbound]]
-- [[Broken Fang]]
+- [[02 Places/Rakara/Somnolent/Somnolent|Somnolent]]
+- [[02 Places/Rakara/Somnolent/Emberwake Festival|Emberwake Festival]]
+- [[02 Places/Rakara/Rakara|Rakara]]
+- [[04 Organisations/Rootbound|Rootbound]]
+- [[04 Organisations/Broken Fang|Broken Fang]]
 - [[03 People/Notable Deceased/Ulsar Quinn|Ulsar Quinn]]
 - [[03 People/Mentioned Figures/Rhul Slowdrift|Rhul Slowdrift]]
 - [[02 Places/Rakara/Voruun/Dazuun|Dazuun]]
 - [[06 Library/Campaign Reference/Dragon's Dandruff|Dragon's Dandruff]]
-- [[Plague]]
-- [[The Sundering of Ardynia]]
-- [[Perfidian Faith]]
+- [[06 Library/Campaign Reference/Plague|Plague]]
+- [[01 Welcome to Vaelond/The Sundering of Ardynia|The Sundering of Ardynia]]
+- [[01 Welcome to Vaelond/Religion/Perfidian Faith|Perfidian Faith]]

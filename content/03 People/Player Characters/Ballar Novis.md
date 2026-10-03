@@ -16,8 +16,8 @@ subclass: Oath of Glory
 homeland: Doro
 mount: Kingcup
 current_status: active
-source: Sessions 1–20
-updated: 2026-07-05
+source: Sessions 1-23
+updated: 2026-10-03
 ---
 
 # Ballar Novis
@@ -111,6 +111,14 @@ He later bought chains and manacles from Balur, leading to a display of mutual p
 Beautiful, vain, difficult and fond of attention, Kingcup is an obvious match for Ballar. The choice says as much about the rider as the horse. Ballar was warned not to be foolish when choosing a mount and naturally gravitated towards the most dramatic option available.
 
 Kingcup’s elegance and temperament mirror Ballar’s own self-image: impressive, stubborn, high-maintenance and convinced that being admired is part of the job.
+
+## Sessions 22-23
+
+Ballar preserved and carried Mireya's body in his Handy Haversack during the return journey. In Session 22 he also cast Gentle Repose on another Broken Fang scout and stored that corpse; the supplied record does not state what he intended to do with it or what later happened to it. He also recovered the [[06 Library/Relics and Artefacts/False Gardener's Notebook|False Gardener's notebook]], used it to speak with [[06 Library/Campaign Reference/Bushtache|Bushtache]], and later handed the notebook to Ieuan.
+
+Rather than take Malt back to Somnolent as a prisoner, Ballar released him with a task: obtain a Pot of Awakening, awaken Bushtache and bring the cabbage safely to Somnolent. Ballar cast Gentle Repose on Bushtache to preserve it for ten days before sending Malt away.
+
+His relationship with [[06 Library/Campaign Reference/Horses#Kingcup|Kingcup]] also improved noticeably. After soothing and grooming her across Sessions 22-23, the mare showed him unusually genuine affection.
 
 ## Active personal threads
 

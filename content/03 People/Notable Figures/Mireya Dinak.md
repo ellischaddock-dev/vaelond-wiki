@@ -13,9 +13,9 @@ ancestry: 'Wood elf'
 gender: 'Female'
 role: 'Prospective gambling-hall owner and horse keeper'
 current_status: 'deceased; body preserved'
-last_known_location: 'Broken Fang camp near Rana Viam'
-source: 'Campaign notes and Sessions 17-21'
-updated: 2026-07-08
+last_known_location: 'With the Defracturers, returning toward Somnolent'
+source: 'Campaign notes and Sessions 17-23'
+updated: 2026-10-03
 ---
 
 # Mireya Dinak
@@ -38,10 +38,17 @@ updated: 2026-07-08
 - She was killed when Enrak's Fireball and the burning tent consumed the camp.
 - Ballar later found her burned body and cast **Gentle Repose**, preserving what remained and buying the party time to bring her back.
 
+## After Ulsar's camp
+
+At the start of Session 22, Ballar placed her preserved body inside his Handy Haversack. The party then chose to return toward Somnolent rather than continue directly to Hushvale.
+
+Mireya has **not** been resurrected. The Session 23 chronicle still describes the party as returning with a preserved corpse; no later resurrection or change to her body's status is recorded in the supplied material.
+
 ## Campaign appearances
 
 - [[05 Campaign Chronicle/Session 17 - Shrieks, Widows and Time Juice|Session 17]]
 - [[05 Campaign Chronicle/Session 21 - Contracts, Command, and a Burning Camp|Session 21]]
+- [[05 Campaign Chronicle/Session 22 - Bodies, Blight, and Bushtache|Session 22]]
 
 ## Related
 

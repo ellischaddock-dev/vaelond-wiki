@@ -12,65 +12,61 @@ tags:
   - circle-of-stars
   - campaign
 current_holder: Ieuan
-source: Session 6
-updated: 2026-07-08
+source: Sessions 6, 21 and 23
+updated: 2026-09-10
 ---
 
 # Star Seed
 
 > [!summary] At a glance
-> A mysterious seed gifted to [[03 People/Player Characters/Ieuan|Ieuan]] by [[03 People/Notable Figures/Father Zantos|Father Zantos]], said to bloom once Ieuan fully embraces his druidic path.
+> A mysterious devotional seed gifted to [[03 People/Player Characters/Ieuan|Ieuan]] by [[03 People/Notable Figures/Father Zantos|Father Zantos]]. Its power is awakening gradually as Ieuan deepens his understanding of the forces represented within it.
 
 ## Origin
 
-Father Zantos gave the Star Seed to Ieuan during their conversation in Somnolent.
+Father Zantos gave the Star Seed to Ieuan during their conversation in Somnolent and promised that it would bloom once Ieuan fully embraced his druidic path.
 
-Their discussion touched on:
+Their discussion connected Ieuan's Circle of Stars path with Orun, ancient truths preserved by Clan Erzhin and Zantos's own difficult history with the Rootbound.
 
-- Ieuan's choice to follow the Circle of Stars;
-- the connection between that path and [[01 Welcome to Vaelond/Religion/Rakaran Faiths#Orun, the Verdant Kin|Orun the Verdant Kin]];
-- ancient Ardynian truths preserved in Clan Erzhin's Annals of Stone;
-- Zantos's past connection to the [[04 Organisations/Rootbound|Rootbound]] and his disillusionment with the direction they had taken.
+## Development
 
-As they parted, Zantos offered the Star Seed and promised that it would bloom once Ieuan fully embraced his path.
+In Session 21, Ieuan studied the Star Seed during the rest before the attack on Ulsar's camp. His concentration was repeatedly interrupted by [[06 Library/Campaign Reference/Plague|Plague]].
+
+During Session 23 he tried again. Approaching the seed through **nature** failed when Plague's voice overwhelmed his thoughts with the command *Spread*.
+
+Later, Ieuan approached the Seed through **faith**, reaching towards [[01 Welcome to Vaelond/Religion/Rakaran Faiths#Orun, the Verdant Kin|Orun]], the Moon-Father and the Sea-Mother and recalling the teachings of Father Zantos and the elders of his youth.
+
+The Seed grew warm. Silver light traced across it and another leaf unfurled, shifting between sage green, moonlit silver and the blue-white foam of the sea.
 
 ## Known properties
 
-The Star Seed has not yet demonstrated any clear magical effect in the campaign chronicle.
+Ieuan now understands that:
 
-What is known:
+- the Star Seed is a **devotional object**, not merely a passive charm;
+- its power can be awakened gradually through patient understanding of the forces it represents;
+- **Star Forms** lie dormant within it;
+- at least one further stage of growth has been triggered through faith;
+- **nature** remains an unresolved part of the Seed's meaning or awakening.
 
-- it was deliberately given to Ieuan rather than the wider party;
-- Zantos linked it to Ieuan's druidic development;
-- its blooming appears conditional rather than immediate;
-- its exact nature, origin and purpose are unknown.
-
-## Possible significance
-
-The Star Seed may be a personal druidic focus, a symbol of Zantos's trust or an object connected to Orun and the Circle of Stars.
-
-Until it blooms or reacts to a specific event, its role should remain uncertain.
+Its complete abilities and final form remain unknown.
 
 > [!question] Unresolved
-> - What must Ieuan do to "fully embrace" his druidic path?
-> - What will the Star Seed become when it blooms?
+> - What must Ieuan understand about nature to continue awakening the Seed?
+> - What are the dormant Star Forms and how will they manifest?
+> - What will the Seed become when fully awakened?
 > - Did Zantos create, inherit or recover it?
-> - Is the seed tied to Orun, Clan Erzhin, the Circle of Stars or something older?
-> - Can anyone other than Ieuan cause it to bloom?
+> - How directly is it tied to Orun, the Sea-Mother, the Moon-Father or the Circle of Stars?
+> - Why is Plague able to obstruct Ieuan's attempts to approach it through nature?
 
-## Campaign reference
+## Campaign references
 
 - [[05 Campaign Chronicle/Session 06 - Smoke, Song and Secrets|Session 6]]
-
-## Session 21
-
-During the long rest before the attack on Ulsar Quinn's camp, Ieuan studied the Star Seed and tried to focus on the beauty unfolding within it. His attention was repeatedly pulled away by the whispers of [[06 Library/Campaign Reference/Plague|Plague]], which told him its first cutting was settling in nicely.
-
-The Star Seed's exact powers remain unclear.
+- [[05 Campaign Chronicle/Session 21 - Contracts, Command, and a Burning Camp|Session 21]]
+- [[05 Campaign Chronicle/Session 23 - Ettins, Owlbears, and Betting Losses|Session 23]]
 
 ## Related
 
 - [[03 People/Player Characters/Ieuan|Ieuan]]
 - [[03 People/Notable Figures/Father Zantos|Father Zantos]]
-- [[04 Organisations/Rootbound|Rootbound]]
+- [[06 Library/Campaign Reference/Plague|Plague]]
 - [[01 Welcome to Vaelond/Religion/Rakaran Faiths#Orun, the Verdant Kin|Orun the Verdant Kin]]
+- [[01 Welcome to Vaelond/Religion/Rakaran Faiths#Sea-Mother and Moon-Father|Sea-Mother and Moon-Father]]

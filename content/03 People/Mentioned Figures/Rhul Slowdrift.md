@@ -11,8 +11,8 @@ tags:
 role: Broken Fang commander connected to the Dazuun fighting pits
 current_status: unknown
 last_known_location: unknown
-source: Campaign notes through Session 21
-updated: 2026-07-08
+source: Campaign notes through Session 24
+updated: 2026-09-10
 ---
 
 # Rhul Slowdrift
@@ -30,6 +30,12 @@ updated: 2026-07-08
 - Ulsar claimed Rhul has three [[02 Places/Rakara/Clans/Clan Khaali|Khaali]] alchemists producing [[06 Library/Campaign Reference/Dragon's Dandruff|Dragon's Dandruff]], a potent stimulant used by pit contestants.
 - The alchemists work from a lab south of [[02 Places/Rakara/Somnolent/Somnolent|Somnolent]].
 - Ulsar suggested that killing Rhul or destroying his Rakaran operation would likely draw Prodosius into the open, because Prodosius's pride would not allow the humiliation to stand.
+
+## Somnolent connection
+
+Session 24 provides the first direct evidence extending Rhul's known network into Somnolent. Bastion staff overheard two men arguing with [[03 People/Notable Figures/Antoinne Cassan|Antoinne Cassan]] at the [[02 Places/Rakara/Somnolent/One Ball Inn|One Ball Inn]]. The men described the inn as a place intended to **fence goods** and warned that **Rhul cared about discretion**.
+
+This confirms that people acting in Rhul's interests were using or overseeing the One Ball operation. It does not establish whether Rhul was physically present in Somnolent or how directly he managed the smugglers.
 
 ## What is not known
 

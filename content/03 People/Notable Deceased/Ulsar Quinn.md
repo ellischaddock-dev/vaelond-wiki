@@ -17,7 +17,7 @@ role: 'Broken Fang commander and one of the Fangs'
 current_status: 'deceased'
 last_known_location: 'Broken Fang camp near Rana Viam'
 source: 'Sessions 19-21'
-updated: 2026-07-08
+updated: 2026-10-03
 ---
 
 # Ulsar Quinn
@@ -40,13 +40,13 @@ updated: 2026-07-08
 - He revealed that [[03 People/Mentioned Figures/Rhul Slowdrift|Rhul Slowdrift]] had taken control of the fighting pits in [[02 Places/Rakara/Voruun/Dazuun|Dazuun]], the capital of Voruun.
 - He claimed three [[02 Places/Rakara/Clans/Clan Khaali|Khaali]] alchemists were producing [[06 Library/Campaign Reference/Dragon's Dandruff|Dragon's Dandruff]] for Rhul's pit operation from a lab south of [[02 Places/Rakara/Somnolent/Somnolent|Somnolent]].
 - He believed that killing Rhul or destroying Rhul's Rakaran operation would likely draw Prodosius into the open.
-- Ulsar was brought down during the battle at his camp, and his body was later destroyed by n'Dong's acid as Talan Rook attempted to carry it away.
+- Ulsar was brought down during the battle at his camp, and his body was later destroyed by n'Dong's acid as [[03 People/Notable Deceased/Talan Rook|Talan Rook]] attempted to carry it away.
 
 ## Death
 
 The parley with Ulsar collapsed when the party attempted to free the horses and rescue [[03 People/Notable Figures/Mireya Dinak|Mireya Dinak]]. The camp erupted into open battle. Ulsar badly injured Ballar, survived a devastating Chromatic Orb from n'Dong, and was finally dropped by Erelmor's Ray of Sickness.
 
-Talan Rook tried to recover Ulsar's body and flee. n'Dong prevented this with a massive acid attack, destroying Ulsar's corpse and killing Talan as well.
+[[03 People/Notable Deceased/Talan Rook|Talan Rook]] tried to recover Ulsar's body and flee. n'Dong prevented this with a massive acid attack, destroying Ulsar's corpse and killing Talan as well.
 
 ## Campaign appearances
 

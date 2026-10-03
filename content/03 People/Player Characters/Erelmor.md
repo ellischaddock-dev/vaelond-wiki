@@ -12,8 +12,8 @@ ancestry: Drow
 class: Rogue
 mount: Vesper
 current_status: active
-source: Sessions 1–20
-updated: 2026-07-05
+source: Sessions 1-23
+updated: 2026-09-10
 ---
 
 # Erelmor
@@ -62,6 +62,14 @@ During Session 20, Erelmor used psychic communication to keep the divided pursui
 ## Mount
 
 [[06 Library/Campaign Reference/Horses#Vesper|Vesper]] is Erelmor's recorded mount. Vesper previously carried an unconscious Erelmor away from danger during the scorpion battle.
+
+## Sessions 22-23
+
+The False Gardener's black ooze destroyed the studded leather Erelmor had recently acquired, leaving him without it during the return journey.
+
+His recurring nightmares also intensified. In Session 23 he dreamed of his family home and saw the [[03 People/Notable Figures/Ervain Megbanas|Old Grey Pike]] murder his younger sister. He woke screaming, cried with Ieuan and admitted that the nightmares were constant. Fearing he might wake violently and endanger the group, he suggested that the others restrain and gag him while he tranced.
+
+His conclusion about Ervain remained unchanged: the Old Grey Pike needed to die.
 
 ## Active personal threads
 

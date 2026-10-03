@@ -12,12 +12,12 @@ tags:
   - places
   - rakara
 region: Rakara
-updated: 2026-07-05
+updated: 2026-10-03
 ---
 
 # Rakara
 
-Rakara is a southern realm shaped by five great clans, each with its own territory, customs and ambitions. For decades those clans moved towards a shared confederation under [[03 People/Notable Deceased/Anthea Bloodclot|Anthea Bloodclot]], the Lord of the Five Clans.
+Rakara is a southern realm shaped by five great clans, each with its own territory, customs and ambitions. For a decade those clans moved towards a shared confederation under [[03 People/Notable Deceased/Anthea Bloodclot|Anthea Bloodclot]], the Lord of the Five Clans.
 
 Her assassination left the title empty, the union uncertain and every clan watching the others closely.
 

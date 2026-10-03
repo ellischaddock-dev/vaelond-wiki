@@ -15,7 +15,7 @@ tags:
 author: 'Anthea Bloodclot'
 recorded: '2025-09-28'
 source: 'Campaign notes.docx'
-updated: 2026-07-01
+updated: 2026-10-03
 ---
 
 # Anthea Bloodclot’s Note on Tace Nox
@@ -41,7 +41,7 @@ The source image also contains a flower-like mark and several columns of symbols
 ## Significance
 
 - Gives the solution to the six-move light puzzle in Tace Nox.
-- Indicates that Anthea and Eden were the last two surviving Crows at that time.
+- Indicates that Anthea had lost three Crows and that only she and Eden remained in the context described by the note. It does not establish whether other Crows existed elsewhere or when Summer Quaresh acquired the role.
 - Shows Anthea’s hostility towards surviving Chronarchs and suggests Elgira acted against them.
 
 ## Related

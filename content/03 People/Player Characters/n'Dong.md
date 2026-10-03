@@ -15,8 +15,8 @@ specialism: Acid magic
 homeland: Minir
 mount: Nail
 current_status: active
-source: Sessions 2-21
-updated: 2026-07-08
+source: Sessions 2-23
+updated: 2026-10-03
 ---
 
 # n'Dong
@@ -55,13 +55,17 @@ n'Dong has also repeatedly helped erase dangerous scenes once the party has take
 
 During Session 20, n'Dong performed aerial reconnaissance, located Malt and attacked the fleeing scout from above. He was the first Defracturer knocked unconscious by the Egg Hunter Hatchlings and was revived by Ballar.
 
-During Session 21, Ulsar contacted n'Dong through the sending stone recovered from Rana Viam and invited him to the Broken Fang camp. In the parley that followed, Ulsar tried to reassert old hierarchies by casting Command and ordering n'Dong to grovel. n'Dong later struck Ulsar with a devastating critical Chromatic Orb, and after Talan Rook tried to flee with Ulsar's body, n'Dong destroyed the corpse and killed Talan with acid. This closed the immediate Ulsar thread while sharpening the path towards Rhul Slowdrift, Dazuun and Prodosius.
+During Session 21, Ulsar contacted n'Dong through the sending stone recovered from Rana Viam and invited him to the Broken Fang camp. In the parley that followed, Ulsar tried to reassert old hierarchies by casting Command and ordering n'Dong to grovel. n'Dong later struck Ulsar with a devastating critical Chromatic Orb, and after [[03 People/Notable Deceased/Talan Rook|Talan Rook]] tried to flee with Ulsar's body, n'Dong destroyed the corpse and killed Talan with acid. This closed the immediate Ulsar thread while sharpening the path towards Rhul Slowdrift, Dazuun and Prodosius.
 
 n'Dong's bluntness also colours his role in the group. He can be direct to the point of social disaster, as seen when he helped rescue Mireya and informed her of her husband's death with very little softness.
 
 ## Mount
 
 [[06 Library/Campaign Reference/Horses#Nail|Nail]] is n'Dong's recorded mount: a quick, enduring former courier horse that becomes shy around battle.
+
+## Session 22
+
+After the destruction of Ulsar Quinn's camp, n'Dong searched [[03 People/Notable Deceased/Talan Rook|Talan Rook]]'s tent and recovered **two vials of [[06 Library/Campaign Reference/Dragon's Dandruff|Dragon's Dandruff]]**. This gives the party physical samples of the stimulant associated with Rhul Slowdrift's fighting-pit operation.
 
 ## Active personal threads
 
