@@ -23,7 +23,7 @@ updated: 2026-07-03
 # Din
 
 > [!summary] At a glance
-> A soul preserved within [[06 Library/Relics and Artefacts/Ring of Mind Shielding|a Ring of Mind Shielding]] recovered from Tace Nox. Din has offered Ballar guidance in exchange for help obtaining a body.
+> A soul preserved within [[Ring of Mind Shielding|a Ring of Mind Shielding]] recovered from Tace Nox. Din has offered Ballar guidance in exchange for help obtaining a body.
 
 ## What is known
 
@@ -62,7 +62,7 @@ Their arrangement remains unresolved.
 
 ## Related
 
-- [[06 Library/Relics and Artefacts/Ring of Mind Shielding|Ring of Mind Shielding]]
+- [[Ring of Mind Shielding|Ring of Mind Shielding]]
 - [[03 People/Player Characters/Ballar Novis|Ballar Novis]]
 - [[02 Places/Rakara/Tace Nox|Tace Nox]]
 - [[02 Places/Rakara/Rana Viam|Rana Viam]]

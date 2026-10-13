@@ -8,26 +8,19 @@ tags:
   - relics
   - ardynia
   - campaign
-updated: 2026-10-03
+updated: 2026-10-13
 ---
-
 # Relics and Artefacts
 
 A player-facing index of unusual objects, magical items and substances recorded in the campaign.
 
-## Sundering relics encountered
+## Ardynian relics
 
-- [[06 Library/Relics and Artefacts/Bands of Distortion|Bands of Distortion]] — recovered from the golem at Rana Viam.
-- [[06 Library/Relics and Artefacts/Staff of Broken Time|Staff of Broken Time]] — briefly recovered in Tace Nox before the ruin reclaimed it.
-- [[06 Library/Relics and Artefacts/Corona of the Ashen Choir|Corona of the Ashen Choir]] — carried by a Perfidian fanatic who escaped Somnolent.
-
-These artefacts are connected to the Sundering of Ardynia. Their complete functions and the full set of ritual tools remain uncertain to the party.
+For the Sundering relics, Ardynian scrolls and temporal materials, see the dedicated [[06 Library/Ardynian Relics and Artefacts/index|Ardynian Relics and Artefacts]] index. The full [[06 Library/Ardynian Relics and Artefacts/Tace Nox scroll|Tace Nox scroll]] revealed the five crowns and other ancient tools in Session 25.
 
 ## Other magical objects and substances
 
-- [[06 Library/Relics and Artefacts/Ring of Mind Shielding|Ring of Mind Shielding]] — recovered from Tace Nox and inhabited by a soul calling itself [[03 People/Notable Figures/Din|Din]].
 - [[06 Library/Relics and Artefacts/Eula's Red Coins|Eula's Red Coins]] — marked currency that alerts Eula to killings nearby.
-- [[06 Library/Relics and Artefacts/Time Juice|Time Juice]] — green temporal substance used to activate mechanisms in Chronarch ruins.
 - [[06 Library/Relics and Artefacts/Star Seed|Star Seed]] — a devotional seed gifted to Ieuan by Father Zantos; another leaf has unfurled and dormant Star Forms are beginning to reveal themselves.
 - [[06 Library/Relics and Artefacts/False Gardener's Notebook|False Gardener's Notebook]] — Maelor Vey's magical research notebook, recovered from his ruined home and handed to Ieuan.
 - [[06 Library/Relics and Artefacts/Verei's Shattered Mask|Verei's Shattered Mask]] — a cursed or spiritual mask found beneath the Drowsy Coin and now carried by n'Dong.

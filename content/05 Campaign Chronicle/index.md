@@ -4,22 +4,22 @@ type: campaign-index
 status: published
 player_facing: true
 campaign: Vaelond
-latest_session: 24
+latest_session: 25
 tags:
   - campaign
   - chronicle
   - index
-updated: 2026-10-03
+updated: 2026-10-13
 ---
 
 # Campaign Chronicle
 
-A session-by-session account of the Defracturers' adventures, beginning with the [[02 Places/Rakara/Somnolent/Emberwake Festival|Emberwake Festival]] and continuing through Rana Viam, the Broken Fang pursuit, the False Gardener and the return toward Somnolent.
+A session-by-session account of the Defracturers' adventures, beginning with the [[02 Places/Rakara/Somnolent/Emberwake Festival|Emberwake Festival]] and continuing through Rana Viam, the Broken Fang pursuit, the False Gardener and the return to Somnolent and a firsthand encounter with the history of the Sundering.
 
 > [!info] Source coverage
-> The supplied document contains individual notes for Sessions 1-11 and 15-24. Sessions 12-14 are preserved as one combined account because the source does not identify reliable boundaries between those sessions. Session 24 is a parallel Bastion interlude covering events in Somnolent during the Defracturers' absence.
+> The supplied document contains individual notes for Sessions 1-11 and 15-25. Sessions 12-14 are preserved as one combined account because the source does not identify reliable boundaries between those sessions. Session 24 is a parallel Bastion interlude covering events in Somnolent during the Defracturers' absence.
 
-**Latest published entry:** [[05 Campaign Chronicle/Session 24 - Pies, Pike and a one ball blaze|Bastion Interlude: Pies, Pike and the One Ball Blaze]]
+**Latest published entry:** [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25: Ashes, Arrogance, and the Blood of Ages]]
 
 ## Session index
 
@@ -45,6 +45,7 @@ A session-by-session account of the Defracturers' adventures, beginning with the
 - **Session 22:** [[05 Campaign Chronicle/Session 22 - Bodies, Blight, and Bushtache|Bodies, Blight, and Bushtache]]. Eula's purpose becomes clearer, the party discovers what remains of Maelor Vey's corruption and destroys the immediate blight beneath his ruined home.
 - **Session 23:** [[05 Campaign Chronicle/Session 23 - Ettins, Owlbears, and Betting Losses|Ettins, Owlbears, and Betting Losses]] - 24 August 2026. The party releases Malt with Bushtache, advances Ieuan's Star Seed and continues the return journey toward Somnolent.
 - **Session 24:** [[05 Campaign Chronicle/Session 24 - Pies, Pike and a one ball blaze|Bastion Interlude: Pies, Pike and the One Ball Blaze]] - 07 September 2026. A parallel Bastion interlude reveals a lead on Eden and Summer, the Pike's departure, Antoinne's disappearance and the destruction of the One Ball Inn.
+- **Session 25:** [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Ashes, Arrogance, and the Blood of Ages]] - 12 October 2026. The Defracturers return to Somnolent, confront horrors beneath the One Ball Inn and witness an Ardynian memory revealing the price of the Sundering.
 
 ## Major arcs
 
@@ -55,7 +56,7 @@ A session-by-session account of the Defracturers' adventures, beginning with the
 - **Rana Viam:** Sessions 18-19
 - **The Broken Fang pursuit:** Sessions 20-21
 - **The False Gardener:** Session 22
-- **Return to Somnolent:** Session 23
+- **Return to Somnolent:** Sessions 23 and 25
 - **Bastion downtime:** Session 24, occurring in parallel with the party's absence
 
 ## Related lore

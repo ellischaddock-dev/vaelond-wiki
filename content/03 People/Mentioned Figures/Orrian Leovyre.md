@@ -10,7 +10,8 @@ tags:
   - npc
   - mentioned
 source: 'Campaign notes and Session 24'
-updated: 2026-09-10
+additional_source: Session 25
+updated: 2026-10-13
 ---
 
 # Orrian Leovyre
@@ -27,6 +28,14 @@ updated: 2026-09-10
 - Bastion staff repeatedly looked for evidence that his polished, generous behaviour concealed something suspicious and found none.
 - During the stay, the Crimson Shield surprised two men unloading a boat. The men fled and abandoned barrels containing expensive goods with merchant markings stripped or obscured; Orrian brought one barrel back to the Bastion.
 - Before leaving for Shawwake, Orrian entrusted Ghorgadush with a small parcel intended for Ballar.
+
+## Session 25 — a gift for Ballar
+
+Ballar opened Orrian's parcel on returning home: it held a **Cloak of Many Fashions** and a letter praising Ballar's progress, teasing his competitive temperament and inviting him to meet in **Temir**. The parcel reinforced Ballar's perception of Orrian as a rival, although Orrian's own manner remains friendly.
+
+Orrian and the Crimson Shield provided substantial support for the **proposed Phoenix Yard** redevelopment of the burned One Ball. They had become popular in Somnolent and reportedly dealt with remaining trouble near Tace Nox. None of this establishes that Phoenix Yard is already built.
+
+See [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]].
 
 ## Related
 

@@ -17,8 +17,8 @@ tags:
 region: Rakara
 settlement: Somnolent
 current_status: destroyed by fire
-source: Sessions 8, 10, 11 and 24
-updated: 2026-10-03
+source: Sessions 8, 10, 11, 24 and 25
+updated: 2026-10-13
 ---
 
 # The One Ball Inn
@@ -56,6 +56,16 @@ The evidence was passed to Alaaric Hammerfall and then to [[03 People/Mentioned 
 The following morning, the One Ball Inn had **burned to the ground**.
 
 Antoinne had still not returned and **no body was recovered**. The cause of the fire and Antoinne's fate remain unknown.
+
+## Session 25 — the cellar and Phoenix Yard
+
+After the Defracturers returned, n'Dong heard screams beneath the burned inn. The party fought **gibbering mouthers** and burrowing **slaad tadpoles** in the remains of the cellar; **three trapped townsfolk died** during the encounter and some tadpoles escaped.
+
+Ieuan discovered broken alchemical vials labelled **"slaadpole"**. n'Dong recovered a partially burned map showing a farm a few hours from Somnolent and a route to the **rear barn**. These clues suggest the creatures may have been deliberately transported or contained, but they do not establish who brought them there, how they escaped or who started the fire.
+
+A sign at the site advertised **Phoenix Yard**, a **proposed redevelopment** backed financially by [[03 People/Mentioned Figures/Orrian Leovyre|Orrian Leovyre]] and the [[04 Organisations/Crimson Shield|Crimson Shield]]. No completed redevelopment is recorded.
+
+See [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]].
 
 ## Related
 

@@ -6,6 +6,8 @@ player_facing: true
 aliases:
   - Temporal Fluid
   - Green Temporal Residue
+  - Sanguis Aevi
+  - Blood of Ages
 tags:
   - artefact
   - substance
@@ -13,8 +15,8 @@ tags:
   - time-magic
   - campaign
 current_status: partially recovered
-source: Session 17
-updated: 2026-07-03
+source: Sessions 17 and 25
+updated: 2026-10-13
 ---
 
 # Time Juice
@@ -28,7 +30,7 @@ The substance appears as a green fluid or residue within Ardynian ruins.
 
 When the party entered [[02 Places/Rakara/Rana Viam|Rana Viam]], Ieuan recognised residue in a central basin as the same material previously encountered at [[02 Places/Rakara/Tace Nox|Tace Nox]].
 
-The name **Time Juice** is a party nickname. Its original Ardynian name and intended classification are unknown.
+The name **Time Juice** is a party nickname. In Session 25, Elmwood identified a reagent mentioned in Ardynian research as **Sanguis Aevi**, meaning *Blood of Ages*, and recognised the party's sample as probably the same material. This is his strong identification, not a full alchemical analysis.
 
 ## Rana Viam samples
 
@@ -42,7 +44,7 @@ n'Dong poured some Time Juice into the basin. Green light spread across the adjo
 
 ## Known function
 
-The only directly demonstrated function is that Time Juice can activate at least some Ardynian mechanisms designed to accept it.
+Time Juice has directly activated at least two different Ardynian mechanisms: the doorway in Rana Viam and, in Session 25, the sealed Tace Nox scroll when a drop was applied to its seal.
 
 Its wider connection to time magic is strongly suggested by:
 
@@ -57,7 +59,7 @@ The substance has not been deliberately consumed or applied to a living creature
 The party recovered multiple samples but used some to open the Rana Viam passage. The quantity remaining has not been recorded.
 
 > [!question] Unresolved
-> - What is Time Juice made from?
+> - What is Time Juice made from, and how precisely does it relate to Sanguis Aevi?
 > - Was it a fuel, reagent, coolant or stabilising substance?
 > - Does every Chronarch site use the same material?
 > - Can it affect creatures, objects or the passage of time directly?
@@ -68,10 +70,16 @@ The party recovered multiple samples but used some to open the Rana Viam passage
 
 - [[05 Campaign Chronicle/Session 17 - Shrieks, Widows and Time Juice|Session 17]]
 
+## Session 25 — Blood of Ages
+
+At the Crooked Hat, Elmwood found that a drop of the recovered green reagent activated the [[06 Library/Ardynian Relics and Artefacts/Tace Nox scroll|Tace Nox scroll]], drawing the Defracturers and Elmwood into a shared memory of the Sundering. The scroll describes the five ritual crowns as infused with Sanguis Aevi and Elgira's veins turning green after the ritual; neither observation explains how the reagent is produced.
+
+See [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]].
+
 ## Related
 
 - [[02 Places/Rakara/Tace Nox|Tace Nox]]
 - [[02 Places/Rakara/Rana Viam|Rana Viam]]
 - [[04 Organisations/Chronarchs|Chronarchs]]
-- [[06 Library/Relics and Artefacts/Staff of Broken Time|Staff of Broken Time]]
-- [[06 Library/Relics and Artefacts/Bands of Distortion|Bands of Distortion]]
+- [[Staff of Broken Time|Staff of Broken Time]]
+- [[Bands of Distortion|Bands of Distortion]]

@@ -8,7 +8,6 @@ recorded: 2025-09-23
 source_time: '21:20'
 arc: Tace Nox
 locations:
-  - Tace Nox
 factions:
   - Ardynia
 party:
@@ -25,7 +24,7 @@ tags:
   - campaign
   - chronicle
   - session-notes
-updated: 2026-07-01
+updated: 2026-10-13
 ---
 
 # Session 04: Tace Nox

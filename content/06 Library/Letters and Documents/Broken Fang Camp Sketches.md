@@ -82,7 +82,7 @@ The maps are the party's principal source of information for planning an infiltr
 - Vesper;
 - Cobb.
 
-It is not yet known whether the camp has been warned about the missing scouts or the party's possession of the [[06 Library/Relics and Artefacts/Bands of Distortion|Bands of Distortion]].
+It is not yet known whether the camp has been warned about the missing scouts or the party's possession of the [[Bands of Distortion|Bands of Distortion]].
 
 > [!question] Unresolved
 > - Which route offers the safest approach?

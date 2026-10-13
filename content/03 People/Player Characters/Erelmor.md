@@ -13,7 +13,8 @@ class: Rogue
 mount: Vesper
 current_status: active
 source: Sessions 1-23
-updated: 2026-09-10
+additional_source: Session 25
+updated: 2026-10-13
 ---
 
 # Erelmor
@@ -90,6 +91,12 @@ His conclusion about Ervain remained unchanged: the Old Grey Pike needed to die.
 > - The truth of the vision caused by Verei's Shattered Mask has not been established.
 > - The extent of Erelmor's appetite for treasure, and whether it is simple greed or a survival response, remains open to interpretation.
 > - The exact pattern of battlefield accidents and collateral harm involving Ballar is not fully recorded in the session chronicle.
+
+## Session 25 — a return and a troubling choice
+
+After returning to Somnolent, Erelmor questioned townsfolk about the missing Old Grey Pike while the rest of the party fought horrors below the One Ball Inn. He reached the scene after the fight and considered the bodies for valuables.
+
+Later he was shaken by the Sundering memory triggered through the [[06 Library/Ardynian Relics and Artefacts/Tace Nox scroll|Tace Nox scroll]], openly questioning whether continuing to collect dangerous Ardynian relics was wise, or whether they should be destroyed. The whereabouts of the Pike remain unknown. The party reached level 6 at the end of Session 25.
 
 ## Related
 

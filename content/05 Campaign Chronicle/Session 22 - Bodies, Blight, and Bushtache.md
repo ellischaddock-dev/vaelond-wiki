@@ -4,11 +4,26 @@ type: session-note
 status: published
 player_facing: true
 session: 22
+arc: Return from Rana Viam
+locations:
+  - Forests near Rana Viam
+  - False Gardener's homestead
+factions:
+  - Broken Fang
+party:
+  - Ballar Novis
+  - Erelmor
+  - Ieuan
+  - Enrak Kiran
+  - n'Dong
+aliases:
+  - Session 22
+  - Bodies, Blight, and Bushtache
 tags:
   - session-notes
   - defracturers
   - rakara
-updated: 2026-10-03
+updated: 2026-10-13
 ---
 
 # Session 22: Bodies, Blight, and Bushtache
@@ -55,7 +70,7 @@ Eula shrugged.
 
 She released Ieuan from the tentacles, fixed the party with one final warning, and made her position abundantly clear.
 
-> **“[[Ardynia]] is returning, and I intend to be prepared, with or without your help.”**
+> **“[[01 Welcome to Vaelond/The Sundering of Ardynia|Ardynia]] is returning, and I intend to be prepared, with or without your help.”**
 
 Then she vanished.
 
@@ -71,7 +86,7 @@ Still, not everything had been lost.
 
 n'Dong searched [[Talan Rook]]'s tent and recovered **two vials of [[06 Library/Campaign Reference/Dragon's Dandruff|Dragon's Dandruff]]**. Enrak, investigating around the edge of the camp, found a set of **chalky footprints leading north-east**, suggesting that someone or something had departed through the woods.
 
-Ballar spent his time attending to [[Kingcup]], soothing the proud mare after the violence she had endured. For perhaps the first time since they had met, Kingcup looked at him with an expression that came dangerously close to **not being contempt**.
+Ballar spent his time attending to [[06 Library/Campaign Reference/Horses#Kingcup|Kingcup]], soothing the proud mare after the violence she had endured. For perhaps the first time since they had met, Kingcup looked at him with an expression that came dangerously close to **not being contempt**.
 
 Ieuan, meanwhile, had reached a more troubling conclusion. Whether Plague was exerting some direct influence over him or whether guilt and paranoia were simply taking root, his judgement had clearly deteriorated since he had agreed to spread it. He decided to be rid of the remaining cuttings, planting them unceremoniously before turning toward a source he trusted more.
 
@@ -85,7 +100,7 @@ Elmwood's reply was, somehow, both useful and completely useless.
 
 The stones went inert.
 
-Ieuan tucked his away and advised the group that, baffling response aside, it sounded as though returning to the [[Bastion]] was probably the best option.
+Ieuan tucked his away and advised the group that, baffling response aside, it sounded as though returning to the [[02 Places/Rakara/Somnolent/The Defracturers' Bastion|Bastion]] was probably the best option.
 
 ## The Forest Has Questions
 
@@ -107,7 +122,7 @@ Her voice carried the deep, oak-like resonance of something that had watched gen
 
 Ieuan went pale.
 
-The name pulled up childhood memories of an old cautionary tale: **[[03 People/Mentioned Figures/Maelor Vey|the False Gardener]]**, a man who had tried to defeat decay itself. Unable to accept [[Orun]]'s cycle of life and death, he had twisted his purpose further and further until his work became rot masquerading as preservation.
+The name pulled up childhood memories of an old cautionary tale: **[[03 People/Mentioned Figures/Maelor Vey|the False Gardener]]**, a man who had tried to defeat decay itself. Unable to accept [[01 Welcome to Vaelond/Religion/Rakaran Faiths#Orun, the Verdant Kin|Orun]]'s cycle of life and death, he had twisted his purpose further and further until his work became rot masquerading as preservation.
 
 And Ieuan had just agreed to spread it.
 

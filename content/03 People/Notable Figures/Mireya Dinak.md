@@ -13,9 +13,10 @@ ancestry: 'Wood elf'
 gender: 'Female'
 role: 'Prospective gambling-hall owner and horse keeper'
 current_status: 'deceased; body preserved'
-last_known_location: 'With the Defracturers, returning toward Somnolent'
+last_known_location: 'Somnolent; preserved body brought to Elmwood Bluevine'
 source: 'Campaign notes and Sessions 17-23'
-updated: 2026-10-03
+additional_source: Session 25
+updated: 2026-10-13
 ---
 
 # Mireya Dinak
@@ -44,11 +45,16 @@ At the start of Session 22, Ballar placed her preserved body inside his Handy Ha
 
 Mireya has **not** been resurrected. The Session 23 chronicle still describes the party as returning with a preserved corpse; no later resurrection or change to her body's status is recorded in the supplied material.
 
+## Session 25 — resurrection discussed
+
+The Defracturers returned to Somnolent with Mireya's preserved body and brought it to Elmwood Bluevine. Elmwood discussed a restoration requiring a diamond worth **300 gp** for her, with another required for the deceased Broken Fang scout. **Mireya was not revived** in the recorded session. See [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]].
+
 ## Campaign appearances
 
 - [[05 Campaign Chronicle/Session 17 - Shrieks, Widows and Time Juice|Session 17]]
 - [[05 Campaign Chronicle/Session 21 - Contracts, Command, and a Burning Camp|Session 21]]
 - [[05 Campaign Chronicle/Session 22 - Bodies, Blight, and Bushtache|Session 22]]
+- [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]]
 
 ## Related
 

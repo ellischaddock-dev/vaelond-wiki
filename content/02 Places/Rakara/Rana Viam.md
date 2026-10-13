@@ -16,7 +16,8 @@ region: Rakara
 territory: Clan Orvak
 current_status: partially explored
 source: Sessions 17-21
-updated: 2026-07-08
+additional_source: Session 25
+updated: 2026-10-13
 ---
 
 # Rana Viam
@@ -60,7 +61,7 @@ The party eventually crossed after several dangerous attempts.
 
 ## The golem and the Bands
 
-A great stone golem guarded the [[06 Library/Relics and Artefacts/Bands of Distortion|Bands of Distortion]]. The party's first attempt ended in a decisive defeat and retreat.
+A great stone golem guarded the [[Bands of Distortion|Bands of Distortion]]. The party's first attempt ended in a decisive defeat and retreat.
 
 After resting and preparing, the Defracturers returned. They controlled the construct with command magic and webbing before destroying it. Ieuan determined that the Bands were linked to the golem through a heart stone. The party recovered both and stored the relic in a fitted case.
 
@@ -76,11 +77,15 @@ A sealed Ardynian scroll was also recovered.
 - It is not clear whether every chamber or function of Rana Viam has been discovered.
 
 > [!question] Unresolved
-> - What does the sealed scroll contain?
+> - What does the sealed Rana Viam scroll contain? The **separate Tace Nox scroll** was opened in Session 25.
 > - Are there unexplored chambers or active mechanisms remaining?
 > - Why had the Broken Fang been searching the site?
 > - What are the full properties of the heart stone and the Bands?
 > - Who originally designed the crossing trial and what was it intended to teach?
+
+## Further assessment — Session 25
+
+After returning to Somnolent, the Defracturers showed the [[06 Library/Ardynian Relics and Artefacts/Bands of Distortion|Bands of Distortion]] to Elmwood. He identified defensive time-shifting, a damaging area of temporal distortion, a means of altering an attack into a critical outcome, **five charges** and a degree of replenishment after a long rest. Attunement remains unresolved. The **Rana Viam scroll** remains unopened; it is distinct from the Tace Nox scroll activated in Session 25. See [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]].
 
 ## Campaign appearances
 
@@ -97,5 +102,5 @@ A sealed Ardynian scroll was also recovered.
 - [[02 Places/Rakara/Hushvale|Hushvale]]
 - [[04 Organisations/Chronarchs|Chronarchs]]
 - [[04 Organisations/Broken Fang|Broken Fang]]
-- [[06 Library/Relics and Artefacts/Bands of Distortion|Bands of Distortion]]
+- [[Bands of Distortion|Bands of Distortion]]
 - [[06 Library/Campaign Reference/Open Threads|Open Threads]]

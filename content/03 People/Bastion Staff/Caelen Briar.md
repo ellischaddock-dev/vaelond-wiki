@@ -11,7 +11,8 @@ role: Apprentice wizard and researcher
 current_status: alive
 last_known_location: Defracturers' Bastion, Somnolent
 source: Session 24
-updated: 2026-09-10
+additional_source: Session 25
+updated: 2026-10-13
 ---
 
 # Caelen Briar
@@ -26,6 +27,12 @@ Caelen attempted a crude form of sympathetic magic using possessions associated 
 A travelling adventuring company later reported seeing two people matching their descriptions. Working with [[03 People/Bastion Staff/Gudren Flint|Gudren Flint]], Caelen connected the sighting to old records describing an area where magic was **naturally dampened**. This made the failed search intelligible and created the first credible lead on the missing Crows.
 
 His early experience of the Bastion also included being mistakenly directed to investigate literal crows in the vegetable patch and having to clarify that a suggested new head for the scarecrow should be a pumpkin rather than a severed sentient head.
+
+## Session 25 — briefing to the party
+
+Upon the Defracturers' return to the Bastion, Caelen and the other researcher presented three lines of inquiry relating to Eden Carrion and Summer Quaresh: Erzhin stonecutter [[03 People/Mentioned Figures/Tessa Betu|Tessa Betu]], Temiri scholar [[03 People/Mentioned Figures/Arun Yev|Arun Yev]], and the necromancy-associated pair [[03 People/Mentioned Figures/Galt|Galt]] and [[03 People/Notable Figures/Eula|Eula]]. The links warrant investigation but **do not establish that any of them is a Crow**.
+
+See [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]].
 
 ## Related
 

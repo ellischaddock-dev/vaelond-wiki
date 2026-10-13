@@ -17,14 +17,14 @@ region: Rakara
 clan: Orvak
 leader: Balka
 source_date: 2025-07-04
-updated: 2026-07-05
+updated: 2026-10-13
 ---
 
 # Clan Orvak
 
 | | |
 |---|---|
-| **Region** | Forested northeastern foothills of the Sera Wilds |
+| **Region** | Forested northwestern foothills of the Sera Wilds |
 | **Leader** | Balka |
 | **Known as** | The Quiet Root |
 | **Known for** | Resilience, self-sufficiency, woodland expertise and decentralised rule |

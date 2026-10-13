@@ -16,7 +16,8 @@ homeland: Minir
 mount: Nail
 current_status: active
 source: Sessions 2-23
-updated: 2026-10-03
+additional_source: Session 25
+updated: 2026-10-13
 ---
 
 # n'Dong
@@ -85,6 +86,12 @@ After the destruction of Ulsar Quinn's camp, n'Dong searched [[03 People/Notable
 > - Rhul Slowdrift's full title, abilities and exact authority within the Broken Fang hierarchy are not yet known.
 > - It is unclear what n'Dong intends to do if he reaches Prodosius.
 > - It is unclear whether n'Dong recognises his own pattern of reckless escalation, or whether the party will challenge it before it causes greater harm.
+
+## Session 25 — the cellar, crypt and Ardynian vision
+
+n'Dong heard the cries beneath the ruined One Ball Inn and discovered the creatures in its cellar before summoning the party. After the battle he found a partly burned map indicating a farm a few hours from Somnolent, with a route to a rear barn.
+
+At the Bastion he established a **shrine to Verei in the crypt** and received a powerful, unspecified blessing. He provided a vial of green Time Juice to Elmwood, allowing the Tace Nox scroll to activate. During the resulting memory he recognised the likeness of Saint Erith from a portrait of **Minir's first Arc Master**. The Defracturers reached level 6 after the session.
 
 ## Related
 

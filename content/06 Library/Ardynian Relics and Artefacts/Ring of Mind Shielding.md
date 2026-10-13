@@ -25,7 +25,7 @@ updated: 2026-07-03
 
 Ballar found the ring inside one of the stone ottomans in Tace Nox. He equipped it without initially telling the rest of the party and had fully attuned to it by the time the group returned to Somnolent.
 
-The ring was one of the objects that successfully left Tace Nox. This distinguishes it from the [[06 Library/Relics and Artefacts/Staff of Broken Time|Staff of Broken Time]] and the emeralds taken from the ruin's guardian, which vanished or disintegrated when the party crossed the site's threshold.
+The ring was one of the objects that successfully left Tace Nox. This distinguishes it from the [[Staff of Broken Time|Staff of Broken Time]] and the emeralds taken from the ruin's guardian, which vanished or disintegrated when the party crossed the site's threshold.
 
 ## The soul within
 

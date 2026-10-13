@@ -37,7 +37,7 @@ The two titles refer to different people and different positions, not an alias o
 - Its leadership believed, or claimed to believe, that Anthea was **Saint Marra**, one of Elgira's surviving followers, and feared she intended to restore Ardynia.
 - The Defracturers have not independently proven that Anthea was Marra.
 - Perfidian agents abducted and tortured [[03 People/Notable Figures/Terrick Lowgins|Terrick Lowgins]].
-- Church agents escaped Somnolent with a [[06 Library/Relics and Artefacts/Corona of the Ashen Choir|Corona of the Ashen Choir]].
+- Church agents escaped Somnolent with a [[Corona of the Ashen Choir|Corona of the Ashen Choir]].
 
 ## Doctrine and history
 

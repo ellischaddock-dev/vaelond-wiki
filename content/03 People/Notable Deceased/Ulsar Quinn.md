@@ -35,7 +35,7 @@ updated: 2026-10-03
 - Scouts confronted outside [[02 Places/Rakara/Rana Viam|Rana Viam]] named Ulsar when n'Dong demanded to know who was responsible for taking the party's horses.
 - Ulsar used the sending stone recovered from the dead Broken Fang party in Rana Viam to contact n'Dong directly.
 - During the parley at his camp, Ulsar tried to humiliate n'Dong by casting **Command** and ordering him to grovel.
-- Ulsar demanded either the [[06 Library/Relics and Artefacts/Bands of Distortion|Bands of Distortion]] or the heart stone that tethered them in exchange for Mireya and the party's horses.
+- Ulsar demanded either the [[Bands of Distortion|Bands of Distortion]] or the heart stone that tethered them in exchange for Mireya and the party's horses.
 - He claimed that possessing either the Bands or the heart stone would be enough, because a failed attunement to the Bands would return them to the heart stone.
 - He revealed that [[03 People/Mentioned Figures/Rhul Slowdrift|Rhul Slowdrift]] had taken control of the fighting pits in [[02 Places/Rakara/Voruun/Dazuun|Dazuun]], the capital of Voruun.
 - He claimed three [[02 Places/Rakara/Clans/Clan Khaali|Khaali]] alchemists were producing [[06 Library/Campaign Reference/Dragon's Dandruff|Dragon's Dandruff]] for Rhul's pit operation from a lab south of [[02 Places/Rakara/Somnolent/Somnolent|Somnolent]].
@@ -60,5 +60,5 @@ The parley with Ulsar collapsed when the party attempted to free the horses and 
 - [[03 People/Player Characters/n'Dong|n'Dong]]
 - [[03 People/Mentioned Figures/Rhul Slowdrift|Rhul Slowdrift]]
 - [[03 People/Notable Figures/Prodosius|Prodosius]]
-- [[06 Library/Relics and Artefacts/Bands of Distortion|Bands of Distortion]]
+- [[Bands of Distortion|Bands of Distortion]]
 - [[02 Places/Rakara/Rana Viam|Rana Viam]]

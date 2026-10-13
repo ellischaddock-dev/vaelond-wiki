@@ -10,8 +10,8 @@ tags:
   - campaign
 affiliation: Minir
 leader: Prodosius
-source: Campaign notes and Sessions 1-24
-updated: 2026-10-03
+source: Campaign notes and Sessions 1-25
+updated: 2026-10-13
 ---
 
 # Broken Fang
@@ -72,6 +72,12 @@ These developments confirm that Rhul's network reached directly into Somnolent r
 > - Where exactly is the Dragon's Dandruff lab south of Somnolent?
 > - Are the Khaali alchemists willing collaborators, coerced specialists or something else?
 > - Would destroying Rhul's operation truly bring Prodosius into the open?
+
+## Session 25 — the One Ball cellar
+
+After the One Ball Inn burned, the Defracturers discovered gibbering mouthers and slaad tadpoles in its cellar. They found broken vials labelled "slaadpole" and a scorched map pointing toward the rear barn of an unnamed farm outside Somnolent.
+
+The inn's previous role as a Broken Fang fencing point makes this a possible lead into the group's wider smuggling activity. **No evidence yet proves that the Broken Fang bred, stored or transported the creatures, or caused the fire.** See [[02 Places/Rakara/Somnolent/One Ball Inn|the One Ball Inn]] and [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]].
 
 ## Related people
 

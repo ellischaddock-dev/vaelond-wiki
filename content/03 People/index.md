@@ -7,7 +7,7 @@ tags:
   - index
   - people
   - campaign
-updated: 2026-10-03
+updated: 2026-10-13
 ---
 
 # People
@@ -45,7 +45,7 @@ A player-facing index of named figures represented in the campaign records.
 | ![[Gayle Bramble.png\|70]] | [[03 People/Notable Figures/Gayle Bramble|Gayle Bramble]] | Deputy of Somnolent | Active; preparing to pursue Eden/Summer lead |
 | ![[Xene Redmayne.png\|70]] | [[03 People/Notable Figures/Xene Redmayne|Xene Redmayne]] | Bartender at the Drowsy Coin | Active |
 | ![[Eula.png\|70]] | [[03 People/Notable Figures/Eula|Eula]] | Collector of bodies | Active |
-| ![[Mireya Dinak.png\|70]] | [[03 People/Notable Figures/Mireya Dinak|Mireya Dinak]] | Erzhini traveller and prospective gambling-hall owner | Deceased; body retained under Gentle Repose in latest party chronicle |
+| ![[Mireya Dinak.png\|70]] | [[03 People/Notable Figures/Mireya Dinak|Mireya Dinak]] | Erzhini traveller and prospective gambling-hall owner | Deceased; preserved body taken to Elmwood in Session 25 |
 | ![[Summer Quaresh.png\|70]] | [[03 People/Notable Figures/Summer Quaresh|Summer Quaresh]] | Khaali liaison and one of Anthea's Crows | Missing |
 | — | [[03 People/Notable Figures/Prodosius|Prodosius]] | Leader of the Broken Fang | Unseen; active |
 | — | [[03 People/Notable Figures/Din|Din]] | Soul bound within Ballar's ring | Active |
@@ -87,6 +87,11 @@ A player-facing index of named figures represented in the campaign records.
 - [[03 People/Mentioned Figures/Job Ashmere|Job Ashmere]] — Somnolent authority figure associated with the town guard and the Eden/Summer search.
 - [[03 People/Mentioned Figures/Marda Hest|Marda Hest]] — Somnolent horse keeper who supplied mounts for the Eden/Summer search preparations.
 - [[03 People/Mentioned Figures/Maxine Hintermeier|Maxine Hintermeier]] — Somnolent investigator who received evidence from Antoinne Cassan's ransacked office.
+
+- [[03 People/Mentioned Figures/Tessa Betu|Tessa Betu]] — Erzhin stonecutter and possible Eden contact; Crow membership unconfirmed.
+- [[03 People/Mentioned Figures/Arun Yev|Arun Yev]] — Temiri historian associated with Summer and the Wavecutters.
+- [[03 People/Mentioned Figures/Galt|Galt]] — former Vorunni necromancer associated with Eula; possible Crow connection.
+- [[03 People/Mentioned Figures/Drisdin|Drisdin]] — historical maker of the Crowns of Infinity.
 
 ## Related references
 

@@ -15,7 +15,7 @@ tags:
   - clans
 region: Rakara
 source_date: 2025-06-08
-updated: 2026-07-01
+updated: 2026-10-13
 ---
 
 # Rakara's Regions and Clans
@@ -41,7 +41,7 @@ The coloured boundaries show broad areas of influence rather than fixed national
 
 ## Clan Orvak
 
-Known as the **Quiet Root of Rakara**, [[Clan Orvak]] occupies northeastern forests and the lower foothills of the Sera Wilds. Orvaki communities do not extend into the inaccessible heart of the range. They are hardy farmers, hunters and foragers who value action over words and are regarded as stubborn but dependable.
+Known as the **Quiet Root of Rakara**, [[Clan Orvak]] occupies northwestern forests and the lower foothills of the Sera Wilds. Orvaki communities do not extend into the inaccessible heart of the range. They are hardy farmers, hunters and foragers who value action over words and are regarded as stubborn but dependable.
 
 Orvak is the most diverse of the clans, home to many ancestries and customs united by respect for the land. Its long border with Doro makes it wary of political and economic encroachment.
 
@@ -59,7 +59,7 @@ Temir's ports have long served merchants bypassing Doro's inland controls. The c
 
 ## Clan Khaali
 
-[[Clan Khaali]] occupies fertile southeastern Rakara beneath dormant **Mount Khal**. Its capital, **Emberrest**, is known for art, agriculture, fire worship and trained pyromancers.
+[[Clan Khaali]] occupies fertile southeastern Rakara beneath dormant **Mount Khal**. Its capital, **Cinderfall**, is known for art, agriculture, fire worship and trained pyromancers.
 
 Anthea Bloodclot rose to prominence in Khaali lands, causing the widespread but incorrect assumption that she originated there. **Chieftain Sifaya Flameborn** was one of her closest allies and remains the strongest supporter of Voruun's claim to continue Anthea's project.
 

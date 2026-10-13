@@ -15,7 +15,8 @@ role: 'Khaali liaison and one of Anthea’s Crows'
 current_status: 'missing'
 last_known_location: 'Unknown'
 source: 'Campaign notes.docx'
-updated: 2026-09-10
+additional_source: Session 25
+updated: 2026-10-13
 ---
 
 # Summer Quaresh
@@ -40,12 +41,19 @@ By the 29th of Greengold, Gudren and Caelen connected the reported region with o
 
 [[03 People/Notable Figures/Gayle Bramble|Gayle Bramble]] and [[03 People/Mentioned Figures/Job Ashmere|Job Ashmere]] prepared to leave Somnolent to pursue the lead. Eden and Summer nevertheless remain officially **missing**.
 
+## Session 25 — new research leads
+
+The Bastion researchers uncovered further possible contacts for Summer. The records include repeated meetings with Temiri historical scholar [[03 People/Mentioned Figures/Arun Yev|Arun Yev]], who later rose rapidly through the Wavecutters. They also identified past meetings involving [[03 People/Notable Figures/Eula|Eula]] and [[03 People/Mentioned Figures/Galt|Galt]], reportedly expelled from Voruun for necromancy.
+
+These contacts are **not proof of Loyal Crow membership**. Summer's whereabouts remain unknown; see [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]].
+
 ## Campaign appearances
 
 - [[Session 10 - Saints, Spies and Snake Eyes]]
 - [[Session 11 - Ashes, Brands and Windfalls]]
 - [[Session 12-14 - Fire, Faith and the Corona of the Ashen Choir]]
 - [[05 Campaign Chronicle/Session 24 - Pies, Pike and a one ball blaze|Session 24]]
+- [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]]
 
 ## Related
 

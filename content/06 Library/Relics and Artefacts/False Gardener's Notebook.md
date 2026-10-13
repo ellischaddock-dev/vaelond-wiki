@@ -14,7 +14,6 @@ current_holder: Ieuan
 source: Sessions 22-23
 updated: 2026-09-10
 ---
-
 # False Gardener's Notebook
 
 > [!summary] At a glance

@@ -12,7 +12,7 @@ tags:
   - places
   - rakara
 region: Rakara
-updated: 2026-10-03
+updated: 2026-10-13
 ---
 
 # Rakara
@@ -32,7 +32,7 @@ Her assassination left the title empty, the union uncertain and every clan watch
 
 ## The Five Clans
 
-- [[02 Places/Rakara/Clans/Clan Orvak|Clan Orvak]] — the Quiet Root of the forested northeast
+- [[02 Places/Rakara/Clans/Clan Orvak|Clan Orvak]] — the Quiet Root of the forested northwest
 - [[02 Places/Rakara/Clans/Clan Erzhin|Clan Erzhin]] — keepers of wind, stone and memory
 - [[02 Places/Rakara/Clans/Clan Temir|Clan Temir]] — the martial power of the southern coast
 - [[02 Places/Rakara/Clans/Clan Khaali|Clan Khaali]] — the fire-rich lands beneath Mount Khal

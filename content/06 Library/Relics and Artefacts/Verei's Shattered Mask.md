@@ -15,7 +15,8 @@ tags:
   - campaign
 current_holder: n'Dong
 source: Session 7
-updated: 2026-07-05
+additional_source: Session 25
+updated: 2026-10-13
 ---
 # Verei's Shattered Mask
 
@@ -77,6 +78,10 @@ n'Dong currently carries the mask. It is best understood as dormant rather than 
 ## Campaign reference
 
 - [[05 Campaign Chronicle/Session 07 - Coffee and Contraband|Session 7]]
+
+## Session 25 — crypt shrine
+
+n'Dong established a shrine to Verei in the crypt of the Defracturers' Bastion and received a powerful blessing. The chronicle does not specify the blessing's mechanical effects, duration or cost, and does not establish that the mask itself changed. See [[03 People/Player Characters/n'Dong|n'Dong]] and [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]].
 
 ## Related
 

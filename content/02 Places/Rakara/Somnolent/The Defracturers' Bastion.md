@@ -11,8 +11,8 @@ tags:
   - bastion
   - somnolent
 location: Somnolent
-source: Campaign notes and session chronicle through Session 24
-updated: 2026-10-03
+source: Campaign notes and session chronicle through Session 25
+updated: 2026-10-13
 ---
 
 # The Defracturers' Bastion
@@ -65,6 +65,14 @@ During that period they:
 - reported those findings to Alaaric before the One Ball Inn burned down the following morning.
 
 The staff also began to function more like a genuine household team, despite Joe-Seff Gorbels' pastry experiments culminating in him Hexing Derrick and Ghorgadush subsequently placing an Alarm over the kitchen.
+
+## The party returns — Session 25
+
+The Defracturers returned to the Bastion after several weeks. Gudren Flint and Caelen Briar presented three research trails concerning the Loyal Crows, while n'Dong established a **shrine to Verei in the crypt** and received a powerful blessing whose full terms are not recorded.
+
+Ballar reacted violently to learning that the Crimson Shield had stayed as guests and that his belongings had been rearranged. He repeatedly dunked steward [[03 People/Bastion Staff/Derrick Lowgins|Derrick Lowgins]] in the toilet, healing him as necessary, and subsequently attacked Derrick's brother Terrick. Ballar also objected to guests being admitted without his permission. The mistreatment raises potential problems under the Bastion's existing obligations, but no formal sanction or contract breach has yet been adjudicated.
+
+See [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]].
 
 ## Related
 

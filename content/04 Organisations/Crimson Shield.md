@@ -11,7 +11,8 @@ tags:
   - campaign
 leader: Orrian Leovyre
 source: Session 24
-updated: 2026-09-10
+additional_source: Session 25
+updated: 2026-10-13
 ---
 
 # Crimson Shield
@@ -36,6 +37,14 @@ Bastion staff repeatedly suspected that the group, and Orrian in particular, wer
 During their stay, the group surprised two men unloading a boat beside the river. The smugglers fled and abandoned barrels containing expensive goods with stripped or obscured merchant markings. Orrian brought one barrel back to the Bastion, where it was turned over to Alaaric Hammerfall and later connected to Antoinne Cassan.
 
 Before leaving, Orrian entrusted Ghorgadush with a small parcel for Ballar.
+
+## Session 25 — reputation, gift and Phoenix Yard
+
+Upon returning to Somnolent, the Defracturers discovered that the Crimson Shield had become conspicuously popular. Elmwood reported that the company had dealt with remaining trouble near **Tace Nox**, although no detailed account of that encounter is recorded.
+
+A sign at the burned [[02 Places/Rakara/Somnolent/One Ball Inn|One Ball Inn]] announced the planned **Phoenix Yard**, generously supported by Orrian Leovyre and the Crimson Shield; the development is not yet complete.
+
+The parcel Orrian left for Ballar contained a **Cloak of Many Fashions** and an affectionate, gently patronising letter inviting him to meet Orrian in **Temir**. The gift intensified Ballar's irritation at the party having stayed in his Bastion. See [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]].
 
 ## Related
 

@@ -15,7 +15,8 @@ role: 'Collector of bodies'
 current_status: 'unknown'
 last_known_location: 'Unknown'
 source: 'Campaign notes and Sessions 16-22'
-updated: 2026-09-10
+additional_source: Session 25
+updated: 2026-10-13
 ---
 
 # Eula
@@ -56,12 +57,21 @@ Eula argued that the Defracturers themselves were leaving a trail of bodies acro
 
 This narrows her motive but does not explain what she does with the bodies, who else is involved or what form those preparations take.
 
+## Session 25 — connection to the Crows
+
+Gudren and Caelen reported that **Eula and Galt**, former worshippers of [[01 Welcome to Vaelond/Religion/Rakaran Faiths#Rhozka the Veiled One|Rhozka]], had been expelled from Voruun for necromancy. The researchers found evidence of repeated private meetings involving the pair, Eden Carrion and Summer Quaresh.
+
+This deepens the party's concern about her plan to gather bodies ahead of Ardynia's return. The research **does not confirm that Eula or Galt belongs to the Loyal Crows**, or reveal the precise purpose of her collected corpses.
+
+See [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]].
+
 ## Campaign appearances
 
 - [[Session 16 - Cackles, Corpses and Catastrophe]]
 - [[Session 17 - Shrieks, Widows and Time Juice]]
 - [[Session 21 - Contracts, Command, and a Burning Camp]]
 - [[05 Campaign Chronicle/Session 22 - Bodies, Blight, and Bushtache|Session 22]]
+- [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]]
 
 ## Related
 

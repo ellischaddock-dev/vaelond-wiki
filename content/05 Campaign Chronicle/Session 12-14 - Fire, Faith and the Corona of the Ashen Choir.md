@@ -8,7 +8,7 @@ session:
   - 13
   - 14
 recorded: 2026-03-26
-source_time: 19:55
+source_time: "19:55"
 arc: The Perfid embassy
 locations:
   - Somnolent

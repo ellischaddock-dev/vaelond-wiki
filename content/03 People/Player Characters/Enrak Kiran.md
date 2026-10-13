@@ -18,7 +18,8 @@ homeland: Clan Khaali
 mount: Bracken
 current_status: active
 source: Sessions 1-20 and original character notes
-updated: 2026-07-05
+additional_source: Session 25
+updated: 2026-10-13
 ---
 
 # Enrak Kiran
@@ -60,7 +61,7 @@ Enrak also has a personal link to [[03 People/Notable Figures/Summer Quaresh|Sum
 
 Within Tace Nox, Enrak helped uncover the ruin's mechanisms and recovered important Ardynian material, including a rune-sealed scroll and evidence of the Chronarch principle: life traded for progress. Later, while drunk, he proved a questionable custodian of dangerous Ardynian knowledge, forcing Ieuan to intervene and secure the material more carefully.
 
-At Rana Viam, Enrak took part in the ruin's movement trials, yielded power to the chamber, investigated its green flames and fought in the disastrous first confrontation with the golem guarding the [[06 Library/Relics and Artefacts/Bands of Distortion|Bands of Distortion]]. In the crossing chamber, his confidence repeatedly carried him into danger, including an incident in which he was petrified by a cockatrice before being restored by Ieuan's magic.
+At Rana Viam, Enrak took part in the ruin's movement trials, yielded power to the chamber, investigated its green flames and fought in the disastrous first confrontation with the golem guarding the [[Bands of Distortion|Bands of Distortion]]. In the crossing chamber, his confidence repeatedly carried him into danger, including an incident in which he was petrified by a cockatrice before being restored by Ieuan's magic.
 
 During Session 20, Enrak pursued Salla alongside Ballar, resisted the bog siren's song and was webbed during the giant-spider attack before helping to defeat the creatures.
 
@@ -89,6 +90,12 @@ During Session 20, Enrak pursued Salla alongside Ballar, resisted the bog siren'
 > - His deeper feelings about Anthea as an idol, political figure and symbol of the Five Clans have only partly surfaced.
 > - His longer-term goals beyond recognition, magical power and the Anthea investigation are not yet clear.
 
+## Session 25 — Somnolent and the Sundering
+
+Enrak joined the fight beneath the destroyed One Ball Inn and elected not to use a Fireball in the cellar where townsfolk were trapped. He later learned that Joe-Seff Gorbels lacked basic culinary skill, despite his duties at the Bastion.
+
+At Elmwood's tower, Enrak witnessed the memory within the [[06 Library/Ardynian Relics and Artefacts/Tace Nox scroll|Tace Nox scroll]] and was left momentarily speechless by the events it showed. The Defracturers advanced to level 6 at the session's end.
+
 ## Related
 
 - [[04 Organisations/The Defracturers|The Defracturers]]
@@ -100,5 +107,5 @@ During Session 20, Enrak pursued Salla alongside Ballar, resisted the bog siren'
 - [[06 Library/Relics and Artefacts/Verei's Shattered Mask|Verei's Shattered Mask]]
 - [[02 Places/Rakara/Tace Nox|Tace Nox]]
 - [[02 Places/Rakara/Rana Viam|Rana Viam]]
-- [[06 Library/Relics and Artefacts/Bands of Distortion|Bands of Distortion]]
+- [[Bands of Distortion|Bands of Distortion]]
 - [[06 Library/Campaign Reference/Horses|Horses]]

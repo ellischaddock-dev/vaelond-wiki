@@ -15,7 +15,7 @@ tags:
 role: Self-styled Lord of the Five Clans
 current_status: deceased
 place_of_death: East of Somnolent
-updated: 2026-07-02
+updated: 2026-10-13
 ---
 
 # Anthea Bloodclot
@@ -44,10 +44,10 @@ The Defracturers gathered evidence that:
 - Rootbound agents have taken quiet credit without openly confirming responsibility.
 - Perfidian Church leaders believed, or claimed to believe, that Anthea was **Saint Marra** and feared she intended to restore Ardynia.
 
-> [!important] The Saint Marra claim
-> The belief that Anthea was Saint Marra is a **Perfidian conclusion**, not an established fact. The Defracturers have found evidence that the Church acted upon this belief, but they have not independently substantiated Anthea's identity.
+> [!important] Identity revealed in Session 25
+> The Defracturers and Elmwood experienced an ancient memory through Elgira's eyes after activating the Tace Nox scroll. **Elmwood recognised Anthea Bloodclot as Saint Marra.** This resolves the party's earlier uncertainty, but the recognition is not necessarily public knowledge and does not by itself establish her present condition.
 
-The message recovered at [[02 Places/Rakara/Rana Viam|Rana Viam]] confirmed that conflict existed among figures associated with the ancient saints. It did not prove that Anthea was Marra.
+The message recovered at [[02 Places/Rakara/Rana Viam|Rana Viam]] had described conflict among the saints without proving Anthea's identity. The later vision supplied that recognition; see the [[06 Library/Ardynian Relics and Artefacts/Tace Nox scroll|full scroll]] and [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]].
 
 ## Legacy
 

@@ -15,7 +15,7 @@ tags:
   - rakara
 region: Rakara
 leader: Romayne Drayton
-updated: 2026-10-03
+updated: 2026-10-13
 ---
 
 # Somnolent
@@ -105,6 +105,12 @@ At the same time, the [[02 Places/Rakara/Somnolent/One Ball Inn|One Ball Inn]] w
 | 21 | **The Circle of Root and Stone** | An earth shrine and grove district where druids of many traditions live among stones and living huts. |
 | 22 | **The Arcades** | A prosperous merchant district of artisans, traders, shingled houses and walled gardens. |
 | 23 | **Lamplight Ward** | The civil district of scribes, officials and clerks, named for the lamps burning over records late into the night. |
+
+## The Defracturers return — Session 25
+
+The Defracturers returned after several weeks and found a town increasingly impressed by the [[04 Organisations/Crimson Shield|Crimson Shield]]. The rival company had helped with trouble near Tace Nox and contributed towards **Phoenix Yard**, a **proposed** replacement for the burned One Ball Inn.
+
+Screams beneath the ruins led the party into a dangerous cellar fight involving gibbering mouthers and slaad tadpoles. Three trapped residents were killed and some tadpoles escaped. Broken vials and a map to an unidentified farm create a new local investigation; neither the origin of the creatures nor the cause of the blaze is established. See [[02 Places/Rakara/Somnolent/One Ball Inn|One Ball Inn]] and [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]].
 
 ## Related pages
 

@@ -16,7 +16,8 @@ homeland: Clan Orvak
 mount: Cobb
 current_status: active
 source: Sessions 1-23
-updated: 2026-09-10
+additional_source: Session 25
+updated: 2026-10-13
 ---
 
 # Ieuan
@@ -44,7 +45,7 @@ Ieuan also played a quiet but important role in the interrogation of [[03 People
 
 Father Zantos later entrusted Ieuan with a [[06 Library/Relics and Artefacts/Star Seed|Star Seed]], linking Ieuan's Circle of Stars path to deeper questions of faith, growth and responsibility. During the rest inside [[02 Places/Rakara/Rana Viam|Rana Viam]], the seed produced a leaf bearing the constellation associated with Ieuan's Starry Form.
 
-At Rana Viam, Ieuan's insight proved important after the defeat of the golem guarding the [[06 Library/Relics and Artefacts/Bands of Distortion|Bands of Distortion]]. He investigated the remains and determined that the Bands were linked to the construct through a heart stone, helping the party understand how the relic had been bound and how it might be safely recovered.
+At Rana Viam, Ieuan's insight proved important after the defeat of the golem guarding the [[Bands of Distortion|Bands of Distortion]]. He investigated the remains and determined that the Bands were linked to the construct through a heart stone, helping the party understand how the relic had been bound and how it might be safely recovered.
 
 In Session 20, Ieuan used **Speak with Plants** to communicate with [[06 Library/Campaign Reference/Plague|Plague]], a sentient poisonous fungus. He promised to spread five cuttings in exchange for safe passage and planted the first in Salla's corpse. His later proposal to use Plague against the Broken Fang camp was designated **Plan E**.
 
@@ -84,6 +85,12 @@ Plague's influence nevertheless persisted. During Session 23 its command to *Spr
 > - His personal interpretation of the duties owed to Orun, Ezaa and Khurmog has not been recorded in detail.
 > - It is unclear whether Ieuan's caution around Elmwood reflects distrust, responsibility, fear of consequences or a broader instinct for secrecy.
 
+## Session 25 — Somnolent discoveries
+
+In the One Ball cellar, Ieuan fought the gibbering mouthers, attempted to help trapped civilians and found broken vials labelled "slaadpole". None of the three townsfolk ultimately survived. Back at the Bastion, he examined the [[06 Library/Relics and Artefacts/Star Seed|Star Seed]] and questioned the scarecrow created by the staff.
+
+Ieuan witnessed the shared memory from the [[06 Library/Ardynian Relics and Artefacts/Tace Nox scroll|Tace Nox scroll]] and learned the confirmed identities of the [[06 Library/Ardynian Relics and Artefacts/Corona of the Ashen Choir|Corona of the Ashen Choir]] and [[06 Library/Ardynian Relics and Artefacts/Staff of Broken Time|Staff of Broken Time]]. The Defracturers advanced to level 6.
+
 ## Related
 
 - [[04 Organisations/The Defracturers|The Defracturers]]
@@ -96,6 +103,6 @@ Plague's influence nevertheless persisted. During Session 23 its command to *Spr
 - [[02 Places/Rakara/Tace Nox|Tace Nox]]
 - [[02 Places/Rakara/Rana Viam|Rana Viam]]
 - [[06 Library/Relics and Artefacts/Star Seed|Star Seed]]
-- [[06 Library/Relics and Artefacts/Bands of Distortion|Bands of Distortion]]
+- [[Bands of Distortion|Bands of Distortion]]
 - [[06 Library/Campaign Reference/Plague|Plague]]
 - [[06 Library/Campaign Reference/Horses|Horses]]

@@ -15,7 +15,8 @@ role: 'Hunter of Somnolent'
 current_status: 'alive'
 last_known_location: 'Somnolent'
 source: 'Campaign notes.docx'
-updated: 2026-07-01
+additional_source: Session 25
+updated: 2026-10-13
 ---
 
 # Terrick Lowgins
@@ -32,6 +33,10 @@ updated: 2026-07-01
 - Was abducted and tortured in the Perfid embassy.
 - Was rescued by the Defracturers and returned to Somnolent, likely to a severe scolding from his wife.
 
+## Session 25 — return to the Bastion
+
+Terrick appeared at the Bastion in conflict with his brother [[03 People/Bastion Staff/Derrick Lowgins|Derrick Lowgins]] and accused Derrick of stealing from his family. The allegation is **Terrick's claim**, not an established finding. Ballar intervened violently, throwing Terrick through the building and a stranger's window. Terrick's immediate survival is recorded; the wider repercussions remain unknown. See [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]].
+
 ## Campaign appearances
 
 - [[Session 01 - Die Dog, Die]]
@@ -43,6 +48,7 @@ updated: 2026-07-01
 - [[Session 11 - Ashes, Brands and Windfalls]]
 - [[Session 15 - Stewards, Saddles and Shambling Roots]]
 - [[Session 12-14 - Fire, Faith and the Corona of the Ashen Choir]]
+- [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]]
 
 ## Related
 

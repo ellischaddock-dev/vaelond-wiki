@@ -42,7 +42,7 @@ The party's current understanding of Hushvale is limited but consistent: it is k
 
 After the Defracturers rescued Mireya, she travelled with them to Rana Viam and looked after their horses while they entered the ruin.
 
-Following the recovery of the [[06 Library/Relics and Artefacts/Bands of Distortion|Bands of Distortion]], the party planned to leave Rana Viam and continue to Hushvale. That journey was interrupted when Broken Fang scouts confronted them and revealed that [[03 People/Notable Deceased/Ulsar Quinn|Ulsar Quinn]] had taken their horses.
+Following the recovery of the [[Bands of Distortion|Bands of Distortion]], the party planned to leave Rana Viam and continue to Hushvale. That journey was interrupted when Broken Fang scouts confronted them and revealed that [[03 People/Notable Deceased/Ulsar Quinn|Ulsar Quinn]] had taken their horses.
 
 The resulting confrontation at Ulsar's camp ended with the camp destroyed and Mireya killed in the fire. Ballar later found her burned body and cast **Gentle Repose**, preserving what remained for possible resurrection.
 

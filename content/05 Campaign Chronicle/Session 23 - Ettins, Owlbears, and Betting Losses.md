@@ -106,7 +106,7 @@ Erelmor spent much of what remained of the night unsuccessfully trying to skip s
 
 Ieuan discreetly used magic to make one of them bounce.
 
-Elsewhere in camp, Ballar spent time grooming [[Kingcup]], receiving perhaps the most genuine affection his magnificently difficult horse had ever shown him.
+Elsewhere in camp, Ballar spent time grooming [[06 Library/Campaign Reference/Horses#Kingcup|Kingcup]], receiving perhaps the most genuine affection his magnificently difficult horse had ever shown him.
 
 Ieuan also returned to the mysterious **Star Seed**, but his attempts to understand it through nature were drowned out by a familiar voice echoing through his thoughts:
 

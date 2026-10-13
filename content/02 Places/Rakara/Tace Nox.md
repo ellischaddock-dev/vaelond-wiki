@@ -14,13 +14,14 @@ tags:
 region: Rakara
 current_status: partially explored
 source: Sessions 3, 4 and 7
-updated: 2026-07-03
+additional_source: Session 25
+updated: 2026-10-13
 ---
 
 # Tace Nox
 
 > [!summary] At a glance
-> An Ardynian ruin accessed through [[02 Places/Rakara/Thistlewound|Thistlewound]], containing temporal machinery, sacrificial research, preserved creatures and the [[06 Library/Relics and Artefacts/Staff of Broken Time|Staff of Broken Time]].
+> An Ardynian ruin accessed through [[02 Places/Rakara/Thistlewound|Thistlewound]], containing temporal machinery, sacrificial research, preserved creatures and the [[Staff of Broken Time|Staff of Broken Time]].
 
 | | |
 |---|---|
@@ -42,7 +43,7 @@ Within Tace Nox, the Defracturers encountered:
 
 - butterflies suspended within a column of emerald temporal energy;
 - two indifferent chwinga resting on stone ottomans;
-- a [[06 Library/Relics and Artefacts/Ring of Mind Shielding|Ring of Mind Shielding]];
+- a [[Ring of Mind Shielding|Ring of Mind Shielding]];
 - a Gem of Brightness;
 - the Staff of Broken Time.
 
@@ -92,6 +93,10 @@ The party emerged into the aftermath of the [[02 Places/Rakara/Thistlewound|This
 > - Does time pass differently inside the site?
 > - Can the Staff of Broken Time be removed safely?
 
+## Aftermath — the scroll opened
+
+In Session 25, Elmwood Bluevine activated the sealed [[06 Library/Ardynian Relics and Artefacts/Tace Nox scroll|Tace Nox scroll]] using probable Sanguis Aevi. It drew the party into Elgira's memory of the Sundering and revealed that the [[06 Library/Ardynian Relics and Artefacts/Staff of Broken Time|Staff of Broken Time]] they saw in Tace Nox was the staff Elgira carried in the ritual. The staff remains unrecovered from the ruin. See [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]].
+
 ## Campaign appearances
 
 - [[05 Campaign Chronicle/Session 03 - Into Buggie's Den|Session 3]]
@@ -102,7 +107,7 @@ The party emerged into the aftermath of the [[02 Places/Rakara/Thistlewound|This
 
 - [[02 Places/Rakara/Thistlewound|Thistlewound]]
 - [[04 Organisations/Chronarchs|Chronarchs]]
-- [[06 Library/Relics and Artefacts/Staff of Broken Time|Staff of Broken Time]]
-- [[06 Library/Relics and Artefacts/Ring of Mind Shielding|Ring of Mind Shielding]]
+- [[Staff of Broken Time|Staff of Broken Time]]
+- [[Ring of Mind Shielding|Ring of Mind Shielding]]
 - [[06 Library/Letters and Documents/Anthea Bloodclot's Note on Tace Nox|Anthea Bloodclot's Note on Tace Nox]]
-- [[06 Library/Relics and Artefacts/Tace Nox scroll|Tace Nox scroll]]
+- [[Tace Nox scroll|Tace Nox scroll]]

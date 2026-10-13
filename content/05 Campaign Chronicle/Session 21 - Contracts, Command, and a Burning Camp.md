@@ -76,7 +76,7 @@ Ballar tried to insist the discussion take place on neutral ground, but [[03 Peo
 
 What followed was less a negotiation than a contest of wills.
 
-Ulsar openly praised the group for the damage they had done to Rhul’s operations in Rakara, then immediately tried to reinforce old hierarchies by casting Command on n’Dong and ordering him to grovel. The first attempt failed, but the message was plain enough. Ulsar then laid out his opening offer: the [[06 Library/Relics and Artefacts/Bands of Distortion|Bands of Distortion]] in exchange for [[03 People/Notable Figures/Mireya Dinak|Mireya]] and the horses.
+Ulsar openly praised the group for the damage they had done to Rhul’s operations in Rakara, then immediately tried to reinforce old hierarchies by casting Command on n’Dong and ordering him to grovel. The first attempt failed, but the message was plain enough. Ulsar then laid out his opening offer: the [[Bands of Distortion|Bands of Distortion]] in exchange for [[03 People/Notable Figures/Mireya Dinak|Mireya]] and the horses.
 
 The Defracturers refused.
 

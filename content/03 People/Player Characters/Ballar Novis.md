@@ -17,7 +17,8 @@ homeland: Doro
 mount: Kingcup
 current_status: active
 source: Sessions 1-23
-updated: 2026-10-03
+additional_source: Session 25
+updated: 2026-10-13
 ---
 
 # Ballar Novis
@@ -78,7 +79,7 @@ The fracture became personal when Ballar later crossed paths with Ieuan and stru
 
 ## Din and the ring
 
-Ballar carries a [[06 Library/Relics and Artefacts/Ring of Mind Shielding|Ring of Mind Shielding]] recovered from the Ardynian ruin of [[02 Places/Rakara/Tace Nox|Tace Nox]].
+Ballar carries a [[Ring of Mind Shielding|Ring of Mind Shielding]] recovered from the Ardynian ruin of [[02 Places/Rakara/Tace Nox|Tace Nox]].
 
 The ring contains a speaking consciousness known to the party as [[03 People/Notable Figures/Din|Din]]. Ballar initially experienced Din as a private voice and did not immediately make the full situation transparent to the rest of the group.
 
@@ -138,11 +139,19 @@ His relationship with [[06 Library/Campaign Reference/Horses#Kingcup|Kingcup]] a
 > - Ballar’s life and accomplishments before the campaign are only lightly described.
 > - The consequences of Ballar stepping away from formal Doroan authority have not yet fully played out.
 
+## Session 25 — Orrian and the Lowgins brothers
+
+Back in Somnolent, Ballar received a **Cloak of Many Fashions** and an affectionate letter from childhood acquaintance and perceived rival [[03 People/Mentioned Figures/Orrian Leovyre|Orrian Leovyre]], inviting him to Temir. Ballar was furious that the Crimson Shield had been allowed to stay at the Bastion and that his wardrobe had been rearranged.
+
+He assaulted steward [[03 People/Bastion Staff/Derrick Lowgins|Derrick Lowgins]], repeatedly dunking his head in a toilet, and later violently threw [[03 People/Notable Figures/Terrick Lowgins|Terrick Lowgins]] through part of the house and a stranger's window amid a dispute between the brothers. Terrick alleged that Derrick had stolen from his family; this allegation is not independently established.
+
+Ballar participated in the One Ball cellar rescue attempt and witnessed the shared Sundering memory activated from the Tace Nox scroll. The party reached **level 6** at the session's end.
+
 ## Related
 
 - [[04 Organisations/The Defracturers|The Defracturers]]
 - [[03 People/Notable Figures/Din|Din]]
-- [[06 Library/Relics and Artefacts/Ring of Mind Shielding|Ring of Mind Shielding]]
+- [[Ring of Mind Shielding|Ring of Mind Shielding]]
 - [[03 People/Notable Figures/Ouin Brond|Ouin Brond]]
 - [[03 People/Notable Figures/Ervain Megbanas|Ervain Megbanas]]
 - [[02 Places/Doro/Noble Houses/House Nirrell|House Nirrell]]

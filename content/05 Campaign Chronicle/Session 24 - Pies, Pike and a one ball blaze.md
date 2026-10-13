@@ -1,11 +1,11 @@
 ---
-title: 'Bastion Interlude: Pies, Pike and the One Ball Blaze'
+title: "Session 24: Bastion Interlude: Pies, Pike and the One Ball Blaze"
 type: session-note
 status: published
 player_facing: true
 session: 24
 recorded: 2026-09-07
-source_time: '18:40'
+source_time: "18:40"
 arc: Bastion Downtime
 locations:
   - Somnolent
@@ -31,7 +31,7 @@ tags:
   - chronicle
   - session-notes
   - bastion
-updated: 2026-10-03
+updated: 2026-10-13
 ---
 
 # Bastion Interlude: Pies, Pike and the One Ball Blaze
@@ -44,7 +44,7 @@ updated: 2026-10-03
 | **Recorded** | 07 September 2026 at 18:40 |
 | **Arc** | Bastion Downtime |
 
-With the [[Defracturers]] away from [[Somnolent]], responsibility for their newly established Bastion fell to the five people they had hired to keep it running. Before getting properly underway, the staff were invited to offer their opinions of their absent employers. [[Ghorgadush]] regarded [[Ballar Novis]] as a pampered high elf in shiny clothes who had never seen a proper day's work; [[Derrick Lowgins]] found [[n'Dong]] vaguely terrifying and remained unsure whether the dragonborn's habit of licking his lips meant he intended to cook him; while [[03 People/Bastion Staff/Joe-Seff Gorbels|Joe-Seff Gorbels]] considered [[Erelmor]] a thoroughly decent, peaceful man who had secured him employment and could apparently do no wrong. [[Igon Duft]] was considerably less complimentary about [[Enrak Kiran]], concluding that loose lips sank ships and Enrak had already sunk a fleet, while [[Mariasz Salhum]] considered [[Ieuan]] too quiet, unpredictable and generally peculiar to have lasted long aboard any ship she had served on.
+With the [[04 Organisations/The Defracturers|Defracturers]] away from [[Somnolent]], responsibility for their newly established Bastion fell to the five people they had hired to keep it running. Before getting properly underway, the staff were invited to offer their opinions of their absent employers. [[Ghorgadush]] regarded [[Ballar Novis]] as a pampered high elf in shiny clothes who had never seen a proper day's work; [[Derrick Lowgins]] found [[n'Dong]] vaguely terrifying and remained unsure whether the dragonborn's habit of licking his lips meant he intended to cook him; while [[03 People/Bastion Staff/Joe-Seff Gorbels|Joe-Seff Gorbels]] considered [[Erelmor]] a thoroughly decent, peaceful man who had secured him employment and could apparently do no wrong. [[Igon Duft]] was considerably less complimentary about [[Enrak Kiran]], concluding that loose lips sank ships and Enrak had already sunk a fleet, while [[Mariasz Salhum]] considered [[Ieuan]] too quiet, unpredictable and generally peculiar to have lasted long aboard any ship she had served on.
 
 It was, if nothing else, an honest foundation for the next three weeks.
 

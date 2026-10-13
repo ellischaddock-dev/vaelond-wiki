@@ -16,7 +16,7 @@ region: Rakara
 clan: Khaali
 leader: Sifaya Flameborn
 source_date: 2025-07-05
-updated: 2026-07-05
+updated: 2026-10-13
 ---
 
 # Clan Khaali
@@ -25,7 +25,7 @@ updated: 2026-07-05
 |---|---|
 | **Region** | Fertile southeastern Rakara beneath Mount Khal |
 | **Leader** | Chieftain Sifaya Flameborn |
-| **Capital** | Emberrest |
+| **Capital** | Cinderfall |
 | **Known for** | Fire worship, agriculture, artistry and trained pyromancers |
 
 ## Sigil
