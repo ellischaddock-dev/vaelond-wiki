@@ -7,12 +7,12 @@ tags:
   - index
   - people
   - campaign
-updated: 2026-10-13
+updated: 2026-10-22
 ---
 
 # People
 
-A player-facing index of named figures represented in the campaign records.
+A directory of the people whose choices, relationships and histories have shaped the campaign. Biographies describe individuals and their changing circumstances; the [[05 Campaign Chronicle/index|Campaign Chronicle]] retains the session-by-session record, and [[06 Library/Campaign Reference/Open Threads|Open Threads]] tracks unresolved investigations.
 
 ## Player characters
 
@@ -42,13 +42,17 @@ A player-facing index of named figures represented in the campaign records.
 | ![[Ervain Megbanas.png\|70]] | [[03 People/Notable Figures/Ervain Megbanas|Ervain Megbanas]] | The Old Grey Pike | Left Somnolent; whereabouts unknown |
 | ![[Antoinne Cassan.png\|70]] | [[03 People/Notable Figures/Antoinne Cassan|Antoinne Cassan]] | Proprietor of the former One Ball Inn; Broken Fang fence | Missing |
 | ![[Saffron Araffas.png\|70]] | [[03 People/Notable Figures/Saffron Araffas|Saffron Araffas]] | Barista at [[02 Places/Rakara/Somnolent/Brewed Awakening|Brewed Awakening]] | Active |
-| ![[Gayle Bramble.png\|70]] | [[03 People/Notable Figures/Gayle Bramble|Gayle Bramble]] | Deputy of Somnolent | Active; preparing to pursue Eden/Summer lead |
+| ![[Gayle Bramble.png\|70]] | [[03 People/Notable Figures/Gayle Bramble|Gayle Bramble]] | Deputy of Somnolent | Injured; unconscious at Bastion |
 | ![[Xene Redmayne.png\|70]] | [[03 People/Notable Figures/Xene Redmayne|Xene Redmayne]] | Bartender at the Drowsy Coin | Active |
 | ![[Eula.png\|70]] | [[03 People/Notable Figures/Eula|Eula]] | Collector of bodies | Active |
-| ![[Mireya Dinak.png\|70]] | [[03 People/Notable Figures/Mireya Dinak|Mireya Dinak]] | Erzhini traveller and prospective gambling-hall owner | Deceased; preserved body taken to Elmwood in Session 25 |
+| ![[Mireya Dinak.png\|70]] | [[03 People/Notable Figures/Mireya Dinak|Mireya Dinak]] | Erzhini traveller and prospective gambling-hall owner | Deceased; preserved for possible restoration |
 | ![[Summer Quaresh.png\|70]] | [[03 People/Notable Figures/Summer Quaresh|Summer Quaresh]] | Khaali liaison and one of Anthea's Crows | Missing |
 | — | [[03 People/Notable Figures/Prodosius|Prodosius]] | Leader of the Broken Fang | Unseen; active |
-| — | [[03 People/Notable Figures/Din|Din]] | Soul bound within Ballar's ring | Active |
+| — | [[03 People/Notable Figures/Din|Din]] | Soul bound to an Ardynian ring; not presently worn | Active |
+| — | [[03 People/Notable Figures/Orrian Leovyre|Orrian Leovyre]] | Leader of the Crimson Shield; Ballar's childhood acquaintance | Active; reportedly travelling towards Temir |
+| — | [[03 People/Notable Figures/Rhul Slowdrift|Rhul Slowdrift]] | Broken Fang leader associated with Dazuun and Somnolent | At large; current location unknown |
+| — | [[03 People/Notable Figures/Xilpeiros Nirrell|Xilpeiros Nirrell]] | Ballar's father; Doroan noble and political figure | Alive; political role disputed |
+| — | [[03 People/Notable Figures/Job Ashmere|Job Ashmere]] | Somnolent authority; missing after investigation | Unaccounted for |
 
 ## Notable deceased
 
@@ -74,7 +78,6 @@ A player-facing index of named figures represented in the campaign records.
 
 ## Mentioned figures
 
-- [[03 People/Mentioned Figures/Orrian Leovyre|Orrian Leovyre]] — high-elf fighter and leader of the Crimson Shield.
 - [[03 People/Mentioned Figures/Mera Thorn|Mera Thorn]] — half-elf ranger of the Crimson Shield.
 - [[03 People/Mentioned Figures/Osric Pell|Osric Pell]] — dwarven cleric of the Crimson Shield.
 - [[03 People/Mentioned Figures/Veyra Sal|Veyra Sal]] — tiefling sorcerer of the Crimson Shield.
@@ -83,8 +86,6 @@ A player-facing index of named figures represented in the campaign records.
 - [[03 People/Mentioned Figures/Oakrah Woodfrey|Oakrah Woodfrey]] — treant guardian connected to the False Gardener.
 - [[03 People/Mentioned Figures/Malt|Malt]] — former Broken Fang prisoner released with Bushtache.
 - [[03 People/Mentioned Figures/Tranwyl Bruun|Tranwyl Bruun]] — Ieuan's childhood friend connected to the Rootbound.
-- [[03 People/Mentioned Figures/Rhul Slowdrift|Rhul Slowdrift]] — Broken Fang figure linked to Dazuun's fighting pits.
-- [[03 People/Mentioned Figures/Job Ashmere|Job Ashmere]] — Somnolent authority figure associated with the town guard and the Eden/Summer search.
 - [[03 People/Mentioned Figures/Marda Hest|Marda Hest]] — Somnolent horse keeper who supplied mounts for the Eden/Summer search preparations.
 - [[03 People/Mentioned Figures/Maxine Hintermeier|Maxine Hintermeier]] — Somnolent investigator who received evidence from Antoinne Cassan's ransacked office.
 
@@ -92,6 +93,9 @@ A player-facing index of named figures represented in the campaign records.
 - [[03 People/Mentioned Figures/Arun Yev|Arun Yev]] — Temiri historian associated with Summer and the Wavecutters.
 - [[03 People/Mentioned Figures/Galt|Galt]] — former Vorunni necromancer associated with Eula; possible Crow connection.
 - [[03 People/Mentioned Figures/Drisdin|Drisdin]] — historical maker of the Crowns of Infinity.
+- [[03 People/Mentioned Figures/Karessa|Karessa]] — Khaali woman identified by pit fighters as a Dragon's Dandruff supplier (unverified testimony).
+- [[03 People/Mentioned Figures/Oruc|Oruc]] — Voruun pit booking agent alleged to take Rhul's payments for fixed fights (unverified testimony).
+- [[03 People/Mentioned Figures/Yama and Spopovich|Yama and Spopovich]] — former Dazuun fighters who met n'Dong in Somnolent.
 
 ## Related references
 

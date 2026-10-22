@@ -9,7 +9,7 @@ tags:
 - artefact
 - ardynia
 - campaign
-updated: '2026-10-13'
+updated: 2026-10-20
 ---
 
 # Ardynian Relics and Artefacts
@@ -18,11 +18,11 @@ A player-facing index of Ardynian objects and temporal materials known to the De
 
 ## Objects witnessed in the Sundering memory
 
-Elgira's memory depicts **five Crowns of Infinity and five other objects**. Presence in the vision does not independently establish that all ten were necessary for the ritual or that every object has survived.
+The Sundering involved **ten objects in total: five Coronas of the Ashen Choir (the five Crowns of Infinity named in the vision) and five other relics**. Presence in the vision does not independently establish that all ten were necessary for the ritual or that every object survives today.
 
 | Object witnessed | Identification / encounter | Current known location | Evidence of ritual function |
 |---|---|---|---|
-| **Five Crowns of Infinity** | The [[06 Library/Ardynian Relics and Artefacts/Corona of the Ashen Choir|Corona of the Ashen Choir]] encountered in Somnolent is **one** of the five | One Corona was carried away from Somnolent by Perfidian agents; whereabouts of the other crowns unknown | Originally designed to siphon magic and years of life; seen in the memory |
+| **Five Coronas of the Ashen Choir / Crowns of Infinity** | The [[06 Library/Ardynian Relics and Artefacts/Corona of the Ashen Choir|Corona of the Ashen Choir]] encountered in Somnolent is **one** of the five | One Corona was carried away from Somnolent by Perfidian agents; whereabouts of the other crowns unknown | Originally designed to siphon magic and years of life; seen in the memory |
 | [[06 Library/Ardynian Relics and Artefacts/Staff of Broken Time|Staff of Broken Time]] | **The same staff** Elgira used during the Sundering and the party encountered in [[02 Places/Rakara/Tace Nox|Tace Nox]] | Returned to Tace Nox; not currently held by the party | Wielded to direct the ritual |
 | [[06 Library/Ardynian Relics and Artefacts/Heart of Vaelond|Heart of Vaelond]] | Obsidian focus with a green core | Unknown | Central to channeling the power; drew far more life than Elgira intended |
 | [[06 Library/Ardynian Relics and Artefacts/Eye of Singularity|Eye of Singularity]] | Named object in Elgira's robes | Unknown | **Unconfirmed**: presence shown, function not established |
@@ -36,6 +36,12 @@ Elgira's memory depicts **five Crowns of Infinity and five other objects**. Pres
 - [[06 Library/Ardynian Relics and Artefacts/Rana Viam scroll|Rana Viam scroll]] — **still unopened**.
 - [[06 Library/Ardynian Relics and Artefacts/Tace Nox scroll|Tace Nox scroll]] — **activated**, with the complete Elgira memory retained on its page.
 - [[06 Library/Ardynian Relics and Artefacts/Time Juice|Time Juice]] — green temporal substance identified as probable **Sanguis Aevi** (*Blood of Ages*).
+
+## Session 26 — custody and possible anchors
+
+The Defracturers retained the [[06 Library/Ardynian Relics and Artefacts/Bands of Distortion|Bands of Distortion]] with their heart stone; attunement remains undecided. The heart stone has led them to **suspect**, not establish, that other relics may have associated anchors. They may search Tace Nox for a possible tether to the [[06 Library/Ardynian Relics and Artefacts/Staff of Broken Time|Staff of Broken Time]]. The historical total remains **five Coronas plus five other relics**, with no additional object implied by this theory.
+
+See [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
 
 ## Related
 

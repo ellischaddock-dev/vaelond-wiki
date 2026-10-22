@@ -15,94 +15,92 @@ subclass: Circle of Stars
 homeland: Clan Orvak
 mount: Cobb
 current_status: active
-source: Sessions 1-23
-additional_source: Session 25
-updated: 2026-10-13
+source: Sessions 1-26 and Open Threads
+updated: 2026-10-22
 ---
 
 # Ieuan
 
 > [!summary] At a glance
-> A wood-elf Circle of Stars druid from Clan Orvak whose reverence for the natural world is matched by deep curiosity, quiet evasiveness and an alarming willingness to bargain with dangerous living things.
+> A gifted wood-elf druid of [[02 Places/Rakara/Clans/Clan Orvak|Clan Orvak]] and the Circle of Stars, Ieuan draws guidance from the natural world and the heavens. His loyalty to old teachers and family ties is being tested by dangerous bargains, the divided Rootbound and a growing sense that his path among the stars has taken him away from the earth.
 
-## Established background
+## Roots in Orvak
 
-- Ieuan is from [[02 Places/Rakara/Clans/Clan Orvak|Clan Orvak]] and was regarded as a gifted young druid.
-- [[03 People/Notable Figures/Father Zantos|Father Zantos]] is an important mentor, both spiritually and politically.
-- His beliefs particularly involve **Orun the Verdant Kin**, **Ezaa of the Whispering Gale** and **Khurmog the Silent Deep**.
-- His sister **Daear** is connected to his unresolved history with Orvak and the [[04 Organisations/Rootbound|Rootbound]].
-- His childhood friend [[03 People/Mentioned Figures/Tranwyl Bruun|Tranwyl Bruun]] later fell in with the Rootbound, making the movement a personal matter as well as a political one.
+Ieuan comes from the forested homeland of Clan Orvak, where endurance, community and respect for the living world are woven into everyday life. He was regarded as a gifted young druid, although the surviving record says little about his early home, family life or place within Orvak's druidic traditions.
 
-## Campaign role
+His spirituality draws on the Rakaran gods, particularly [[01 Welcome to Vaelond/Religion/Rakaran Faiths#Orun, the Verdant Kin|Orun the Verdant Kin]], [[01 Welcome to Vaelond/Religion/Rakaran Faiths#Ezaa of the Whispering Gale|Ezaa of the Whispering Gale]] and [[01 Welcome to Vaelond/Religion/Rakaran Faiths#Khurmog the Silent Deep|Khurmog the Silent Deep]]. He follows the **Circle of Stars**, seeking meaning not only in roots, seasons and soil but also in the patterns written across the night sky.
 
-Ieuan serves as the party's wilderness guide, healer and interpreter of natural or magical phenomena. His transformations, tracking and connection to the land have repeatedly enabled the group to travel, pursue targets and survive dangerous terrain.
+His mentor, [[03 People/Notable Figures/Father Zantos|Father Zantos]], is an elder druid associated with Clan Erzhin and the same Circle of Stars tradition. Zantos has encouraged Ieuan's growth while warning him against the dangers of Ardynian knowledge and causes that lose sight of their original ideals. Their relationship places Ieuan between reverence for his teachers and the need to judge dangerous discoveries for himself.
 
-During Emberwake, Ieuan played for subtler stakes than some of his companions. He won a magical key, chose a private follow-up with [[03 People/Notable Figures/Elmwood Bluevine|Elmwood Bluevine]] over a simple prize and was drawn into assisting [[03 People/Notable Figures/Father Zantos|Father Zantos]] with the festival ritual. When the goblin attack began, his entangling magic helped protect fleeing villagers, though his decision to ignite the festival bonfire also triggered the next stage of the assault.
+## Family, friendship and the Rootbound
 
-Ieuan's later meeting with Elmwood revealed a more guarded side to him. When Elmwood spoke about Ardynian ruins and described details that matched [[02 Places/Rakara/Tace Nox|Tace Nox]], Ieuan realised the party had already entered the very site Elmwood was concerned about. Rather than immediately reveal this, Ieuan initially withheld the truth and tried to manage the conversation carefully. He eventually admitted what the party had found after Elmwood pressed him on the responsibility of handling Ardynian scrolls and dangerous knowledge.
+Ieuan's sister, **Daear**, remains an important but unresolved part of his past. Her whereabouts and current relationship, if any, with the [[04 Organisations/Rootbound|Rootbound]] have not been established. His childhood friend [[03 People/Mentioned Figures/Tranwyl Bruun|Tranwyl Bruun]] is known to have fallen in with the movement, giving its activities a second personal connection.
 
-Ieuan also played a quiet but important role in the interrogation of [[03 People/Notable Deceased/Alistair Prusset|Alistair Prusset]]. After Prusset was captured, Ieuan brought [[03 People/Notable Figures/Romayne Drayton|Romayne Drayton]] to the cells and was caught within the Zone of Truth used during questioning. While the interrogation focused on Anthea Bloodclot's murder and the Church of Elgira, Ieuan asked after [[03 People/Notable Figures/Terrick Lowgins|Terrick Lowgins]], revealing that Terrick had been taken to the Perfid embassy.
+The Rootbound's history is not straightforward. Zantos himself acknowledged an earlier affinity with its ideals, but was deeply troubled by the movement's cooperation with the Church of Elgira. The Defracturers have since encountered evidence implicating a Rootbound-linked force in the slaughter at Thistlewound, while their investigation into Anthea Bloodclot's murder has identified a Rootbound cell employed by Perfidian interests. Those discoveries do not establish that every Rootbound member or cell acted together.
 
-Father Zantos later entrusted Ieuan with a [[06 Library/Relics and Artefacts/Star Seed|Star Seed]], linking Ieuan's Circle of Stars path to deeper questions of faith, growth and responsibility. During the rest inside [[02 Places/Rakara/Rana Viam|Rana Viam]], the seed produced a leaf bearing the constellation associated with Ieuan's Starry Form.
+For Ieuan, the distinction matters. The organisation's corruption and violence sit alongside people he knew long before joining the Defracturers. Finding Daear and understanding what became of Tranwyl are still outstanding, but neither has produced a specific new lead. Likewise, the company's intended visit to the unusually closed Orvaki settlement of [[02 Places/Rakara/Hushvale|Hushvale]] has been postponed rather than completed.
 
-At Rana Viam, Ieuan's insight proved important after the defeat of the golem guarding the [[Bands of Distortion|Bands of Distortion]]. He investigated the remains and determined that the Bands were linked to the construct through a heart stone, helping the party understand how the relic had been bound and how it might be safely recovered.
+## A thoughtful and sometimes guarded companion
 
-In Session 20, Ieuan used **Speak with Plants** to communicate with [[06 Library/Campaign Reference/Plague|Plague]], a sentient poisonous fungus. He promised to spread five cuttings in exchange for safe passage and planted the first in Salla's corpse. His later proposal to use Plague against the Broken Fang camp was designated **Plan E**.
+Within the Defracturers, Ieuan serves as a wilderness guide, healer and interpreter of the living environment. At Emberwake, his magic helped protect fleeing civilians during the goblin attack. He has since used his knowledge of nature, restorative magic and transformations to guide the company through dangerous terrain and rescue companions from threats that ordinary weapons could not solve.
 
-## Father Zantos
+Ieuan's caution is not always complete openness. When [[03 People/Notable Figures/Elmwood Bluevine|Elmwood Bluevine]] described dangerous Ardynian sites in terms Ieuan recognised from the party's visit to [[02 Places/Rakara/Tace Nox|Tace Nox]], Ieuan initially withheld what he knew and tried to manage the discussion. He later disclosed the truth under questioning. The episode shows his instinct to control the release of information, though its exact cause—distrust, prudence or fear of consequences—remains uncertain.
 
-[[03 People/Notable Figures/Father Zantos|Father Zantos]] acts as more than a mentor or source of druidic guidance. His conversations with Ieuan connect several of Ieuan's central tensions: the duties of Orvaki faith, the danger of Ardynian ruins, the burden of ancient knowledge and the compromised legacy of the Rootbound.
+At [[02 Places/Rakara/Rana Viam|Rana Viam]], his examination of a defeated golem revealed that the [[06 Library/Ardynian Relics and Artefacts/Bands of Distortion|Bands of Distortion]] were bound to it through a heart stone. That insight helped the company recover and better understand the relic. The same attentiveness has also made him a compassionate companion. When Erelmor's nightmares became unbearable, Ieuan listened as the rogue confessed his fear of harming the party during his trance. Later, during a market brawl in Somnolent, Ieuan attempted to reduce the violence, dispelling Erelmor's *Darkness* and healing one of the opposing fighters.
 
-Zantos praised Ieuan's path as a Circle of Stars druid and linked it to Orun's wider mysteries, but he also warned him against reckless involvement with Ardynian sites. His own former affinity with the Rootbound, and his distress at their cooperation with the Church of Elgira, make him a living warning about how ideals can be twisted by fear, secrecy and foreign influence.
+His dependable mount, [[06 Library/Campaign Reference/Horses#Cobb|Cobb]], reflects the practical, quieter side of Ieuan's life among the company.
 
-## Mount
+## The bargain with Plague
 
-[[06 Library/Campaign Reference/Horses#Cobb|Cobb]] is Ieuan's recorded mount: dependable, calm and sturdy.
+Ieuan's connection to the natural world has also led him into one of his most troubling decisions. During the pursuit of Broken Fang scouts, he used *Speak with Plants* on a poisonous sentient fungus calling itself [[03 People/Notable Figures/Plague|Plague]]. In exchange for safe passage, he agreed to spread five cuttings beyond its existing colony.
 
-## Sessions 22-23
+He placed one cutting in the corpse of a scout named Salla. [[03 People/Notable Figures/Eula|Eula]] later collected that body, and its location and condition are now unknown. Ieuan subsequently regretted the bargain, believing his judgement had deteriorated since making it, and planted his remaining cuttings rather than continue to carry them.
 
-After Ulsar's camp, Ieuan concluded that his judgement had deteriorated since accepting [[06 Library/Campaign Reference/Plague|Plague's]] bargain and planted the remaining cuttings rather than continue carrying them.
+The Defracturers later learned that Plague was connected to the corrupt work of [[03 People/Mentioned Figures/Maelor Vey|Maelor Vey]], the False Gardener. Confronted by [[03 People/Mentioned Figures/Oakrah Woodfrey|Oakrah Woodfrey]], Ieuan joined the party in destroying the immediate corruption at Maelor's ruined home. That victory ended a local threat, **not Plague's known ability to reach Ieuan**. Even after he had relinquished the cuttings, the fungus continued to intrude upon his thoughts with a demand to *spread*.
 
-He was then confronted by [[03 People/Mentioned Figures/Oakrah Woodfrey|Oakrah Woodfrey]], who identified Plague as part of the legacy of [[03 People/Mentioned Figures/Maelor Vey|Maelor Vey, the False Gardener]]. The Defracturers destroyed the immediate corruption beneath Maelor's ruined home. Ballar later handed Ieuan the [[06 Library/Relics and Artefacts/False Gardener's Notebook|False Gardener's Notebook]].
+The consequences of that bargain remain an uncomfortable contrast with the duties Ieuan associates with his faith and homeland. The Plague-infested body in Eula's possession, the cuttings left elsewhere and the voice still reaching him are all unresolved.
 
-Plague's influence nevertheless persisted. During Session 23 its command to *Spread* obstructed Ieuan's attempt to understand the [[06 Library/Relics and Artefacts/Star Seed|Star Seed]] through nature. A later attempt through faith succeeded: another leaf unfurled and Ieuan understood the Seed as a devotional object awakening gradually, with dormant **Star Forms** within it.
+## The Star Seed and the distance between earth and sky
 
-## Active personal threads
+Zantos entrusted Ieuan with a mysterious [[06 Library/Relics and Artefacts/Star Seed|Star Seed]], promising that it would bloom as Ieuan deepened his druidic path. Ieuan has studied it during periods of rest, and its leaves have gradually unfurled in response to new understanding. He has come to recognise the Seed as a **devotional object** with dormant Star Forms, not merely a passive magical charm.
 
-- Understand the purpose and development of the [[06 Library/Relics and Artefacts/Star Seed|Star Seed]].
-- Find Daear and establish her current relationship with the Rootbound.
-- Understand what became of [[03 People/Mentioned Figures/Tranwyl Bruun|Tranwyl Bruun]] and how deeply he is involved with the Rootbound.
-- Decide how much trust to place in Father Zantos's warnings about Ardynian ruins, forbidden knowledge and compromised causes.
-- Determine whether carrying and spreading Plague conflicts with his duties to Orun and the forest.
-- Reach [[02 Places/Rakara/Hushvale|Hushvale]] and investigate the guarded state of the Orvaki settlement.
+His attempts to approach the Seed through nature have been particularly difficult. Plague's intrusive voice disrupted one effort; a later meditation through faith brought visible growth and new insight. The record supports progress in other aspects of understanding, but the Seed's complete powers and final form remain unknown.
 
-> [!warning] Gaps in the current record
-> - Ieuan's early life, family structure and formal place within Orvak's druidic traditions are only partly described.
-> - Daear's full history, motives and present role have not yet been established at the table.
-> - Tranwyl Bruun's current location, allegiance and relationship with Ieuan remain unclear.
-> - The intended stages and powers of the Star Seed remain unknown.
-> - The consequences of Ieuan's bargain with Plague have not yet occurred.
-> - His personal interpretation of the duties owed to Orun, Ezaa and Khurmog has not been recorded in detail.
-> - It is unclear whether Ieuan's caution around Elmwood reflects distrust, responsibility, fear of consequences or a broader instinct for secrecy.
+After returning to Somnolent, Ieuan joined Zantos and Mother Joygrove in prayer. He spoke openly of a feeling that his increasing affinity with the stars was distancing him from the earth he had once felt so strongly. Zantos guided him through another attempt to understand the Seed's remaining **natural aspect**, but the final breakthrough did not occur. The mentor counselled patience rather than another forced revelation.
 
-## Session 25 — Somnolent discoveries
+That tension may be the clearest expression of Ieuan's present journey: a druid who reads the heavens with growing skill while questioning how to remain rooted in the living world beneath them.
 
-In the One Ball cellar, Ieuan fought the gibbering mouthers, attempted to help trapped civilians and found broken vials labelled "slaadpole". None of the three townsfolk ultimately survived. Back at the Bastion, he examined the [[06 Library/Relics and Artefacts/Star Seed|Star Seed]] and questioned the scarecrow created by the staff.
+## Current circumstances
 
-Ieuan witnessed the shared memory from the [[06 Library/Ardynian Relics and Artefacts/Tace Nox scroll|Tace Nox scroll]] and learned the confirmed identities of the [[06 Library/Ardynian Relics and Artefacts/Corona of the Ashen Choir|Corona of the Ashen Choir]] and [[06 Library/Ardynian Relics and Artefacts/Staff of Broken Time|Staff of Broken Time]]. The Defracturers advanced to level 6.
+Ieuan remains with the Defracturers and continues to pursue the Star Seed's awakening. His relationship with Zantos is active, but his ties to Daear, Tranwyl and the Rootbound remain unresolved. The company has postponed its journey to Hushvale and Orun's Grove, leaving much of his homeland's story for another day.
 
-## Related
+Plague's influence has not been shown to end. For Ieuan, understanding the Seed and recovering his connection to nature are now closely connected, though the source of his difficulty and the meaning of the final stage have yet to be established.
+
+## Personal matters still unresolved
+
+- The whereabouts of **Daear** and Tranwyl Bruun, and their actual present relationships with the Rootbound.
+- Awakening the Star Seed's remaining natural aspect and understanding its dormant Star Forms.
+- The continuing influence of Plague, including the possible fate of the infected body collected by Eula.
+- The deferred journey to Hushvale and the unvisited shrine at Orun's Grove.
+
+## Related pages
 
 - [[04 Organisations/The Defracturers|The Defracturers]]
 - [[02 Places/Rakara/Clans/Clan Orvak|Clan Orvak]]
-- [[02 Places/Rakara/Hushvale|Hushvale]]
 - [[03 People/Notable Figures/Father Zantos|Father Zantos]]
-- [[03 People/Notable Figures/Elmwood Bluevine|Elmwood Bluevine]]
 - [[03 People/Mentioned Figures/Tranwyl Bruun|Tranwyl Bruun]]
-- [[04 Organisations/Rootbound|The Rootbound]]
-- [[02 Places/Rakara/Tace Nox|Tace Nox]]
-- [[02 Places/Rakara/Rana Viam|Rana Viam]]
+- [[04 Organisations/Rootbound|Rootbound]]
+- [[02 Places/Rakara/Hushvale|Hushvale]]
 - [[06 Library/Relics and Artefacts/Star Seed|Star Seed]]
-- [[Bands of Distortion|Bands of Distortion]]
-- [[06 Library/Campaign Reference/Plague|Plague]]
+- [[03 People/Notable Figures/Plague|Plague]]
+- [[03 People/Notable Figures/Eula|Eula]]
 - [[06 Library/Campaign Reference/Horses|Horses]]
+- [[06 Library/Campaign Reference/Open Threads|Open Threads]]
+
+## Campaign chronicle
+
+- [[05 Campaign Chronicle/Session 06 - Smoke, Song and Secrets|Session 6]]
+- [[05 Campaign Chronicle/Session 20 - Plague, Pursuit and Plan E|Session 20]]
+- [[05 Campaign Chronicle/Session 22 - Bodies, Blight, and Bushtache|Session 22]]
+- [[05 Campaign Chronicle/Session 23 - Ettins, Owlbears, and Betting Losses|Session 23]]
+- [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]]

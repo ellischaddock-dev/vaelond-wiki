@@ -16,7 +16,6 @@ source: 'Campaign notes.docx'
 additional_source: Session 25
 updated: 2026-10-13
 ---
-
 # Loyal Crows
 
 The **Loyal Crows** were Anthea Bloodclot’s hidden agents and confidants. Their identities and structure were deliberately concealed, leaving the party to distinguish genuine loyalists from those merely invoking the name.

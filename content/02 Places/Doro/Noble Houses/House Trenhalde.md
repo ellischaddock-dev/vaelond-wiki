@@ -14,7 +14,7 @@ tags:
 region: Doro
 rank: Great House
 ancestry: Human
-updated: 2026-07-05
+updated: 2026-10-20
 ---
 
 # House Trenhalde
@@ -37,6 +37,10 @@ Its prestige rises and falls with ore exports. Trenhalde frequently backs war le
 ## Campaign significance
 
 Trenhalde's ability to supply campaigns in the Maw makes it one of the houses most capable of shaping military decisions without personally commanding the battlefield.
+
+## Reported position â€” Session 26
+
+Trenhalde was described as **broadly favourable** to possible peace discussions with Perfid. This is an **unverified report**, not a formal endorsement or evidence of concluded talks. See [[01 Welcome to Vaelond/The Powers That Be#Current rumours — Session 26|The Powers That Be]] and [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
 
 ## Related pages
 

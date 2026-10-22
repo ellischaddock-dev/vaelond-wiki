@@ -16,7 +16,7 @@ region: Rakara
 clan: Temir
 leader: Avaz
 source_date: 2025-07-06
-updated: 2026-07-01
+updated: 2026-10-20
 ---
 
 # Clan Temir
@@ -74,6 +74,10 @@ Temir remains powerful but increasingly restless. While the clan respects Anthea
 
 > [!question] Unconfirmed
 > Several merchant convoys have disappeared amid the Temir–Voruun dispute. Neither clan publicly accepts responsibility.
+
+## Upcoming tournament — Session 26
+
+Ballar heard that the [[04 Organisations/Crimson Shield|Crimson Shield]] were travelling towards Temir for a forthcoming **Wavecutter tournament**. The event was reported as forthcoming, but no date, venue or confirmation of the company’s participation has been recorded. See [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
 
 ## Related pages
 

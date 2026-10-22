@@ -13,7 +13,7 @@ tags:
   - campaign
 current_holder: Ieuan
 source: Sessions 6, 21 and 23
-updated: 2026-09-10
+updated: 2026-10-20
 ---
 
 # Star Seed
@@ -29,7 +29,7 @@ Their discussion connected Ieuan's Circle of Stars path with Orun, ancient truth
 
 ## Development
 
-In Session 21, Ieuan studied the Star Seed during the rest before the attack on Ulsar's camp. His concentration was repeatedly interrupted by [[06 Library/Campaign Reference/Plague|Plague]].
+In Session 21, Ieuan studied the Star Seed during the rest before the attack on Ulsar's camp. His concentration was repeatedly interrupted by [[Plague|Plague]].
 
 During Session 23 he tried again. Approaching the seed through **nature** failed when Plague's voice overwhelmed his thoughts with the command *Spread*.
 
@@ -57,6 +57,10 @@ Its complete abilities and final form remain unknown.
 > - How directly is it tied to Orun, the Sea-Mother, the Moon-Father or the Circle of Stars?
 > - Why is Plague able to obstruct Ieuan's attempts to approach it through nature?
 
+## Session 26 — meditation with Zantos
+
+In Somnolent, Ieuan prayed with [[03 People/Notable Figures/Father Zantos|Father Zantos]] and Mother Joygrove, then spoke to Zantos about the tension between his growing connection to the stars and his earlier closeness to the earth. With Zantos’s help he meditated on the remaining **natural** aspect of the Star Seed but **did not complete the breakthrough**. Zantos counselled patience and reconnection with his roots over time. See [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
+
 ## Campaign references
 
 - [[05 Campaign Chronicle/Session 06 - Smoke, Song and Secrets|Session 6]]
@@ -67,6 +71,6 @@ Its complete abilities and final form remain unknown.
 
 - [[03 People/Player Characters/Ieuan|Ieuan]]
 - [[03 People/Notable Figures/Father Zantos|Father Zantos]]
-- [[06 Library/Campaign Reference/Plague|Plague]]
+- [[Plague|Plague]]
 - [[01 Welcome to Vaelond/Religion/Rakaran Faiths#Orun, the Verdant Kin|Orun the Verdant Kin]]
 - [[01 Welcome to Vaelond/Religion/Rakaran Faiths#Sea-Mother and Moon-Father|Sea-Mother and Moon-Father]]

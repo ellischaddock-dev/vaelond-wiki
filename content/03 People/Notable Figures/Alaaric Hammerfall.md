@@ -17,31 +17,26 @@ role: 'Somnolent treasurer and record keeper'
 current_status: 'alive'
 last_known_location: 'Somnolent'
 source: 'Campaign notes.docx'
-updated: 2026-10-03
+updated: 2026-10-22
 ---
 
 # Alaaric Hammerfall
 
 ![[Alaaric Hammerfall.png|260]]
 
-> [!summary] At a glance
-> Somnolent’s treasurer, tax collector and keeper of official records, as well as the organiser of a private dice game.
+Alaaric Hammerfall oversees taxes, treasury matters and civic records in Somnolent. His office at the Silent Court, containing a heavily warded safe, makes him a custodian of documents and valuables that have repeatedly become important to the Defracturers' investigations.
 
-## Known details
+## Civic life and acquaintance with the party
 
-- Lost to Ballar at dice during Emberwake, beginning a friendly rivalry.
-- Provided Terrick’s goblin report and the report on Anthea Bloodclot’s death.
-- Keeps an office and a heavily warded safe in the Silent Court. The safe marked n’Dong and Erelmor when they tried to break in.
-- Organised a private dice game at the One Ball Inn before the inn was destroyed by fire.
-- Provided a clerk for the Defracturers’ bastion.
+Alaaric first crossed paths with Ballar at a game of dice during Emberwake, beginning an amicable rivalry. He later supplied official records concerning Terrick's goblin sighting and the death of Anthea Bloodclot, and organised a private game at the One Ball Inn that introduced the party to several prominent figures. n'Dong and Erelmor discovered the seriousness of his security when an attempted intrusion at the Silent Court left them marked by the safe's defences.
 
-## Session 24
+## Responsibilities during the party's absence
 
-During the Defracturers' absence, Alaaric supplied [[03 People/Bastion Staff/Gudren Flint|Gudren Flint]] to help investigate Eden Carrion and Summer Quaresh. When [[03 People/Mentioned Figures/Job Ashmere|Job Ashmere]] and [[03 People/Notable Figures/Gayle Bramble|Gayle Bramble]] prepared to leave town to pursue the resulting lead, he also asked the Bastion staff to assist with routine civil errands.
+With the Defracturers travelling and Somnolent's available authorities stretched thin, Alaaric drew on the Bastion for administrative and investigative support. He sent his long-serving clerk [[03 People/Bastion Staff/Gudren Flint|Gudren Flint]] to assist the search for Eden Carrion and Summer Quaresh and requested help with errands while Gayle Bramble and Job Ashmere pursued a lead.
 
-Later, Alaaric received a barrel recovered by the Crimson Shield from fleeing smugglers. The barrel was connected to [[03 People/Notable Figures/Antoinne Cassan|Antoinne Cassan]], and Alaaric returned with [[03 People/Mentioned Figures/Maxine Hintermeier|Maxine Hintermeier]] when Antoinne subsequently failed to appear. After the Bastion staff searched the One Ball and recovered papers from Antoinne's ransacked office, Alaaric passed the evidence to Maxine for further investigation.
+After the Crimson Shield recovered a barrel of suspicious goods, Alaaric traced its connection to [[03 People/Notable Figures/Antoinne Cassan|Antoinne Cassan]]. He coordinated with Maxine Hintermeier when the innkeeper disappeared and passed along papers found in the ransacked office of the One Ball. The case remains unresolved following the inn's destruction by fire.
 
-## Campaign appearances
+## Chronicle references
 
 - [[Session 01 - Die Dog, Die]]
 - [[Session 02 - The Ashes of Emberwake]]
@@ -52,7 +47,7 @@ Later, Alaaric received a barrel recovered by the Crimson Shield from fleeing sm
 - [[Session 15 - Stewards, Saddles and Shambling Roots]]
 - [[05 Campaign Chronicle/Session 24 - Pies, Pike and a one ball blaze|Session 24]]
 
-## Related
+## Related pages
 
 - [[Somnolent]]
 - [[02 Places/Rakara/Somnolent/The Defracturers' Bastion|The Defracturers’ Bastion]]

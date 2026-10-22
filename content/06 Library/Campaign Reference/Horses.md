@@ -8,7 +8,7 @@ tags:
   - reference
   - horses
 source: 'Campaign notes and session chronicle'
-updated: 2026-09-10
+updated: 2026-10-20
 ---
 
 # Horses
@@ -67,11 +67,11 @@ Beautiful, vain, difficult and more suited to a parade ground than a battlefield
 
 ## Current situation
 
-The horses are back with the Defracturers and travelling toward Somnolent.
+**The five mounts returned to Somnolent with the Defracturers in Session 25 and were stabled before the party went back to the Bastion.** The chronicle does not name the stable or record a later relocation through Session 26. See [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]].
 
 After the destruction of Ulsar's camp, Ballar spent time soothing [[03 People/Player Characters/Ballar Novis|Ballar's]] difficult mare Kingcup. Session 22 marked one of the first moments in which she appeared close to not regarding him with contempt; during the return journey in Session 23, grooming earned what the chronicle describes as perhaps the most genuine affection she had yet shown him.
 
-By the end of Session 23, the party and its mounts were only a few hours from Somnolent.
+By the end of Session 23, the party and its mounts were only a few hours from Somnolent; the actual return and stabling took place in Session 25.
 
 ## Related
 

@@ -13,36 +13,31 @@ tags:
 role: 'Cook, coffee mage and pastry experimenter'
 current_status: 'alive'
 source: 'Campaign notes and Sessions 15 and 24'
-updated: 2026-09-10
+updated: 2026-10-22
 ---
 
 # Joe-Seff Gorbels
 
 ![[Gorbels Valebrew.png|260]]
 
-> [!summary] At a glance
-> An erratic self-described coffee mage with questionable references and a deep vendetta against Brewed Awakening.
+Joe-Seff Gorbels is the Bastion's self-described coffee mage, cook and aspiring pastry experimenter. His devotion to unusual culinary magic is matched by a fierce, unexplained grudge against [[02 Places/Rakara/Somnolent/Brewed Awakening|Brewed Awakening]] and by anxiety about how others see him.
 
-## Appointment
+## A difficult inner life
 
-The candidate was interviewed after the Defracturers acquired their Somnolent bastion. Mariasz was appointed Head Steward; the remaining candidates were offered lesser household positions.
+Joe-Seff admitted to [[03 People/Bastion Staff/Mariasz Salhum|Mariasz Salhum]] that a voice in his head sometimes urges him towards unwise acts. On Erelmor's advice he had omitted this detail during his employment interview. The voice's source and nature are unknown; the record does not establish an external entity or clinical explanation.
 
-## Session 24
+## Work and mistakes
 
-During the Defracturers' absence, Joe-Seff revealed to Mariasz that he sometimes hears a **voice in his head** encouraging him to do things and that, on Erelmor's advice, he had omitted this detail during his interview.
+During the Defracturers' absence Joe-Seff became consumed by an experiment involving pastries served to the Crimson Shield. Ghorgadush unknowingly undermined the test by replacing the food. When Joe-Seff discovered the substitution, he lashed out and **Hexed** Derrick Lowgins. He regretted the act almost immediately and apologised, but that remorse did not erase its effect. Ghorgadush subsequently warded the kitchen with an Alarm spell. The episode exposed both Joe-Seff's volatility and his capacity to recognise wrongdoing.
 
-He became increasingly absorbed in pastry experiments and attempted to observe the Crimson Shield after instructing Derrick to serve them a prepared batch. Ghorgadush had secretly substituted different pastries, so none of Joe-Seff's observations actually related to his experiment.
+Joe-Seff later helped search the One Ball Inn after Antoinne Cassan vanished, and his relationship with Mariasz grew into an acknowledged friendship. He was at the Bastion's door when Gayle Bramble collapsed badly injured; a delivery errand on behalf of Ballar had not yet begun.
 
-When he discovered the substitution, frustration overwhelmed him and he placed a **Hex** on Derrick. He regretted it almost immediately, apologised and explained that the voice sometimes pushed him towards stupid decisions. The curse could not simply be dismissed and lasted for its normal duration. Ghorgadush responded by placing an Alarm over the kitchen.
-
-Joe-Seff later joined Mariasz and Ghorgadush in searching the shuttered One Ball Inn after Antoinne Cassan vanished. He injured himself during the search, found himself nursing the injury downstairs, and participated in the discovery of the ransacked office, blood and damaged records. During the same night, he and Mariasz acknowledged that their working relationship had become a genuine friendship.
-
-## Campaign appearances
+## Chronicle references
 
 - [[05 Campaign Chronicle/Session 15 - Stewards, Saddles and Shambling Roots|Session 15 - Stewards, Saddles and Shambling Roots]]
 - [[05 Campaign Chronicle/Session 24 - Pies, Pike and a one ball blaze|Session 24]]
 
-## Related
+## Related pages
 
 - [[02 Places/Rakara/Somnolent/The Defracturers' Bastion|The Defracturers' Bastion]]
 - [[04 Organisations/The Defracturers|The Defracturers]]

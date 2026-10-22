@@ -9,7 +9,7 @@ tags:
   - rana-viam
   - campaign
 current_holder: The Defracturers
-updated: 2026-10-13
+updated: 2026-10-20
 ---
 
 # Bands of Distortion
@@ -39,6 +39,12 @@ The full Ardynian vision also depicts bracers worn by Elgira; the vision alone d
 - [[05 Campaign Chronicle/Session 18 - Frogger, Flames and the Golem's Toll|Session 18 - Frogger, Flames and the Golem's Toll]] - the first failed attempt to defeat the guardian.
 - [[05 Campaign Chronicle/Session 19 - Bands, Broken Stone and the Glass Fang|Session 19 - Bands, Broken Stone and the Glass Fang]] - the golem is destroyed and the bands are secured.
 - [[05 Campaign Chronicle/Session 21 - Contracts, Command, and a Burning Camp|Session 21 - Contracts, Command, and a Burning Camp]] - Ulsar reveals that the heart stone is a strategic vulnerability as well as a safeguard.
+
+## Session 26 — custody and anchor hypothesis
+
+After discussing the relic with Elmwood, the Defracturers elected to **retain both Bands and heart stone** rather than place them in Aalaric’s secure storage or leave them with Bastion staff. No bearer or attunement was selected.
+
+The Bands’ connection to their heart stone prompted a **hypothesis** that other major Sundering relics may be tied to similar keystones or anchors. This does **not** establish that every relic has one, nor does it prove that Elgira’s remembered bracers were the Bands. See [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
 
 ## Related
 

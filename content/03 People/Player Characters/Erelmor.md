@@ -12,106 +12,94 @@ ancestry: Drow
 class: Rogue
 mount: Vesper
 current_status: active
-source: Sessions 1-23
-additional_source: Session 25
-updated: 2026-10-13
+source: Sessions 1-26 and Open Threads
+updated: 2026-10-22
 ---
 
 # Erelmor
 
 > [!summary] At a glance
-> A drow rogue and survivor of Ashenhom whose search for those responsible for the deaths of his wife and children is complicated by grief, greed, guilt and a tendency for violent solutions to create problems for everyone nearby.
+> A drow rogue who survived the razing of [[02 Places/Doro/Ashenhom|Ashenhom]] and lost his wife and children there. Erelmor's pursuit of the people responsible has become entangled with the Rootbound, Doroan politics and a grief that follows him even into dreams.
 
-## Established background
+## The life Ashenhom took
 
-- Erelmor survived the destruction of [[02 Places/Doro/Ashenhom|Ashenhom]].
-- His wife and children were killed there.
-- [[02 Places/Doro/Ashenhom|Ashenhom]] was razed by Doroan forces as an example after being accused of harbouring Perfid spies.
-- The fallout from Ashenhom led to [[03 People/Notable Figures/Ervain Megbanas|Ervain Megbanas]], the Old Grey Pike, being removed from active duty in disgrace.
-- He has past knowledge of, or contacts among, the [[04 Organisations/Rootbound|Rootbound]].
-- His central personal objective is to identify and punish those responsible for his family's deaths.
-- His grief is not distant or settled. Visions, songs and memories have repeatedly dragged Ashenhom back into the present.
+Much of Erelmor's life before the Defracturers remains unrecorded. What is known is that he had a home and family in **Ashenhom**, a settlement destroyed by Doroan forces after an accusation that its inhabitants were harbouring Perfidian spies. The razing was intended as a warning to others and became one of the defining scandals of the Maw. Erelmor survived; his wife and children did not.
 
-## Personality and patterns
+The names and details of those he lost are not preserved in the current account, but their absence has shaped the life he leads now. Erelmor has devoted himself to discovering who caused the destruction and to punishing those responsible. Whether the original accusation against Ashenhom was true, who benefited from it and who ordered the devastation remain uncertain.
 
-Erelmor is quiet, dangerous and often difficult to read. He is capable of patience, stealth and careful observation, but that restraint can collapse quickly when Ashenhom, the Rootbound or the Old Grey Pike are involved.
+One name has increasingly dominated his search: [[03 People/Notable Figures/Ervain Megbanas|Ervain Megbanas]], a disgraced former Doroan commander known as **the Old Grey Pike**. Ervain lost his active command in the fallout from Ashenhom. That disgrace makes him an important figure in the investigation, but it does **not** establish that he ordered the attack or personally killed Erelmor's family.
 
-He is also notably motivated by money, treasure and useful objects. His willingness to pursue valuables has drawn him into risky or morally questionable choices, including the failed attempt to rob Alaaric Hammerfall's safe in the Silent Court and his repeated willingness to accept or experiment with [[06 Library/Relics and Artefacts/Eula's Red Coins|Eula's marked coins]].
+## The Pike and the truth behind the Maw
 
-In battle, Erelmor is effective but not always controlled. His actions can end threats quickly, but his positioning, timing and improvisation have sometimes created problems for his allies. Ballar, in particular, has often found himself suffering the consequences of the chaos around Erelmor's interventions.
+Erelmor's pursuit of the Pike brought his private grief into the political affairs of Somnolent. Songs about the soldier stirred memories of smoke and slaughter, prompting Erelmor to question those who might know more. His investigations eventually established Ervain's identity and connected him to the wider story of Doro's war with Perfid.
 
-## Campaign role
+A separate trail suggested by a [[02 Places/Doro/Noble Houses/House Bromere|House Bromere]] favour coin led back to Ervain, who had once owned it. The coin later passed to [[03 People/Notable Figures/Eden Carrion|Eden Carrion]] after Ervain lost it in a dice game, before becoming part of the transaction by which Buggie's group was hired. This explained the coin's journey without demonstrating that Ervain was behind the immediate plot. For Erelmor, the difference between a connection and proof has remained painfully important.
 
-Erelmor is the party's scout, infiltrator and most direct practitioner of covert violence. His experience with the Rootbound and the history of Ashenhom frequently place him at the centre of investigations involving [[02 Places/Doro/Doro|Doro]], [[02 Places/Doro/Noble Houses/House Nirrell|House Nirrell]] and the Old Grey Pike.
+The Pike has since left Somnolent. [[03 People/Notable Figures/Alaaric Hammerfall|Alaaric Hammerfall]] informed the Bastion staff of his departure during the party's absence, but no destination was recorded. **The surviving campaign record does not establish that Erelmor himself has received that information.** He still has no reliable location for the man he wants to confront.
 
-During the exploration of [[02 Places/Rakara/Tace Nox|Tace Nox]], Erelmor's eye for treasure was already clear. He attempted to reach the jeweled eyes of a statue and later reacted badly when n'Dong pocketed jade crystals from the ruin. His practical skill also came through when he solved the light-arrow puzzle after the others struggled with the mechanism.
+## Shadows of the Rootbound
 
-After the massacre at [[02 Places/Rakara/Thistlewound|Thistlewound]], Buggie was found dead among his slaughtered people. Buggie had torn an insignia from one of the attackers, which Erelmor recognised as belonging to the [[04 Organisations/Rootbound|Rootbound]]. This gave the party one of its clearest early signs that the movement was involved in the wider conspiracy surrounding Anthea Bloodclot's death.
+Erelmor also knows something of the [[04 Organisations/Rootbound|Rootbound]], the Orvaki movement whose independent cells and disputed methods have become part of the investigations surrounding Anthea Bloodclot's assassination. The precise nature of his earlier contacts or involvement has not been established, and familiarity with the movement is not proof that he shared the aims of any particular cell.
 
-Erelmor's sleep has repeatedly been disturbed by nightmares and by a song connected to **the Pike**. The song stirred memories of smoke, ash and the destruction of his home. In Somnolent, this led him to violently question a former soldier after hearing a connection between the song, the Maw and the One Ball Inn. The party later established that [[03 People/Notable Figures/Ervain Megbanas|Ervain Megbanas]] is the Old Grey Pike. [[02 Places/Doro/Ashenhom|Ashenhom]] was razed by Doroan forces after being accused of harbouring Perfid spies, and the fallout removed Ervain from active duty in disgrace. The truth behind Ashenhom's destruction remains unresolved.
+Those associations acquired new significance at [[02 Places/Rakara/Thistlewound|Thistlewound]]. After the Defracturers emerged from Tace Nox, they discovered that Buggie's encampment had been slaughtered. Erelmor recognised the insignia torn from one of the attackers as Rootbound. The discovery connected his knowledge of the movement to the violence unfolding around the party, without yet revealing who ordered that massacre or how the different Rootbound cells were related.
 
-The Pike thread has narrowed in some ways without being closed. Ervain once owned the [[02 Places/Doro/Noble Houses/House Bromere|House Bromere]] favour coin later used to pay Buggie, but lost it to Eden Carrion during a dice game. This weakened the idea that Ervain was directly responsible for the immediate Bromere-coin trail, while leaving his deeper connection to the Maw, Ashenhom and Erelmor's family unresolved.
+The more the company learns about the Church of Elgira's use of a Rootbound cell against Anthea, the more questions remain about the movement Erelmor once knew. Those questions are distinct from the unresolved truth of Ashenhom, even if they now sit uneasily beside his wider search for justice.
 
-In the basement of the [[02 Places/Rakara/Somnolent/Drowsy Coin|Drowsy Coin]], [[06 Library/Relics and Artefacts/Verei's Shattered Mask|Verei's Shattered Mask]] forced Erelmor into a vision of his dying wife, who begged him to explain why he had not saved her. When the visions fractured, an apparition of his wife remained and attacked the party. Whether this reflected memory, guilt, manipulation by the mask or something more supernatural is unknown.
+## Grief that will not remain in the past
 
-Erelmor later joined n'Dong in breaking into the Silent Court. The attempted heist was poorly controlled: they entered without a clear plan, found Alaaric Hammerfall's warded safe, failed to open it and were magically branded by its defences. The incident remains one of the clearest examples of Erelmor's appetite for valuables overriding caution.
+Erelmor's memories of Ashenhom are not confined to deliberate recollection. Nightmares repeatedly return him to the violence that destroyed his family. In one dream he saw the Old Grey Pike murder his younger sister; that image was part of a nightmare, **not an established account of an event that occurred**.
 
-Erelmor has also been repeatedly involved with [[03 People/Notable Figures/Eula|Eula]] and her corpse-money. He accepted marked coins in payment for bodies, attempted to pass one of those coins to a farmer, and later placed a marked coin on an already dead body as an experiment. The full consequences of carrying, spending or activating Eula's coins remain unresolved.
+An encounter with [[06 Library/Relics and Artefacts/Verei's Shattered Mask|Verei's Shattered Mask]] forced a more immediate confrontation with his grief. Erelmor saw an image of his dying wife asking why he had failed to save her. When the vision fractured, an apparition resembling her attacked the party. Whether the mask had revealed a memory, exploited guilt or created something stranger remains unknown.
 
-During Session 20, Erelmor used psychic communication to keep the divided pursuit groups in contact while the party chased Broken Fang scouts from Rana Viam. He also killed the restrained first scout before the party could interrogate him, reinforcing a long-running pattern: when Erelmor sees a threat, his first instinct is often to end it, even when answers might be more useful.
+The nightmares eventually became so distressing that Erelmor feared he might lash out at his companions while asleep. He confided in [[03 People/Player Characters/Ieuan|Ieuan]], cried with him and proposed being restrained and gagged during his trance for the others' safety. The admission revealed a vulnerability seldom visible beneath his guarded manner and gave his relationship with Ieuan a depth beyond shared expeditions.
 
-## Mount
+## A capable rogue with dangerous impulses
 
-[[06 Library/Campaign Reference/Horses#Vesper|Vesper]] is Erelmor's recorded mount. Vesper previously carried an unconscious Erelmor away from danger during the scorpion battle.
+Erelmor is observant, stealthy and willing to act where others hesitate. He has solved mechanisms in Ardynian ruins, supported the party's investigations and used his talents for infiltration and communication. His practicality is invaluable to the Defracturers, particularly when caution and careful movement are required.
 
-## Sessions 22-23
+It can also turn harsh. During the pursuit of Broken Fang scouts, he killed a restrained captive before the party had the opportunity to question him. He is similarly drawn to money, treasure and opportunities for personal gain. With [[03 People/Player Characters/n'Dong|n'Dong]], he attempted to rob Alaaric Hammerfall's protected safe; the venture failed and the defences magically branded them. His dealings with [[03 People/Notable Figures/Eula|Eula]] have included accepting marked coins in exchange for bodies and experimenting with their use, even though the coins' effects and Eula's intentions remain unclear.
 
-The False Gardener's black ooze destroyed the studded leather Erelmor had recently acquired, leaving him without it during the return journey.
+These decisions reveal a man whose survival instincts and appetite for immediate solutions can work against his search for answers. Whether wealth represents comfort, control or simply temptation for Erelmor has not been established. His mount, [[06 Library/Campaign Reference/Horses#Vesper|Vesper]], has sometimes been a more dependable safeguard; the horse once carried him unconscious away from a dangerous encounter.
 
-His recurring nightmares also intensified. In Session 23 he dreamed of his family home and saw the [[03 People/Notable Figures/Ervain Megbanas|Old Grey Pike]] murder his younger sister. He woke screaming, cried with Ieuan and admitted that the nightmares were constant. Fearing he might wake violently and endanger the group, he suggested that the others restrain and gag him while he tranced.
+## A widening sense of danger
 
-His conclusion about Ervain remained unchanged: the Old Grey Pike needed to die.
+The Defracturers' discovery of Ardynia's relics has begun to place Erelmor's personal vendetta in a much larger frame. After witnessing a memory of the Sundering and the catastrophic price of its magic, he openly questioned whether gathering such powerful objects was wise and whether destroying them might be safer.
 
-## Active personal threads
+That uncertainty deepened during a confrontation in Somnolent's Sixhalls market. Believing the company was retreating, Erelmor used *Darkness* to protect what he thought was their withdrawal, ran back to the Bastion and had its staff barricade the entrances against an attack that never arrived. The misunderstanding left him ashamed and less certain of his ability to face threats far beyond an ordinary enemy with a blade.
 
-- Identify the people and institutions responsible for [[02 Places/Doro/Ashenhom|Ashenhom]].
-- Determine why [[02 Places/Doro/Ashenhom|Ashenhom]] was accused of harbouring Perfid spies and what truth lay beneath that accusation.
-- Determine the Old Grey Pike's true role in the destruction of Erelmor's home and family.
-- Understand whether the vision of his wife reflected memory, guilt, manipulation by [[06 Library/Relics and Artefacts/Verei's Shattered Mask|Verei's Shattered Mask]] or something more supernatural.
-- Reconcile Erelmor's former Rootbound associations with the movement's involvement in Anthea's murder and the slaughter at Thistlewound.
-- Decide how far he is willing to go in pursuit of revenge.
-- Decide whether revenge, wealth or survival is now the stronger pull on his decisions.
-- Understand the consequences of carrying, spending or experimenting with [[06 Library/Relics and Artefacts/Eula's Red Coins|Eula's Red Coins]].
+His desire to find the Pike has not vanished. What has changed is the confidence with which he imagines that meeting: he continues to seek vengeance while becoming more aware of the dangers, mysteries and limits surrounding him.
 
-> [!warning] Gaps in the current record
-> - The names, personalities and histories of Erelmor's wife and children are not recorded in the supplied notes.
-> - His precise role and life in Ashenhom before its destruction remain unclear.
-> - The nature and duration of his past Rootbound involvement are only partially established.
-> - The source and meaning of the song and nightmares connected to the Pike remain unresolved.
-> - The truth of the vision caused by Verei's Shattered Mask has not been established.
-> - The extent of Erelmor's appetite for treasure, and whether it is simple greed or a survival response, remains open to interpretation.
-> - The exact pattern of battlefield accidents and collateral harm involving Ballar is not fully recorded in the session chronicle.
+## Current circumstances
 
-## Session 25 — a return and a troubling choice
+Erelmor remains with the Defracturers, carrying the loss of Ashenhom into a campaign increasingly concerned with ancient powers and modern conspiracies. His bond with Ieuan has allowed him to reveal some of his suffering, but his motives and decisions remain difficult for his companions to predict.
 
-After returning to Somnolent, Erelmor questioned townsfolk about the missing Old Grey Pike while the rest of the party fought horrors below the One Ball Inn. He reached the scene after the fight and considered the bodies for valuables.
+The unanswered question is not simply whether Erelmor will find Ervain Megbanas. It is whether discovering the truth—and perhaps exacting revenge—can offer him anything that the years since Ashenhom have denied him.
 
-Later he was shaken by the Sundering memory triggered through the [[06 Library/Ardynian Relics and Artefacts/Tace Nox scroll|Tace Nox scroll]], openly questioning whether continuing to collect dangerous Ardynian relics was wise, or whether they should be destroyed. The whereabouts of the Pike remain unknown. The party reached level 6 at the end of Session 25.
+## Personal matters still unresolved
 
-## Related
+- The reason Ashenhom was destroyed, the chain of command behind it and Ervain Megbanas's actual responsibility.
+- Ervain's whereabouts; the Bastion staff's knowledge of his departure has not been shown to reach Erelmor.
+- The meaning of Erelmor's nightmares and the vision caused by Verei's Shattered Mask.
+- His earlier relationship with the Rootbound and the possible consequences of his dealings with [[06 Library/Relics and Artefacts/Eula's Red Coins|Eula's Red Coins]].
+
+## Related pages
 
 - [[04 Organisations/The Defracturers|The Defracturers]]
-- [[04 Organisations/Rootbound|The Rootbound]]
-- [[03 People/Notable Figures/Ervain Megbanas|Ervain Megbanas]]
 - [[02 Places/Doro/Ashenhom|Ashenhom]]
-- [[02 Places/Doro/Doro|Doro]]
+- [[03 People/Notable Figures/Ervain Megbanas|Ervain Megbanas]]
+- [[04 Organisations/Rootbound|Rootbound]]
 - [[02 Places/Doro/Noble Houses/House Bromere|House Bromere]]
-- [[02 Places/Doro/Noble Houses/House Nirrell|House Nirrell]]
-- [[03 People/Player Characters/Ballar Novis|Ballar Novis]]
-- [[06 Library/Relics and Artefacts/Verei's Shattered Mask|Verei's Shattered Mask]]
-- [[06 Library/Relics and Artefacts/Eula's Red Coins|Eula's Red Coins]]
+- [[03 People/Player Characters/Ieuan|Ieuan]]
 - [[03 People/Notable Figures/Eula|Eula]]
-- [[02 Places/Rakara/Tace Nox|Tace Nox]]
-- [[02 Places/Rakara/Thistlewound|Thistlewound]]
-- [[06 Library/Campaign Reference/Open Threads|Open Threads]]
+- [[06 Library/Relics and Artefacts/Eula's Red Coins|Eula's Red Coins]]
+- [[06 Library/Relics and Artefacts/Verei's Shattered Mask|Verei's Shattered Mask]]
 - [[06 Library/Campaign Reference/Horses|Horses]]
+- [[06 Library/Campaign Reference/Open Threads|Open Threads]]
+
+## Campaign chronicle
+
+- [[05 Campaign Chronicle/Session 04 - Tace Nox|Session 4]]
+- [[05 Campaign Chronicle/Session 20 - Plague, Pursuit and Plan E|Session 20]]
+- [[05 Campaign Chronicle/Session 23 - Ettins, Owlbears, and Betting Losses|Session 23]]
+- [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]]
+- [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]]

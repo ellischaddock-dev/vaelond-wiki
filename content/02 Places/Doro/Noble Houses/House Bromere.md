@@ -14,7 +14,7 @@ tags:
 region: Doro
 rank: Great House
 ancestry: Human
-updated: 2026-07-05
+updated: 2026-10-20
 ---
 
 # House Bromere
@@ -37,6 +37,10 @@ Bromere leads more skirmishes across the Maw than any other house. Its prestige 
 ## Campaign significance
 
 A House Bromere favour coin became part of the trail connecting [[03 People/Notable Deceased/Buggie|Buggie]], the [[04 Organisations/Loyal Crows|Loyal Crows]] and [[03 People/Notable Deceased/Alistair Prusset|Alistair Prusset]]. [[03 People/Notable Figures/Ouin Brond|Ouin Brond]] identified the coin, and [[03 People/Notable Figures/Ervain Megbanas|Ervain Megbanas]] had once owned it before losing it to [[03 People/Notable Figures/Eden Carrion|Eden Carrion]] in a dice game.
+
+## Reported position Ã¢â‚¬â€ Session 26
+
+Bromere was described as **wary or opposed** to a rumoured peace initiative, and uneasy with the potential influence of [[03 People/Notable Figures/Xilpeiros Nirrell|Xilpeiros Nirrell]]. This **unverified report** does not establish a connection to unrelated Bromere-associated investigations. See [[01 Welcome to Vaelond/The Powers That Be#Current rumours â€” Session 26|The Powers That Be]] and [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
 
 ## Related pages
 

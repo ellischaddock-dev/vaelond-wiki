@@ -13,27 +13,24 @@ tags:
   - orvak
 current_status: alive
 source: Session 22
-updated: 2026-09-10
+updated: 2026-10-22
 ---
 
 # Oakrah Woodfrey
 
-> [!summary] At a glance
-> An ancient treant guarding the forest against the lingering corruption of [[03 People/Mentioned Figures/Maelor Vey|Maelor Vey, the False Gardener]].
+Oakrah Woodfrey is an ancient treant who guards a section of Orvak's forest against the lingering unnatural growth left by Maelor Vey, the False Gardener. Two awakened trees, **Keanu Leaves** and **Spruce Willis**, accompanied her when she encountered the Defracturers.
 
-## Encounter
+Oakrah accused Ieuan of perpetuating the False Gardener's work through his bargain with Plague. She explained that other forest guardians had lost their lives defeating Maelor and that her own duty to contain the corruption prevented her from abandoning her post to confront its source. She therefore charged the party with destroying the darkness beneath his ruined home.
 
-Oakrah confronted the Defracturers near the river after the destruction of Ulsar's camp. She was accompanied by two awakened trees, **Keanu Leaves** and **Spruce Willis**.
+After they defeated the oozing growth and destroyed its well, Oakrah believed the remaining taint could be cleansed. That hope does not establish that every creation of Maelor, especially Plague, is gone.
 
-She accused Ieuan of continuing the False Gardener's work by spreading [[06 Library/Campaign Reference/Plague|Plague]]. Oakrah explained that she and other forest guardians had stopped Maelor at enormous cost and that she now remained in place to hold his corruption's spread at bay.
+## Chronicle references
 
-Because abandoning her post risked allowing the corruption to spread unchecked if she failed, she demanded that the Defracturers destroy its source instead.
+- [[05 Campaign Chronicle/Session 22 - Bodies, Blight, and Bushtache|Session 22]]
 
-The party subsequently destroyed the black ooze and blasted the well beneath Maelor's ruined home. By the start of Session 23, Oakrah was satisfied that the remaining taint could now be cleared away.
-
-## Related
+## Related pages
 
 - [[03 People/Mentioned Figures/Maelor Vey|Maelor Vey]]
-- [[06 Library/Campaign Reference/Plague|Plague]]
+- [[Plague|Plague]]
 - [[03 People/Player Characters/Ieuan|Ieuan]]
 - [[05 Campaign Chronicle/Session 22 - Bodies, Blight, and Bushtache|Session 22]]

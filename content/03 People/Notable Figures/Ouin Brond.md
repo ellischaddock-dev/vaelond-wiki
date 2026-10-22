@@ -16,25 +16,18 @@ role: 'Doro ambassador to Somnolent'
 current_status: 'alive'
 last_known_location: 'Somnolent'
 source: 'Campaign notes.docx'
-updated: 2026-07-05
+updated: 2026-10-22
 ---
 
 # Ouin Brond
 
 ![[Ouin Brond.png|260]]
 
-> [!summary] At a glance
-> Doro's ambassador in Somnolent and Ballar's politically astute superior and adviser.
+Ouin Brond represents Doro in Somnolent, a posting that places him amid the rival powers seeking influence over the independent trade town. His diplomatic role has also brought him into contact with Ballar Novis, whose family belongs to Doro's political establishment.
 
-## Known details
+He warned Ballar to handle knowledge of Prusset’s involvement in Anthea’s murder carefully. Ouin also helped identify the House Bromere favour coin connected to Buggie's payment, a clue that drew the party into the high-stakes dice game at the One Ball Inn and the orbit of the Old Grey Pike. He has taken an interest in the Broken Fang and repeatedly attempted to reach Ballar through **Sending**, suggesting an ongoing concern with developments beyond the embassy. His precise orders, private loyalties and knowledge of Doro's more recent rumoured peace manoeuvring are not established by the present record.
 
-- Warned Ballar to handle knowledge of Prusset’s involvement in Anthea’s murder carefully.
-- Identified Buggie’s payment as a House Bromere favour coin.
-- Directed Ballar towards the One Ball Inn dice game and the Old Grey Pike.
-- Has been tracking the Broken Fang.
-- Repeatedly attempted to contact Ballar by Sending.
-
-## Campaign appearances
+## Chronicle references
 
 - [[Session 02 - The Ashes of Emberwake]]
 - [[Session 06 - Smoke, Song and Secrets]]
@@ -42,7 +35,7 @@ updated: 2026-07-05
 - [[Session 10 - Saints, Spies and Snake Eyes]]
 - [[Session 11 - Ashes, Brands and Windfalls]]
 
-## Related
+## Related pages
 
 - [[01 Welcome to Vaelond/The Powers That Be#Doro|The Powers That Be: Doro]]
 - [[02 Places/Doro/Doro|Doro]]

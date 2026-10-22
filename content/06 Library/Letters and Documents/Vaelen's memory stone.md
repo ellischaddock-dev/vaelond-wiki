@@ -1,5 +1,5 @@
 ---
-title: Vaelen's sending stone
+title: Vaelen's memory stone
 type: document
 status: published
 player_facing: true

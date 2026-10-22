@@ -52,7 +52,7 @@ It also established that:
 - a separate Khaali contact or destination received rare materials;
 - the Somnolent shipment was only one part of a wider operation.
 
-The party later learned from [[03 People/Notable Deceased/Ulsar Quinn|Ulsar Quinn]] that [[06 Library/Campaign Reference/Dragon's Dandruff|Dragon's Dandruff]] is a potent stimulant used by contestants in the fighting pits of [[02 Places/Rakara/Voruun/Dazuun|Dazuun]]. Three Khaali alchemists are producing it for [[03 People/Mentioned Figures/Rhul Slowdrift|Rhul Slowdrift's]] operation from a lab south of [[02 Places/Rakara/Somnolent/Somnolent|Somnolent]].
+The party later learned from [[03 People/Notable Deceased/Ulsar Quinn|Ulsar Quinn]] that [[06 Library/Campaign Reference/Dragon's Dandruff|Dragon's Dandruff]] is a potent stimulant used by contestants in the fighting pits of [[02 Places/Rakara/Voruun/Dazuun|Dazuun]]. Three Khaali alchemists are producing it for [[03 People/Notable Figures/Rhul Slowdrift|Rhul Slowdrift's]] operation from a lab south of [[02 Places/Rakara/Somnolent/Somnolent|Somnolent]].
 
 The purpose and legality of each listed substance have not all been confirmed.
 
@@ -72,7 +72,7 @@ The purpose and legality of each listed substance have not all been confirmed.
 
 ## Session 24 confirmation
 
-The One Ball connection did not remain merely historical. During the Defracturers' absence, Bastion staff overheard men pressuring [[03 People/Notable Figures/Antoinne Cassan|Antoinne Cassan]] about the inn's use as an easy place to **fence** goods. The men explicitly referred to [[03 People/Mentioned Figures/Rhul Slowdrift|Rhul Slowdrift]] and the need for discretion.
+The One Ball connection did not remain merely historical. During the Defracturers' absence, Bastion staff overheard men pressuring [[03 People/Notable Figures/Antoinne Cassan|Antoinne Cassan]] about the inn's use as an easy place to **fence** goods. The men explicitly referred to [[03 People/Notable Figures/Rhul Slowdrift|Rhul Slowdrift]] and the need for discretion.
 
 A separate barrel abandoned by fleeing smugglers contained expensive goods with merchant markings stripped or obscured and was later connected to Antoinne. Shortly afterwards Antoinne disappeared and the One Ball Inn burned down.
 

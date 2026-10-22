@@ -15,31 +15,23 @@ role: 'Barista at [[02 Places/Rakara/Somnolent/Brewed Awakening|Brewed Awakening
 current_status: 'alive'
 last_known_location: 'Somnolent'
 source: 'Campaign notes.docx'
-updated: 2026-10-03
+updated: 2026-10-22
 ---
 
 # Saffron Araffas
 
 ![[Saffron Araffas.png|260]]
 
-> [!summary] At a glance
-> The uncompromising barista of Brewed Awakening, known for refusing off-menu cortados and branding loyalty marks into customers.
+Saffron Araffas runs [[02 Places/Rakara/Somnolent/Brewed Awakening|Brewed Awakening]], a fashionable coffee cart in Somnolent known for its uncompromising menu and enchanted loyalty sigils. Her brisk manner made a lasting impression on Ballar Novis, who argued with her about ordering a cortado rather than accepting what the menu offered. He nevertheless ended up bearing the cart's loyalty marks.
 
-## Known details
+Saffron has also demonstrated a practical business sense. When Bastion steward [[03 People/Bastion Staff/Ghorgadush|Ghorgadush]] proposed selling his Goodberry pies through the cart, she negotiated a favourable profit-sharing arrangement and began offering slices. The pies quickly became regular sell-outs. Her relationship with rival coffee enthusiast Joe-Seff Gorbels remains coloured by his unexplained personal vendetta against Brewed Awakening; its origins have not been established.
 
-- Refused to make a cortado and required the group to order from the menu.
-- Administered Brewed Awakening loyalty sigils to Ballar.
-
-## Session 24
-
-During the Defracturers' absence, [[03 People/Bastion Staff/Ghorgadush|Ghorgadush]] persuaded Saffron to trial slices of his Goodberry pie at [[02 Places/Rakara/Somnolent/Brewed Awakening|Brewed Awakening]]. They negotiated a favourable profit split, and within days the pies were regularly selling out.
-
-## Campaign appearances
+## Chronicle references
 
 - [[Session 07 - Coffee and Contraband]]
 - [[05 Campaign Chronicle/Session 24 - Pies, Pike and a one ball blaze|Session 24]]
 
-## Related
+## Related pages
 
 - [[Somnolent]]
 - [[Joe-Seff Gorbels]]

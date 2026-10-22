@@ -12,21 +12,20 @@ tags:
 region: Temir
 source: Session 25
 current_status: Unknown
-updated: '2026-10-13'
+updated: 2026-10-22
 ---
 
 # Arun Yev
 
-> [!summary] At a glance
-> A Temiri scholar of Rakaran history and clan unification, identified as a possible link to Summer Quaresh.
+Arun Yev is a Temiri scholar of Rakaran history and clan unification whose name surfaced in Bastion research into the disappearance of Summer Quaresh. Records indicate that he met Summer several times, vanished for a period shortly after Anthea Bloodclot's murder, and subsequently advanced rapidly through the [[02 Places/Rakara/Clans/Clan Temir|Wavecutters]].
 
-## Session 25 lead
+Rumours suggest he might one day lead Clan Temir, but neither that prospect nor any role in the Loyal Crows has been confirmed. His conversations with Summer, the reasons for his temporary disappearance and his present whereabouts remain open questions.
 
-Records uncovered by Gudren Flint and Caelen Briar indicate that Arun met [[03 People/Notable Figures/Summer Quaresh|Summer Quaresh]] on several occasions. He disappeared for a period shortly after Anthea Bloodclot's murder and subsequently rose quickly through the **Wavecutters**.
+## Chronicle references
 
-There are rumours that he could become the next leader of [[02 Places/Rakara/Clans/Clan Temir|Clan Temir]], but this is not a confirmed prospect. **His connection to the Loyal Crows remains unproven.**
+- [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]]
 
-## Related
+## Related pages
 
 - [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]]
 - [[04 Organisations/Loyal Crows|Loyal Crows]]

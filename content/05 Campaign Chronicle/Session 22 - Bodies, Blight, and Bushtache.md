@@ -42,7 +42,7 @@ With barely a flicker of effort, she unleashed a **Tidal Wave** that tore throug
 
 That was the moment something in Ieuan finally snapped.
 
-Whether it was the exhaustion of the previous battle, the lingering horror of everything they had just done, or the influence of [[06 Library/Campaign Reference/Plague|Plague]] whispering somewhere in the back of his mind, he demanded answers. He wanted to know what Eula was doing, what larger plan she was serving, and where exactly the Defracturers fit into it.
+Whether it was the exhaustion of the previous battle, the lingering horror of everything they had just done, or the influence of [[Plague|Plague]] whispering somewhere in the back of his mind, he demanded answers. He wanted to know what Eula was doing, what larger plan she was serving, and where exactly the Defracturers fit into it.
 
 Eula declined to explain.
 
@@ -184,6 +184,6 @@ The paladin approached a small cabbage and opened his first proper dialogue with
 
 The cabbage introduced himself as:
 
-**[[06 Library/Campaign Reference/Bushtache|Bushtache]].**
+**[[Bushtache|Bushtache]].**
 
 And after a day involving corpse merchants, dire wolves, ancient forest guardians, sentient plague, multiplying tar monsters, and the looming return of Ardynia, this somehow felt like the correct place to stop.

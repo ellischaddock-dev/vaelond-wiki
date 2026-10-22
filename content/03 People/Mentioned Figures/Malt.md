@@ -11,29 +11,22 @@ tags:
 current_status: alive
 last_known_location: travelling independently with Bushtache
 source: Sessions 20-23
-updated: 2026-09-10
+updated: 2026-10-22
 ---
 
 # Malt
 
-> [!summary] At a glance
-> A Broken Fang scout captured near Rana Viam and later released by Ballar with the improbable task of awakening [[06 Library/Campaign Reference/Bushtache|Bushtache]] and bringing the cabbage to Somnolent.
+Malt was a Broken Fang scout captured by the Defracturers during their pursuit after Rana Viam. He remained their prisoner through the destruction of Ulsar Quinn's camp. Malt described himself as an indentured servant rather than someone free to abandon his obligations.
 
-## Captivity
+Ballar eventually offered him an unlikely form of redemption: obtain a **Pot of Awakening**, place the cabbage [[03 People/Notable Figures/Bushtache|Bushtache]] inside it and return with the awakened plant to Somnolent. When Malt admitted having no money, Ballar suggested stealing the pot from the wealthy. Ballar preserved Bushtache with Gentle Repose and released Malt to attempt the task. Neither Malt's return nor the cabbage's awakening has been recorded.
 
-Malt was captured during the Broken Fang pursuit after Rana Viam and remained bound through the destruction of Ulsar Quinn's camp.
+## Chronicle references
 
-## Release
+- [[05 Campaign Chronicle/Session 23 - Ettins, Owlbears, and Betting Losses|Session 23]]
 
-In Session 23, Ballar decided not to drag Malt back to Somnolent as a prisoner. Instead he offered him a form of redemption: find a **Pot of Awakening**, plant Bushtache in it and deliver the awakened cabbage safely to Somnolent.
+## Related pages
 
-Malt admitted he had no money and was an indentured servant. Ballar suggested stealing the Pot of Awakening from the rich. Ballar then cast **Gentle Repose** on Bushtache, preserving the cabbage for ten days, released Malt and sent him away with it.
-
-Malt's success or failure is currently unknown.
-
-## Related
-
-- [[06 Library/Campaign Reference/Bushtache|Bushtache]]
+- [[Bushtache|Bushtache]]
 - [[03 People/Player Characters/Ballar Novis|Ballar Novis]]
 - [[04 Organisations/Broken Fang|Broken Fang]]
 - [[05 Campaign Chronicle/Session 23 - Ettins, Owlbears, and Betting Losses|Session 23]]

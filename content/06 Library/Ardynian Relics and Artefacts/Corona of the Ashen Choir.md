@@ -12,7 +12,7 @@ tags:
   - ardynia
   - campaign
 current_location: Unknown
-updated: 2026-10-13
+updated: 2026-10-20
 ---
 # Corona of the Ashen Choir
 
@@ -23,6 +23,10 @@ In the shared memory activated in Session 25, the Defracturers saw five golden *
 Elgira and her four generals wore the crowns to channel the life and time offered by the rebel army during the Sundering. What began as a planned, limited sacrifice ended in catastrophic loss of life when the ritual's power was channelled into the Heart of Vaelond.
 
 The party has encountered **one identified crown**, carried out of Somnolent by the escaping Perfidian fanatic. The present locations and operational powers of all five crowns remain unknown. The vision establishes a historical total of five but does not establish which other crowns still exist or who holds them.
+
+## Clarified artefact count — Session 26
+
+The canonical inventory for the Sundering is **ten objects: five Coronas of the Ashen Choir (called Crowns of Infinity in the memory) and five separate relics**. These are two groups, not ten Coronas or five items in total. The whereabouts of the other four Coronas remain unknown. See [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
 
 ## Campaign record
 

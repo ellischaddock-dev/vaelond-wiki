@@ -11,7 +11,7 @@ tags:
 affiliation: Minir
 leader: Prodosius
 source: Campaign notes and Sessions 1-25
-updated: 2026-10-13
+updated: 2026-10-20
 ---
 
 # Broken Fang
@@ -30,7 +30,7 @@ That authority passes down through his most trusted advisors and commanders, kno
 
 [[03 People/Notable Deceased/Ulsar Quinn|Ulsar Quinn]], known as **the Glass Fang**, was one of these Fangs and once commanded the unit in which n'Dong was forced to serve. He was killed when the Defracturers destroyed his camp near Rana Viam.
 
-[[03 People/Mentioned Figures/Rhul Slowdrift|Rhul Slowdrift]] has also been identified as a high-ranking Broken Fang member. His main known Rakaran operation is now the fighting pits of [[02 Places/Rakara/Voruun/Dazuun|Dazuun]], the capital of Voruun.
+[[03 People/Notable Figures/Rhul Slowdrift|Rhul Slowdrift]] has also been identified as a high-ranking Broken Fang member. His main known Rakaran operation is now the fighting pits of [[02 Places/Rakara/Voruun/Dazuun|Dazuun]], the capital of Voruun.
 
 ## Known activity
 
@@ -58,8 +58,8 @@ According to Ulsar, killing Rhul or destroying this operation would likely draw 
 ## Developments in Sessions 22-24
 
 - n'Dong recovered **two vials of [[06 Library/Campaign Reference/Dragon's Dandruff|Dragon's Dandruff]]** from [[03 People/Notable Deceased/Talan Rook|Talan Rook]]'s tent after Ulsar's camp was destroyed.
-- Malt no longer remains a prisoner. Ballar released him in Session 23 with the task of finding a Pot of Awakening for [[06 Library/Campaign Reference/Bushtache|Bushtache]].
-- Session 24 confirmed that the [[02 Places/Rakara/Somnolent/One Ball Inn|One Ball Inn]] remained an active **fencing point** for the organisation. Two men pressuring [[03 People/Notable Figures/Antoinne Cassan|Antoinne Cassan]] explicitly invoked [[03 People/Mentioned Figures/Rhul Slowdrift|Rhul Slowdrift]] and his concern for discretion.
+- Malt no longer remains a prisoner. Ballar released him in Session 23 with the task of finding a Pot of Awakening for [[Bushtache|Bushtache]].
+- Session 24 confirmed that the [[02 Places/Rakara/Somnolent/One Ball Inn|One Ball Inn]] remained an active **fencing point** for the organisation. Two men pressuring [[03 People/Notable Figures/Antoinne Cassan|Antoinne Cassan]] explicitly invoked [[03 People/Notable Figures/Rhul Slowdrift|Rhul Slowdrift]] and his concern for discretion.
 - A barrel abandoned by smugglers beside the river was later connected to Antoinne. It contained expensive goods with merchant markings stripped or obscured.
 - Antoinne subsequently disappeared. His office was found ransacked, with blood, coded transactions and missing ledger pages. The One Ball Inn burned down the following morning and no body was recovered.
 - Enrak also found **chalky footprints leading north-east** from the destroyed camp. The supplied record does not identify who or what made them or record a later follow-up.
@@ -73,18 +73,24 @@ These developments confirm that Rhul's network reached directly into Somnolent r
 > - Are the Khaali alchemists willing collaborators, coerced specialists or something else?
 > - Would destroying Rhul's operation truly bring Prodosius into the open?
 
-## Session 25 — the One Ball cellar
+## Session 25 â€” the One Ball cellar
 
 After the One Ball Inn burned, the Defracturers discovered gibbering mouthers and slaad tadpoles in its cellar. They found broken vials labelled "slaadpole" and a scorched map pointing toward the rear barn of an unnamed farm outside Somnolent.
 
 The inn's previous role as a Broken Fang fencing point makes this a possible lead into the group's wider smuggling activity. **No evidence yet proves that the Broken Fang bred, stored or transported the creatures, or caused the fire.** See [[02 Places/Rakara/Somnolent/One Ball Inn|the One Ball Inn]] and [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]].
+
+## Session 26 â€” reported pit corruption
+
+Following a market encounter, [[03 People/Mentioned Figures/Yama and Spopovich|Yama and Spopovich]] told [[03 People/Player Characters/n'Dong|n'Dong]] that fighters in Dazuun were being supplied with Dragonâ€™s Dandruff, their earnings had declined and the operation worsened after Rhul became involved. The two named [[03 People/Mentioned Figures/Karessa|Karessa]], a three-fingered Khaali woman, as their supplier and alleged that [[03 People/Mentioned Figures/Oruc|Oruc]], a booking agent who employed them in Voruun, took payments from Rhul to fix matches.
+
+These statements provide a possible network of supplier, intermediary and controller. **They remain the fightersâ€™ testimony**; Karessa has not been identified as one of Ulsarâ€™s three alchemists, nor has Orucâ€™s formal membership in the Broken Fang been established. nâ€™Dong gave the fighters more of the substance and offered to continue supplying them in exchange for information. See [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
 
 ## Related people
 
 - [[03 People/Notable Figures/Prodosius|Prodosius]]
 - [[03 People/Player Characters/n'Dong|n'Dong]]
 - [[03 People/Notable Deceased/Ulsar Quinn|Ulsar Quinn]]
-- [[03 People/Mentioned Figures/Rhul Slowdrift|Rhul Slowdrift]]
+- [[03 People/Notable Figures/Rhul Slowdrift|Rhul Slowdrift]]
 - [[03 People/Notable Figures/Antoinne Cassan|Antoinne Cassan]]
 - [[03 People/Notable Deceased/Buggie|Buggie]]
 - [[03 People/Notable Figures/Ouin Brond|Ouin Brond]]

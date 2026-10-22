@@ -17,24 +17,28 @@ gender: 'Male'
 role: 'Former Perfid ambassador to Somnolent'
 current_status: 'deceased'
 source: 'Campaign notes.docx'
-updated: 2026-07-01
+updated: 2026-10-22
 ---
 
 # Alistair Prusset
 
 ![[Alistair Prusset.png|260]]
 
-> [!summary] At a glance
-> The former Perfidian ambassador who ordered Anthea Bloodclot’s death and was later killed in Somnolent custody.
+Alistair Prusset served as Perfid's ambassador to [[02 Places/Rakara/Somnolent/Somnolent|Somnolent]], giving the [[04 Organisations/Church of Elgira|Church of Elgira]] a diplomatic presence in the independent crossroads town. Behind that official position he helped organise the assassination of Anthea Bloodclot. His exposure and death became central events in the conflict between the Church and the Defracturers.
 
-## Known details
+## Diplomacy and conspiracy
 
-- Spoke at Emberwake and was nearly abducted by goblins, who killed his dog.
-- Acted on Church orders to arrange Anthea Bloodclot’s assassination through the Rootbound.
-- Was captured by the party and transferred to The Shackles.
-- Was burned alive in his cell while Eden Carrion and Summer Quaresh disappeared.
+Prusset participated in the public life of Somnolent, including Emberwake. At that festival, goblins attempted to abduct him and killed his dog. The attack initially made him appear the victim of a criminal scheme. Subsequent investigation connected his own mission to a much larger crime: acting on Church orders, he had arranged for a [[04 Organisations/Rootbound|Rootbound]] cell to murder [[03 People/Notable Deceased/Anthea Bloodclot|Anthea Bloodclot]], whose efforts to unite Rakara threatened powerful Perfidian interests.
 
-## Campaign appearances
+An opposing operation, associated with the [[04 Organisations/Loyal Crows|Loyal Crows]], had hired Buggie's displaced band to seize Prusset and his records. The Defracturers' investigation of these competing plots eventually led to Prusset's capture.
+
+## Exposure and death
+
+Romayne Drayton ordered the ambassador apprehended, and Prusset was held in [[02 Places/Rakara/Somnolent/Somnolent|Somnolent]] custody. He was burned alive in his cell. [[03 People/Notable Figures/Eden Carrion|Eden Carrion]] and [[03 People/Notable Figures/Summer Quaresh|Summer Quaresh]] were present in connection with the killing and subsequently disappeared, but the current public-facing record should not turn every inference about responsibility into a witnessed fact.
+
+Prusset's death did not end the conspiracy. The Church's involvement in commissioning Anthea's murder has been traced, while the precise Rootbound cell and individual who administered the poison remain unresolved. The collapse of Perfid's position in Somnolent ultimately allowed its former embassy to become the Defracturers' Bastion.
+
+## Chronicle references
 
 - [[Session 01 - Die Dog, Die]]
 - [[Session 02 - The Ashes of Emberwake]]
@@ -46,7 +50,7 @@ updated: 2026-07-01
 - [[Session 11 - Ashes, Brands and Windfalls]]
 - [[Session 12-14 - Fire, Faith and the Corona of the Ashen Choir]]
 
-## Related
+## Related pages
 
 - [[Church of Elgira]]
 - [[Rootbound]]

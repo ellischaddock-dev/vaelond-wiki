@@ -10,32 +10,23 @@ tags:
 role: 'Cook'
 current_status: 'alive'
 source: 'Campaign notes and Session 24'
-updated: 2026-09-10
+updated: 2026-10-22
 ---
 
 # Igon Duft
 
 ![[Igon Duft.png|260]]
 
-> [!summary] At a glance
-> A gaunt and deeply unsettling man with a glass eye, who gives the impression that he can solve problems in ways nobody would wish to examine closely.
+Igon Duft is a gaunt, glass-eyed Bastion employee whose unsettling manner suggests a talent for getting difficult jobs done without asking whether others would approve of his methods. His history before entering the Defracturers' service remains obscure.
 
-## Appointment
+He helped maintain the household during the party's absence and assisted Somnolent's stretched civic authorities. Accompanying colleagues to collect the One Ball Inn's gambling levy, he heard the exchange that exposed the inn's stolen-goods business. When a suspicious barrel was recovered from smugglers, Igon quietly proposed that he knew someone who might be able to move its contents through another contact. The goods were instead handed to Alaaric Hammerfall. His remark suggests familiarity with questionable markets but does not establish that he is himself part of a criminal network.
 
-The candidate was interviewed after the Defracturers acquired their Somnolent bastion. Mariasz was appointed Head Steward; the remaining candidates were offered lesser household positions.
-
-## Session 24
-
-Igon helped keep the Bastion functioning during the Defracturers' absence and assisted with errands for Somnolent's reduced authorities. He joined Mariasz and Ghorgadush in collecting the One Ball Inn's gaming levy and overheard the confrontation that exposed the inn as a fencing point tied to Rhul's network.
-
-When the Crimson Shield recovered a suspicious barrel from fleeing smugglers, Igon quietly noted that he knew a man who knew a man who might be able to move such goods. The barrel was handed to Alaaric instead.
-
-## Campaign appearances
+## Chronicle references
 
 - [[05 Campaign Chronicle/Session 15 - Stewards, Saddles and Shambling Roots|Session 15 - Stewards, Saddles and Shambling Roots]]
 - [[05 Campaign Chronicle/Session 24 - Pies, Pike and a one ball blaze|Session 24]]
 
-## Related
+## Related pages
 
 - [[02 Places/Rakara/Somnolent/The Defracturers' Bastion|The Defracturers' Bastion]]
 - [[04 Organisations/The Defracturers|The Defracturers]]

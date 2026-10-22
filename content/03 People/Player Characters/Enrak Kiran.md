@@ -17,86 +17,69 @@ specialism: Fire magic
 homeland: Clan Khaali
 mount: Bracken
 current_status: active
-source: Sessions 1-20 and original character notes
-additional_source: Session 25
-updated: 2026-10-13
+source: Sessions 1-26, original character notes and Open Threads
+updated: 2026-10-22
 ---
 
 # Enrak Kiran
 
 > [!summary] At a glance
-> A flamboyant half-elf fire mage from [[02 Places/Rakara/Clans/Clan Khaali|Clan Khaali]] whose ambition, appetite for excess, ancient book and devotion to Anthea Bloodclot's legacy have drawn him away from the formal path of Khaali fire-magehood and into the dangerous search for Ardynian secrets.
+> An ambitious half-elf fire mage of [[02 Places/Rakara/Clans/Clan Khaali|Clan Khaali]], Enrak seeks acclaim beyond the formal traditions of his homeland. His devotion to Anthea Bloodclot's memory, fascination with Ardynian knowledge and delight in spectacle have made him one of the Defracturers' most visible—and unpredictable—members.
 
-## Established background
+## A flame beyond Khaali
 
-- Enrak is associated with [[02 Places/Rakara/Clans/Clan Khaali|Clan Khaali]] and the fire-rich traditions surrounding Mount Khal.
-- His magic is strongly focused on fire, creativity and destructive spectacle.
-- He possesses an ancient book whose full significance has not yet been established.
-- He has expressed a desire to become Khaali's foremost fire mage, linking that ambition to solving [[03 People/Notable Deceased/Anthea Bloodclot|Anthea Bloodclot's]] murder.
-- Anthea was one of Enrak's idols, and her death appears to have shaken both his personal ambitions and his understanding of the future of the Five Clans.
-- Enrak left the security of the Khaali heartlands to seek recognition through adventure, believing he could make a greater mark on his clan's future by following his own path.
-- He sometimes claims that [[01 Welcome to Vaelond/Religion/Rakaran Faiths#Ashka the Ember-Dancer|Ashka]] herself encouraged this course through dreams. Whether this is sincere belief, dramatic self-mythology or a useful story depends heavily on Enrak's mood and audience.
+Enrak comes from Clan Khaali, where fire is a force of creation and destruction, and magical achievement is bound up with art, scholarship and religious tradition. Gifted in fire magic, he nonetheless grew frustrated with the formal path by which Khaali's mages earn status. He wanted recognition on terms of his own choosing, and ultimately left the security of the clan's heartlands to pursue it through adventure.
 
-## Personality and reputation
+His stated ambition is to become **Khaali's foremost fire mage**. The precise title, rank or recognition he seeks has not been defined, nor have the details of his family, teachers or formal education been established. He also possesses an ancient book whose origins and contents remain largely unknown. For Enrak, the pursuit of greatness has always existed alongside questions about what kind of greatness he truly wants.
 
-Enrak is intelligent, perceptive and magically talented, but his flamboyance and appetite for debauchery have repeatedly complicated the expectations placed upon him.
+He sometimes claims that [[01 Welcome to Vaelond/Religion/Rakaran Faiths#Ashka the Ember-Dancer|Ashka the Ember-Dancer]] guided him towards this path in dreams. Whether these claims describe divine contact, personal faith or Enrak's taste for telling a good story has not been established.
 
-The formal road to fire-magehood in Khaali appears to have frustrated him. Its creative, artistic and scholarly demands offered prestige, but also constraint. Enrak sought adventure partly as escape and partly as proof that greatness could be seized outside the approved channels of clan recognition.
+## Ambition, appetite and a growing legend
 
-He is drawn to performance, praise, drinking and dramatic declarations. This has served him well when boldness, charm or spectacle are useful, but it has also made him difficult to predict. His chaotic nature can inspire allies one moment and leave them managing the consequences the next.
+Enrak is intelligent and capable, with considerable magical power, but also flamboyant, impulsive and eager for entertainment. He enjoys drinking, praise, performance and the opportunity to make a grand entrance. He is rarely content merely to succeed if success can be made spectacular.
 
-This pattern has become part of his reputation within the Defracturers: Enrak wants greatness, but often pursues it through instinct, appetite and fire rather than discipline.
+His public reputation began taking shape during the [[02 Places/Rakara/Somnolent/Emberwake Festival|Emberwake Festival]], when he killed a goblin warchanter during the attack on Somnolent. [[03 People/Notable Figures/Father Zantos|Father Zantos]] called him the hero of the hour, and Enrak embraced the attention. Unlike some of his companions, he welcomed the songs [[03 People/Notable Figures/Ersil Loquella|Ersil Loquella]] wrote about the company, especially the developing persona of **the Brazen Flame**.
 
-## Campaign role
+Ersil also became a more consequential figure in Enrak's life. Enrak spoke to him about his ambitions and his determination to learn who murdered [[03 People/Notable Deceased/Anthea Bloodclot|Anthea Bloodclot]]. Ersil revealed that he and Anthea had known one another as children and were not born in Khaali, complicating the familiar account of Anthea's origins. In a company frequently unsettled by unwanted publicity, Enrak sees reputation as something to cultivate—though he has yet to demonstrate that he can reliably control what his performances set in motion.
 
-Enrak provides destructive and utility magic, with fire serving as his most recognisable answer to danger. His curiosity about ancient material has made him a natural participant in the exploration of [[02 Places/Rakara/Tace Nox|Tace Nox]] and [[02 Places/Rakara/Rana Viam|Rana Viam]], although his handling of dangerous knowledge has not always been cautious.
+## Anthea's legacy
 
-During [[05 Campaign Chronicle/Session 01 - Die Dog, Die|Emberwake]], Enrak killed the goblin warchanter and helped halt the attack on Somnolent. [[03 People/Notable Figures/Father Zantos|Father Zantos]] named him the hero of the hour, establishing an early public reputation that Enrak has not discouraged.
+Anthea was one of Enrak's idols. Her efforts to bring Rakara's Five Clans together represented the kind of achievement he admired, and the mystery of her death gave his pursuit of recognition a purpose beyond his own advancement. His personal investment in the investigation has been sharpened by his connection to [[03 People/Notable Figures/Summer Quaresh|Summer Quaresh]], Khaali's representative in Somnolent and one of Anthea's known Loyal Crows.
 
-In Somnolent, Enrak developed an enthusiasm for bardic attention. He enjoyed [[03 People/Notable Figures/Ersil Loquella|Ersil Loquella's]] praise and the growing legend of the "Brazen Flame", even while some of his companions worried that songs about the party made them easier to identify. During a later conversation, Enrak told Ersil of his ambition to rise in Khaali and uncover Anthea's killer. Ersil's bitter song about Anthea, and his admission that he and Anthea were childhood friends who were not born in Khaali, gave Enrak a more personal and unsettling lead into Anthea's past.
+Summer disappeared after [[03 People/Notable Deceased/Alistair Prusset|Alistair Prusset]] was killed in custody. Enrak has expressed doubt that she willingly participated in the killing, but her actual role remains unknown. The ongoing search for her and [[03 People/Notable Figures/Eden Carrion|Eden Carrion]] therefore matters to Enrak both personally and as part of the larger effort to understand Anthea's circle.
 
-The vision caused by [[06 Library/Relics and Artefacts/Verei's Shattered Mask|Verei's Shattered Mask]] placed Enrak before Ashka, goddess of fire, chaos, inspiration and renewal. Ashka asked him who he was. The meaning of that question remains unresolved, but it sits at the centre of Enrak's self-image: whether he is a failed scholar, a chosen flame, a self-made legend or something stranger.
+A memory recovered from an Ardynian scroll later revealed the terrible cost of the Sundering. From what the Defracturers witnessed, Elmwood identified Anthea as **Saint Marra**. This discovery profoundly changes what the company knows about the woman Enrak admired, although his own settled response to that revelation has not yet been recorded.
 
-Enrak also has a personal link to [[03 People/Notable Figures/Summer Quaresh|Summer Quaresh]], a Khaali liaison in Somnolent and apparent member of Anthea's Crows. Summer was present when [[03 People/Notable Deceased/Alistair Prusset|Alistair Prusset]] was burned alive in custody and later vanished. Enrak's belief that Summer would not willingly have helped murder Prusset makes her disappearance a personal and political thread.
+## Fire, curiosity and the limits of spectacle
 
-Within Tace Nox, Enrak helped uncover the ruin's mechanisms and recovered important Ardynian material, including a rune-sealed scroll and evidence of the Chronarch principle: life traded for progress. Later, while drunk, he proved a questionable custodian of dangerous Ardynian knowledge, forcing Ieuan to intervene and secure the material more carefully.
+Enrak's fire magic makes him a formidable combatant, but his interests extend beyond destruction. He has been involved in investigating the ancient mechanisms of [[02 Places/Rakara/Tace Nox|Tace Nox]] and [[02 Places/Rakara/Rana Viam|Rana Viam]], including the recovery of Ardynian material whose significance is still emerging. At Tace Nox, the company found evidence of a terrible principle—**life traded for progress**—and retrieved a sealed scroll that would eventually reveal part of the Sundering's history.
 
-At Rana Viam, Enrak took part in the ruin's movement trials, yielded power to the chamber, investigated its green flames and fought in the disastrous first confrontation with the golem guarding the [[Bands of Distortion|Bands of Distortion]]. In the crossing chamber, his confidence repeatedly carried him into danger, including an incident in which he was petrified by a cockatrice before being restored by Ieuan's magic.
+His curiosity has not always been matched by caution. On one occasion, his handling of dangerous Ardynian material while drunk prompted Ieuan to intervene. At Rana Viam, he repeatedly tested the perilous movement trial and was petrified by a cockatrice before being restored by Ieuan's magic. Enrak tends to treat obstacles as invitations, sometimes overlooking what they may cost.
 
-During Session 20, Enrak pursued Salla alongside Ballar, resisted the bog siren's song and was webbed during the giant-spider attack before helping to defeat the creatures.
+Yet he is capable of restraint. During the attempt to rescue townsfolk from creatures beneath the burned [[02 Places/Rakara/Somnolent/One Ball Inn|One Ball Inn]], he deliberately avoided casting *Fireball* where civilians were trapped. That decision stands beside his more reckless conduct at the Sixhalls market, where a dance contest with visiting fighters Yama and Spopovich escalated after his fireworks helped provoke a brawl. Enrak joined the ensuing chaos and was twice knocked unconscious. His appetite for display can produce both unforgettable heroism and entirely avoidable danger.
 
-## Mount
+His steady mount, [[06 Library/Campaign Reference/Horses#Bracken|Bracken]], offers a contrast to Enrak's temperament. Bracken has remained reliable through danger, including defending him during an owlbear attack.
 
-[[06 Library/Campaign Reference/Horses#Bracken|Bracken]] is Enrak's recorded mount. Bracken is slow but exceptionally steady, a useful counterpoint to Enrak's volatility. Bracken has stood firm through danger more than once, including protecting Enrak during the owlbear attack.
+## Ashka's question
 
-## Active personal threads
+When the company disturbed [[06 Library/Relics and Artefacts/Verei's Shattered Mask|Verei's Shattered Mask]], Enrak was pulled into a vision in which he stood before Ashka, goddess of fire, chaos, inspiration and renewal. She asked him a question that cut through titles and ambitions: **Who are you?**
 
-- Determine the origin, purpose and danger of his ancient book.
-- Solve the remaining questions surrounding [[03 People/Notable Deceased/Anthea Bloodclot|Anthea Bloodclot's]] murder.
-- Understand Anthea's true origin, legacy and relationship to Khaali.
-- Decide what it means to become Khaali's foremost fire mage outside the formal path of clan scholarship and artistic discipline.
-- Discover whether Enrak's claimed dreams of Ashka were divine guidance, useful theatre or something between the two.
-- Interpret Ashka's question from the vision: **Who is Enrak?**
-- Find or account for [[03 People/Notable Figures/Summer Quaresh|Summer Quaresh]] and determine what role she played in Prusset's death.
-- Establish whether fame helps Enrak achieve his ambitions or simply paints a brighter target on him.
-- Understand the relationship between his fire magic and the Ardynian relics or ruins now being uncovered.
+The experience did not establish whether his earlier claims of Ashka's guidance were true, nor did it provide a clear answer. It remains a fitting question for a mage whose public identity has grown faster than the recorded story of his private life. He seeks to be a legendary fire mage, a champion of Anthea's legacy and a man celebrated in song; what binds those ambitions together is still unfolding.
 
-> [!warning] Gaps in the current record
-> - The ancient book's title, provenance, contents and current abilities are not clearly recorded.
-> - Enrak's family, teachers and formal standing within Clan Khaali have not been established in detail.
-> - The office, rank or recognition implied by "foremost fire mage" has not been formally defined.
-> - The exact nature of his original training in Khaali fire-magehood remains unclear.
-> - It is not yet established whether Enrak's Ashka dreams were genuine divine contact, personal belief or deliberate self-mythology.
-> - His deeper feelings about Anthea as an idol, political figure and symbol of the Five Clans have only partly surfaced.
-> - His longer-term goals beyond recognition, magical power and the Anthea investigation are not yet clear.
+## Current circumstances
 
-## Session 25 — Somnolent and the Sundering
+Enrak continues to travel with the Defracturers, pursuing both magical knowledge and recognition. The revelations about Anthea and the Sundering have drawn his interests into questions much larger than Khaali's internal hierarchy, while Summer's disappearance remains a personal concern.
 
-Enrak joined the fight beneath the destroyed One Ball Inn and elected not to use a Fireball in the cellar where townsfolk were trapped. He later learned that Joe-Seff Gorbels lacked basic culinary skill, despite his duties at the Bastion.
+He is celebrated, occasionally embarrassed and often endangered by the spectacle he creates. Whether those experiences are making him more discerning, or simply giving him grander stories to tell, has not yet been established.
 
-At Elmwood's tower, Enrak witnessed the memory within the [[06 Library/Ardynian Relics and Artefacts/Tace Nox scroll|Tace Nox scroll]] and was left momentarily speechless by the events it showed. The Defracturers advanced to level 6 at the session's end.
+## Personal matters still unresolved
 
-## Related
+- The origin and significance of his ancient book, and the details of his early life and training in Khaali.
+- The meaning of his ambition to become Khaali's foremost fire mage and his relationship to Ashka, including the question posed in the mask vision.
+- Summer Quaresh's whereabouts and involvement in Prusset's death, as well as the deeper history of Anthea and her Loyal Crows.
+- His place in the company's decisions about Ardynian artefacts and the risks of using them.
+
+## Related pages
 
 - [[04 Organisations/The Defracturers|The Defracturers]]
 - [[02 Places/Rakara/Clans/Clan Khaali|Clan Khaali]]
@@ -107,5 +90,13 @@ At Elmwood's tower, Enrak witnessed the memory within the [[06 Library/Ardynian 
 - [[06 Library/Relics and Artefacts/Verei's Shattered Mask|Verei's Shattered Mask]]
 - [[02 Places/Rakara/Tace Nox|Tace Nox]]
 - [[02 Places/Rakara/Rana Viam|Rana Viam]]
-- [[Bands of Distortion|Bands of Distortion]]
 - [[06 Library/Campaign Reference/Horses|Horses]]
+- [[06 Library/Campaign Reference/Open Threads|Open Threads]]
+
+## Campaign chronicle
+
+- [[05 Campaign Chronicle/Session 01 - Die Dog, Die|Session 1]]
+- [[05 Campaign Chronicle/Session 07 - Coffee and Contraband|Session 7]]
+- [[05 Campaign Chronicle/Session 19 - Bands, Broken Stone and the Glass Fang|Session 19]]
+- [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]]
+- [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]]

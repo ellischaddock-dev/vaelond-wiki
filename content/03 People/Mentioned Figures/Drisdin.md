@@ -11,21 +11,20 @@ tags:
 - history
 current_status: Deceased in historical memory
 source: Session 25
-updated: '2026-10-13'
+updated: 2026-10-22
 ---
 
 # Drisdin
 
-> [!summary] At a glance
-> An Ardynian craftsman or artificer credited in Elgira's remembered account with creating the **Crowns of Infinity**.
+Drisdin is an Ardynian craftsman or artificer named in the memory of Elgira's Sundering preserved by the [[06 Library/Ardynian Relics and Artefacts/Tace Nox scroll|Tace Nox scroll]]. Elgira described the **Crowns of Infinity** as his final masterpiece.
 
-## What the scroll reveals
+The memory shows Elgira returning to her fellow rebels with a bloody dagger and announcing that Drisdin is gone. Challenged by Marra to confirm his death, she stated that the deed was done. The scene strongly indicates that Elgira killed him, but it does not establish Drisdin's motives, allegiance or exact professional title. The memory is the source for this account, rather than a widely circulated history.
 
-In the memory preserved by the [[06 Library/Ardynian Relics and Artefacts/Tace Nox scroll|Tace Nox scroll]], Elgira returns to the rebel gathering carrying a bloody dagger and says that **Drisdin is gone** and the path is clear. When Marra demands confirmation that Drisdin is dead, Elgira answers that the deed is done. Later, Elgira calls the crowns **Drisdin's final masterpiece**.
+## Chronicle references
 
-The account strongly indicates that Elgira killed Drisdin, but it does not establish his motives, wider allegiance, or his precise professional title. His role in creating the crowns is stated directly.
+- [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]]
 
-## Related
+## Related pages
 
 - [[06 Library/Ardynian Relics and Artefacts/Corona of the Ashen Choir|Corona of the Ashen Choir]]
 - [[06 Library/Ardynian Relics and Artefacts/Tace Nox scroll|Tace Nox scroll]]

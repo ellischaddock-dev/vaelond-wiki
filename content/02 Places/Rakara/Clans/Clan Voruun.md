@@ -36,7 +36,7 @@ updated: 2026-07-08
 The sigil of Clan Voruun bears a **silver serpent passing through a broken chain on a dark bronze shield**, backed by an angular sunburst. It presents liberation and progress, although critics see opportunism and unchecked ambition.
 
 - **Serpent:** cleverness, patience and deadly precision.
-- **Broken chain:** strength through liberation—and rejection of unity or tradition when convenient.
+- **Broken chain:** strength through liberationâ€”and rejection of unity or tradition when convenient.
 - **Sunburst:** innovation and a dawning era, with a sharpness that can resemble self-righteous ambition.
 
 ## Background
@@ -70,7 +70,7 @@ Voruun casts a long and hungry shadow. It leads Rakara in wealth, movement and c
 
 ## Current campaign significance
 
-After Session 21, the Defracturers learned that [[03 People/Mentioned Figures/Rhul Slowdrift|Rhul Slowdrift]] has taken control of Dazuun's fighting pits as part of a [[04 Organisations/Broken Fang|Broken Fang]] operation. [[03 People/Notable Deceased/Ulsar Quinn|Ulsar Quinn]] also claimed that pit contestants are being supplied with [[06 Library/Campaign Reference/Dragon's Dandruff|Dragon's Dandruff]], a stimulant produced by three Khaali alchemists from a lab south of Somnolent.
+After Session 21, the Defracturers learned that [[03 People/Notable Figures/Rhul Slowdrift|Rhul Slowdrift]] has taken control of Dazuun's fighting pits as part of a [[04 Organisations/Broken Fang|Broken Fang]] operation. [[03 People/Notable Deceased/Ulsar Quinn|Ulsar Quinn]] also claimed that pit contestants are being supplied with [[06 Library/Campaign Reference/Dragon's Dandruff|Dragon's Dandruff]], a stimulant produced by three Khaali alchemists from a lab south of Somnolent.
 
 ## Related pages
 

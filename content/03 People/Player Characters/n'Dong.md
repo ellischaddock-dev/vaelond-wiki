@@ -15,92 +15,98 @@ specialism: Acid magic
 homeland: Minir
 mount: Nail
 current_status: active
-source: Sessions 2-23
-additional_source: Session 25
-updated: 2026-10-13
+source: Sessions 2-26 and Open Threads
+updated: 2026-10-22
 ---
 
 # n'Dong
 
 > [!summary] At a glance
-> A dragonborn wizard from Minir, trusted by Romayne Drayton but driven by trauma, whose enslavement by the Broken Fang, transformation in an Ardynian ruin and reckless pursuit of Prodosius have placed the mercenary organisation at the centre of his story.
+> A dragonborn wizard from [[01 Welcome to Vaelond/The Powers That Be#Minir|Minir]] whose family was killed by the [[04 Organisations/Broken Fang|Broken Fang]] and who was forced into their service. His escape from the mercenaries left him changed, and his pursuit of their leader Prodosius now drives much of his work with the Defracturers.
 
-## Established background
+## A life taken by the Broken Fang
 
-- n'Dong's parents were killed by the [[04 Organisations/Broken Fang|Broken Fang]].
-- He was enslaved or forced into service by the organisation.
-- [[03 People/Notable Deceased/Ulsar Quinn|Ulsar Quinn]] once commanded the unit in which he served.
-- The Broken Fang concentrates power through [[03 People/Notable Figures/Prodosius|Prodosius]] and his trusted commanders, known as **the Fangs**.
-- Ulsar Quinn is one of those Fangs.
-- An expedition into an Ardynian ruin ended in disaster and was connected to n'Dong's transformation and eventual escape.
-- The memory of that ruin remains personally traumatic. When the party first identified the site beneath Thistlewound as Ardynian, n'Dong admitted that ruins like it had twisted him into what he is.
-- His personal objective is to reach Broken Fang leader [[03 People/Notable Figures/Prodosius|Prodosius]].
-- His magic is strongly associated with acid.
-- Romayne Drayton introduced n'Dong to the others as one of his trusted agents during the first investigation after Emberwake.
+n'Dong's history is inseparable from the mercenary organisation known as the **Broken Fang**. Its members killed his parents and enslaved or otherwise forced him into service. Among the men who exercised authority over him was [[03 People/Notable Deceased/Ulsar Quinn|Ulsar Quinn]], a commander serving under the organisation's leader, [[03 People/Notable Figures/Prodosius|Prodosius]].
 
-## Campaign role
+An expedition into an Ardynian ruin ended in disaster and was connected to n'Dong's transformation and eventual escape. The precise sequence of his captivity, the expedition and his flight is not fully established. What remains clear is the effect: the thought of Ardynian ruins has been personally disturbing to him ever since. When the company discovered the site beneath Thistlewound, n'Dong admitted that such ruins had twisted him into what he is.
 
-n'Dong is a volatile but powerful arcane combatant whose knowledge of Broken Fang procedures and personnel has repeatedly advanced the party's investigation. He is also one of the party's clearest examples of reckless improvisation: when a Broken Fang lead appears, he tends to pursue it immediately and worry about consequences afterwards.
+He has dedicated himself to reaching Prodosius, the figure at the head of the organisation responsible for his family's deaths and his own captivity. A vision later induced by [[06 Library/Relics and Artefacts/Verei's Shattered Mask|Verei's Shattered Mask]] depicted Prodosius boasting that he had murdered n'Dong's parents. **The mask's vision is not independent proof that Prodosius personally killed them.** n'Dong's home and family life before the Broken Fang also remain largely undescribed.
 
-His pursuit of Buggie's trail was not only investigative. After pressing Buggie about [[03 People/Notable Figures/Prodosius|Prodosius]], n'Dong revealed that he had followed the clue because the word "bugbear" might lead him closer to vengeance against the Broken Fang leader who had enslaved him.
+## Finding a place in Somnolent
 
-He later uncovered a Broken Fang smuggling route in Somnolent, destroyed one of its whiskey shipments and recovered the [[06 Library/Letters and Documents/Broken Fang Contraband Manifest|Broken Fang Contraband Manifest]]. This investigation showed both his usefulness and his recklessness: n'Dong climbed inside a whiskey barrel to follow the shipment, discovered a drop site, sampled an unknown substance that was later identified as **Agony**, and returned with evidence of a wider network reaching Somnolent, Orvak, Voruun and Khaali.
+By the time of the investigation that followed the Emberwake attack, n'Dong had earned the confidence of [[03 People/Notable Figures/Romayne Drayton|Romayne Drayton]], who introduced him to the other adventurers as one of his trusted agents. That trust gave n'Dong a place in the emerging Defracturers, although his reasons for following the party's leads were not always the same as those of his companions.
 
-His pursuit of the same network later led him and Erelmor to Broken Fang agents in the woods. After the agents burned n'Dong's crude shelter, the pair attacked them, extracted the name [[03 People/Mentioned Figures/Rhul Slowdrift|Rhul Slowdrift]] from a man called Sunshine, and then burned the bodies to disguise what had happened. This gave n'Dong a new name in the Broken Fang hierarchy, but also reinforced his willingness to destroy evidence when cornered.
+He pursued a possible connection between Buggie's bugbears and the Broken Fang because he hoped it might lead him towards Prodosius. His knowledge of mercenary practices and the people he had once served proved useful as the company discovered that the Broken Fang's operations reached deep into Rakara.
 
-n'Dong also recovered [[06 Library/Relics and Artefacts/Verei's Shattered Mask|Verei's Shattered Mask]] beneath the [[02 Places/Rakara/Somnolent/Drowsy Coin|Drowsy Coin]]. The mask forced the party into private visions; n'Dong saw Prodosius boasting of his parents' deaths and warning that n'Dong would soon die. After the resulting apparitions were defeated, n'Dong recited a forgotten prayer to Verei, the Shattered Mask, lifted the curse and claimed the mask. The mask appears to function almost like an arcane focus, making it easier to receive a blessing from Verei. Such a blessing is not necessarily safe, beneficial or under the bearer's control. The precise meaning of the mask, the prayer and n'Dong's connection to Verei remain unresolved.
+n'Dong is a powerful wizard whose spells are particularly associated with acid. His blunt manner and impatience can be as forceful as his magic. He often follows a promising lead with little concern for the complications that might follow, and his attempts to improvise a solution have not always served his larger goals.
 
-His later use of the mask as a disguise after the failed Silent Court safe robbery suggests a recurring pattern: n'Dong often responds to exposure or danger with immediate magical improvisation, even when the solution may create new risks. He concealed his identity behind Verei's visage despite being one of the only dragonborn in Somnolent.
+His recorded mount is [[06 Library/Campaign Reference/Horses#Nail|Nail]], a swift, enduring former courier horse that is notably shy around battle.
 
-n'Dong has also repeatedly helped erase dangerous scenes once the party has taken what it needs. He helped burn Buggie's lair after the massacre at Thistlewound, then later burned Broken Fang bodies after the woodland confrontation connected to Rhul Slowdrift. Whether this reflects practicality, panic, vengeance or habit remains unresolved.
+## Following the mercenaries' trail
 
-During Session 20, n'Dong performed aerial reconnaissance, located Malt and attacked the fleeing scout from above. He was the first Defracturer knocked unconscious by the Egg Hunter Hatchlings and was revived by Ballar.
+n'Dong helped uncover a Broken Fang smuggling route in Somnolent. He hid inside a whiskey barrel to follow a shipment, found a drop site, destroyed contraband and recovered the [[06 Library/Letters and Documents/Broken Fang Contraband Manifest|Broken Fang Contraband Manifest]]. His curiosity also led him to sample an unknown substance later identified as **Agony**. The episode displayed his resourcefulness and his willingness to endanger himself for information in equal measure.
 
-During Session 21, Ulsar contacted n'Dong through the sending stone recovered from Rana Viam and invited him to the Broken Fang camp. In the parley that followed, Ulsar tried to reassert old hierarchies by casting Command and ordering n'Dong to grovel. n'Dong later struck Ulsar with a devastating critical Chromatic Orb, and after [[03 People/Notable Deceased/Talan Rook|Talan Rook]] tried to flee with Ulsar's body, n'Dong destroyed the corpse and killed Talan with acid. This closed the immediate Ulsar thread while sharpening the path towards Rhul Slowdrift, Dazuun and Prodosius.
+A later confrontation with Broken Fang associates Sunshine and Loup brought him closer to the name [[03 People/Notable Figures/Rhul Slowdrift|Rhul Slowdrift]]. After those associates burned his improvised shelter, n'Dong and [[03 People/Player Characters/Erelmor|Erelmor]] attacked them, extracted information and burned the bodies. Their actions provided a valuable lead but also illustrated how readily n'Dong's investigation could turn into retaliation and the destruction of evidence.
 
-n'Dong's bluntness also colours his role in the group. He can be direct to the point of social disaster, as seen when he helped rescue Mireya and informed her of her husband's death with very little softness.
+The trail eventually reached [[02 Places/Rakara/Rana Viam|Rana Viam]], where the Defracturers found evidence of the Broken Fang's attempts to investigate Ardynian relics. Pursuit after the ruin led the party to Ulsar Quinn's camp—and to the former commander n'Dong had reason to fear and hate.
 
-## Mount
+## The confrontation with Ulsar Quinn
 
-[[06 Library/Campaign Reference/Horses#Nail|Nail]] is n'Dong's recorded mount: a quick, enduring former courier horse that becomes shy around battle.
+Ulsar used a sending stone to contact n'Dong and invite him to the Broken Fang camp. During the meeting, Ulsar attempted to reassert the authority he had once held over n'Dong by magically commanding him to **grovel**. The encounter brought the old hierarchy of captivity into the present, long after n'Dong had escaped it.
 
-## Session 22
+The resulting battle ended with Ulsar dead. n'Dong struck him with a devastating *Chromatic Orb* and later destroyed his corpse, killing [[03 People/Notable Deceased/Talan Rook|Talan Rook]] as Talan attempted to flee with it. The camp itself was destroyed. The victory removed one of the Fangs from his path, but it did not end the Broken Fang or bring n'Dong face to face with Prodosius.
 
-After the destruction of Ulsar Quinn's camp, n'Dong searched [[03 People/Notable Deceased/Talan Rook|Talan Rook]]'s tent and recovered **two vials of [[06 Library/Campaign Reference/Dragon's Dandruff|Dragon's Dandruff]]**. This gives the party physical samples of the stimulant associated with Rhul Slowdrift's fighting-pit operation.
+The camp's destruction had a cost beyond its enemies. [[03 People/Notable Figures/Mireya Dinak|Mireya Dinak]], a traveller the company had previously rescued, was killed in the fire after being taken captive by Ulsar's forces. Her death remains an unresolved responsibility for the company, which is seeking a way to restore her to life.
 
-## Active personal threads
+## The mask and a forgotten prayer
 
-- Find [[03 People/Notable Figures/Prodosius|Prodosius]] and decide what justice or revenge would actually mean.
-- Decide how to use the information Ulsar revealed before his death.
-- Determine whether striking [[03 People/Mentioned Figures/Rhul Slowdrift|Rhul Slowdrift]] or his operation in [[02 Places/Rakara/Voruun/Dazuun|Dazuun]] can draw n'Dong closer to Prodosius.
-- Learn why the Broken Fang is searching Ardynian ruins and relics.
-- Understand the transformation connected to the ruin expedition.
-- Understand why [[06 Library/Relics and Artefacts/Verei's Shattered Mask|Verei's Shattered Mask]] responded to him, why he knew the prayer and whether the mask is safe.
-- Decide whether his habit of reckless escalation is survival instinct, vengeance, trauma or something more dangerous.
+Another mystery in n'Dong's life began beneath the [[02 Places/Rakara/Somnolent/Drowsy Coin|Drowsy Coin]], where the company encountered Verei's Shattered Mask. The object drew the adventurers into deeply personal visions, including the vision of Prodosius confronting n'Dong with his parents' deaths. After the visions broke and their manifestations were defeated, n'Dong approached the mask and spoke a prayer to [[01 Welcome to Vaelond/Religion/Rakaran Faiths#Verei the Shattered Mask|Verei]] that he did not consciously recall learning. The immediate curse lifted, and he claimed the mask.
 
-> [!warning] Gaps in the current record
-> - The exact chronology of n'Dong's capture, forced service, ruin expedition, transformation and escape is incomplete.
-> - His original home, family life and status in Minir are not fully described.
-> - It is not clear whether Prodosius personally killed n'Dong's parents or whether the mask vision showed truth, manipulation, memory or symbolic fear.
-> - The nature of Verei and the mask's relationship to n'Dong remain uncertain.
-> - Rhul Slowdrift's full title, abilities and exact authority within the Broken Fang hierarchy are not yet known.
-> - It is unclear what n'Dong intends to do if he reaches Prodosius.
-> - It is unclear whether n'Dong recognises his own pattern of reckless escalation, or whether the party will challenge it before it causes greater harm.
+The mask subsequently seemed to serve as a focus for Verei's influence, although the nature and risks of that connection remain unknown. After the Defracturers returned to their Bastion, n'Dong established a shrine to Verei in its crypt and received a powerful blessing. Neither the blessing's exact terms nor the origin of the forgotten prayer has been established. The mask's apparent quietness should not be mistaken for certainty that it is harmless.
 
-## Session 25 — the cellar, crypt and Ardynian vision
+The company's exploration of the Sundering has also produced a curious connection to n'Dong's homeland. While witnessing a memory of Elgira and the saints, he recognised the likeness of **Saint Erith** in a portrait of Minir's first Arc Master. The resemblance is significant evidence of a possible connection, but the details of Erith's later life remain incomplete.
 
-n'Dong heard the cries beneath the ruined One Ball Inn and discovered the creatures in its cellar before summoning the party. After the battle he found a partly burned map indicating a farm a few hours from Somnolent, with a route to a rear barn.
+## Revenge and the price of information
 
-At the Bastion he established a **shrine to Verei in the crypt** and received a powerful, unspecified blessing. He provided a vial of green Time Juice to Elmwood, allowing the Tace Nox scroll to activate. During the resulting memory he recognised the likeness of Saint Erith from a portrait of **Minir's first Arc Master**. The Defracturers reached level 6 after the session.
+With Ulsar gone, n'Dong's attention has turned to Rhul Slowdrift and the Broken Fang's influence over the fighting pits of [[02 Places/Rakara/Voruun/Dazuun|Dazuun]]. He learned of [[06 Library/Campaign Reference/Dragon's Dandruff|Dragon's Dandruff]], a stimulant allegedly supplied to pit fighters by Khaali alchemists, and recovered vials of the substance from the wreckage of Ulsar's camp.
 
-## Related
+In Somnolent he made contact with visiting fighters [[03 People/Mentioned Figures/Yama and Spopovich|Yama and Spopovich]], offering Dragon's Dandruff in exchange for information. They identified a supplier called [[03 People/Mentioned Figures/Karessa|Karessa]] and alleged that a booking agent named [[03 People/Mentioned Figures/Oruc|Oruc]] was taking Rhul's money to fix fights. **Neither allegation has been independently verified.** n'Dong nonetheless gave the men more of the stimulant and promised further deliveries for future intelligence.
+
+There is a difficult symmetry in that decision. A man who survived the Broken Fang's exploitation is now prepared to trade in one of the substances associated with its influence, hoping that the exchange will bring him closer to destroying it. The record establishes his actions, but not whether he sees this as a necessary compromise, an acceptable risk or something he has yet to consider.
+
+n'Dong also found a partially burned map beneath the destroyed One Ball Inn that points towards a farm and rear barn outside Somnolent. It may offer a lead on the creatures discovered there, but neither the farm's role nor any connection to the stimulant supply has been proven.
+
+## Current circumstances
+
+n'Dong remains with the Defracturers, having eliminated Ulsar but not resolved the larger pursuit of Rhul and Prodosius. His familiarity with the Broken Fang continues to help the party, even as his choices risk entangling him more deeply in the networks he seeks to dismantle.
+
+His bond with Verei and the history of his transformation also remain unexplained. Whether vengeance can answer the questions left by his captivity—or simply lead him into another form of dependence—is still an open part of his story.
+
+## Personal matters still unresolved
+
+- Prodosius's whereabouts, Rhul's true reach in Dazuun and the credibility of Yama and Spopovich's information about Karessa and Oruc.
+- The Broken Fang's interest in Ardynian relics and the full history of n'Dong's transformation and escape.
+- Why he knew the prayer to Verei, what the mask and crypt blessing mean, and whether either carries a danger or obligation.
+- The consequences of supplying Dragon's Dandruff for intelligence, and the possible connection between the One Ball map and other criminal operations.
+
+## Related pages
 
 - [[04 Organisations/The Defracturers|The Defracturers]]
 - [[04 Organisations/Broken Fang|Broken Fang]]
 - [[03 People/Notable Figures/Prodosius|Prodosius]]
 - [[03 People/Notable Deceased/Ulsar Quinn|Ulsar Quinn]]
-- [[03 People/Mentioned Figures/Rhul Slowdrift|Rhul Slowdrift]]
+- [[03 People/Notable Figures/Rhul Slowdrift|Rhul Slowdrift]]
+- [[02 Places/Rakara/Voruun/Dazuun|Dazuun]]
+- [[06 Library/Campaign Reference/Dragon's Dandruff|Dragon's Dandruff]]
 - [[06 Library/Relics and Artefacts/Verei's Shattered Mask|Verei's Shattered Mask]]
 - [[06 Library/Letters and Documents/Broken Fang Contraband Manifest|Broken Fang Contraband Manifest]]
-- [[02 Places/Rakara/Rana Viam|Rana Viam]]
 - [[06 Library/Campaign Reference/Horses|Horses]]
+- [[06 Library/Campaign Reference/Open Threads|Open Threads]]
+
+## Campaign chronicle
+
+- [[05 Campaign Chronicle/Session 07 - Coffee and Contraband|Session 7]]
+- [[05 Campaign Chronicle/Session 20 - Plague, Pursuit and Plan E|Session 20]]
+- [[05 Campaign Chronicle/Session 21 - Contracts, Command, and a Burning Camp|Session 21]]
+- [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]]
+- [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]]

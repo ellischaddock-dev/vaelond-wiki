@@ -15,14 +15,14 @@ regions:
   - Doro
   - Minir
   - Rakara
-updated: 2026-07-05
+updated: 2026-10-20
 ---
 
 # The Powers That Be
 
 ## Perfid
 
-Perfid is locked in a perpetual **cold war with Doro**, both sides trading steel and spellfire over a harsh, blood-soaked stretch of contested land known as **the Spear and the Maw**—a narrow peninsula and canyon that neither side can afford to lose.
+Perfid is locked in a perpetual **cold war with Doro**, both sides trading steel and spellfire over a harsh, blood-soaked stretch of contested land known as **the Spear and the Maw**Ã¢â‚¬â€a narrow peninsula and canyon that neither side can afford to lose.
 
 Within its borders, Perfid is caught in a fraught stalemate between church and state. The **[[04 Organisations/Church of Elgira|Church of Elgira]]** holds vast spiritual and social power, while the government and military under **House d'Eamon** push for greater secular control.
 
@@ -59,6 +59,19 @@ Her authority depended upon reputation, negotiation and the willingness of the c
 One year ago, Anthea was murdered near [[02 Places/Rakara/Somnolent/Somnolent|Somnolent]]. Voruun now publicly claims to be her rightful successor, with Khaali the only clan offering open support. The others reject, avoid or carefully qualify the claim. Rakara remains fractured, and old rivalries are returning beneath the language of unity.
 
 See also: [[02 Places/Rakara/Rakara|Rakara]], [[02 Places/Rakara/Rakara - Background|Rakara - Background]], [[02 Places/Rakara/Rakara's Regions and Clans|Rakara's Regions and Clans]], [[02 Places/Rakara/Somnolent/Somnolent|Somnolent]], [[02 Places/Rakara/Somnolent/Emberwake Festival|Emberwake Festival]] and [[01 Welcome to Vaelond/Religion/Rakaran Faiths|Rakaran Faiths]].
+
+## Current rumours Ã¢â‚¬â€ Session 26
+
+At the Doro embassy, Ballar heard that **Perfid might be pursuing peace talks** with Doro. These were **unverified political reports**, not confirmation that negotiations are under way or a treaty is agreed:
+
+| House | Reported position â€” *not verified* |
+|---|---|
+| [[02 Places/Doro/Noble Houses/House Nirrell|Nirrell]] | Apparently influential in the initiative; Ballar's father [[03 People/Notable Figures/Xilpeiros Nirrell|Xilpeiros Nirrell]] may gain standing |
+| [[02 Places/Doro/Noble Houses/House Trenhalde|Trenhalde]] | Broadly favourable |
+| [[02 Places/Doro/Noble Houses/House Aequinth|Aequinth]] | Reportedly wary or opposed, regarding Xilpeiros as an upstart; precise motive not established |
+| [[02 Places/Doro/Noble Houses/House Bromere|Bromere]] | Reportedly wary or opposed, regarding Xilpeiros as an upstart; do not link this to other Bromere investigations without evidence |
+
+The cold war and active skirmishes over the Spear and the Maw have **not** been shown to have ended. See [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
 
 ## Related pages
 

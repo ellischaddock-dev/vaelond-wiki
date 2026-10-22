@@ -11,39 +11,32 @@ role: 'Steward'
 current_status: 'alive'
 source: 'Campaign notes and Session 24'
 additional_source: Session 25
-updated: 2026-10-13
+updated: 2026-10-22
 ---
 
 # Derrick Lowgins
 
 ![[Derrick Lowgins.png|260]]
 
-> [!summary] At a glance
-> Terrick Lowgins's brother. His interview raised uncomfortable questions about Terrick's private home life.
+Derrick Lowgins is a steward at the Defracturers' Bastion and the brother of Somnolent hunter [[03 People/Notable Figures/Terrick Lowgins|Terrick Lowgins]]. Quietly capable, particularly with horses, he has nevertheless become the target of frightening behaviour by people with greater power over him.
 
-## Appointment
+## Work and mistreatment
 
-The candidate was interviewed after the Defracturers acquired their Somnolent bastion. Mariasz was appointed Head Steward; the remaining candidates were offered lesser household positions.
+Derrick helped the understaffed town secure mounts and demonstrated a calming touch with animals. He also became entangled in Joe-Seff Gorbels' pastry experiment; when the experiment was disrupted, Gorbels impulsively Hexed him. Gorbels later apologised and Derrick eventually accepted the apology.
 
-## Session 24
+The Defracturers' return brought a worse ordeal. Angered that the Crimson Shield had stayed at the Bastion and that his rooms had been rearranged, Ballar repeatedly forced Derrick's head into a toilet and used healing magic during the assault. Derrick survived but was terrified. The incident sits uneasily beside the protections owed to staff under the party's patronage contract; no formal legal resolution has been recorded.
 
-Derrick proved notably capable with animals while helping secure mounts for Somnolent's reduced authorities, calming the horses and assisting with their preparation.
+## Family and trust
 
-He also became the unintended centre of Joe-Seff Gorbels' pastry experiment. Ghorgadush replaced the pastries Derrick had been told to serve to the Crimson Shield, and when Gorbels later discovered the mistake he lashed out and placed a **Hex** on Derrick. Gorbels immediately regretted the act and apologised; Derrick eventually accepted the apology.
+Terrick later accused Derrick of stealing from his family, a claim not independently confirmed. Ballar's violent intervention injured Terrick and further exposed the household's instability. n'Dong later considered asking Derrick to discreetly deliver a package to two Dazuun fighters but withdrew it before Derrick carried out the errand. Derrick's personal perspective on these events is only partly recorded.
 
-## Session 25 — assault and family accusation
-
-After the Defracturers returned, Ballar blamed Derrick for allowing the Crimson Shield to stay at the Bastion and for changes to his rooms. Ballar dragged Derrick to the bathroom, repeatedly dunked his head in the toilet and used healing magic as part of the ordeal. Derrick survived but was left terrified.
-
-The following morning, Derrick's brother [[03 People/Notable Figures/Terrick Lowgins|Terrick Lowgins]] accused him of stealing from his family. The allegation remains unverified; Ballar also assaulted Terrick while intervening. See [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]].
-
-## Campaign appearances
+## Chronicle references
 
 - [[05 Campaign Chronicle/Session 15 - Stewards, Saddles and Shambling Roots|Session 15 - Stewards, Saddles and Shambling Roots]]
 - [[05 Campaign Chronicle/Session 24 - Pies, Pike and a one ball blaze|Session 24]]
 - [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]]
 
-## Related
+## Related pages
 
 - [[02 Places/Rakara/Somnolent/The Defracturers' Bastion|The Defracturers' Bastion]]
 - [[04 Organisations/The Defracturers|The Defracturers]]

@@ -7,7 +7,7 @@ tags:
   - index
   - documents
   - campaign
-updated: 2026-07-03
+updated: 2026-10-20
 ---
 
 # Letters and Documents
@@ -20,6 +20,7 @@ updated: 2026-07-03
 | [[Anthea Bloodclot's Note on Tace Nox]] | [[03 People/Notable Deceased/Anthea Bloodclot|Anthea Bloodclot]] | Solves the light puzzle and describes the loss of three Crows. |
 | [[Broken Fang Contraband Manifest]] | Unknown | Records Broken Fang deliveries across Somnolent, Orvak, Voruun and Khaali. |
 | [[Broken Fang Camp Sketches]] | Salla and Malt | Provides rough intelligence on Ulsar Quinn's camp and the stolen horses. |
+| [[06 Library/Letters and Documents/Instrument of Patronage and Service|Instrument of Patronage & Service]] | Headman [[03 People/Notable Figures/Romayne Drayton|Romayne Drayton]] | Signed Bastion patronage terms: protections, staff, payments, recovery of goods, duties and termination. |
 
 The three recovered letter images are preserved alongside transcriptions.
 

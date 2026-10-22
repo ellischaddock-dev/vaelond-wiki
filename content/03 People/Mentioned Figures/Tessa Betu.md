@@ -12,21 +12,20 @@ tags:
 region: Erzhin
 source: Session 25
 current_status: Unknown
-updated: '2026-10-13'
+updated: 2026-10-22
 ---
 
 # Tessa Betu
 
-> [!summary] At a glance
-> An Erzhin stonecutter and scholar of ancient law and the Stone Chronicles, identified by the Bastion researchers as a possible connection to Eden Carrion.
+Tessa Betu is an Erzhini stonecutter and scholar of ancient law and the Stone Chronicles. Records assembled by the Bastion researchers indicate that she met [[03 People/Notable Figures/Eden Carrion|Eden Carrion]] about eighteen months before their report, making her a possible source of information in the search for the missing Crows.
 
-## Session 25 lead
+The research also suggested a meeting involving Father Zantos, but Zantos did not recall it. Tessa's location and the significance of either reported connection remain unknown. She is **an investigative lead, not a confirmed Loyal Crow**.
 
-[[03 People/Bastion Staff/Gudren Flint|Gudren Flint]] and [[03 People/Bastion Staff/Caelen Briar|Caelen Briar]] reported that Tessa had met [[03 People/Notable Figures/Eden Carrion|Eden Carrion]] around **eighteen months** earlier. Their research also raised an alleged meeting involving [[03 People/Notable Figures/Father Zantos|Father Zantos]], but Zantos did not recall it.
+## Chronicle references
 
-Neither Tessa's current location nor her actual relationship with the [[04 Organisations/Loyal Crows|Loyal Crows]] has been confirmed. She is **a lead, not a known member**.
+- [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]]
 
-## Related
+## Related pages
 
 - [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]]
 - [[04 Organisations/Loyal Crows|Loyal Crows]]

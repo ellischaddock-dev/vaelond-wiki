@@ -13,7 +13,7 @@ tags:
   - campaign
 region: Rakara
 settlement: Somnolent
-updated: 2026-07-05
+updated: 2026-10-20
 ---
 
 # The Drowsy Coin
@@ -34,6 +34,10 @@ The Drowsy Coin has served as one of the Defracturers' main bases in [[02 Places
 - Enrak celebrated songs about the party at the inn.
 - Ballar rented a suite, while Enrak rented a standard room.
 - The cellar became connected to the discovery of [[06 Library/Relics and Artefacts/Verei's Shattered Mask|Verei's Shattered Mask]].
+
+## Session 26 — Ballar’s rooms
+
+On returning after several weeks’ absence with an unpaid bill and the key still in his possession, Ballar found that the Drowsy Coin had changed the penthouse locks and recovered the charge through Doro. He could rent a lesser room but no longer had access to the penthouse. His delayed pay from Doro was insufficient to offset the bill and lock replacement; he was left owing **ten gold**. See [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
 
 ## Related
 

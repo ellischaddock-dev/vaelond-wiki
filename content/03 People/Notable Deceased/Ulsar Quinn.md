@@ -17,48 +17,40 @@ role: 'Broken Fang commander and one of the Fangs'
 current_status: 'deceased'
 last_known_location: 'Broken Fang camp near Rana Viam'
 source: 'Sessions 19-21'
-updated: 2026-10-03
+updated: 2026-10-22
 ---
 
 # Ulsar Quinn
 
 ![[Ulsar Quinn.png|260]]
 
-> [!summary] At a glance
-> A Broken Fang commander known as **the Glass Fang**, one of Prodosius's trusted Fangs, tied directly to n'Dong's enslavement and killed when the Defracturers destroyed his camp near Rana Viam.
+Ulsar Quinn, known as **the Glass Fang**, served as one of Prodosius's commanders in the Broken Fang. He once commanded the unit in which n'Dong was enslaved. Their eventual reunion near Rana Viam brought n'Dong's former captivity into direct conflict with the life he had built among the Defracturers.
 
-## Known details
+## The Glass Fang
 
-- Ulsar was one of the Broken Fang commanders known as **the Fangs**, trusted advisors and enforcers of [[03 People/Notable Figures/Prodosius|Prodosius]].
-- He once commanded the Broken Fang unit in which [[03 People/Player Characters/n'Dong|n'Dong]] was forced to serve.
-- His command predates n'Dong's disastrous expedition into an Ardynian ruin, transformation and eventual escape.
-- Scouts confronted outside [[02 Places/Rakara/Rana Viam|Rana Viam]] named Ulsar when n'Dong demanded to know who was responsible for taking the party's horses.
-- Ulsar used the sending stone recovered from the dead Broken Fang party in Rana Viam to contact n'Dong directly.
-- During the parley at his camp, Ulsar tried to humiliate n'Dong by casting **Command** and ordering him to grovel.
-- Ulsar demanded either the [[Bands of Distortion|Bands of Distortion]] or the heart stone that tethered them in exchange for Mireya and the party's horses.
-- He claimed that possessing either the Bands or the heart stone would be enough, because a failed attunement to the Bands would return them to the heart stone.
-- He revealed that [[03 People/Mentioned Figures/Rhul Slowdrift|Rhul Slowdrift]] had taken control of the fighting pits in [[02 Places/Rakara/Voruun/Dazuun|Dazuun]], the capital of Voruun.
-- He claimed three [[02 Places/Rakara/Clans/Clan Khaali|Khaali]] alchemists were producing [[06 Library/Campaign Reference/Dragon's Dandruff|Dragon's Dandruff]] for Rhul's pit operation from a lab south of [[02 Places/Rakara/Somnolent/Somnolent|Somnolent]].
-- He believed that killing Rhul or destroying Rhul's Rakaran operation would likely draw Prodosius into the open.
-- Ulsar was brought down during the battle at his camp, and his body was later destroyed by n'Dong's acid as [[03 People/Notable Deceased/Talan Rook|Talan Rook]] attempted to carry it away.
+As one of the Fangs, Ulsar exercised authority on behalf of Prodosius. His command predates n'Dong's expedition into an Ardynian ruin, subsequent transformation and eventual escape. Ulsar's scouts confronted the party after its exploration of [[02 Places/Rakara/Rana Viam|Rana Viam]], and he contacted n'Dong using a sending stone previously recovered from Broken Fang dead in the ruin.
 
-## Death
+Ulsar seized the party's horses and used Mireya Dinak as leverage, demanding the [[06 Library/Ardynian Relics and Artefacts/Bands of Distortion|Bands of Distortion]] or their heart stone. He explained that the stone could recall the Bands after failed attunement. During negotiations he tried to reassert his old authority over n'Dong by commanding him to grovel.
 
-The parley with Ulsar collapsed when the party attempted to free the horses and rescue [[03 People/Notable Figures/Mireya Dinak|Mireya Dinak]]. The camp erupted into open battle. Ulsar badly injured Ballar, survived a devastating Chromatic Orb from n'Dong, and was finally dropped by Erelmor's Ray of Sickness.
+## Rivalries and disclosures
 
-[[03 People/Notable Deceased/Talan Rook|Talan Rook]] tried to recover Ulsar's body and flee. n'Dong prevented this with a massive acid attack, destroying Ulsar's corpse and killing Talan as well.
+Ulsar loathed fellow Broken Fang leader [[03 People/Notable Figures/Rhul Slowdrift|Rhul Slowdrift]]. He claimed Rhul had taken control of the fighting pits of Dazuun and was supplied by three Khaali alchemists producing [[06 Library/Campaign Reference/Dragon's Dandruff|Dragon's Dandruff]] south of Somnolent. He also suggested that striking Rhul would provoke Prodosius. His statements supplied important leads but are not independently conclusive in every detail.
 
-## Campaign appearances
+## Fall at the camp
+
+Negotiations collapsed when the Defracturers moved to recover the horses and free Mireya. During the battle Ulsar seriously injured Ballar and withstood a powerful attack from n'Dong before being brought down by Erelmor's Ray of Sickness. [[03 People/Notable Deceased/Talan Rook|Talan Rook]] tried to carry his body away, but an acid attack by n'Dong killed Talan and destroyed Ulsar's corpse. The ruined camp was left burning; Mireya was killed in the fire, and her body was subsequently preserved for possible restoration.
+
+## Chronicle references
 
 - [[05 Campaign Chronicle/Session 19 - Bands, Broken Stone and the Glass Fang|Session 19]]
 - [[05 Campaign Chronicle/Session 20 - Plague, Pursuit and Plan E|Session 20]]
 - [[05 Campaign Chronicle/Session 21 - Contracts, Command, and a Burning Camp|Session 21]]
 
-## Related
+## Related pages
 
 - [[04 Organisations/Broken Fang|Broken Fang]]
 - [[03 People/Player Characters/n'Dong|n'Dong]]
-- [[03 People/Mentioned Figures/Rhul Slowdrift|Rhul Slowdrift]]
+- [[03 People/Notable Figures/Rhul Slowdrift|Rhul Slowdrift]]
 - [[03 People/Notable Figures/Prodosius|Prodosius]]
 - [[Bands of Distortion|Bands of Distortion]]
 - [[02 Places/Rakara/Rana Viam|Rana Viam]]

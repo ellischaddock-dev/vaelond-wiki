@@ -14,7 +14,7 @@ tags:
 region: Doro
 rank: Great House
 ancestry: High elf
-updated: 2026-07-05
+updated: 2026-10-20
 ---
 
 # House Aequinth
@@ -37,6 +37,10 @@ It controls much of Doro's merchant banking and bonded caravan network. Aequinth
 ## Campaign significance
 
 Aequinth's banking and caravan networks make it one of the houses most capable of exerting pressure without appearing to take sides.
+
+## Reported position Ã¢â‚¬â€ Session 26
+
+Aequinth was described as **wary or opposed** to the rumoured peace initiative, partly in connection with doubts about the rising influence of [[03 People/Notable Figures/Xilpeiros Nirrell|Xilpeiros Nirrell]]. Its official policy and precise reasons remain **unverified**. See [[01 Welcome to Vaelond/The Powers That Be#Current rumours â€” Session 26|The Powers That Be]] and [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
 
 ## Related pages
 

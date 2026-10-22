@@ -254,7 +254,7 @@ tags:
   - elgira
 region: Perfid
 perspective: official doctrine with historical note
-updated: 2026-07-01
+updated: 2026-10-20
 ---
 
 # The Faith of Elgira
@@ -264,7 +264,10 @@ updated: 2026-07-01
 The institution is most commonly called the **Church of Elgira**, though **Church of the Saviour**, **Saviour's Church** and **Faith of Elgira** are established aliases.
 
 > [!info] Perfidian doctrine
-> The Church teaches that Elgira sacrificed herself during the Battle of the Vale and became divine in that same perfect act. Surviving historical evidence instead indicates that she emerged from the battle transformed, having absorbed far more life and time energy than the sealing ritual was meant to draw, and ascended shortly afterwards. The Church's doctrine turned that terrible miscalculation into a story of deliberate sacrifice.
+> The Church teaches that Elgira sacrificed herself during the Battle of the Vale, her divinity arising from that single perfect sacrifice. This is the **public religious account**, not a neutral description of the ritual.
+
+> [!note] Revealed to the Defracturers â€” Session 25
+> Elmwood activated a recovered Ardynian scroll using probable Sanguis Aevi. The party experienced a memory from Elgira's perspective showing that the sealing drew far more life and time than anticipated and devastated the rebel host. The memory ended with Elgira transformed and foreshadowed her later ascension. This is **recently discovered evidence available to the party and Elmwood**, not established public doctrine or proof that ordinary historians already know the truth. See [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]] and [[01 Welcome to Vaelond/The Sundering of Ardynia|The Sundering of Ardynia]].
 
 Perfid worships **Elgira** alone. Once an Ardynian general, she betrayed her empire to save the wider world and later rose to godhood. She is revered as a symbol of righteous rebellion, sacrifice, vigilance and protection.
 
@@ -279,28 +282,28 @@ Her four surviving generals are revered as **saints**, not gods. Each represents
 **Virtue:** Duty, Watchfulness, Endurance  
 **Symbol:** An open eye on a gauntlet
 
-> *â€œStand, even when others sleep.â€*
+> *Ã¢â‚¬Å“Stand, even when others sleep.Ã¢â‚¬Â*
 
 ### Saint Erith of the Silent Tongue
 
 **Virtue:** Discretion, Self-Control, Bearing Burdens  
 **Symbol:** A closed mouth encircled by thorns
 
-> *â€œSpeak only what must be spoken.â€*
+> *Ã¢â‚¬Å“Speak only what must be spoken.Ã¢â‚¬Â*
 
 ### Saint Marra of the Merciful Blade
 
 **Virtue:** Compassion, Justice in War, Remorse  
 **Symbol:** A weeping sword
 
-> *â€œEvery life taken is a wound on the soul.â€*
+> *Ã¢â‚¬Å“Every life taken is a wound on the soul.Ã¢â‚¬Â*
 
 ### Saint Desmon of the Bound Faith
 
 **Virtue:** Humility, Devotion, Selflessness  
 **Symbol:** A bound scroll without a name
 
-> *â€œForget the self, remember the purpose.â€*
+> *Ã¢â‚¬Å“Forget the self, remember the purpose.Ã¢â‚¬Â*
 
 ## Related pages
 
@@ -583,14 +586,14 @@ regions:
   - Doro
   - Minir
   - Rakara
-updated: 2026-07-05
+updated: 2026-10-20
 ---
 
 # The Powers That Be
 
 ## Perfid
 
-Perfid is locked in a perpetual **cold war with Doro**, both sides trading steel and spellfire over a harsh, blood-soaked stretch of contested land known as **the Spear and the Maw**â€”a narrow peninsula and canyon that neither side can afford to lose.
+Perfid is locked in a perpetual **cold war with Doro**, both sides trading steel and spellfire over a harsh, blood-soaked stretch of contested land known as **the Spear and the Maw**Ã¢â‚¬â€a narrow peninsula and canyon that neither side can afford to lose.
 
 Within its borders, Perfid is caught in a fraught stalemate between church and state. The **[[04 Organisations/Church of Elgira|Church of Elgira]]** holds vast spiritual and social power, while the government and military under **House d'Eamon** push for greater secular control.
 
@@ -628,6 +631,19 @@ One year ago, Anthea was murdered near [[02 Places/Rakara/Somnolent/Somnolent|So
 
 See also: [[02 Places/Rakara/Rakara|Rakara]], [[02 Places/Rakara/Rakara - Background|Rakara - Background]], [[02 Places/Rakara/Rakara's Regions and Clans|Rakara's Regions and Clans]], [[02 Places/Rakara/Somnolent/Somnolent|Somnolent]], [[02 Places/Rakara/Somnolent/Emberwake Festival|Emberwake Festival]] and [[01 Welcome to Vaelond/Religion/Rakaran Faiths|Rakaran Faiths]].
 
+## Current rumours Ã¢â‚¬â€ Session 26
+
+At the Doro embassy, Ballar heard that **Perfid might be pursuing peace talks** with Doro. These were **unverified political reports**, not confirmation that negotiations are under way or a treaty is agreed:
+
+| House | Reported position â€” *not verified* |
+|---|---|
+| [[02 Places/Doro/Noble Houses/House Nirrell|Nirrell]] | Apparently influential in the initiative; Ballar's father [[03 People/Mentioned Figures/Xilpeiros Nirrell|Xilpeiros Nirrell]] may gain standing |
+| [[02 Places/Doro/Noble Houses/House Trenhalde|Trenhalde]] | Broadly favourable |
+| [[02 Places/Doro/Noble Houses/House Aequinth|Aequinth]] | Reportedly wary or opposed, regarding Xilpeiros as an upstart; precise motive not established |
+| [[02 Places/Doro/Noble Houses/House Bromere|Bromere]] | Reportedly wary or opposed, regarding Xilpeiros as an upstart; do not link this to other Bromere investigations without evidence |
+
+The cold war and active skirmishes over the Spear and the Maw have **not** been shown to have ended. See [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
+
 ## Related pages
 
 - [[01 Welcome to Vaelond/index]]
@@ -654,23 +670,25 @@ tags:
   - history
   - ardynia
   - elgira
-perspective: Surviving history, later reconstruction and church tradition
-certainty: partially reconstructed
+perspective: Public traditions and revelations to the Defracturers in Session 25
+certainty: Public history disputed; witnessed memory in Session 25
 related:
   - Perfidian Faith
-updated: 2026-07-01
+updated: 2026-10-20
 ---
 
 # The Sundering of Ardynia
 
 ## The Last Dusk of Ardynia
 
-*As preserved in the oldest hymns of the Church of Elgira, fragments of the Broken Annals and later historical reconstruction.*
+*Public legend, surviving records, and the Defracturers' subsequent discovery are separated below.*
 
-> [!info] A remembered history
-> The broad events are accepted, but much of the final ritual was hidden, misunderstood or deliberately turned into religious symbolism.
+> [!info] What was known before Session 25
+> The Church of Elgira presented the battle as a deliberate, perfect sacrifice; Ardynia's disappearance and the veneration of the Ashen Choir were widely remembered. The exact ritual and its cost were not established public knowledge. The Defracturers learned crucial details only through a recovered scroll in [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]].
 
-In the age before reckoning, when the sky cracked with sorcery and the stones wept beneath the weight of empire, there came a woman cloaked in ash and resolve. Her name was **Elgira**, once a scholar-general of Ardyniaâ€”the gleaming bastion of knowledge, ambition and cruel eternity.
+### The remembered battle
+
+In the age before reckoning, when the sky cracked with sorcery and the stones wept beneath the weight of empire, there came a woman cloaked in ash and resolve. Her name was **Elgira**, once a scholar-general of ArdyniaÃ¢â‚¬â€the gleaming bastion of knowledge, ambition and cruel eternity.
 
 Ardynia had ceased to conquer for need. It conquered for permanence. Obsessed with escaping death, its rulers traded in years as coin and stripped time from other peoples. What they could not consume, they entombed. The land groaned beneath engines of stasis that reshaped hills, dried rivers and imprisoned living things outside the natural passage of time.
 
@@ -680,13 +698,17 @@ The final battle was fought beneath **Moonshadow Crag**, in the shadow of **the 
 
 Then all fell quiet.
 
-## The terrible calculation
+## The terrible calculation â€” revealed in Session 25
+
+> [!important] Source of this account
+> Elmwood activated the [[06 Library/Ardynian Relics and Artefacts/Tace Nox scroll|Tace Nox scroll]] with a drop of green [[06 Library/Ardynian Relics and Artefacts/Time Juice|Time Juice]], identified as probable **Sanguis Aevi**. The Defracturers and Elmwood experienced a shared memory through Elgira's eyes. This section records what that extraordinary vision revealed to them, **not what the general population or all historians already know**. The vision involved the five Crowns of Infinity (Coronas of the Ashen Choir) and five other Sundering artefacts. Details not directly resolved by the vision remain interpretive.
+
 
 Elgira's final plan required an impossible quantity of life and time energy. The army had volunteered to sustain the sealing ritual, but the power required had been catastrophically underestimated. When the ritual took hold, it drew far more from the rebel host than Elgira intended.
 
 The ten thousand were consumed.
 
-Ardyniaâ€”its capital, armies and heartlandsâ€”vanished behind a temporal seal. It was not destroyed, but removed from the ordinary world and held beyond reach.
+ArdyniaÃ¢â‚¬â€its capital, armies and heartlandsÃ¢â‚¬â€vanished behind a temporal seal. It was not destroyed, but removed from the ordinary world and held beyond reach.
 
 Elgira and her four generals emerged from the silence hollow-eyed and changed. Elgira had absorbed an immense portion of the released life and time energy. She survived the battle, but no longer as an ordinary mortal. Shortly afterwards, the transformation completed and she ascended to godhood.
 
@@ -705,13 +727,17 @@ Her four generals became saints:
 - **Saint Marra of the Merciful Blade**, patron of compassion, justice in war and remorse.
 - **Saint Desmon of the Bound Faith**, exemplar of devotion and surrender of the self.
 
-The ten thousand were remembered as the **Ashen Choir**: martyrs whose lives sustained the sealing of Ardynia. Church teaching presents their deaths as willing and perfectly measured. The surviving historical fragments suggest something much more tragic.
+The ten thousand were remembered as the **Ashen Choir**: martyrs whose lives sustained the sealing of Ardynia. Church teaching presents their deaths as willing and perfectly measured. The shared memory witnessed in Session 25 presents a far more tragic account.
+
+## What the revelation changes
+
+After the memory, Elmwood identified [[03 People/Notable Deceased/Anthea Bloodclot|Anthea Bloodclot]] as Saint Marra. n'Dong recognised a likeness of Saint Erith in a portrait of Minir's first Arc Master. These discoveries are **known to the Defracturers and those present**, and should not be treated as universally known history. See [[06 Library/Ardynian Relics and Artefacts/Tace Nox scroll|Tace Nox scroll]] and [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]].
 
 ## Legacy and omen
 
 Ardynia remains sealed rather than destroyed. Cracks in time, cold winds beneath stone and impossible ruins are treated as signs that the old prison may not be permanent.
 
-The Church teaches that Elgira watches from beyond the mortal world. Historians agree on less, but most accept one warning left by those who survived the Vale:
+The Church teaches that Elgira watches from beyond the mortal world. The party also has reason to believe that the ancient warning remains relevant:
 
 **Ardynia can return.**
 
@@ -1036,7 +1062,7 @@ tags:
 region: Doro
 rank: Great House
 ancestry: High elf
-updated: 2026-07-05
+updated: 2026-10-20
 ---
 
 # House Aequinth
@@ -1059,6 +1085,10 @@ It controls much of Doro's merchant banking and bonded caravan network. Aequinth
 ## Campaign significance
 
 Aequinth's banking and caravan networks make it one of the houses most capable of exerting pressure without appearing to take sides.
+
+## Reported position Ã¢â‚¬â€ Session 26
+
+Aequinth was described as **wary or opposed** to the rumoured peace initiative, partly in connection with doubts about the rising influence of [[03 People/Mentioned Figures/Xilpeiros Nirrell|Xilpeiros Nirrell]]. Its official policy and precise reasons remain **unverified**. See [[01 Welcome to Vaelond/The Powers That Be#Current rumours â€” Session 26|The Powers That Be]] and [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
 
 ## Related pages
 
@@ -1135,7 +1165,7 @@ tags:
 region: Doro
 rank: Great House
 ancestry: Human
-updated: 2026-07-05
+updated: 2026-10-20
 ---
 
 # House Bromere
@@ -1158,6 +1188,10 @@ Bromere leads more skirmishes across the Maw than any other house. Its prestige 
 ## Campaign significance
 
 A House Bromere favour coin became part of the trail connecting [[03 People/Notable Deceased/Buggie|Buggie]], the [[04 Organisations/Loyal Crows|Loyal Crows]] and [[03 People/Notable Deceased/Alistair Prusset|Alistair Prusset]]. [[03 People/Notable Figures/Ouin Brond|Ouin Brond]] identified the coin, and [[03 People/Notable Figures/Ervain Megbanas|Ervain Megbanas]] had once owned it before losing it to [[03 People/Notable Figures/Eden Carrion|Eden Carrion]] in a dice game.
+
+## Reported position Ã¢â‚¬â€ Session 26
+
+Bromere was described as **wary or opposed** to a rumoured peace initiative, and uneasy with the potential influence of [[03 People/Mentioned Figures/Xilpeiros Nirrell|Xilpeiros Nirrell]]. This **unverified report** does not establish a connection to unrelated Bromere-associated investigations. See [[01 Welcome to Vaelond/The Powers That Be#Current rumours â€” Session 26|The Powers That Be]] and [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
 
 ## Related pages
 
@@ -1482,7 +1516,7 @@ tags:
 region: Doro
 rank: Lesser family
 ancestry: High elf
-updated: 2026-07-05
+updated: 2026-10-20
 ---
 
 # House Nirrell
@@ -1507,6 +1541,12 @@ It maintains a powerful but concealed hand in capital politics, blackmailing or 
 [[03 People/Player Characters/Ballar Novis|Ballar Novis]] is a third son of House Nirrell. His place within the family is shaped by noble status without a clear inheritance, leaving him with privilege, expectation and uncertainty rather than an obvious dynastic future.
 
 House Nirrell's reputation for espionage and secrets also places it close to wider questions around Doroan power, the Old Grey Pike and the unresolved truth behind [[02 Places/Doro/Ashenhom|Ashenhom]].
+
+## Reported peace initiative Ã¢â‚¬â€ Session 26
+
+Nirrell was reported to be influential in a possible initiative for peace with Perfid; Ballar heard that his father, [[03 People/Mentioned Figures/Xilpeiros Nirrell|Xilpeiros Nirrell]], might gain political influence. His actual involvement remains **unverified**. See [[01 Welcome to Vaelond/The Powers That Be#Current rumours â€” Session 26|The Powers That Be]] and [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
+
+Xilpeiros wrote to Ballar expressing disapproval of his departure from diplomatic service but later asking for his view of Somnolent politics. See [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
 
 ## Related pages
 
@@ -1687,7 +1727,7 @@ tags:
 region: Doro
 rank: Great House
 ancestry: Human
-updated: 2026-07-05
+updated: 2026-10-20
 ---
 
 # House Trenhalde
@@ -1710,6 +1750,10 @@ Its prestige rises and falls with ore exports. Trenhalde frequently backs war le
 ## Campaign significance
 
 Trenhalde's ability to supply campaigns in the Maw makes it one of the houses most capable of shaping military decisions without personally commanding the battlefield.
+
+## Reported position Ã¢â‚¬â€ Session 26
+
+Trenhalde was described as **broadly favourable** to possible peace discussions with Perfid. This is an **unverified report**, not a formal endorsement or evidence of concluded talks. See [[01 Welcome to Vaelond/The Powers That Be#Current rumours â€” Session 26|The Powers That Be]] and [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
 
 ## Related pages
 
@@ -2168,7 +2212,7 @@ region: Rakara
 clan: Temir
 leader: Avaz
 source_date: 2025-07-06
-updated: 2026-07-01
+updated: 2026-10-20
 ---
 
 # Clan Temir
@@ -2226,6 +2270,10 @@ Temir remains powerful but increasingly restless. While the clan respects Anthea
 
 > [!question] Unconfirmed
 > Several merchant convoys have disappeared amid the Temirâ€“Voruun dispute. Neither clan publicly accepts responsibility.
+
+## Upcoming tournament â€” Session 26
+
+Ballar heard that the [[04 Organisations/Crimson Shield|Crimson Shield]] were travelling towards Temir for a forthcoming **Wavecutter tournament**. The event was reported as forthcoming, but no date, venue or confirmation of the companyâ€™s participation has been recorded. See [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
 
 ## Related pages
 
@@ -2691,7 +2739,7 @@ territory: Clan Orvak
 current_status: partially explored
 source: Sessions 17-21
 additional_source: Session 25
-updated: 2026-10-13
+updated: 2026-10-20
 ---
 
 # Rana Viam
@@ -2706,7 +2754,7 @@ updated: 2026-10-13
 | **Known builders or users** | Ardynian Chronarchs |
 | **Distance from Somnolent** | About two to three days by horse |
 | **Distance from Hushvale** | About half a day by horse |
-| **Explored** | Sessions 17â€“19 |
+| **Explored** | Sessions 17Ã¢â‚¬â€œ19 |
 | **Relic recovered** | Bands of Distortion |
 
 ## Approach and entrance
@@ -2751,13 +2799,13 @@ A sealed Ardynian scroll was also recovered.
 - It is not clear whether every chamber or function of Rana Viam has been discovered.
 
 > [!question] Unresolved
-> - What does the sealed Rana Viam scroll contain? The **separate Tace Nox scroll** was opened in Session 25.
+> - What does the sealed [[06 Library/Ardynian Relics and Artefacts/Rana Viam scroll|Rana Viam scroll]] contain? The **separate Tace Nox scroll** was opened in Session 25; no contents or current holder of this scroll are yet recorded.
 > - Are there unexplored chambers or active mechanisms remaining?
 > - Why had the Broken Fang been searching the site?
 > - What are the full properties of the heart stone and the Bands?
 > - Who originally designed the crossing trial and what was it intended to teach?
 
-## Further assessment â€” Session 25
+## Further assessment Ã¢â‚¬â€ Session 25
 
 After returning to Somnolent, the Defracturers showed the [[06 Library/Ardynian Relics and Artefacts/Bands of Distortion|Bands of Distortion]] to Elmwood. He identified defensive time-shifting, a damaging area of temporal distortion, a means of altering an attack into a critical outcome, **five charges** and a degree of replenishment after a long rest. Attunement remains unresolved. The **Rana Viam scroll** remains unopened; it is distinct from the Tace Nox scroll activated in Session 25. See [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]].
 
@@ -2849,7 +2897,7 @@ tags:
   - campaign
 region: Rakara
 settlement: Somnolent
-updated: 2026-07-05
+updated: 2026-10-20
 ---
 
 # The Drowsy Coin
@@ -2870,6 +2918,10 @@ The Drowsy Coin has served as one of the Defracturers' main bases in [[02 Places
 - Enrak celebrated songs about the party at the inn.
 - Ballar rented a suite, while Enrak rented a standard room.
 - The cellar became connected to the discovery of [[06 Library/Relics and Artefacts/Verei's Shattered Mask|Verei's Shattered Mask]].
+
+## Session 26 â€” Ballarâ€™s rooms
+
+On returning after several weeksâ€™ absence with an unpaid bill and the key still in his possession, Ballar found that the Drowsy Coin had changed the penthouse locks and recovered the charge through Doro. He could rent a lesser room but no longer had access to the penthouse. His delayed pay from Doro was insufficient to offset the bill and lock replacement; he was left owing **ten gold**. See [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
 
 ## Related
 
@@ -3196,31 +3248,49 @@ tags:
   - bastion
   - somnolent
 location: Somnolent
-source: Campaign notes and session chronicle through Session 25
-updated: 2026-10-13
+source: Signed Instrument of Patronage & Service and session chronicle through Session 26
+updated: 2026-10-20
 ---
 
 # The Defracturers' Bastion
 
 The party's headquarters occupies the former Perfid embassy in [[02 Places/Rakara/Somnolent/Somnolent|Somnolent]]. It was granted to the Defracturers after they entered [[03 People/Notable Figures/Romayne Drayton|Romayne Drayton's]] patronage and assaulted the embassy to rescue [[03 People/Notable Figures/Terrick Lowgins|Terrick Lowgins]].
 
+## Patronage and rules
+
+The company holds the Bastion as the **exclusive residence and operational base for the duration of its patronage**, not as an unconditional transfer of ownership. The [[06 Library/Letters and Documents/Instrument of Patronage and Service|Instrument of Patronage & Service]] sets out the precise legal position.
+
+| Subject | Contract position |
+|---|---|
+| **Patron** | [[03 People/Notable Figures/Romayne Drayton|Romayne Drayton]] acting for Somnolent (Sections 1â€“2) |
+| **Base and ordinary costs** | Residence, basic staff, routine maintenance, basic food and drink on the premises (Section 3) |
+| **Monthly stipend** | Handwritten amount appears to be **1,000 gold per month for the company**; consult the signed copy to verify (Section 7.1) |
+| **Immunity** | Ambassador-equivalent **within Somnolent**, with serious limits and emergency-entry exception (Section 4) |
+| **Assignment refusal** | Explicit right of refusal for defined dangers, betrayals, disproportionate harm or oaths, with reasons/counterproposal (Section 8) |
+| **Ordinary loot** | Coins and common items acquired on commission remain with the party (first Section 7.3) |
+| **Unusual or magical loot** | Uncommon/rare/wondrous finds require declaration within **24 hours of return**; unknown magic needs approved study and interim Silent Court custody (second Section 7.3 and Section 7.4) |
+| **Saleable property** | Patron exchange **60%** of fair value; lawful sale: party keeps **70% of proceeds or half of fair face value, whichever is higher**; account/remit remainder within seven days (Section 7.3) |
+| **Conduct and termination** | Staff abuse prohibited; a formally declared Rogue Act can suspend immunity and support immediate termination (Sections 10â€“11) |
+
+The contract also provides a three-day walk-away period, an eligible prior-offences pardon covering the 24 hours preceding signature, post-grace termination notice and post-termination handover/financial provisions. The full qualifications are on the linked document page.
+
 ## Household leadership
 
-- [[03 People/Bastion Staff/Mariasz Salhum|Mariasz Salhum]] â€” Head Steward
+- [[03 People/Bastion Staff/Mariasz Salhum|Mariasz Salhum]] Ã¢â‚¬â€ Head Steward
 
 ## Other staff
 
-- [[03 People/Bastion Staff/Joe-Seff Gorbels|Joe-Seff Gorbels]] â€” Cook and coffee mage
-- [[03 People/Bastion Staff/Igon Duft|Igon Duft]] â€” Cook
-- [[03 People/Bastion Staff/Derrick Lowgins|Derrick Lowgins]] â€” Steward
-- [[03 People/Bastion Staff/Ghorgadush|Ghorgadush]] â€” Steward
+- [[03 People/Bastion Staff/Joe-Seff Gorbels|Joe-Seff Gorbels]] Ã¢â‚¬â€ Cook and coffee mage
+- [[03 People/Bastion Staff/Igon Duft|Igon Duft]] Ã¢â‚¬â€ Cook
+- [[03 People/Bastion Staff/Derrick Lowgins|Derrick Lowgins]] Ã¢â‚¬â€ Steward
+- [[03 People/Bastion Staff/Ghorgadush|Ghorgadush]] Ã¢â‚¬â€ Steward
 
 ## Research support
 
 During the Defracturers' extended absence, two additional researchers were attached to the Bastion:
 
-- [[03 People/Bastion Staff/Gudren Flint|Gudren Flint]] â€” a meticulous clerk supplied by [[03 People/Notable Figures/Alaaric Hammerfall|Alaaric Hammerfall]].
-- [[03 People/Bastion Staff/Caelen Briar|Caelen Briar]] â€” [[03 People/Notable Figures/Elmwood Bluevine|Elmwood Bluevine]]'s apprentice mage.
+- [[03 People/Bastion Staff/Gudren Flint|Gudren Flint]] Ã¢â‚¬â€ a meticulous clerk supplied by [[03 People/Notable Figures/Alaaric Hammerfall|Alaaric Hammerfall]].
+- [[03 People/Bastion Staff/Caelen Briar|Caelen Briar]] Ã¢â‚¬â€ [[03 People/Notable Figures/Elmwood Bluevine|Elmwood Bluevine]]'s apprentice mage.
 
 They were assigned to search for [[03 People/Notable Figures/Eden Carrion|Eden Carrion]] and [[03 People/Notable Figures/Summer Quaresh|Summer Quaresh]]. Their work connected a reported sighting with old records describing a region where magic is naturally dampened.
 
@@ -3232,6 +3302,7 @@ The session chronicle mentions:
 - Two workshops
 - A chapel or sanctuary
 - A library
+- A crypt (**n'Dong established a shrine to Verei here in Session 25**)
 - Household and diplomatic space inherited from the former embassy
 
 Initial assignments included preparing uniforms and researching the Loyal Crows, while the sanctuary was initially left idle.
@@ -3251,15 +3322,23 @@ During that period they:
 
 The staff also began to function more like a genuine household team, despite Joe-Seff Gorbels' pastry experiments culminating in him Hexing Derrick and Ghorgadush subsequently placing an Alarm over the kitchen.
 
-## The party returns â€” Session 25
+## The party returns Ã¢â‚¬â€ Session 25
 
 The Defracturers returned to the Bastion after several weeks. Gudren Flint and Caelen Briar presented three research trails concerning the Loyal Crows, while n'Dong established a **shrine to Verei in the crypt** and received a powerful blessing whose full terms are not recorded.
 
-Ballar reacted violently to learning that the Crimson Shield had stayed as guests and that his belongings had been rearranged. He repeatedly dunked steward [[03 People/Bastion Staff/Derrick Lowgins|Derrick Lowgins]] in the toilet, healing him as necessary, and subsequently attacked Derrick's brother Terrick. Ballar also objected to guests being admitted without his permission. The mistreatment raises potential problems under the Bastion's existing obligations, but no formal sanction or contract breach has yet been adjudicated.
+Ballar reacted violently to learning that the Crimson Shield had stayed as guests and that his belongings had been rearranged. He repeatedly dunked steward [[03 People/Bastion Staff/Derrick Lowgins|Derrick Lowgins]] in the toilet, healing him as necessary, and subsequently attacked Derrick's brother Terrick. Ballar also objected to guests being admitted without his permission. The contract expressly forbids abuse of staff or civilians (Section 10.1); whether and how the Patron will respond is unresolved. **No formal Rogue Act declaration, suspension of immunity or termination is recorded.** See [[06 Library/Letters and Documents/Instrument of Patronage and Service|Instrument of Patronage & Service]].
 
 See [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]].
 
+## Session 26 Ã¢â‚¬â€ arrangements and the deputyÃ¢â‚¬â„¢s collapse
+
+During the partyÃ¢â‚¬â„¢s return to Somnolent, Erelmor arrived from the Sixhalls brawl believing the Bastion was in danger and had staff barricade its entrances; no attack followed. nÃ¢â‚¬â„¢Dong briefly tried to use [[03 People/Bastion Staff/Derrick Lowgins|Derrick Lowgins]] to deliver a sealed parcel to [[03 People/Mentioned Figures/Yama and Spopovich|Yama and Spopovich]], but retrieved it when he realised Derrick would not keep the arrangement secret.
+
+The party kept the [[06 Library/Ardynian Relics and Artefacts/Bands of Distortion|Bands of Distortion]] rather than handing them to the household. At the end of the session, [[03 People/Notable Figures/Gayle Bramble|Gayle Bramble]] collapsed unconscious and injured on the steps as [[03 People/Bastion Staff/Joe-Seff Gorbels|Joe-Seff Gorbels]] opened the door. What happened on her mission is not yet known. See [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
+
 ## Related
+
+- [[06 Library/Letters and Documents/Instrument of Patronage and Service|Instrument of Patronage & Service]]
 
 - [[04 Organisations/The Defracturers|The Defracturers]]
 - [[03 People/index#Bastion staff|Bastion staff]]
@@ -3289,7 +3368,7 @@ region: Rakara
 current_status: partially explored
 source: Sessions 3, 4 and 7
 additional_source: Session 25
-updated: 2026-10-13
+updated: 2026-10-20
 ---
 
 # Tace Nox
@@ -3370,6 +3449,12 @@ The party emerged into the aftermath of the [[02 Places/Rakara/Thistlewound|This
 ## Aftermath â€” the scroll opened
 
 In Session 25, Elmwood Bluevine activated the sealed [[06 Library/Ardynian Relics and Artefacts/Tace Nox scroll|Tace Nox scroll]] using probable Sanguis Aevi. It drew the party into Elgira's memory of the Sundering and revealed that the [[06 Library/Ardynian Relics and Artefacts/Staff of Broken Time|Staff of Broken Time]] they saw in Tace Nox was the staff Elgira carried in the ritual. The staff remains unrecovered from the ruin. See [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]].
+
+## Session 26 â€” possible hidden anchor
+
+Drawing on the known connection between the Bands of Distortion and their heart stone, the party wondered if another **keystone or anchor** remains concealed in Tace Nox and prevents removal of the Staff of Broken Time. This is an investigative theory only; no keystone for the staff has yet been found.
+
+Ballar also sent an owl, mastiff and bear created from his Bag of Tricks towards the site to find **a goblin who escaped the partyâ€™s custody about one month previously** and return that goblin alive. This search is **separate from Maltâ€™s release with Bushtache**. No outcome has been recorded. See [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
 
 ## Campaign appearances
 
@@ -3505,7 +3590,7 @@ region: Rakara
 territory: Clan Voruun
 current_status: Broken Fang influence confirmed
 source: Session 21
-updated: 2026-07-08
+updated: 2026-10-20
 ---
 
 # Dazuun
@@ -3537,6 +3622,12 @@ Ulsar believed that killing Rhul or destroying his Rakaran operation would likel
 > - How widely is Dragon's Dandruff being used by pit contestants?
 > - Does Clan Voruun know Rhul controls the pits, and if so, does anyone approve?
 > - Would damaging the Dazuun operation truly force Prodosius to respond personally?
+
+## Session 26 â€” account of former fighters
+
+Former pit fighters [[03 People/Mentioned Figures/Yama and Spopovich|Yama and Spopovich]] described widespread Dragonâ€™s Dandruff use and declining fighter earnings since [[03 People/Mentioned Figures/Rhul Slowdrift|Rhul Slowdrift]] became involved. They said their Voruun booking agent, [[03 People/Mentioned Figures/Oruc|Oruc]], took money from Rhul to arrange fixed matches, and identified [[03 People/Mentioned Figures/Karessa|Karessa]] as their source of the substance.
+
+**All of these details are attributed to the pair** rather than independently corroborated findings. They met nâ€™Dong in Somnolent; no visit to the Dazuun pits took place in Session 26. See [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
 
 ## Related
 
@@ -3615,7 +3706,7 @@ role: 'Steward'
 current_status: 'alive'
 source: 'Campaign notes and Session 24'
 additional_source: Session 25
-updated: 2026-10-13
+updated: 2026-10-20
 ---
 
 # Derrick Lowgins
@@ -3640,6 +3731,10 @@ He also became the unintended centre of Joe-Seff Gorbels' pastry experiment. Gho
 After the Defracturers returned, Ballar blamed Derrick for allowing the Crimson Shield to stay at the Bastion and for changes to his rooms. Ballar dragged Derrick to the bathroom, repeatedly dunked his head in the toilet and used healing magic as part of the ordeal. Derrick survived but was left terrified.
 
 The following morning, Derrick's brother [[03 People/Notable Figures/Terrick Lowgins|Terrick Lowgins]] accused him of stealing from his family. The allegation remains unverified; Ballar also assaulted Terrick while intervening. See [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]].
+
+## Session 26 â€” proposed courier
+
+nâ€™Dong temporarily hid a package under Derrickâ€™s bed and gave him instructions to pass it discreetly to the visiting fighters [[03 People/Mentioned Figures/Yama and Spopovich|Yama and Spopovich]]. He reconsidered Derrickâ€™s ability to keep the arrangement confidential, retrieved the parcel and **abandoned the plan**. Derrick did not deliver it. See [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
 
 ## Campaign appearances
 
@@ -3820,7 +3915,7 @@ tags:
 role: 'Cook, coffee mage and pastry experimenter'
 current_status: 'alive'
 source: 'Campaign notes and Sessions 15 and 24'
-updated: 2026-09-10
+updated: 2026-10-20
 ---
 
 # Joe-Seff Gorbels
@@ -3843,6 +3938,10 @@ He became increasingly absorbed in pastry experiments and attempted to observe t
 When he discovered the substitution, frustration overwhelmed him and he placed a **Hex** on Derrick. He regretted it almost immediately, apologised and explained that the voice sometimes pushed him towards stupid decisions. The curse could not simply be dismissed and lasted for its normal duration. Ghorgadush responded by placing an Alarm over the kitchen.
 
 Joe-Seff later joined Mariasz and Ghorgadush in searching the shuttered One Ball Inn after Antoinne Cassan vanished. He injured himself during the search, found himself nursing the injury downstairs, and participated in the discovery of the ransacked office, blood and damaged records. During the same night, he and Mariasz acknowledged that their working relationship had become a genuine friendship.
+
+## Session 26 â€” morning post
+
+Ballar dispatched Joe-Seff to deliver an envelope towards Doro, containing an outstanding ten gold and an additional gold for Stacy. As Joe-Seff opened the Bastion door, the injured [[03 People/Notable Figures/Gayle Bramble|Gayle Bramble]] collapsed at the entrance; his errand had **not yet begun**. See [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
 
 ## Campaign appearances
 
@@ -3920,7 +4019,7 @@ tags:
   - index
   - people
   - campaign
-updated: 2026-10-13
+updated: 2026-10-20
 ---
 
 # People
@@ -3955,23 +4054,23 @@ A player-facing index of named figures represented in the campaign records.
 | ![[Ervain Megbanas.png\|70]] | [[03 People/Notable Figures/Ervain Megbanas|Ervain Megbanas]] | The Old Grey Pike | Left Somnolent; whereabouts unknown |
 | ![[Antoinne Cassan.png\|70]] | [[03 People/Notable Figures/Antoinne Cassan|Antoinne Cassan]] | Proprietor of the former One Ball Inn; Broken Fang fence | Missing |
 | ![[Saffron Araffas.png\|70]] | [[03 People/Notable Figures/Saffron Araffas|Saffron Araffas]] | Barista at [[02 Places/Rakara/Somnolent/Brewed Awakening|Brewed Awakening]] | Active |
-| ![[Gayle Bramble.png\|70]] | [[03 People/Notable Figures/Gayle Bramble|Gayle Bramble]] | Deputy of Somnolent | Active; preparing to pursue Eden/Summer lead |
+| ![[Gayle Bramble.png\|70]] | [[03 People/Notable Figures/Gayle Bramble|Gayle Bramble]] | Deputy of Somnolent | Returned badly injured; unconscious at Bastion (Session 26) |
 | ![[Xene Redmayne.png\|70]] | [[03 People/Notable Figures/Xene Redmayne|Xene Redmayne]] | Bartender at the Drowsy Coin | Active |
 | ![[Eula.png\|70]] | [[03 People/Notable Figures/Eula|Eula]] | Collector of bodies | Active |
 | ![[Mireya Dinak.png\|70]] | [[03 People/Notable Figures/Mireya Dinak|Mireya Dinak]] | Erzhini traveller and prospective gambling-hall owner | Deceased; preserved body taken to Elmwood in Session 25 |
 | ![[Summer Quaresh.png\|70]] | [[03 People/Notable Figures/Summer Quaresh|Summer Quaresh]] | Khaali liaison and one of Anthea's Crows | Missing |
-| â€” | [[03 People/Notable Figures/Prodosius|Prodosius]] | Leader of the Broken Fang | Unseen; active |
-| â€” | [[03 People/Notable Figures/Din|Din]] | Soul bound within Ballar's ring | Active |
+| Ã¢â‚¬â€ | [[03 People/Notable Figures/Prodosius|Prodosius]] | Leader of the Broken Fang | Unseen; active |
+| Ã¢â‚¬â€ | [[03 People/Notable Figures/Din|Din]] | Soul bound within Ballar's ring | Active |
 
 ## Notable deceased
 
 | Portrait | Figure | Known role | Status |
 |---|---|---|---|
-| â€” | [[03 People/Notable Deceased/Anthea Bloodclot|Anthea Bloodclot]] | Self-styled Lord of the Five Clans | Deceased |
+| Ã¢â‚¬â€ | [[03 People/Notable Deceased/Anthea Bloodclot|Anthea Bloodclot]] | Self-styled Lord of the Five Clans | Deceased |
 | ![[Buggie.png\|70]] | [[03 People/Notable Deceased/Buggie|Buggie]] | Displaced warlord and mercenary leader | Deceased |
 | ![[Alistair Prusset.png\|70]] | [[03 People/Notable Deceased/Alistair Prusset|Alistair Prusset]] | Former Perfid ambassador to Somnolent | Deceased |
 | ![[Ulsar Quinn.png\|70]] | [[03 People/Notable Deceased/Ulsar Quinn|Ulsar Quinn]] | Broken Fang commander known as the Glass Fang | Deceased |
-| â€” | [[03 People/Notable Deceased/Talan Rook|Talan Rook]] | Broken Fang combatant serving under Ulsar Quinn | Deceased |
+| Ã¢â‚¬â€ | [[03 People/Notable Deceased/Talan Rook|Talan Rook]] | Broken Fang combatant serving under Ulsar Quinn | Deceased |
 
 ## Bastion staff
 
@@ -3982,29 +4081,33 @@ A player-facing index of named figures represented in the campaign records.
 | ![[Igon Duft.png\|70]] | [[03 People/Bastion Staff/Igon Duft|Igon Duft]] | Cook |
 | ![[Derrick Lowgins.png\|70]] | [[03 People/Bastion Staff/Derrick Lowgins|Derrick Lowgins]] | Steward |
 | ![[Ghorgadush.png\|70]] | [[03 People/Bastion Staff/Ghorgadush|Ghorgadush]] | Steward |
-| â€” | [[03 People/Bastion Staff/Gudren Flint|Gudren Flint]] | Research clerk |
-| â€” | [[03 People/Bastion Staff/Caelen Briar|Caelen Briar]] | Apprentice wizard and researcher |
+| Ã¢â‚¬â€ | [[03 People/Bastion Staff/Gudren Flint|Gudren Flint]] | Research clerk |
+| Ã¢â‚¬â€ | [[03 People/Bastion Staff/Caelen Briar|Caelen Briar]] | Apprentice wizard and researcher |
 
 ## Mentioned figures
 
-- [[03 People/Mentioned Figures/Orrian Leovyre|Orrian Leovyre]] â€” high-elf fighter and leader of the Crimson Shield.
-- [[03 People/Mentioned Figures/Mera Thorn|Mera Thorn]] â€” half-elf ranger of the Crimson Shield.
-- [[03 People/Mentioned Figures/Osric Pell|Osric Pell]] â€” dwarven cleric of the Crimson Shield.
-- [[03 People/Mentioned Figures/Veyra Sal|Veyra Sal]] â€” tiefling sorcerer of the Crimson Shield.
-- [[03 People/Mentioned Figures/Tomkin Reed|Tomkin Reed]] â€” halfling rogue of the Crimson Shield.
-- [[03 People/Mentioned Figures/Maelor Vey|Maelor Vey]] â€” the False Gardener.
-- [[03 People/Mentioned Figures/Oakrah Woodfrey|Oakrah Woodfrey]] â€” treant guardian connected to the False Gardener.
-- [[03 People/Mentioned Figures/Malt|Malt]] â€” former Broken Fang prisoner released with Bushtache.
-- [[03 People/Mentioned Figures/Tranwyl Bruun|Tranwyl Bruun]] â€” Ieuan's childhood friend connected to the Rootbound.
-- [[03 People/Mentioned Figures/Rhul Slowdrift|Rhul Slowdrift]] â€” Broken Fang figure linked to Dazuun's fighting pits.
-- [[03 People/Mentioned Figures/Job Ashmere|Job Ashmere]] â€” Somnolent authority figure associated with the town guard and the Eden/Summer search.
-- [[03 People/Mentioned Figures/Marda Hest|Marda Hest]] â€” Somnolent horse keeper who supplied mounts for the Eden/Summer search preparations.
-- [[03 People/Mentioned Figures/Maxine Hintermeier|Maxine Hintermeier]] â€” Somnolent investigator who received evidence from Antoinne Cassan's ransacked office.
+- [[03 People/Mentioned Figures/Orrian Leovyre|Orrian Leovyre]] Ã¢â‚¬â€ high-elf fighter and leader of the Crimson Shield.
+- [[03 People/Mentioned Figures/Mera Thorn|Mera Thorn]] Ã¢â‚¬â€ half-elf ranger of the Crimson Shield.
+- [[03 People/Mentioned Figures/Osric Pell|Osric Pell]] Ã¢â‚¬â€ dwarven cleric of the Crimson Shield.
+- [[03 People/Mentioned Figures/Veyra Sal|Veyra Sal]] Ã¢â‚¬â€ tiefling sorcerer of the Crimson Shield.
+- [[03 People/Mentioned Figures/Tomkin Reed|Tomkin Reed]] Ã¢â‚¬â€ halfling rogue of the Crimson Shield.
+- [[03 People/Mentioned Figures/Maelor Vey|Maelor Vey]] Ã¢â‚¬â€ the False Gardener.
+- [[03 People/Mentioned Figures/Oakrah Woodfrey|Oakrah Woodfrey]] Ã¢â‚¬â€ treant guardian connected to the False Gardener.
+- [[03 People/Mentioned Figures/Malt|Malt]] Ã¢â‚¬â€ former Broken Fang prisoner released with Bushtache.
+- [[03 People/Mentioned Figures/Tranwyl Bruun|Tranwyl Bruun]] Ã¢â‚¬â€ Ieuan's childhood friend connected to the Rootbound.
+- [[03 People/Mentioned Figures/Rhul Slowdrift|Rhul Slowdrift]] Ã¢â‚¬â€ Broken Fang figure linked to Dazuun's fighting pits.
+- [[03 People/Mentioned Figures/Job Ashmere|Job Ashmere]] Ã¢â‚¬â€ Somnolent authority figure associated with the town guard and the Eden/Summer search.
+- [[03 People/Mentioned Figures/Marda Hest|Marda Hest]] Ã¢â‚¬â€ Somnolent horse keeper who supplied mounts for the Eden/Summer search preparations.
+- [[03 People/Mentioned Figures/Maxine Hintermeier|Maxine Hintermeier]] Ã¢â‚¬â€ Somnolent investigator who received evidence from Antoinne Cassan's ransacked office.
 
-- [[03 People/Mentioned Figures/Tessa Betu|Tessa Betu]] â€” Erzhin stonecutter and possible Eden contact; Crow membership unconfirmed.
-- [[03 People/Mentioned Figures/Arun Yev|Arun Yev]] â€” Temiri historian associated with Summer and the Wavecutters.
-- [[03 People/Mentioned Figures/Galt|Galt]] â€” former Vorunni necromancer associated with Eula; possible Crow connection.
-- [[03 People/Mentioned Figures/Drisdin|Drisdin]] â€” historical maker of the Crowns of Infinity.
+- [[03 People/Mentioned Figures/Tessa Betu|Tessa Betu]] Ã¢â‚¬â€ Erzhin stonecutter and possible Eden contact; Crow membership unconfirmed.
+- [[03 People/Mentioned Figures/Arun Yev|Arun Yev]] Ã¢â‚¬â€ Temiri historian associated with Summer and the Wavecutters.
+- [[03 People/Mentioned Figures/Galt|Galt]] Ã¢â‚¬â€ former Vorunni necromancer associated with Eula; possible Crow connection.
+- [[03 People/Mentioned Figures/Drisdin|Drisdin]] Ã¢â‚¬â€ historical maker of the Crowns of Infinity.
+- [[03 People/Mentioned Figures/Karessa|Karessa]] â€” Khaali woman identified by pit fighters as a Dragon's Dandruff supplier (unverified testimony).
+- [[03 People/Mentioned Figures/Oruc|Oruc]] â€” Voruun pit booking agent alleged to take Rhul's payments for fixed fights (unverified testimony).
+- [[03 People/Mentioned Figures/Yama and Spopovich|Yama and Spopovich]] â€” former Dazuun fighters who met n'Dong in Somnolent.
+- [[03 People/Mentioned Figures/Xilpeiros Nirrell|Xilpeiros Nirrell]] â€” Ballar's father; involved in rumours about Doroâ€“Perfid talks.
 
 ## Related references
 
@@ -4043,8 +4146,6 @@ updated: '2026-10-13'
 > [!summary] At a glance
 > A Temiri scholar of Rakaran history and clan unification, identified as a possible link to Summer Quaresh.
 
-## Session 25 lead
-
 Records uncovered by Gudren Flint and Caelen Briar indicate that Arun met [[03 People/Notable Figures/Summer Quaresh|Summer Quaresh]] on several occasions. He disappeared for a period shortly after Anthea Bloodclot's murder and subsequently rose quickly through the **Wavecutters**.
 
 There are rumours that he could become the next leader of [[02 Places/Rakara/Clans/Clan Temir|Clan Temir]], but this is not a confirmed prospect. **His connection to the Loyal Crows remains unproven.**
@@ -4076,13 +4177,10 @@ current_status: Deceased in historical memory
 source: Session 25
 updated: '2026-10-13'
 ---
-
 # Drisdin
 
 > [!summary] At a glance
 > An Ardynian craftsman or artificer credited in Elgira's remembered account with creating the **Crowns of Infinity**.
-
-## What the scroll reveals
 
 In the memory preserved by the [[06 Library/Ardynian Relics and Artefacts/Tace Nox scroll|Tace Nox scroll]], Elgira returns to the rebel gathering carrying a bloody dagger and says that **Drisdin is gone** and the path is clear. When Marra demands confirmation that Drisdin is dead, Elgira answers that the deed is done. Later, Elgira calls the crowns **Drisdin's final masterpiece**.
 
@@ -4116,13 +4214,10 @@ source: Session 25
 current_status: Unknown
 updated: '2026-10-13'
 ---
-
 # Galt
 
 > [!summary] At a glance
 > A former worshipper of Rhozka reportedly expelled from Voruun alongside Eula for practising necromancy.
-
-## Session 25 lead
 
 Research presented by Gudren Flint and Caelen Briar tied **Galt and [[03 People/Notable Figures/Eula|Eula]]** to repeated private meetings with [[03 People/Notable Figures/Eden Carrion|Eden Carrion]] and [[03 People/Notable Figures/Summer Quaresh|Summer Quaresh]]. The pair had been expelled from [[02 Places/Rakara/Clans/Clan Voruun|Clan Voruun]] over necromancy.
 
@@ -4151,10 +4246,10 @@ tags:
   - mentioned
   - somnolent
 role: Somnolent authority figure associated with the town guard
-current_status: alive
-last_known_location: Somnolent; preparing to pursue the Eden and Summer lead
+current_status: unknown after departure with Gayle
+last_known_location: departed Somnolent to pursue the Eden and Summer lead; whereabouts now unknown
 source: Sessions 12-14 and 24
-updated: 2026-10-03
+updated: 2026-10-20
 ---
 
 # Job Ashmere
@@ -4162,11 +4257,15 @@ updated: 2026-10-03
 > [!note] Limited information
 > A Somnolent authority figure associated with the town guard. Job was present with Elmwood Bluevine and guards after the Perfid embassy operation, and Elmwood later took him back toward the Shackles when Prusset's death was discovered.
 
+## Current status â€” after Session 26
+
+**Missing from the current record.** Job left with Gayle to pursue the Eden/Summer lead; Gayle returned alone in the recorded scene. His fate is unknown.
+
 ## Session 24
 
 A renewed search for [[03 People/Notable Figures/Eden Carrion|Eden Carrion]] and [[03 People/Notable Figures/Summer Quaresh|Summer Quaresh]] produced a credible lead in a region where magic is naturally dampened. The Session 24 record says Job and [[03 People/Notable Figures/Gayle Bramble|Gayle Bramble]] were **preparing to leave Somnolent** to pursue it.
 
-The supplied record does not state that they had actually departed before the interlude ended.
+The Session 24 interlude did not itself confirm their departure. By the end of Session 26, however, Gayle had **returned** to the Bastion severely injured and unconscious, after she and Job had left to investigate. **Job has not been confirmed to have returned, and his condition and whereabouts are unknown.** Do not infer that he is dead. See [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
 
 ## Related
 
@@ -4174,6 +4273,55 @@ The supplied record does not state that they had actually departed before the in
 - [[04 Organisations/Loyal Crows|Loyal Crows]]
 - [[02 Places/Rakara/Somnolent/Somnolent|Somnolent]]
 - [[05 Campaign Chronicle/Session 24 - Pies, Pike and a one ball blaze|Session 24]]
+
+
+
+---
+# FILE: C:\Users\ellis\Documents\vaelond-wiki\content\03 People\Mentioned Figures\Karessa.md
+---
+
+---
+title: Karessa
+type: npc
+status: published
+player_facing: true
+tags:
+  - people
+  - npc
+  - mentioned
+  - khaali
+  - dragon-dandruff
+current_status: unknown
+last_known_location: unknown
+source: Session 26
+updated: 2026-10-20
+---
+
+# Karessa
+
+> [!summary] At a glance
+> A Khaali woman described by [[03 People/Mentioned Figures/Yama and Spopovich|Yama and Spopovich]] as their supplier of [[06 Library/Campaign Reference/Dragon's Dandruff|Dragon's Dandruff]]. She is identifiable, according to them, by having **three fingers**.
+
+## Reported involvement
+
+In Session 26, Yama and Spopovich told [[03 People/Player Characters/n'Dong|n'Dong]] that they obtained their Dragon's Dandruff from Karessa. The pair had been fighting in Dazuun's pits and described widespread use of the substance there.
+
+This is **the fighters' testimony**. The Defracturers have not met Karessa, located her or independently confirmed her role. In particular, she is not yet established to be one of the three Khaali alchemists whom [[03 People/Notable Deceased/Ulsar Quinn|Ulsar Quinn]] said were producing the substance south of Somnolent.
+
+## Open questions
+
+- Where is Karessa now?
+- Is she a manufacturer, distributor or both?
+- Is she connected directly to [[03 People/Mentioned Figures/Rhul Slowdrift|Rhul Slowdrift]] or [[03 People/Mentioned Figures/Oruc|Oruc]]?
+- What is her connection, if any, to the unidentified alchemists and their laboratory?
+
+## Related
+
+- [[03 People/Mentioned Figures/Yama and Spopovich|Yama and Spopovich]]
+- [[06 Library/Campaign Reference/Dragon's Dandruff|Dragon's Dandruff]]
+- [[04 Organisations/Broken Fang|Broken Fang]]
+- [[02 Places/Rakara/Voruun/Dazuun|Dazuun]]
+- [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]]
 
 
 
@@ -4198,7 +4346,6 @@ current_status: deceased
 source: Session 22
 updated: 2026-09-10
 ---
-
 # Maelor Vey
 
 > [!summary] At a glance
@@ -4210,7 +4357,7 @@ updated: 2026-09-10
 
 [[03 People/Mentioned Figures/Oakrah Woodfrey|Oakrah Woodfrey]] told the Defracturers that the forest guardians stopped Maelor and buried him beneath the forest floor to be fed upon by his own impossible children. Many of Oakrah's brethren were lost containing his influence.
 
-Maelor was the "bad mad man" previously described by [[06 Library/Campaign Reference/Plague|Plague]]. His corrupted magic also created or altered the bog siren and the black tar-like ooze encountered at his ruined home.
+Maelor was the "bad mad man" previously described by [[Plague|Plague]]. His corrupted magic also created or altered the bog siren and the black tar-like ooze encountered at his ruined home.
 
 ## Legacy
 
@@ -4220,7 +4367,7 @@ Ballar recovered the [[06 Library/Relics and Artefacts/False Gardener's Notebook
 
 ## Related
 
-- [[06 Library/Campaign Reference/Plague|Plague]]
+- [[Plague|Plague]]
 - [[03 People/Mentioned Figures/Oakrah Woodfrey|Oakrah Woodfrey]]
 - [[06 Library/Relics and Artefacts/False Gardener's Notebook|False Gardener's Notebook]]
 - [[05 Campaign Chronicle/Session 22 - Bodies, Blight, and Bushtache|Session 22]]
@@ -4246,11 +4393,10 @@ last_known_location: travelling independently with Bushtache
 source: Sessions 20-23
 updated: 2026-09-10
 ---
-
 # Malt
 
 > [!summary] At a glance
-> A Broken Fang scout captured near Rana Viam and later released by Ballar with the improbable task of awakening [[06 Library/Campaign Reference/Bushtache|Bushtache]] and bringing the cabbage to Somnolent.
+> A Broken Fang scout captured near Rana Viam and later released by Ballar with the improbable task of awakening [[Bushtache|Bushtache]] and bringing the cabbage to Somnolent.
 
 ## Captivity
 
@@ -4258,7 +4404,7 @@ Malt was captured during the Broken Fang pursuit after Rana Viam and remained bo
 
 ## Release
 
-In Session 23, Ballar decided not to drag Malt back to Somnolent as a prisoner. Instead he offered him a form of redemption: find a **Pot of Awakening**, plant Bushtache in it and deliver the awakened cabbage safely to Somnolent.
+Ballar decided not to drag Malt back to Somnolent as a prisoner. Instead he offered him a form of redemption: find a **Pot of Awakening**, plant Bushtache in it and deliver the awakened cabbage safely to Somnolent.
 
 Malt admitted he had no money and was an indentured servant. Ballar suggested stealing the Pot of Awakening from the rich. Ballar then cast **Gentle Repose** on Bushtache, preserving the cabbage for ten days, released Malt and sent him away with it.
 
@@ -4266,7 +4412,7 @@ Malt's success or failure is currently unknown.
 
 ## Related
 
-- [[06 Library/Campaign Reference/Bushtache|Bushtache]]
+- [[Bushtache|Bushtache]]
 - [[03 People/Player Characters/Ballar Novis|Ballar Novis]]
 - [[04 Organisations/Broken Fang|Broken Fang]]
 - [[05 Campaign Chronicle/Session 23 - Ettins, Owlbears, and Betting Losses|Session 23]]
@@ -4293,13 +4439,12 @@ last_known_location: Somnolent
 source: Session 24
 updated: 2026-10-03
 ---
-
 # Marda Hest
 
 > [!note] Limited information
 > A Somnolent horse keeper who supplied mounts while the town's authorities prepared to pursue a lead on Eden Carrion and Summer Quaresh.
 
-## Session 24
+Provided the Defracturer's with their horses, strongly recommended to Ballar to take anyone but Kingcup.
 
 [[03 People/Bastion Staff/Derrick Lowgins|Derrick Lowgins]] and [[03 People/Bastion Staff/Igon Duft|Igon Duft]] went to Marda to secure two horses requested by Alaaric Hammerfall. Derrick quickly calmed and readied the remaining mounts, while Igon's direct approach left Marda first having to establish who had actually sent them.
 
@@ -4333,13 +4478,7 @@ last_known_location: Somnolent
 source: Session 24
 updated: 2026-10-03
 ---
-
 # Maxine Hintermeier
-
-> [!note] Limited information
-> A Somnolent figure involved in the investigation into [[03 People/Notable Figures/Antoinne Cassan|Antoinne Cassan]] and the [[02 Places/Rakara/Somnolent/One Ball Inn|One Ball Inn]]. The supplied record does not give a more specific official title.
-
-## Session 24
 
 Alaaric Hammerfall returned to the Bastion with Maxine after Antoinne failed to appear when expected. Other members of the reduced watch were checking Antoinne's movements around town while the Bastion staff searched the shuttered inn.
 
@@ -4373,7 +4512,6 @@ current_status: alive
 source: Session 24
 updated: 2026-09-10
 ---
-
 # Mera Thorn
 
 > [!note] Limited information
@@ -4418,7 +4556,7 @@ updated: 2026-09-10
 
 Oakrah confronted the Defracturers near the river after the destruction of Ulsar's camp. She was accompanied by two awakened trees, **Keanu Leaves** and **Spruce Willis**.
 
-She accused Ieuan of continuing the False Gardener's work by spreading [[06 Library/Campaign Reference/Plague|Plague]]. Oakrah explained that she and other forest guardians had stopped Maelor at enormous cost and that she now remained in place to hold his corruption's spread at bay.
+She accused Ieuan of continuing the False Gardener's work by spreading [[Plague|Plague]]. Oakrah explained that she and other forest guardians had stopped Maelor at enormous cost and that she now remained in place to hold his corruption's spread at bay.
 
 Because abandoning her post risked allowing the corruption to spread unchecked if she failed, she demanded that the Defracturers destroy its source instead.
 
@@ -4427,7 +4565,7 @@ The party subsequently destroyed the black ooze and blasted the well beneath Mae
 ## Related
 
 - [[03 People/Mentioned Figures/Maelor Vey|Maelor Vey]]
-- [[06 Library/Campaign Reference/Plague|Plague]]
+- [[Plague|Plague]]
 - [[03 People/Player Characters/Ieuan|Ieuan]]
 - [[05 Campaign Chronicle/Session 22 - Bodies, Blight, and Bushtache|Session 22]]
 
@@ -4450,9 +4588,8 @@ tags:
   - mentioned
 source: 'Campaign notes and Session 24'
 additional_source: Session 25
-updated: 2026-10-13
+updated: 2026-10-20
 ---
-
 # Orrian Leovyre
 
 > [!summary] At a glance
@@ -4466,7 +4603,7 @@ updated: 2026-10-13
 - Orrian was delighted to learn that Ballar had apparently done well for himself.
 - Bastion staff repeatedly looked for evidence that his polished, generous behaviour concealed something suspicious and found none.
 - During the stay, the Crimson Shield surprised two men unloading a boat. The men fled and abandoned barrels containing expensive goods with merchant markings stripped or obscured; Orrian brought one barrel back to the Bastion.
-- Before leaving for Shawwake, Orrian entrusted Ghorgadush with a small parcel intended for Ballar.
+- Before leaving for Shorewake, Orrian entrusted Ghorgadush with a small parcel intended for Ballar.
 
 ## Session 25 â€” a gift for Ballar
 
@@ -4476,12 +4613,65 @@ Orrian and the Crimson Shield provided substantial support for the **proposed Ph
 
 See [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]].
 
+## Session 26 â€” reported destination
+
+Ballar learned at the Doro embassy that Orrianâ€™s [[04 Organisations/Crimson Shield|Crimson Shield]] were reportedly heading towards **Temir** for the coming Wavecutter tournament. Their arrival and participation are not yet confirmed. See [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
+
 ## Related
 
 - [[04 Organisations/Crimson Shield|Crimson Shield]]
 - [[03 People/Player Characters/Ballar Novis|Ballar Novis]]
 - [[02 Places/Rakara/Somnolent/The Defracturers' Bastion|The Defracturers' Bastion]]
 - [[05 Campaign Chronicle/Session 24 - Pies, Pike and a one ball blaze|Session 24]]
+
+
+
+---
+# FILE: C:\Users\ellis\Documents\vaelond-wiki\content\03 People\Mentioned Figures\Oruc.md
+---
+
+---
+title: Oruc
+type: npc
+status: published
+player_facing: true
+tags:
+  - people
+  - npc
+  - mentioned
+  - voruun
+  - broken-fang
+role: Pit booking agent
+current_status: unknown
+last_known_location: Voruun (historical connection; current location unknown)
+source: Session 26
+updated: 2026-10-20
+---
+
+# Oruc
+
+> [!summary] At a glance
+> A booking agent in Voruun's fighting circuit, formerly employing [[03 People/Mentioned Figures/Yama and Spopovich|Yama and Spopovich]], who is alleged by them to have taken payments from Rhul Slowdrift to fix matches.
+
+## Reported involvement
+
+In Session 26, the two fighters told [[03 People/Player Characters/n'Dong|n'Dong]] that Oruc arranged their work in Voruun and had dealings with [[03 People/Mentioned Figures/Rhul Slowdrift|Rhul Slowdrift]], including payment for match-fixing. They said conditions in Dazuun's pits had deteriorated after Rhul became involved.
+
+The allegation has **not yet been independently verified**. Oruc's present whereabouts, formal loyalties and knowledge of the wider Broken Fang operation are unknown.
+
+## Open questions
+
+- Who paid Oruc, and for which matches?
+- Is Oruc directly employed by the Broken Fang or an independent intermediary?
+- Can his records identify Rhul's associates, beneficiaries or fighters?
+
+## Related
+
+- [[03 People/Mentioned Figures/Yama and Spopovich|Yama and Spopovich]]
+- [[03 People/Mentioned Figures/Rhul Slowdrift|Rhul Slowdrift]]
+- [[02 Places/Rakara/Voruun/Dazuun|Dazuun]]
+- [[04 Organisations/Broken Fang|Broken Fang]]
+- [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]]
 
 
 
@@ -4504,7 +4694,6 @@ current_status: alive
 source: Session 24
 updated: 2026-09-10
 ---
-
 # Osric Pell
 
 > [!note] Limited information
@@ -4536,9 +4725,8 @@ role: Broken Fang commander connected to the Dazuun fighting pits
 current_status: unknown
 last_known_location: unknown
 source: Campaign notes through Session 24
-updated: 2026-09-10
+updated: 2026-10-20
 ---
-
 # Rhul Slowdrift
 
 > [!summary] At a glance
@@ -4570,6 +4758,12 @@ This confirms that people acting in Rhul's interests were using or overseeing th
 - It is not clear whether Clan Voruun knows he controls the pits.
 - It is not clear whether he is based in Dazuun or elsewhere.
 - It is not clear how his rank compared with Ulsar's before Ulsar's death.
+
+## Session 26 â€” new witnesses
+
+[[03 People/Mentioned Figures/Yama and Spopovich|Yama and Spopovich]] told [[03 People/Player Characters/n'Dong|n'Dong]] that the Dazuun fighting pits had deteriorated since Rhulâ€™s involvement, that fighters were being given Dragonâ€™s Dandruff and that their earnings had declined. They alleged that their former booking agent, [[03 People/Mentioned Figures/Oruc|Oruc]], received money from Rhul to fix matches. They also named [[03 People/Mentioned Figures/Karessa|Karessa]] as their supplier.
+
+This is **reported testimony**, not independent verification that Rhul personally paid Oruc or supplied the drug. It offers potential witnesses and lines of inquiry beyond Ulsarâ€™s earlier claims. See [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
 
 ## Related
 
@@ -4603,13 +4797,10 @@ source: Session 25
 current_status: Unknown
 updated: '2026-10-13'
 ---
-
 # Tessa Betu
 
 > [!summary] At a glance
 > An Erzhin stonecutter and scholar of ancient law and the Stone Chronicles, identified by the Bastion researchers as a possible connection to Eden Carrion.
-
-## Session 25 lead
 
 [[03 People/Bastion Staff/Gudren Flint|Gudren Flint]] and [[03 People/Bastion Staff/Caelen Briar|Caelen Briar]] reported that Tessa had met [[03 People/Notable Figures/Eden Carrion|Eden Carrion]] around **eighteen months** earlier. Their research also raised an alleged meeting involving [[03 People/Notable Figures/Father Zantos|Father Zantos]], but Zantos did not recall it.
 
@@ -4642,7 +4833,6 @@ current_status: alive
 source: Session 24
 updated: 2026-09-10
 ---
-
 # Tomkin Reed
 
 > [!note] Limited information
@@ -4674,7 +4864,6 @@ tags:
 source: 'Campaign notes.docx'
 updated: 2026-07-01
 ---
-
 # Tranwyl Bruun
 
 > [!note] Limited information
@@ -4716,6 +4905,110 @@ updated: 2026-09-10
 - [[04 Organisations/Crimson Shield|Crimson Shield]]
 - [[03 People/Mentioned Figures/Orrian Leovyre|Orrian Leovyre]]
 - [[05 Campaign Chronicle/Session 24 - Pies, Pike and a one ball blaze|Session 24]]
+
+
+
+---
+# FILE: C:\Users\ellis\Documents\vaelond-wiki\content\03 People\Mentioned Figures\Xilpeiros Nirrell.md
+---
+
+---
+title: Xilpeiros Nirrell
+type: npc
+status: published
+player_facing: true
+aliases:
+  - Ballar's father
+tags:
+  - people
+  - npc
+  - mentioned
+  - doro
+  - house-nirrell
+role: Member of House Nirrell; father of Ballar Novis
+current_status: alive as of last correspondence
+last_known_location: unknown
+source: Session 26
+updated: 2026-10-20
+---
+
+# Xilpeiros Nirrell
+
+> [!summary] At a glance
+> [[03 People/Player Characters/Ballar Novis|Ballar Novis]]'s father and a member of [[02 Places/Doro/Noble Houses/House Nirrell|House Nirrell]], newly implicated in Doro's reported peace-related political manoeuvring.
+
+## Letters to Ballar
+
+Ballar opened delayed correspondence in Somnolent. In an earlier letter, Xilpeiros disapproved of Ballar leaving Doro's diplomatic service. A later letter acknowledged that Ballar's rising influence in Somnolent could prove useful and asked for his assessment of the political situation there.
+
+During a visit to the Doro embassy, Ballar also heard **rumours** of a possible Perfidâ€“Doro peace initiative involving House Nirrell. House Trenhalde was reportedly sympathetic, while Houses Aequinth and Bromere were said to oppose it and to view Ballar's father as an upstart gaining influence. Whether talks have commenced, and the exact nature of Xilpeiros's participation, remain unverified.
+
+## Related
+
+- [[03 People/Player Characters/Ballar Novis|Ballar Novis]]
+- [[02 Places/Doro/Noble Houses/House Nirrell|House Nirrell]]
+- [[02 Places/Doro/Noble Houses/House Aequinth|House Aequinth]]
+- [[02 Places/Doro/Noble Houses/House Bromere|House Bromere]]
+- [[02 Places/Doro/Noble Houses/House Trenhalde|House Trenhalde]]
+- [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]]
+
+
+
+---
+# FILE: C:\Users\ellis\Documents\vaelond-wiki\content\03 People\Mentioned Figures\Yama and Spopovich.md
+---
+
+---
+title: Yama and Spopovich
+type: npc-group
+status: published
+player_facing: true
+aliases:
+  - Yama
+  - Spopovich
+tags:
+  - people
+  - npc
+  - mentioned
+  - voruun
+  - dragon-dandruff
+current_status: alive as of Session 26
+last_known_location: Somnolent
+source: Session 26
+updated: 2026-10-20
+---
+# Yama and Spopovich
+
+> [!summary] At a glance
+> Two imposing fighters formerly working in the Dazuun fighting pits. Both use [[06 Library/Campaign Reference/Dragon's Dandruff|Dragon's Dandruff]] and became unlikely informants for [[03 People/Player Characters/n'Dong|n'Dong]] following a chaotic market confrontation in Somnolent.
+
+## Sixhalls confrontation
+
+[[03 People/Notable Figures/Billy Hill|Billy Hill]] introduced them to Enrak during a drinking session that escalated into a public dance battle accompanied by [[03 People/Notable Figures/Ersil Loquella|Ersil Loquella]]. After Enrak set off fireworks and the Defracturers repeatedly escalated the dispute, Spopovich knocked Enrak unconscious, while Yama eventually knocked Ballar and Enrak unconscious. Ieuan attempted to de-escalate and healed Yama.
+
+## Information given to n'Dong
+
+That evening, the pair met n'Dong, who had contacted Yama during the fight using Message. They claimed:
+
+- Dragon's Dandruff has become widespread among fighters in Dazuun, whose profits have declined.
+- Their supplier was **[[03 People/Mentioned Figures/Karessa|Karessa]]**, a Khaali woman with three fingers.
+- They had worked through a pit booking agent named **[[03 People/Mentioned Figures/Oruc|Oruc]]** in Voruun.
+- The pits deteriorated after **[[03 People/Mentioned Figures/Rhul Slowdrift|Rhul Slowdrift]]** became involved.
+- Oruc took money from Rhul to fix matches.
+
+These statements are useful leads, **not independent confirmation** of Karessa's, Oruc's or Rhul's precise roles.
+
+## Arrangement with n'Dong
+
+n'Dong gave the fighters more Dragon's Dandruff in return for the information and promised further supplies if they continued talking. He asked them not to start further trouble with his companions unless the companions instigated it. The pair's reliability and longer-term cooperation remain uncertain.
+
+## Related
+
+- [[03 People/Player Characters/n'Dong|n'Dong]]
+- [[03 People/Player Characters/Enrak Kiran|Enrak Kiran]]
+- [[06 Library/Campaign Reference/Dragon's Dandruff|Dragon's Dandruff]]
+- [[02 Places/Rakara/Voruun/Dazuun|Dazuun]]
+- [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]]
 
 
 
@@ -5228,7 +5521,7 @@ role: 'Somnolent town drunk'
 current_status: 'alive'
 last_known_location: 'Somnolent'
 source: 'Campaign notes.docx'
-updated: 2026-07-01
+updated: 2026-10-20
 ---
 
 # Billy Hill
@@ -5244,6 +5537,10 @@ updated: 2026-07-01
 - Sold nâ€™Dong information about the One Ball Inn dice game in exchange for beer.
 - Won one round of Pig at the dice game.
 
+## Session 26 â€” introductions in Sixhalls
+
+Billy introduced [[03 People/Player Characters/Enrak Kiran|Enrak]] to the visiting pit fighters [[03 People/Mentioned Figures/Yama and Spopovich|Yama and Spopovich]] during a drinking session at the market. The encounter escalated into a dance contest and then a brawl. See [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
+
 ## Campaign appearances
 
 - [[Session 01 - Die Dog, Die]]
@@ -5255,6 +5552,53 @@ updated: 2026-07-01
 
 - [[Somnolent]]
 - [[Emberwake Festival]]
+
+
+
+---
+# FILE: C:\Users\ellis\Documents\vaelond-wiki\content\03 People\Notable Figures\Bushtache.md
+---
+
+---
+title: Bushtache
+type: campaign-reference
+status: published
+player_facing: true
+tags:
+  - campaign
+  - reference
+  - plant
+  - ballar
+source: Sessions 22-23
+updated: 2026-09-10
+---
+
+# Bushtache
+
+> [!summary] At a glance
+> A cabbage encountered at the ruined home of the False Gardener, named **Bushtache** when Ballar used the False Gardener's Notebook to speak with it.
+
+## Discovery
+
+After the Defracturers destroyed the immediate corruption beneath [[03 People/Mentioned Figures/Maelor Vey|Maelor Vey's]] ruined home, Ballar recovered the [[06 Library/Relics and Artefacts/False Gardener's Notebook|False Gardener's Notebook]]. He used its magic to cast **Speak with Plants** and immediately began talking to a nearby cabbage.
+
+The cabbage introduced itself as **Bushtache**.
+
+## Current situation
+
+In Session 23, Ballar entrusted Bushtache to [[03 People/Mentioned Figures/Malt|Malt]]. Malt was instructed to obtain a **Pot of Awakening**, plant Bushtache in it and deliver the resulting awakened cabbage to Somnolent.
+
+Ballar cast **Gentle Repose** on Bushtache before Malt departed, preserving it for ten days.
+
+Whether Malt succeeds remains unknown.
+
+## Related
+
+- [[03 People/Player Characters/Ballar Novis|Ballar Novis]]
+- [[03 People/Mentioned Figures/Malt|Malt]]
+- [[06 Library/Relics and Artefacts/False Gardener's Notebook|False Gardener's Notebook]]
+- [[05 Campaign Chronicle/Session 22 - Bodies, Blight, and Bushtache|Session 22]]
+- [[05 Campaign Chronicle/Session 23 - Ettins, Owlbears, and Betting Losses|Session 23]]
 
 
 
@@ -5385,7 +5729,7 @@ Their arrangement remains unresolved.
 - [[03 People/Player Characters/Ballar Novis|Ballar Novis]]
 - [[02 Places/Rakara/Tace Nox|Tace Nox]]
 - [[02 Places/Rakara/Rana Viam|Rana Viam]]
-- [[06 Library/Letters and Documents/Vaelen's sending stone|Vaelen's sending stone]]
+- [[Vaelen's memory stone|Vaelen's memory stone]]
 
 
 
@@ -5550,7 +5894,7 @@ role: 'Bard'
 current_status: 'alive'
 last_known_location: 'Somnolent'
 source: 'Campaign notes.docx'
-updated: 2026-07-01
+updated: 2026-10-20
 ---
 
 # Ersil Loquella
@@ -5566,6 +5910,10 @@ updated: 2026-07-01
 - Wrote a song about the heroes of Emberwake. Enrak enjoyed it; Ballar did not.
 - Followed Ballar to his room, where Ballar attacked him and held him over a balcony.
 - Escaped with Misty Step and left Ballar incapacitated by Hideous Laughter.
+
+## Session 26 â€” accompaniment at Sixhalls
+
+Ersil provided musical accompaniment to a public dance competition between Enrak and the visiting Dazuun fighters Yama and Spopovich in the market. The contest subsequently turned into a brawl. See [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
 
 ## Campaign appearances
 
@@ -5628,7 +5976,7 @@ updated: 2026-10-03
 
 [[02 Places/Doro/Ashenhom|Ashenhom]] sits at the centre of Ervain's unresolved significance. The settlement was destroyed by Doroan forces after being accused of harbouring Perfid spies, with the razing used as an example to others.
 
-The political and military fallout ended Ervain's active command. That disgrace does not yet explain what truly happened at Ashenhom, why the accusation was made, or how directly Ervain was involved in the deaths of [[03 People/Player Characters/Erelmor|Erelmor's]] wife and children.
+The political and military fallout ended Ervain's active command. That disgrace does not yet explain what truly happened at Ashenhom, why the accusation was made, or how directly Ervain was involved in the deaths of [[03 People/Player Characters/Erelmor|Erelmor's]] family.
 
 ## Departure from Somnolent
 
@@ -5705,7 +6053,7 @@ The exact range and limitations of this magic remain unresolved.
 
 ## Session 21
 
-Eula appeared again after Salla's corpse had been infested with a cutting of [[06 Library/Campaign Reference/Plague|Plague]]. She seemed genuinely delighted by the grotesque result and asked whether it had been Erelmor's doing.
+Eula appeared again after Salla's corpse had been infested with a cutting of [[Plague|Plague]]. She seemed genuinely delighted by the grotesque result and asked whether it had been Erelmor's doing.
 
 Ballar sent a rat to harass her, which repeatedly tried to bite her before she finally burned it with bonfire magic. Eula then claimed Salla's plague-ridden body and vanished. As she disappeared, the forest seemed to release a long and pained howl.
 
@@ -5741,7 +6089,7 @@ See [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages
 
 - [[06 Library/Relics and Artefacts/Eula's Red Coins|Eula's Red Coins]]
 - [[Open Threads]]
-- [[06 Library/Campaign Reference/Plague|Plague]]
+- [[Plague|Plague]]
 
 
 
@@ -5766,7 +6114,7 @@ role: 'Elder druid and mentor to Ieuan'
 current_status: 'alive'
 last_known_location: 'Somnolent'
 source: 'Campaign notes.docx'
-updated: 2026-07-01
+updated: 2026-10-20
 ---
 
 # Father Zantos
@@ -5783,6 +6131,10 @@ updated: 2026-07-01
 - Admitted a former affinity with the Rootbound and was deeply troubled by their cooperation with Elgiraâ€™s Church.
 - Warned Ieuan against reckless involvement with Ardynian ruins.
 - Gave Ieuan a Star Seed.
+
+## Session 26 â€” Ieuanâ€™s meditation
+
+Ieuan joined Father Zantos and Mother Joygrove in prayer and spoke with Zantos about the growing distance between his star-related power and his connection to the earth. Zantos guided him in meditation on the [[06 Library/Relics and Artefacts/Star Seed|Star Seed]], though Ieuanâ€™s final natural breakthrough did not occur. Zantos encouraged patience. See [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
 
 ## Campaign appearances
 
@@ -5818,9 +6170,9 @@ ancestry: 'Drow elf'
 gender: 'Female'
 role: 'Deputy of Somnolent'
 current_status: 'alive'
-last_known_location: 'Somnolent; preparing to pursue the Eden and Summer lead'
+last_known_location: 'Somnolent; unconscious and injured at the Defracturers Bastion'
 source: 'Campaign notes.docx'
-updated: 2026-10-03
+updated: 2026-10-20
 ---
 
 # Gayle Bramble
@@ -5828,13 +6180,17 @@ updated: 2026-10-03
 ![[Gayle Bramble.png|260]]
 
 > [!summary] At a glance
-> A sharp-eyed Somnolent deputy repeatedly tasked with managing the consequences of the partyâ€™s actions.
+> A sharp-eyed Somnolent deputy repeatedly tasked with managing the consequences of the partyÃ¢â‚¬â„¢s actions.
+
+## Current status â€” end of Session 26
+
+Gayle returned to Somnolent after leaving with [[03 People/Mentioned Figures/Job Ashmere|Job Ashmere]] to investigate the missing Crows. At the Bastion she was visibly battered and exhausted, then **collapsed unconscious**. She is not known to be dead. **Job's location, Gayle's discoveries and the reason for her injuries are unknown.** See [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
 
 ## Known details
 
-- Met the party when they returned to Somnolent at Romayneâ€™s request.
+- Met the party when they returned to Somnolent at RomayneÃ¢â‚¬â„¢s request.
 - Visited the Drowsy Coin to hurry the party to Romayne.
-- Investigated Terrickâ€™s abduction at the Perfid embassy.
+- Investigated TerrickÃ¢â‚¬â„¢s abduction at the Perfid embassy.
 - Received the captured Prusset at The Shackles.
 
 ## Session 24
@@ -5842,6 +6198,10 @@ updated: 2026-10-03
 A renewed investigation from the Defracturers' Bastion produced a credible lead on [[03 People/Notable Figures/Eden Carrion|Eden Carrion]] and [[03 People/Notable Figures/Summer Quaresh|Summer Quaresh]]. The sighting was connected to an area where old records describe magic as naturally dampened.
 
 Gayle and [[03 People/Mentioned Figures/Job Ashmere|Job Ashmere]] prepared to leave Somnolent to pursue that lead, reducing the town's available civil manpower during the Defracturers' absence.
+
+## Session 26 â€” return to the Bastion
+
+[[03 People/Bastion Staff/Joe-Seff Gorbels|Joe-Seff Gorbels]] opened the door when Gayle fell unconscious onto the steps. The immediate circumstances are set out above; there is no recorded account of what happened during her investigation.
 
 ## Campaign appearances
 
@@ -5881,7 +6241,7 @@ current_status: 'deceased; body preserved'
 last_known_location: 'Somnolent; preserved body brought to Elmwood Bluevine'
 source: 'Campaign notes and Sessions 17-23'
 additional_source: Session 25
-updated: 2026-10-13
+updated: 2026-10-20
 ---
 
 # Mireya Dinak
@@ -5890,6 +6250,13 @@ updated: 2026-10-13
 
 > [!summary] At a glance
 > An Erzhini traveller rescued from ogres who agreed to watch the Defracturers' horses, was captured by Ulsar Quinn, and whose burned body was preserved by Ballar for possible resurrection.
+
+## Current status â€” end of Session 26
+
+**Deceased, not resurrected.** Mireya's body was taken to Elmwood after the party's return to Somnolent. Ballar bought two diamonds for **575 gp** in Session 26; the group intends to use **one for Mireya** and keep the other in reserve. Neither purchase nor intent establishes that a spell has been cast. See [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
+
+> [!warning] Resurrection timing needs a DM ruling
+> Ballar cast **Gentle Repose** after Mireya died at Ulsar's camp (Session 21). That spell ordinarily lasts **10 days**; time under an active casting does not count towards a resurrection spell's normal time limit. The source chronicle spans several weeks but **does not record whether Gentle Repose was renewed**. The party's plan to revive Mireya is established, but her eligibility for **Revivify** under standard spell timing remains **unconfirmed** until the DM rules on continuing preservation, the elapsed time and the intended spell. A diamond purchase does not itself settle the question. The **individual values of the two diamonds are not recorded** (only their combined cost of 575 gp), so the required value of the specific stone selected for a spell must also be confirmed. This is a rules caveat, not an assertion that the party cannot revive her.
 
 ## Known details
 
@@ -5908,11 +6275,15 @@ updated: 2026-10-13
 
 At the start of Session 22, Ballar placed her preserved body inside his Handy Haversack. The party then chose to return toward Somnolent rather than continue directly to Hushvale.
 
-Mireya has **not** been resurrected. The Session 23 chronicle still describes the party as returning with a preserved corpse; no later resurrection or change to her body's status is recorded in the supplied material.
+Through Session 23, Mireya remained dead. The later journey to Elmwood and purchase of a diamond are recorded under Sessions 25â€“26 below; **no resurrection has yet occurred**.
 
-## Session 25 â€” resurrection discussed
+## Session 25 Ã¢â‚¬â€ resurrection discussed
 
 The Defracturers returned to Somnolent with Mireya's preserved body and brought it to Elmwood Bluevine. Elmwood discussed a restoration requiring a diamond worth **300 gp** for her, with another required for the deceased Broken Fang scout. **Mireya was not revived** in the recorded session. See [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]].
+
+## Session 26 â€” diamonds bought, revival still pending
+
+Ballar acquired **two diamonds for 575 gp**. The partyÃ¢â‚¬â„¢s intention is to **use one to resurrect Mireya** and keep the other as a reserve. MireyaÃ¢â‚¬â„¢s preserved body remains in Somnolent; she **has not yet been restored**. The separate preserved Broken Fang scout is beyond the window for Revivify and is **not** the intended recipient of this diamond. See [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
 
 ## Campaign appearances
 
@@ -5985,6 +6356,87 @@ updated: 2026-07-05
 - [[02 Places/Doro/Doroan Noble Houses|Doroan Noble Houses]]
 - [[Broken Fang]]
 - [[Ervain Megbanas]]
+
+
+
+---
+# FILE: C:\Users\ellis\Documents\vaelond-wiki\content\03 People\Notable Figures\Plague.md
+---
+
+---
+title: Plague
+type: campaign-reference
+status: published
+player_facing: true
+aliases:
+  - Sentient fungus
+  - Poison fungus
+  - The bad mad man's fungus
+tags:
+  - campaign
+  - reference
+  - fungus
+  - ieuan
+source: Sessions 20-23
+updated: 2026-09-10
+---
+
+# Plague
+
+> [!summary] At a glance
+> A sentient poisonous fungus created through the corrupted work of [[03 People/Mentioned Figures/Maelor Vey|Maelor Vey, the False Gardener]]. Ieuan carried five cuttings away from its colony; although he later planted the remaining cuttings to be rid of them, Plague's voice has continued to reach him.
+
+## Encounter
+
+While pursuing Broken Fang scouts through the forest after leaving Rana Viam, [[03 People/Player Characters/Ieuan|Ieuan]] crossed a patch of suspicious poisonous fungus and cast **Speak with Plants**.
+
+The fungus identified itself as **Plague** and asked to spread. It described itself as having been left by a **bad mad man** later killed by forest guardians.
+
+Session 22 identified that figure as [[03 People/Mentioned Figures/Maelor Vey|Maelor Vey]], remembered in Orvak as **the False Gardener**. [[03 People/Mentioned Figures/Oakrah Woodfrey|Oakrah Woodfrey]] described Maelor as a corrupter whose impossible creations had continued to block the forest from Orun's light long after his death.
+
+## Bargain with Ieuan
+
+Ieuan negotiated safe passage by agreeing to take five cuttings and spread them elsewhere.
+
+One cutting was planted in Salla's corpse. [[03 People/Notable Figures/Eula|Eula]] later collected the plague-infested body. Plague subsequently told Ieuan that the cutting was settling in among many bodies and opportunities.
+
+After the destruction of Ulsar's camp, Ieuan concluded that his judgement had deteriorated since agreeing to spread Plague. He planted the remaining cuttings rather than continuing to carry them.
+
+## The False Gardener
+
+Oakrah confronted Ieuan after the camp battle and accused him of continuing the False Gardener's work. She explained that she remained in place to hold the corruption's spread at bay and could not safely abandon that duty to attack its source herself.
+
+The Defracturers entered the ruined home of the False Gardener and fought a mass of black, tar-like ooze that divided repeatedly when struck. Enrak ultimately blasted the well from which it emerged with a Fireball. With that immediate source destroyed, Oakrah was satisfied that the remaining taint could be cleared.
+
+This does **not** establish that Plague itself has been destroyed.
+
+## Continuing influence
+
+During Session 23, Ieuan again tried to understand the [[06 Library/Relics and Artefacts/Star Seed|Star Seed]] through nature. Plague's voice drowned out the attempt with a single command:
+
+> *Spread.*
+
+The continuing whisper means Ieuan's connection to Plague remains unresolved despite no longer carrying the cuttings.
+
+> [!question] Unresolved
+> - What connection allows Plague to continue reaching Ieuan?
+> - What will Eula do with Salla's infected corpse?
+> - What became of the cuttings Ieuan planted after Ulsar's camp?
+> - Can Oakrah and the awakened trees fully cleanse Maelor's remaining influence?
+> - Is Plague one organism, many linked organisms, or something stranger?
+
+## Related
+
+- [[03 People/Player Characters/Ieuan|Ieuan]]
+- [[03 People/Notable Figures/Eula|Eula]]
+- [[03 People/Mentioned Figures/Maelor Vey|Maelor Vey]]
+- [[03 People/Mentioned Figures/Oakrah Woodfrey|Oakrah Woodfrey]]
+- [[06 Library/Relics and Artefacts/False Gardener's Notebook|False Gardener's Notebook]]
+- [[05 Campaign Chronicle/Session 20 - Plague, Pursuit and Plan E|Session 20]]
+- [[05 Campaign Chronicle/Session 21 - Contracts, Command, and a Burning Camp|Session 21]]
+- [[05 Campaign Chronicle/Session 22 - Bodies, Blight, and Bushtache|Session 22]]
+- [[05 Campaign Chronicle/Session 23 - Ettins, Owlbears, and Betting Losses|Session 23]]
+- [[06 Library/Campaign Reference/Open Threads|Open Threads]]
 
 
 
@@ -6383,8 +6835,8 @@ homeland: Doro
 mount: Kingcup
 current_status: active
 source: Sessions 1-23
-additional_source: Session 25
-updated: 2026-10-13
+additional_source: Sessions 25-26
+updated: 2026-10-20
 ---
 
 # Ballar Novis
@@ -6404,9 +6856,9 @@ His paladin oath is associated with **glory**, public deeds and memorable achiev
 
 ## Personality and purpose
 
-Ballar is bold, theatrical and deeply conscious of how others perceive him. He is often the first to step forward, issue a challenge or present himself as the groupâ€™s most obvious champion.
+Ballar is bold, theatrical and deeply conscious of how others perceive him. He is often the first to step forward, issue a challenge or present himself as the groupÃ¢â‚¬â„¢s most obvious champion.
 
-That confidence can be genuine, but it is also defensive. Ballarâ€™s noble birth gives him access to rooms, people and authority that others lack, yet his place within House Nirrell remains undefined. He is important enough to carry the family name, but not important enough to inherit its future.
+That confidence can be genuine, but it is also defensive. BallarÃ¢â‚¬â„¢s noble birth gives him access to rooms, people and authority that others lack, yet his place within House Nirrell remains undefined. He is important enough to carry the family name, but not important enough to inherit its future.
 
 This tension appears in several recurring habits:
 
@@ -6415,11 +6867,11 @@ This tension appears in several recurring habits:
 - He is drawn to symbols of prestige, strength and display.
 - He often treats danger as an opportunity to prove he belongs in the centre of the story.
 
-Ballarâ€™s better qualities are tied to the same instincts. He is brave, difficult to ignore and capable of putting himself between danger and his companions. He has repeatedly restored fallen allies and fought in the centre of the partyâ€™s most dangerous encounters.
+BallarÃ¢â‚¬â„¢s better qualities are tied to the same instincts. He is brave, difficult to ignore and capable of putting himself between danger and his companions. He has repeatedly restored fallen allies and fought in the centre of the partyÃ¢â‚¬â„¢s most dangerous encounters.
 
 ## Campaign role
 
-Ballar often acts as the Defracturersâ€™ visible champion, front-line combatant and negotiator. His confidence gives the party weight in public, especially around Doroan figures and formal authority, but it can also create complications when his personal pride overtakes the groupâ€™s shared priorities.
+Ballar often acts as the DefracturersÃ¢â‚¬â„¢ visible champion, front-line combatant and negotiator. His confidence gives the party weight in public, especially around Doroan figures and formal authority, but it can also create complications when his personal pride overtakes the groupÃ¢â‚¬â„¢s shared priorities.
 
 He helped capture [[03 People/Notable Deceased/Alistair Prusset|Alistair Prusset]], fought through the Perfid embassy operation and has repeatedly used healing magic to bring companions back from the edge of death.
 
@@ -6427,21 +6879,21 @@ During the pursuit in Session 20, Ballar captured Salla, placed him in the bag o
 
 ## Doroan ties
 
-Ballarâ€™s strongest political connection is [[03 People/Notable Figures/Ouin Brond|Ouin Brond]], Doroâ€™s ambassador in Somnolent. Ouin has served as handler, adviser and truth-teller: someone who understands both Doroan politics and Ballarâ€™s tendency to mistake attention for achievement.
+BallarÃ¢â‚¬â„¢s strongest political connection is [[03 People/Notable Figures/Ouin Brond|Ouin Brond]], DoroÃ¢â‚¬â„¢s ambassador in Somnolent. Ouin has served as handler, adviser and truth-teller: someone who understands both Doroan politics and BallarÃ¢â‚¬â„¢s tendency to mistake attention for achievement.
 
-Ballar has reported sensitive discoveries to Ouin, including evidence connected to the House Bromere favour coin, the Rootbound and Anthea Bloodclotâ€™s murder. Ouin has also directed him towards wider Doroan threads, including the One Ball Inn dice game and the figure known as the Old Grey Pike.
+Ballar has reported sensitive discoveries to Ouin, including evidence connected to the House Bromere favour coin, the Rootbound and Anthea BloodclotÃ¢â‚¬â„¢s murder. Ouin has also directed him towards wider Doroan threads, including the One Ball Inn dice game and the figure known as the Old Grey Pike.
 
-Their relationship has become increasingly personal as well as political. Ouin has challenged Ballar to consider what he is actually serving: Doro, House Nirrell, his familyâ€™s secrets, his own pride or something more meaningful.
+Their relationship has become increasingly personal as well as political. Ouin has challenged Ballar to consider what he is actually serving: Doro, House Nirrell, his familyÃ¢â‚¬â„¢s secrets, his own pride or something more meaningful.
 
-Ballarâ€™s acceptance of [[03 People/Notable Figures/Romayne Drayton|Romayne Draytonâ€™s]] patronage complicated his Doroan status. In choosing to become one of Somnolentâ€™s agents, Ballar stepped further away from a simple role as a Doroan representative and towards a less certain, but potentially more self-directed, future.
+BallarÃ¢â‚¬â„¢s acceptance of [[03 People/Notable Figures/Romayne Drayton|Romayne DraytonÃ¢â‚¬â„¢s]] patronage complicated his Doroan status. In choosing to become one of SomnolentÃ¢â‚¬â„¢s agents, Ballar stepped further away from a simple role as a Doroan representative and towards a less certain, but potentially more self-directed, future.
 
 ## The Prusset fracture
 
-The capture of Prusset exposed Ballarâ€™s divided loyalties.
+The capture of Prusset exposed BallarÃ¢â‚¬â„¢s divided loyalties.
 
 After Prusset was subdued, Ballar wanted him delivered into Doroan custody. Other members of the party resisted, preferring Somnolent authority. When overruled, Ballar split from the group, acting according to his Doroan instincts rather than the emerging unity of the Defracturers.
 
-The fracture became personal when Ballar later crossed paths with Ieuan and struck him. It remains one of the clearest moments where Ballarâ€™s pride, loyalty to Doro and frustration with his companions overcame his better judgement.
+The fracture became personal when Ballar later crossed paths with Ieuan and struck him. It remains one of the clearest moments where BallarÃ¢â‚¬â„¢s pride, loyalty to Doro and frustration with his companions overcame his better judgement.
 
 ## Din and the ring
 
@@ -6449,39 +6901,39 @@ Ballar carries a [[Ring of Mind Shielding|Ring of Mind Shielding]] recovered fro
 
 The ring contains a speaking consciousness known to the party as [[03 People/Notable Figures/Din|Din]]. Ballar initially experienced Din as a private voice and did not immediately make the full situation transparent to the rest of the group.
 
-Din has offered guidance in exchange for the promise of a body. The offer places Ballar in a familiar position: entrusted with something secret, potentially important and potentially dangerous. For someone uncertain of his purpose, Dinâ€™s attention may be tempting. The ring gives Ballar private significance beyond birth order, noble expectation or Doroan approval.
+Din has offered guidance in exchange for the promise of a body. The offer places Ballar in a familiar position: entrusted with something secret, potentially important and potentially dangerous. For someone uncertain of his purpose, DinÃ¢â‚¬â„¢s attention may be tempting. The ring gives Ballar private significance beyond birth order, noble expectation or Doroan approval.
 
-Dinâ€™s identity, motives and limitations remain unresolved.
+DinÃ¢â‚¬â„¢s identity, motives and limitations remain unresolved.
 
 ## Public image and Ersil
 
-Ballarâ€™s hunger for glory does not mean he accepts every story told about him.
+BallarÃ¢â‚¬â„¢s hunger for glory does not mean he accepts every story told about him.
 
 When [[03 People/Notable Figures/Ersil Loquella|Ersil Loquella]] performed songs about the party, Ballar reacted badly to being turned into entertainment outside his control. He followed Ersil to his room, attacked him and held him over a balcony, demanding that the bard stop using his name.
 
 Ersil escaped with magic and left Ballar incapacitated by Hideous Laughter.
 
-The incident remains one of the clearest examples of Ballarâ€™s fragile pride. He wants fame, but he wants fame on his terms: heroic, flattering and controlled. Being made ridiculous cuts deeper than he likes to admit.
+The incident remains one of the clearest examples of BallarÃ¢â‚¬â„¢s fragile pride. He wants fame, but he wants fame on his terms: heroic, flattering and controlled. Being made ridiculous cuts deeper than he likes to admit.
 
 ## Balur, chains and fighting-pit bravado
 
-Ballarâ€™s relationship with [[03 People/Notable Figures/Balur Moonclaw|Balur Moonclaw]] reflects another side of his search for purpose.
+BallarÃ¢â‚¬â„¢s relationship with [[03 People/Notable Figures/Balur Moonclaw|Balur Moonclaw]] reflects another side of his search for purpose.
 
-At Emberwake, Ballar earned Balurâ€™s respect through physical contest and was offered either blacksmith training or an introduction to the fighting pits. Ballar chose the latter.
+At Emberwake, Ballar earned BalurÃ¢â‚¬â„¢s respect through physical contest and was offered either blacksmith training or an introduction to the fighting pits. Ballar chose the latter.
 
-He later bought chains and manacles from Balur, leading to a display of mutual peacocking and strength-based bravado. The fighting-pit invitation remains a dormant personal hook: less a grand quest than a perfect expression of Ballarâ€™s desire to prove himself somewhere public, physical and impossible to ignore.
+He later bought chains and manacles from Balur, leading to a display of mutual peacocking and strength-based bravado. The fighting-pit invitation remains a dormant personal hook: less a grand quest than a perfect expression of BallarÃ¢â‚¬â„¢s desire to prove himself somewhere public, physical and impossible to ignore.
 
 ## Mount
 
-[[06 Library/Campaign Reference/Horses#Kingcup|Kingcup]] is Ballarâ€™s recorded mount.
+[[06 Library/Campaign Reference/Horses#Kingcup|Kingcup]] is BallarÃ¢â‚¬â„¢s recorded mount.
 
 Beautiful, vain, difficult and fond of attention, Kingcup is an obvious match for Ballar. The choice says as much about the rider as the horse. Ballar was warned not to be foolish when choosing a mount and naturally gravitated towards the most dramatic option available.
 
-Kingcupâ€™s elegance and temperament mirror Ballarâ€™s own self-image: impressive, stubborn, high-maintenance and convinced that being admired is part of the job.
+KingcupÃ¢â‚¬â„¢s elegance and temperament mirror BallarÃ¢â‚¬â„¢s own self-image: impressive, stubborn, high-maintenance and convinced that being admired is part of the job.
 
 ## Sessions 22-23
 
-Ballar preserved and carried Mireya's body in his Handy Haversack during the return journey. In Session 22 he also cast Gentle Repose on another Broken Fang scout and stored that corpse; the supplied record does not state what he intended to do with it or what later happened to it. He also recovered the [[06 Library/Relics and Artefacts/False Gardener's Notebook|False Gardener's notebook]], used it to speak with [[06 Library/Campaign Reference/Bushtache|Bushtache]], and later handed the notebook to Ieuan.
+Ballar preserved and carried Mireya's body in his Handy Haversack during the return journey. In Session 22 he also cast **Gentle Repose** on a dead Broken Fang scout and stored the corpse. **Later update:** Ballar brought both bodies to Elmwood in Session 25; by Session 26 the scout was regarded as beyond **Revivify**, and the purchased diamonds were earmarked for Mireya and reserve rather than the scout. He also recovered the [[06 Library/Relics and Artefacts/False Gardener's Notebook|False Gardener's notebook]], used it to speak with [[Bushtache|Bushtache]], and later handed the notebook to Ieuan.
 
 Rather than take Malt back to Somnolent as a prisoner, Ballar released him with a task: obtain a Pot of Awakening, awaken Bushtache and bring the cabbage safely to Somnolent. Ballar cast Gentle Repose on Bushtache to preserve it for ten days before sending Malt away.
 
@@ -6494,24 +6946,32 @@ His relationship with [[06 Library/Campaign Reference/Horses#Kingcup|Kingcup]] a
 - Understand [[03 People/Notable Figures/Din|Din]] and determine whether he can safely be given a body.
 - Uncover the full relationship between [[02 Places/Doro/Noble Houses/House Nirrell|House Nirrell]], the Old Grey Pike and the destruction of [[02 Places/Doro/Ashenhom|Ashenhom]].
 - Decide what responsibility Ballar bears for the choices and secrets of his family.
-- Resolve his strained loyalties between Ouinâ€™s Doroan guidance and the Defracturersâ€™ collective judgement.
+- Resolve his strained loyalties between OuinÃ¢â‚¬â„¢s Doroan guidance and the DefracturersÃ¢â‚¬â„¢ collective judgement.
 - Determine whether his attraction to spectacle can become genuine leadership rather than performance.
 
 > [!warning] Gaps in the current record
 > - The exact duties, resources and internal politics of [[02 Places/Doro/Noble Houses/House Nirrell|House Nirrell]] remain incomplete.
-> - Ballarâ€™s older siblings have not yet been fully named or described.
+> - BallarÃ¢â‚¬â„¢s older siblings have not yet been fully named or described.
 > - The exact actions of each Nirrell family member during the events surrounding Ashenhom remain unresolved.
-> - Dinâ€™s original identity, limitations and long-term objective have not been confirmed.
-> - Ballarâ€™s life and accomplishments before the campaign are only lightly described.
+> - DinÃ¢â‚¬â„¢s original identity, limitations and long-term objective have not been confirmed.
+> - BallarÃ¢â‚¬â„¢s life and accomplishments before the campaign are only lightly described.
 > - The consequences of Ballar stepping away from formal Doroan authority have not yet fully played out.
 
-## Session 25 â€” Orrian and the Lowgins brothers
+## Session 25 Ã¢â‚¬â€ Orrian and the Lowgins brothers
 
 Back in Somnolent, Ballar received a **Cloak of Many Fashions** and an affectionate letter from childhood acquaintance and perceived rival [[03 People/Mentioned Figures/Orrian Leovyre|Orrian Leovyre]], inviting him to Temir. Ballar was furious that the Crimson Shield had been allowed to stay at the Bastion and that his wardrobe had been rearranged.
 
 He assaulted steward [[03 People/Bastion Staff/Derrick Lowgins|Derrick Lowgins]], repeatedly dunking his head in a toilet, and later violently threw [[03 People/Notable Figures/Terrick Lowgins|Terrick Lowgins]] through part of the house and a stranger's window amid a dispute between the brothers. Terrick alleged that Derrick had stolen from his family; this allegation is not independently established.
 
 Ballar participated in the One Ball cellar rescue attempt and witnessed the shared Sundering memory activated from the Tace Nox scroll. The party reached **level 6** at the session's end.
+
+## Session 26 Ã¢â‚¬â€ family politics, diamonds and the market
+
+Ballar discussed the ten Sundering objects and argued for keeping the Bands rather than placing them in AalaricÃ¢â‚¬â„¢s secure storage. He sent an owl, mastiff and bear from his Bag of Tricks towards Tace Nox to find **a goblin who escaped custody about a month earlier** (not the Malt whom he had separately released with Bushtache).
+
+At Sixhalls he bought **two diamonds for 575 gp**: the party plans to use **one to resurrect Mireya** and hold the other in reserve; the deceased scout is beyond Revivify. He also bought a **1 gp boomerang**. During the brawl he attempted to negotiate a free hit on Enrak, cast Compelled Duel, escalated the conflict and was knocked unconscious by Yama.
+
+At the Doro embassy he learned rumours of peace negotiations involving his family and the opposition of Aequinth and Bromere. He found that his Drowsy Coin penthouse was no longer available, then read letters from [[03 People/Mentioned Figures/Xilpeiros Nirrell|his father]], who first rebuked his abandonment of diplomatic service and later solicited his political assessment. His mother sent **200 gp**. Charges left him owing Doro **10 gp**, which he tried to dispatch through Gorbels before GayleÃ¢â‚¬â„¢s collapse interrupted the errand. See [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
 
 ## Related
 
@@ -6554,8 +7014,8 @@ homeland: Clan Khaali
 mount: Bracken
 current_status: active
 source: Sessions 1-20 and original character notes
-additional_source: Session 25
-updated: 2026-10-13
+additional_source: Sessions 25-26
+updated: 2026-10-20
 ---
 
 # Enrak Kiran
@@ -6632,6 +7092,10 @@ Enrak joined the fight beneath the destroyed One Ball Inn and elected not to use
 
 At Elmwood's tower, Enrak witnessed the memory within the [[06 Library/Ardynian Relics and Artefacts/Tace Nox scroll|Tace Nox scroll]] and was left momentarily speechless by the events it showed. The Defracturers advanced to level 6 at the session's end.
 
+## Session 26 â€” dance battle and brawl
+
+At Sixhalls, Billy Hill introduced Enrak to Yama and Spopovich, visiting fighters from Dazuun. Enrak joined a three-round dance contest, including the worm and robot, accompanied by Ersil Loquella. His fireworks provoked the two fighters and helped turn the contest into a violent brawl. Enrak retaliated with an illusion of flames and was knocked unconscious twice. See [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
+
 ## Related
 
 - [[04 Organisations/The Defracturers|The Defracturers]]
@@ -6667,8 +7131,8 @@ class: Rogue
 mount: Vesper
 current_status: active
 source: Sessions 1-23
-additional_source: Session 25
-updated: 2026-10-13
+additional_source: Sessions 25-26
+updated: 2026-10-20
 ---
 
 # Erelmor
@@ -6752,6 +7216,10 @@ After returning to Somnolent, Erelmor questioned townsfolk about the missing Old
 
 Later he was shaken by the Sundering memory triggered through the [[06 Library/Ardynian Relics and Artefacts/Tace Nox scroll|Tace Nox scroll]], openly questioning whether continuing to collect dangerous Ardynian relics was wise, or whether they should be destroyed. The whereabouts of the Pike remain unknown. The party reached level 6 at the end of Session 25.
 
+## Session 26 â€” shaken confidence
+
+After the Sundering vision, Erelmor questioned his ability to face powers far beyond his personal hunt for the Old Grey Pike. He replaced his ruined studded leather armour for **45 gp**. During the market brawl he cast Darkness to cover what he thought was a party retreat, ran back to the Bastion and had staff barricade it against an attack that never came. The misunderstanding left him ashamed and less confident about confronting the Pike. His objective and the Pikeâ€™s whereabouts have not changed. See [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
+
 ## Related
 
 - [[04 Organisations/The Defracturers|The Defracturers]]
@@ -6794,8 +7262,8 @@ homeland: Clan Orvak
 mount: Cobb
 current_status: active
 source: Sessions 1-23
-additional_source: Session 25
-updated: 2026-10-13
+additional_source: Sessions 25-26
+updated: 2026-10-20
 ---
 
 # Ieuan
@@ -6825,7 +7293,7 @@ Father Zantos later entrusted Ieuan with a [[06 Library/Relics and Artefacts/Sta
 
 At Rana Viam, Ieuan's insight proved important after the defeat of the golem guarding the [[Bands of Distortion|Bands of Distortion]]. He investigated the remains and determined that the Bands were linked to the construct through a heart stone, helping the party understand how the relic had been bound and how it might be safely recovered.
 
-In Session 20, Ieuan used **Speak with Plants** to communicate with [[06 Library/Campaign Reference/Plague|Plague]], a sentient poisonous fungus. He promised to spread five cuttings in exchange for safe passage and planted the first in Salla's corpse. His later proposal to use Plague against the Broken Fang camp was designated **Plan E**.
+In Session 20, Ieuan used **Speak with Plants** to communicate with [[Plague|Plague]], a sentient poisonous fungus. He promised to spread five cuttings in exchange for safe passage and planted the first in Salla's corpse. His later proposal to use Plague against the Broken Fang camp was designated **Plan E**.
 
 ## Father Zantos
 
@@ -6839,7 +7307,7 @@ Zantos praised Ieuan's path as a Circle of Stars druid and linked it to Orun's w
 
 ## Sessions 22-23
 
-After Ulsar's camp, Ieuan concluded that his judgement had deteriorated since accepting [[06 Library/Campaign Reference/Plague|Plague's]] bargain and planted the remaining cuttings rather than continue carrying them.
+After Ulsar's camp, Ieuan concluded that his judgement had deteriorated since accepting [[Plague|Plague's]] bargain and planted the remaining cuttings rather than continue carrying them.
 
 He was then confronted by [[03 People/Mentioned Figures/Oakrah Woodfrey|Oakrah Woodfrey]], who identified Plague as part of the legacy of [[03 People/Mentioned Figures/Maelor Vey|Maelor Vey, the False Gardener]]. The Defracturers destroyed the immediate corruption beneath Maelor's ruined home. Ballar later handed Ieuan the [[06 Library/Relics and Artefacts/False Gardener's Notebook|False Gardener's Notebook]].
 
@@ -6869,6 +7337,10 @@ In the One Ball cellar, Ieuan fought the gibbering mouthers, attempted to help t
 
 Ieuan witnessed the shared memory from the [[06 Library/Ardynian Relics and Artefacts/Tace Nox scroll|Tace Nox scroll]] and learned the confirmed identities of the [[06 Library/Ardynian Relics and Artefacts/Corona of the Ashen Choir|Corona of the Ashen Choir]] and [[06 Library/Ardynian Relics and Artefacts/Staff of Broken Time|Staff of Broken Time]]. The Defracturers advanced to level 6.
 
+## Session 26 â€” Star Seed and de-escalation
+
+Ieuan replaced his studded leather armour for **45 gp** and tried to stop the market brawl: he dispelled Erelmorâ€™s Darkness and healed Yama. Later he prayed with Father Zantos and Mother Joygrove at the druid circle, admitting that his strengthening connection to the stars felt increasingly distant from his connection to the earth. Zantos helped him meditate on the Star Seed, but Ieuan **did not yet understand its remaining natural aspect**. See [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
+
 ## Related
 
 - [[04 Organisations/The Defracturers|The Defracturers]]
@@ -6882,7 +7354,7 @@ Ieuan witnessed the shared memory from the [[06 Library/Ardynian Relics and Arte
 - [[02 Places/Rakara/Rana Viam|Rana Viam]]
 - [[06 Library/Relics and Artefacts/Star Seed|Star Seed]]
 - [[Bands of Distortion|Bands of Distortion]]
-- [[06 Library/Campaign Reference/Plague|Plague]]
+- [[Plague|Plague]]
 - [[06 Library/Campaign Reference/Horses|Horses]]
 
 
@@ -6943,8 +7415,8 @@ homeland: Minir
 mount: Nail
 current_status: active
 source: Sessions 2-23
-additional_source: Session 25
-updated: 2026-10-13
+additional_source: Sessions 25-26
+updated: 2026-10-20
 ---
 
 # n'Dong
@@ -7020,6 +7492,12 @@ n'Dong heard the cries beneath the ruined One Ball Inn and discovered the creatu
 
 At the Bastion he established a **shrine to Verei in the crypt** and received a powerful, unspecified blessing. He provided a vial of green Time Juice to Elmwood, allowing the Tace Nox scroll to activate. During the resulting memory he recognised the likeness of Saint Erith from a portrait of **Minir's first Arc Master**. The Defracturers reached level 6 after the session.
 
+## Session 26 â€” contacts in the fighting pits
+
+nâ€™Dong bought a green-and-gold **Robe of Gleaming for 50 gp**. During the market fight he privately contacted Yama with Message and arranged to offer Dragonâ€™s Dandruff for information. The two fighters later identified [[03 People/Mentioned Figures/Karessa|Karessa]] as their drug supplier and [[03 People/Mentioned Figures/Oruc|Oruc]] as a Voruun booking agent allegedly taking Rhul Slowdriftâ€™s money to fix matches; their story is not independently verified.
+
+nâ€™Dong supplied the pair with more Dragonâ€™s Dandruff and promised future deliveries in exchange for intelligence. He briefly tried to arrange a delivery through Derrick Lowgins at the Bastion but took the parcel back before Derrick delivered it. See [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
+
 ## Related
 
 - [[04 Organisations/The Defracturers|The Defracturers]]
@@ -7051,7 +7529,7 @@ tags:
 affiliation: Minir
 leader: Prodosius
 source: Campaign notes and Sessions 1-25
-updated: 2026-10-13
+updated: 2026-10-20
 ---
 
 # Broken Fang
@@ -7098,7 +7576,7 @@ According to Ulsar, killing Rhul or destroying this operation would likely draw 
 ## Developments in Sessions 22-24
 
 - n'Dong recovered **two vials of [[06 Library/Campaign Reference/Dragon's Dandruff|Dragon's Dandruff]]** from [[03 People/Notable Deceased/Talan Rook|Talan Rook]]'s tent after Ulsar's camp was destroyed.
-- Malt no longer remains a prisoner. Ballar released him in Session 23 with the task of finding a Pot of Awakening for [[06 Library/Campaign Reference/Bushtache|Bushtache]].
+- Malt no longer remains a prisoner. Ballar released him in Session 23 with the task of finding a Pot of Awakening for [[Bushtache|Bushtache]].
 - Session 24 confirmed that the [[02 Places/Rakara/Somnolent/One Ball Inn|One Ball Inn]] remained an active **fencing point** for the organisation. Two men pressuring [[03 People/Notable Figures/Antoinne Cassan|Antoinne Cassan]] explicitly invoked [[03 People/Mentioned Figures/Rhul Slowdrift|Rhul Slowdrift]] and his concern for discretion.
 - A barrel abandoned by smugglers beside the river was later connected to Antoinne. It contained expensive goods with merchant markings stripped or obscured.
 - Antoinne subsequently disappeared. His office was found ransacked, with blood, coded transactions and missing ledger pages. The One Ball Inn burned down the following morning and no body was recovered.
@@ -7118,6 +7596,12 @@ These developments confirm that Rhul's network reached directly into Somnolent r
 After the One Ball Inn burned, the Defracturers discovered gibbering mouthers and slaad tadpoles in its cellar. They found broken vials labelled "slaadpole" and a scorched map pointing toward the rear barn of an unnamed farm outside Somnolent.
 
 The inn's previous role as a Broken Fang fencing point makes this a possible lead into the group's wider smuggling activity. **No evidence yet proves that the Broken Fang bred, stored or transported the creatures, or caused the fire.** See [[02 Places/Rakara/Somnolent/One Ball Inn|the One Ball Inn]] and [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]].
+
+## Session 26 â€” reported pit corruption
+
+Following a market encounter, [[03 People/Mentioned Figures/Yama and Spopovich|Yama and Spopovich]] told [[03 People/Player Characters/n'Dong|n'Dong]] that fighters in Dazuun were being supplied with Dragonâ€™s Dandruff, their earnings had declined and the operation worsened after Rhul became involved. The two named [[03 People/Mentioned Figures/Karessa|Karessa]], a three-fingered Khaali woman, as their supplier and alleged that [[03 People/Mentioned Figures/Oruc|Oruc]], a booking agent who employed them in Voruun, took payments from Rhul to fix matches.
+
+These statements provide a possible network of supplier, intermediary and controller. **They remain the fightersâ€™ testimony**; Karessa has not been identified as one of Ulsarâ€™s three alchemists, nor has Orucâ€™s formal membership in the Broken Fang been established. nâ€™Dong gave the fighters more of the substance and offered to continue supplying them in exchange for information. See [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
 
 ## Related people
 
@@ -7209,7 +7693,7 @@ tags:
 affiliation: 'Perfid'
 leader: 'High Illuminant Derathel'
 source: 'Campaign notes and session chronicle'
-updated: 2026-07-02
+updated: 2026-10-20
 ---
 
 # Church of Elgira
@@ -7229,13 +7713,13 @@ The two titles refer to different people and different positions, not an alias o
 
 - The Church ordered [[03 People/Notable Deceased/Anthea Bloodclot|Anthea Bloodclot's]] murder and used [[03 People/Notable Deceased/Alistair Prusset|Alistair Prusset]] to contact a [[04 Organisations/Rootbound|Rootbound]] cell.
 - Its leadership believed, or claimed to believe, that Anthea was **Saint Marra**, one of Elgira's surviving followers, and feared she intended to restore Ardynia.
-- The Defracturers have not independently proven that Anthea was Marra.
+- In Session 25, the Defracturers and Elmwood witnessed an Ardynian memory; **Elmwood recognised Anthea as Saint Marra**. The party now treats this identification as established. It is **not necessarily public knowledge**, and the Church's precise motives remain a separate question.
 - Perfidian agents abducted and tortured [[03 People/Notable Figures/Terrick Lowgins|Terrick Lowgins]].
 - Church agents escaped Somnolent with a [[Corona of the Ashen Choir|Corona of the Ashen Choir]].
 
 ## Doctrine and history
 
-The Church teaches that Elgira deliberately sacrificed herself at the Battle of the Vale. Other surviving records and reconstructions present a different account of the Sundering.
+The Church teaches that Elgira deliberately sacrificed herself at the Battle of the Vale. In Session 25, Elmwood activated the Tace Nox scroll using probable Sanguis Aevi and the Defracturers experienced an ancient memory of the ritual. The memory revealed a catastrophic miscalculation and the deaths of the rebel host, rather than the carefully measured sacrifice of official doctrine. The vision is **party-discovered evidence**, not a public historical consensus. See [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]] and [[01 Welcome to Vaelond/The Sundering of Ardynia|The Sundering of Ardynia]].
 
 ## Related
 
@@ -7244,7 +7728,7 @@ The Church teaches that Elgira deliberately sacrificed herself at the Battle of 
 - [[03 People/Notable Deceased/Alistair Prusset|Alistair Prusset]]
 - [[04 Organisations/Rootbound|The Rootbound]]
 - [[06 Library/Letters and Documents/Stolen Letter from Alistair Prusset's Study|Stolen Letter from Alistair Prusset's Study]]
-- [[05 Campaign Chronicle/Session 12-14 - Fire, Faith and the Corona of the Ashen Choir|Sessions 12â€“14]]
+- [[05 Campaign Chronicle/Session 12-14 - Fire, Faith and the Corona of the Ashen Choir|Sessions 12Ã¢â‚¬â€œ14]]
 
 
 
@@ -7266,7 +7750,7 @@ tags:
 leader: Orrian Leovyre
 source: Session 24
 additional_source: Session 25
-updated: 2026-10-13
+updated: 2026-10-20
 ---
 
 # Crimson Shield
@@ -7299,6 +7783,10 @@ Upon returning to Somnolent, the Defracturers discovered that the Crimson Shield
 A sign at the burned [[02 Places/Rakara/Somnolent/One Ball Inn|One Ball Inn]] announced the planned **Phoenix Yard**, generously supported by Orrian Leovyre and the Crimson Shield; the development is not yet complete.
 
 The parcel Orrian left for Ballar contained a **Cloak of Many Fashions** and an affectionate, gently patronising letter inviting him to meet Orrian in **Temir**. The gift intensified Ballar's irritation at the party having stayed in his Bastion. See [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]].
+
+## Session 26 â€” reported travel to Temir
+
+During a visit to the Doro embassy, Ballar heard that the Crimson Shield were heading towards **Temir** for the coming **Wavecutter tournament**. This is a reported itinerary, not confirmation of their arrival or participation. Ballar hopes to catch up with [[03 People/Mentioned Figures/Orrian Leovyre|Orrian Leovyre]]. See [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
 
 ## Related
 
@@ -7370,7 +7858,6 @@ source: 'Campaign notes.docx'
 additional_source: Session 25
 updated: 2026-10-13
 ---
-
 # Loyal Crows
 
 The **Loyal Crows** were Anthea Bloodclotâ€™s hidden agents and confidants. Their identities and structure were deliberately concealed, leaving the party to distinguish genuine loyalists from those merely invoking the name.
@@ -7548,53 +8035,65 @@ patron: 'Romayne Drayton'
 base: 'Former Perfid embassy, Somnolent'
 source: 'Campaign notes and session chronicle'
 additional_source: Session 25
-updated: 2026-10-13
+updated: 2026-10-20
 ---
 
 # The Defracturers
 
-The adventurers were informally called the **Squishy Boys** during their earliest exploits. They formally adopted the name **The Defracturers** when they accepted [[03 People/Notable Figures/Romayne Drayton|Romayne Draytonâ€™s]] patronage in Session 11.
+The adventurers were informally called the **Squishy Boys** during their earliest exploits. They formally adopted the name **The Defracturers** when they accepted [[03 People/Notable Figures/Romayne Drayton|Romayne DraytonÃ¢â‚¬â„¢s]] patronage in Session 11.
 
 ## Members
 
-- [[03 People/Player Characters/Ballar Novis|Ballar Novis]] â€” high-elf paladin connected to Doro and House Nirrell
-- [[03 People/Player Characters/Erelmor|Erelmor]] â€” drow rogue pursuing those responsible for the destruction of his family
-- [[03 People/Player Characters/Ieuan|Ieuan]] â€” wood-elf Circle of Stars druid with ties to Clan Orvak
-- [[03 People/Player Characters/Enrak Kiran|Enrak Kiran]] â€” half-elf fire mage from Clan Khaali
-- [[03 People/Player Characters/n'Dong|n'Dong]] â€” dragonborn wizard and former captive of the Broken Fang
+- [[03 People/Player Characters/Ballar Novis|Ballar Novis]] Ã¢â‚¬â€ high-elf paladin connected to Doro and House Nirrell
+- [[03 People/Player Characters/Erelmor|Erelmor]] Ã¢â‚¬â€ drow rogue pursuing those responsible for the destruction of his family
+- [[03 People/Player Characters/Ieuan|Ieuan]] Ã¢â‚¬â€ wood-elf Circle of Stars druid with ties to Clan Orvak
+- [[03 People/Player Characters/Enrak Kiran|Enrak Kiran]] Ã¢â‚¬â€ half-elf fire mage from Clan Khaali
+- [[03 People/Player Characters/n'Dong|n'Dong]] Ã¢â‚¬â€ dragonborn wizard and former captive of the Broken Fang
 
 ## Formal status
 
-Following Perfid's actions in Somnolent, the group entered formal patronage under Romayne Drayton. They were granted resources, political protection and use of the former Perfid embassy as a bastion.
+Following Perfid's actions in Somnolent, the group entered formal patronage under Romayne Drayton. The signed [[06 Library/Letters and Documents/Instrument of Patronage and Service|Instrument of Patronage & Service]] grants diplomatic protections inside Somnolent, basic staff, a monthly stipend and use of the former Perfid embassy, with significant obligations regarding conduct, assignments and recovered artefacts. These are **contractual rights and duties**, not unrestricted ownership of the Bastion or blanket immunity.
 
 ## Household and mounts
 
-- [[02 Places/Rakara/Somnolent/The Defracturers' Bastion|The Defracturersâ€™ Bastion]]
+- [[02 Places/Rakara/Somnolent/The Defracturers' Bastion|The DefracturersÃ¢â‚¬â„¢ Bastion]]
 - [[06 Library/Campaign Reference/Horses|Horses]]
 - [[03 People/index#Bastion staff|Bastion staff]]
 
 ## Current campaign position
 
-By the end of Session 25 (with Session 24 recording parallel events in Somnolent during their absence):
+By the end of Session 25 (background carried forward; see the Session 26 status below):
 
 - The party holds the [[Bands of Distortion|Bands of Distortion]] and their heart stone.
 - [[03 People/Notable Figures/Mireya Dinak|Mireya Dinak]] remains dead; her preserved body was brought to Elmwood in Somnolent in Session 25 for possible restoration.
 - Ballar also preserved the corpse of a Broken Fang scout in Session 22; that body was brought to Elmwood in Session 25. Neither body has been restored.
 - n'Dong recovered two vials of [[06 Library/Campaign Reference/Dragon's Dandruff|Dragon's Dandruff]] from Talan Rook's tent.
-- Ieuan planted the remaining [[06 Library/Campaign Reference/Plague|Plague]] cuttings, but Plague's voice continues to reach him.
+- Ieuan planted the remaining [[Plague|Plague]] cuttings, but Plague's voice continues to reach him.
 - The party encountered [[03 People/Mentioned Figures/Oakrah Woodfrey|Oakrah Woodfrey]] and destroyed the immediate corruption beneath the home of [[03 People/Mentioned Figures/Maelor Vey|Maelor Vey, the False Gardener]].
-- Ballar released Malt with instructions to acquire a Pot of Awakening, awaken [[06 Library/Campaign Reference/Bushtache|Bushtache]] and bring the cabbage to Somnolent.
+- Ballar released Malt with instructions to acquire a Pot of Awakening, awaken [[Bushtache|Bushtache]] and bring the cabbage to Somnolent.
 - The party deferred Hushvale and **returned to Somnolent in Session 25**.
 - During their absence, their Bastion staff uncovered a credible lead on Eden Carrion and Summer Quaresh; Job Ashmere and Gayle Bramble prepared to pursue it, while the One Ball Inn's Broken Fang connections surfaced publicly enough to become dangerous.
 - [[03 People/Notable Figures/Ervain Megbanas|the Old Grey Pike]] left Somnolent, [[03 People/Notable Figures/Antoinne Cassan|Antoinne Cassan]] disappeared, and the [[02 Places/Rakara/Somnolent/One Ball Inn|One Ball Inn]] burned down before the party's return.
 
-## Session 25 â€” status and discoveries
+## Session 25 - status and discoveries
 
 **Current party level:** **6** (advanced at the end of Session 25).
 
 The Defracturers returned to Somnolent, encountered deadly creatures beneath the burned One Ball and learned new Loyal Crows leads from their Bastion researchers. Elmwood activated the [[06 Library/Ardynian Relics and Artefacts/Tace Nox scroll|Tace Nox scroll]] using likely Sanguis Aevi, and the party witnessed Elgira's memory of the Sundering. They recognised the previously encountered [[06 Library/Ardynian Relics and Artefacts/Corona of the Ashen Choir|Corona of the Ashen Choir]] as one of the five Crowns of Infinity, and the [[06 Library/Ardynian Relics and Artefacts/Staff of Broken Time|Staff of Broken Time]] as the staff Elgira used. Elmwood identified Anthea as Saint Marra.
 
 The group now faces a choice about whether to gather, safeguard or destroy dangerous Ardynian relics. The Bands remain unattuned. The fate of the escaped slaad tadpoles and the meaning of the burned farm map are also open. See [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]].
+
+## Session 26 - current position
+
+- **Ten Sundering objects:** five Coronas of the Ashen Choir and five other relics. The party retains the Bands and their heart stone, without attunement, and suspects that the Staff may have a separate anchor at Tace Nox; this is unproven.
+- **Resurrection:** Ballar bought two diamonds (575 gp). One is intended for [[03 People/Notable Figures/Mireya Dinak|Mireya]] and one is held in reserve. The preserved Broken Fang scout is beyond Revivify; neither individual has been revived.
+- **Two separate goblin threads:** Malt was released to seek a Pot of Awakening for Bushtache; Ballar has now sent three Bag of Tricks animals towards Tace Nox looking for another goblin who escaped custody around a month earlier.
+- **Dazuun lead:** nÃ¢â‚¬â„¢Dong heard testimony from [[03 People/Mentioned Figures/Yama and Spopovich|Yama and Spopovich]] about Karessa, Oruc and alleged Rhul-linked match-fixing.
+- **Doro:** Ballar heard unverified reports of possible Perfid peace talks involving House Nirrell, with Trenhalde reportedly favourable and Aequinth and Bromere reportedly opposed.
+- **Gayle:** [[03 People/Notable Figures/Gayle Bramble|Gayle Bramble]] returned to the Bastion battered and unconscious; Job AshmereÃ¢â‚¬â„¢s whereabouts and the Eden/Summer lead remain unresolved.
+- **Next step:** the party intends to consult Romayne and has discussed Temir or Tace Nox, but **has not selected a route**. Hushvale remains deferred.
+
+See [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
 
 ## Related
 
@@ -7616,22 +8115,22 @@ type: campaign-index
 status: published
 player_facing: true
 campaign: Vaelond
-latest_session: 25
+latest_session: 26
 tags:
   - campaign
   - chronicle
   - index
-updated: 2026-10-13
+updated: 2026-10-20
 ---
 
 # Campaign Chronicle
 
-A session-by-session account of the Defracturers' adventures, beginning with the [[02 Places/Rakara/Somnolent/Emberwake Festival|Emberwake Festival]] and continuing through Rana Viam, the Broken Fang pursuit, the False Gardener and the return to Somnolent and a firsthand encounter with the history of the Sundering.
+A session-by-session account of the Defracturers' adventures, beginning with the [[02 Places/Rakara/Somnolent/Emberwake Festival|Emberwake Festival]] and continuing through Rana Viam, the Broken Fang pursuit, the False Gardener, and the partyâ€™s return to Somnolent, encounter with the Sundering memory and new leads from the Dazuun pits.
 
 > [!info] Source coverage
-> The supplied document contains individual notes for Sessions 1-11 and 15-25. Sessions 12-14 are preserved as one combined account because the source does not identify reliable boundaries between those sessions. Session 24 is a parallel Bastion interlude covering events in Somnolent during the Defracturers' absence.
+> The supplied document contains individual notes for Sessions 1-11 and 15-26. Sessions 12-14 are preserved as one combined account because the source does not identify reliable boundaries between those sessions. Session 24 is a parallel Bastion interlude covering events in Somnolent during the Defracturers' absence.
 
-**Latest published entry:** [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25: Ashes, Arrogance, and the Blood of Ages]]
+**Latest published entry:** [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26: Sundering Relics and the Market Brawl]]
 
 ## Session index
 
@@ -7658,6 +8157,7 @@ A session-by-session account of the Defracturers' adventures, beginning with the
 - **Session 23:** [[05 Campaign Chronicle/Session 23 - Ettins, Owlbears, and Betting Losses|Ettins, Owlbears, and Betting Losses]] - 24 August 2026. The party releases Malt with Bushtache, advances Ieuan's Star Seed and continues the return journey toward Somnolent.
 - **Session 24:** [[05 Campaign Chronicle/Session 24 - Pies, Pike and a one ball blaze|Bastion Interlude: Pies, Pike and the One Ball Blaze]] - 07 September 2026. A parallel Bastion interlude reveals a lead on Eden and Summer, the Pike's departure, Antoinne's disappearance and the destruction of the One Ball Inn.
 - **Session 25:** [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Ashes, Arrogance, and the Blood of Ages]] - 12 October 2026. The Defracturers return to Somnolent, confront horrors beneath the One Ball Inn and witness an Ardynian memory revealing the price of the Sundering.
+- **Session 26:** [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Sundering Relics and the Market Brawl]] - 19 October 2026. The party discusses ten Sundering objects, tangles with Dazuun pit fighters, receives Doroan political rumours and is interrupted by Gayle Brambleâ€™s injured return.
 
 ## Major arcs
 
@@ -7668,8 +8168,12 @@ A session-by-session account of the Defracturers' adventures, beginning with the
 - **Rana Viam:** Sessions 18-19
 - **The Broken Fang pursuit:** Sessions 20-21
 - **The False Gardener:** Session 22
-- **Return to Somnolent:** Sessions 23 and 25
+- **Return to Somnolent:** Sessions 23, 25 and 26
 - **Bastion downtime:** Session 24, occurring in parallel with the party's absence
+
+## Session 26 reference
+
+New named leads: [[03 People/Mentioned Figures/Karessa|Karessa]], [[03 People/Mentioned Figures/Oruc|Oruc]] and [[03 People/Mentioned Figures/Yama and Spopovich|Yama and Spopovich]]. See [[06 Library/Campaign Reference/Open Threads|Open Threads]] for the currently unresolved investigations.
 
 ## Related lore
 
@@ -7682,7 +8186,7 @@ A session-by-session account of the Defracturers' adventures, beginning with the
 - [[03 People/Mentioned Figures/Rhul Slowdrift|Rhul Slowdrift]]
 - [[02 Places/Rakara/Voruun/Dazuun|Dazuun]]
 - [[06 Library/Campaign Reference/Dragon's Dandruff|Dragon's Dandruff]]
-- [[06 Library/Campaign Reference/Plague|Plague]]
+- [[Plague|Plague]]
 - [[01 Welcome to Vaelond/The Sundering of Ardynia|The Sundering of Ardynia]]
 - [[01 Welcome to Vaelond/Religion/Perfidian Faith|Perfidian Faith]]
 
@@ -10067,7 +10571,7 @@ updated: 2026-07-08
 
 The forest did not stay quiet for long.
 
-Before the Defracturers could settle fully into planning their next move, [[03 People/Notable Figures/Eula|Eula]] appeared once more, drawn as reliably as ever by the promise of fresh dead. This time she found something that seemed to genuinely amuse her: the body of Salla, now thoroughly infested with the clipped growths of [[06 Library/Campaign Reference/Plague|Plague]] that [[03 People/Player Characters/Ieuan|Ieuan]] had so thoughtfully planted inside him. She paused over the corpse with visible delight, and even stopped to ask whether this particular piece of grotesque creativity had been [[03 People/Player Characters/Erelmor|Erelmorâ€™s]] doing.
+Before the Defracturers could settle fully into planning their next move, [[03 People/Notable Figures/Eula|Eula]] appeared once more, drawn as reliably as ever by the promise of fresh dead. This time she found something that seemed to genuinely amuse her: the body of Salla, now thoroughly infested with the clipped growths of [[Plague|Plague]] that [[03 People/Player Characters/Ieuan|Ieuan]] had so thoughtfully planted inside him. She paused over the corpse with visible delight, and even stopped to ask whether this particular piece of grotesque creativity had been [[03 People/Player Characters/Erelmor|Erelmorâ€™s]] doing.
 
 [[03 People/Player Characters/Ballar Novis|Ballar]], still deeply uncomfortable with the arrangement no matter how much the others had normalised it, decided to express his feelings in perhaps the most childish possible way. He sent his rat to harass Eula, and watched with palpable delight as the tiny beast repeatedly tried to bite her while somehow dodging the bonfire magic she flicked at it in irritation. Eventually, though, Eula managed to burn the vermin and reclaim the plague-ridden corpse. As she vanished with the body, the forest itself seemed to cry out, releasing a long and pained howl that suggested something deeper had just been disturbed.
 
@@ -10223,7 +10727,7 @@ With barely a flicker of effort, she unleashed a **Tidal Wave** that tore throug
 
 That was the moment something in Ieuan finally snapped.
 
-Whether it was the exhaustion of the previous battle, the lingering horror of everything they had just done, or the influence of [[06 Library/Campaign Reference/Plague|Plague]] whispering somewhere in the back of his mind, he demanded answers. He wanted to know what Eula was doing, what larger plan she was serving, and where exactly the Defracturers fit into it.
+Whether it was the exhaustion of the previous battle, the lingering horror of everything they had just done, or the influence of [[Plague|Plague]] whispering somewhere in the back of his mind, he demanded answers. He wanted to know what Eula was doing, what larger plan she was serving, and where exactly the Defracturers fit into it.
 
 Eula declined to explain.
 
@@ -10365,7 +10869,7 @@ The paladin approached a small cabbage and opened his first proper dialogue with
 
 The cabbage introduced himself as:
 
-**[[06 Library/Campaign Reference/Bushtache|Bushtache]].**
+**[[Bushtache|Bushtache]].**
 
 And after a day involving corpse merchants, dire wolves, ancient forest guardians, sentient plague, multiplying tar monsters, and the looming return of Ardynia, this somehow felt like the correct place to stop.
 
@@ -10429,7 +10933,7 @@ There was, however, one piece of unfinished business.
 
 The task was simple.
 
-Malt would take **[[06 Library/Campaign Reference/Bushtache|Bushtache]]**, Ballar's newly beloved cabbage, find a **Pot of Awakening**, plant Bushtache inside it, and then deliver the resulting awakened cabbage safely to Somnolent.
+Malt would take **[[Bushtache|Bushtache]]**, Ballar's newly beloved cabbage, find a **Pot of Awakening**, plant Bushtache inside it, and then deliver the resulting awakened cabbage safely to Somnolent.
 
 In return, Ballar promised that the Defracturers would not set him on fire, stab him, fill him with mushrooms or subject him to whatever n'Dong might eventually decide to do.
 
@@ -11080,6 +11584,206 @@ For the moment, the Bands remained unattuned, the dead remained unrevived, and t
 
 
 ---
+# FILE: C:\Users\ellis\Documents\vaelond-wiki\content\05 Campaign Chronicle\Session 26 - Sundering Relics and the Market Brawl.md
+---
+
+---
+title: "Session 26: Sundering Relics and the Market Brawl"
+type: session-note
+status: published
+player_facing: true
+session: 26
+recorded: 2026-10-19
+arc: Return to Somnolent
+tags:
+  - campaign
+  - chronicle
+  - session-notes
+updated: 2026-10-20
+---
+
+# Session 26 â€” Sundering Relics and the Market Brawl
+*19 October 2026*
+
+## Picking Up the Pieces
+
+Still reeling from the vision of the Sundering, the party remained with Elmwood to try to make sense of what they had seen.
+
+The memory of the Sundering established **ten objects in total: five Coronas of the Ashen Choir and five other relics**. Perfid, the Broken Fang and the Loyal Crows all appeared to have an interest in finding the objects.
+
+The connection between the Bands of Distortion and their heart stone suggested a **possible pattern**, not yet proven for every relic: a keystone or anchor might tether an object to the Ardynian ruin containing it. That immediately raised the possibility that there was something still hidden in **Tace Nox**, explaining why the **Staff of Broken Time** had simply returned to the ruin when the party tried to remove it.
+
+What to actually *do* with the relics was less clear. Elmwood suggested that anything this dangerous belonged in Aalaric's secure storage rather than being carried casually across Rakara. Ballar disagreed, arguing that the people being tasked with collecting them were obviously the safest hands available.
+
+The party briefly considered leaving the bracers with the Bastion staff â€” an idea which became rather less attractive once Gorbels entered the discussion â€” before settling on carrying them for now without deciding who, if anyone, should attune to them.
+
+Erelmor, meanwhile, was visibly shaken by the vision. Hunting the Old Grey Pike was one thing; gods, ancient magic and artefacts capable of reshaping the world were quite another.
+
+Ballar then emptied his **Bag of Tricks** in Elmwood's tower, producing an owl, a mastiff and a bear. Rather than dismiss them, he assembled them into an impromptu tracking party and sent all three toward Tace Nox with instructions to find and bring back alive **the goblin who had escaped the party's custody around a month earlier**. This search was separate from Malt's release with Bushtache.
+
+## Retail Therapy
+
+With several party members still wearing the remnants of equipment destroyed on the road, everyone headed for the **Six Halls Market**.
+
+Erelmor returned to the leatherworker and attempted to explain that his previous armour had "melted" while fighting a terrifying fire-breathing demon. The explanation somehow worked, although his attempt to haggle was rather less successful. He briefly tried on plate armour, discovered that standing upright in it was an achievement in itself, and eventually settled for another set of studded leather.
+
+Ieuan followed with a considerably simpler transaction: forty-five gold on the counter, one set of studded leather, and out of the door â€” much to Erelmor's annoyance when he realised that Ieuan had paid exactly the same price without subjecting himself to ten minutes of negotiation.
+
+n'Dong, concerned that he currently looked more like a homeless traveller than a sixth-level wizard, went shopping for something more suitable and eventually bought an immaculate **green-and-gold Robe of Gleaming** for fifty gold.
+
+Ballar's shopping had a more practical purpose. The **dead Broken Fang scout was already beyond the window for Revivify**. The party instead planned to use **one resurrection diamond for Mireya Dinak**, whose preserved body remained in Somnolent, and keep a second diamond in reserve in case one of their own met an unfortunate end.
+
+Ballar acquired the pair for **575 gp**, contributing the bulk himself while the others chipped in.
+
+He also discovered perhaps the session's most important magical treasure: a one-gold-piece boomerang, which he purchased immediately after nearly giving Enrak a haircut with it.
+
+## The Dance Battle
+
+While everyone else was doing sensible things, Enrak found **Billy Hill**, who introduced him to two visiting pit fighters from Dazuun: **Yama** and **Spopovich**.
+
+They were intense, enormously built and, as it would eventually become apparent, absolutely full of Dragon's Dandruff.
+
+What began as drinking quickly became a three-round dance battle in the middle of the market. Enrak's opening effort was catastrophic. His second round â€” **the worm** â€” was substantially better. By the final round he was attempting the robot while Ersil accompanied the competition and a crowd gathered to watch.
+
+When Enrak finally realised just how enormously dilated the fighters' pupils were, the explanation for their athleticism became rather obvious.
+
+Naturally, Enrak decided the appropriate finale was fireworks.
+
+The two men were not blinded.
+
+They were, however, offended.
+
+## The Market Brawl
+
+Ballar rushed in and attempted diplomacy, negotiating a deal in which Yama would be allowed one free hit on Enrak before everyone called things even.
+
+While shaking on it, Ballar quietly cast **Compelled Duel**, ensuring that Yama would struggle to attack Enrak without interference. This technically worked; Yama simply compensated by launching himself across the marketplace with a flying clothesline.
+
+Rather than accept the agreed beating and move on, Enrak retaliated with an illusion of flames.
+
+Spopovich promptly knocked him unconscious.
+
+Ballar, concluding that these were "fighting men" and therefore communicated primarily through violence, punched both of them as a friendly gesture.
+
+They interpreted this exactly as one might expect.
+
+As the situation spiralled, Erelmor dropped **Darkness** over the entire melee and shouted for everyone to run. Unfortunately, almost nobody involved could see where they were going.
+
+Ballar, who *could* see through the darkness at close range, used the opportunity to continue punching Yama while Ieuan sprinted across the market trying desperately to work out why a dance contest had become a pitched battle.
+
+Ieuan eventually dispelled the Darkness, healed Yama and tried to bring matters to a peaceful conclusion.
+
+Yama began walking away.
+
+Ballar immediately punched him in the back of the head.
+
+That finally settled matters. Yama turned around, battered Ballar unconscious and then knocked Enrak out again for good measure.
+
+Ieuan was left standing among the wreckage asking a perfectly reasonable question: **what were they actually doing?**
+
+Erelmor, meanwhile, had already made it back to the Bastion, convinced the party was retreating and that an attack was imminent.
+
+Within minutes he had the staff barricading doors and windows while Ghorgadush tried to calm the "tiny elf" with a blanket and hot chocolate.
+
+Eventually the horrifying truth emerged: nobody was attacking the Bastion.
+
+Erelmor had simply run away from a tavern brawl in the marketplace.
+
+## n'Dong Makes Some Friends
+
+During the fight, n'Dong had quietly contacted Yama with **Message**, offering free Dragon's Dandruff in exchange for leaving the others alone and meeting him later.
+
+That evening he followed through.
+
+Yama and Spopovich explained that Dragon's Dandruff had flooded the Dazuun fighting pits. Fighters were being pumped full of it, their profits were disappearing, and eventually the pair had tried to get away from the whole operation.
+
+Crucially, they also gave n'Dong several useful leads:
+
+- Their **Dragon's Dandruff came from a Khaali woman named Karessa**, identifiable by the fact that she has **three fingers**.
+- While working in **Voruun**, Yama and Spopovich had been employed through a **pit booking agent named Oruc**.
+- They recognised the name **Rhul Slowdrift**. According to them, things at the pits began going badly wrong after Rhul became involved.
+- **Oruc had dealings with Rhul**, including being paid to **fix matches**.
+
+That gave n'Dong something much more substantial than a pair of drug-addled acquaintances: a potential chain linking **Karessa â†’ Dragon's Dandruff**, **Oruc â†’ the Voruun fighting circuit**, and **Rhul Slowdrift â†’ match-fixing and the wider Broken Fang operation**.
+
+n'Dong rewarded this intelligence by giving Yama and Spopovich more Dragon's Dandruff and promising further supplies if they kept talking.
+
+He also established one ground rule: they were not to start any more trouble with his companions unless his companions started it first.
+
+Back at the Bastion, n'Dong briefly attempted to turn Derrick into a covert narcotics courier, leaving a sealed package beneath his bed with instructions to hand it discreetly to the fighters the following day.
+
+A spectacularly successful Insight check revealed that Derrick was constitutionally incapable of keeping this secret, so n'Dong retrieved the package and abandoned the plan before it could become even worse.
+
+## Different Ways to Unwind
+
+The evening split the party in several directions.
+
+Erelmor remained troubled by his performance in the market. He had gone into the day convinced he was ready to confront the Old Grey Pike; watching Ballar and Enrak get flattened â€” and then realising that he himself had fled â€” left him much less certain of his own abilities.
+
+Ieuan sought somewhere quieter.
+
+At the druid circle he joined **Father Zantos** and **Mother Joygrove** in prayer before speaking privately with Zantos about everything the party had uncovered.
+
+More personally, Ieuan admitted that his growing connection to the stars seemed to be pulling him away from his older connection to the earth. He could understand most of the Star Seed now, but its final natural aspect still eluded him.
+
+Zantos helped him meditate on it, but even with assistance Ieuan failed to make the breakthrough.
+
+Rather than treating that as a failure, Zantos reminded him that returning to those roots was a journey and did not need to happen immediately.
+
+Ballar responded to the day's violence in a different fashion: bathing, perfuming himself, dressing impeccably and visiting the **Doro Embassy**.
+
+There he learned that the Crimson Shield were heading toward **Temir** for the coming Wavecutter tournament, giving him renewed hope of catching up with **Orrian Leovyre**.
+
+More seriously, there were rumours that Perfid might be pursuing peace negotiations, with **House Nirrell** heavily involved. While **House Trenhalde** broadly supported peace, **Houses Aequinth and Bromere** were far less enthusiastic and apparently viewed Ballar's father as an upstart attempting to increase his influence â€” a political gamble that could bring danger to the family.
+
+Ballar then attempted to reclaim his old penthouse at the Drowsy Coin, only to discover that disappearing for weeks while keeping the key and not paying the bill had consequences.
+
+The inn had replaced the locks and collected the money through Doro.
+
+Ballar was welcome to rent a lesser room.
+
+The penthouse was no longer available to him.
+
+## Morning Post
+
+After a long rest, Ballar finally opened the letters waiting for him.
+
+His father, **Xilpeiros Nirrell**, was unimpressed that Ballar had abandoned Doro's diplomatic service, although a later letter acknowledged that his growing influence in Somnolent might actually prove useful and requested his assessment of the political situation.
+
+His mother was considerably more enthusiastic about the adventuring career and quietly enclosed **200 gp**.
+
+His delayed Doro paycheck was less successful.
+
+Between the Drowsy Coin bill and the cost of replacing its locks, Ballar somehow finished the transaction **owing Doro ten gold**.
+
+He sealed the money in an envelope, added another gold as a tip for Stacy and sent **Joe-Seff Gorbels** to deliver it.
+
+Gorbels never made it out of the door.
+
+As he opened it, **Gayle Bramble** â€” battered, bruised and utterly exhausted â€” collapsed unconscious onto the Bastion steps.
+
+And that was where the session ended.
+
+## Where Things Stand
+
+- **Gayle Bramble has returned**, badly injured and unconscious.
+- The party intends to speak to **Romayne** before leaving Somnolent.
+- **Temir** and a return to **Tace Nox** were both being discussed, but no final route had been agreed.
+- The distortion bracers remain with the party for now, unassigned.
+- The party suspects that Sundering relics may have **keystones or anchors**, potentially including one still hidden in Tace Nox; this remains unconfirmed.
+- **Rhul Slowdrift** is now more firmly connected to corruption and match-fixing in the Dazuun fighting pits.
+- **Karessa**, a three-fingered Khaali woman, was **named by Yama and Spopovich** as their source of Dragon's Dandruff.
+- **Oruc**, a pit booking agent who employed Yama and Spopovich in Voruun, **was alleged by them** to have dealt with Rhul and been paid to fix matches.
+- Yama and Spopovich are potential â€” if extremely unreliable â€” sources for n'Dong.
+- Ieuan's final **Star Seed** breakthrough remains unresolved.
+- Erelmor still wants the **Old Grey Pike**, but his confidence has taken a knock.
+- The party has **two diamonds**, intends to use **one for Mireya**, and retain one as a reserve. The deceased scout is beyond **Revivify**; no revival has taken place.
+
+**Chronicle:** [[05 Campaign Chronicle/index|Campaign Chronicle]]
+
+
+
+---
 # FILE: C:\Users\ellis\Documents\vaelond-wiki\content\06 Library\Ardynian Relics and Artefacts\Bands of Distortion.md
 ---
 
@@ -11094,7 +11798,7 @@ tags:
   - rana-viam
   - campaign
 current_holder: The Defracturers
-updated: 2026-10-13
+updated: 2026-10-20
 ---
 
 # Bands of Distortion
@@ -11125,6 +11829,12 @@ The full Ardynian vision also depicts bracers worn by Elgira; the vision alone d
 - [[05 Campaign Chronicle/Session 19 - Bands, Broken Stone and the Glass Fang|Session 19 - Bands, Broken Stone and the Glass Fang]] - the golem is destroyed and the bands are secured.
 - [[05 Campaign Chronicle/Session 21 - Contracts, Command, and a Burning Camp|Session 21 - Contracts, Command, and a Burning Camp]] - Ulsar reveals that the heart stone is a strategic vulnerability as well as a safeguard.
 
+## Session 26 â€” custody and anchor hypothesis
+
+After discussing the relic with Elmwood, the Defracturers elected to **retain both Bands and heart stone** rather than place them in Aalaricâ€™s secure storage or leave them with Bastion staff. No bearer or attunement was selected.
+
+The Bandsâ€™ connection to their heart stone prompted a **hypothesis** that other major Sundering relics may be tied to similar keystones or anchors. This does **not** establish that every relic has one, nor does it prove that Elgiraâ€™s remembered bracers were the Bands. See [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
+
 ## Related
 
 - [[Relics and Artefacts]]
@@ -11153,7 +11863,7 @@ tags:
   - ardynia
   - campaign
 current_location: Unknown
-updated: 2026-10-13
+updated: 2026-10-20
 ---
 # Corona of the Ashen Choir
 
@@ -11164,6 +11874,10 @@ In the shared memory activated in Session 25, the Defracturers saw five golden *
 Elgira and her four generals wore the crowns to channel the life and time offered by the rebel army during the Sundering. What began as a planned, limited sacrifice ended in catastrophic loss of life when the ritual's power was channelled into the Heart of Vaelond.
 
 The party has encountered **one identified crown**, carried out of Somnolent by the escaping Perfidian fanatic. The present locations and operational powers of all five crowns remain unknown. The vision establishes a historical total of five but does not establish which other crowns still exist or who holds them.
+
+## Clarified artefact count â€” Session 26
+
+The canonical inventory for the Sundering is **ten objects: five Coronas of the Ashen Choir (called Crowns of Infinity in the memory) and five separate relics**. These are two groups, not ten Coronas or five items in total. The whereabouts of the other four Coronas remain unknown. See [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
 
 ## Campaign record
 
@@ -11287,7 +12001,7 @@ tags:
 - artefact
 - ardynia
 - campaign
-updated: '2026-10-13'
+updated: 2026-10-20
 ---
 
 # Ardynian Relics and Artefacts
@@ -11296,11 +12010,11 @@ A player-facing index of Ardynian objects and temporal materials known to the De
 
 ## Objects witnessed in the Sundering memory
 
-Elgira's memory depicts **five Crowns of Infinity and five other objects**. Presence in the vision does not independently establish that all ten were necessary for the ritual or that every object has survived.
+The Sundering involved **ten objects in total: five Coronas of the Ashen Choir (the five Crowns of Infinity named in the vision) and five other relics**. Presence in the vision does not independently establish that all ten were necessary for the ritual or that every object survives today.
 
 | Object witnessed | Identification / encounter | Current known location | Evidence of ritual function |
 |---|---|---|---|
-| **Five Crowns of Infinity** | The [[06 Library/Ardynian Relics and Artefacts/Corona of the Ashen Choir|Corona of the Ashen Choir]] encountered in Somnolent is **one** of the five | One Corona was carried away from Somnolent by Perfidian agents; whereabouts of the other crowns unknown | Originally designed to siphon magic and years of life; seen in the memory |
+| **Five Coronas of the Ashen Choir / Crowns of Infinity** | The [[06 Library/Ardynian Relics and Artefacts/Corona of the Ashen Choir|Corona of the Ashen Choir]] encountered in Somnolent is **one** of the five | One Corona was carried away from Somnolent by Perfidian agents; whereabouts of the other crowns unknown | Originally designed to siphon magic and years of life; seen in the memory |
 | [[06 Library/Ardynian Relics and Artefacts/Staff of Broken Time|Staff of Broken Time]] | **The same staff** Elgira used during the Sundering and the party encountered in [[02 Places/Rakara/Tace Nox|Tace Nox]] | Returned to Tace Nox; not currently held by the party | Wielded to direct the ritual |
 | [[06 Library/Ardynian Relics and Artefacts/Heart of Vaelond|Heart of Vaelond]] | Obsidian focus with a green core | Unknown | Central to channeling the power; drew far more life than Elgira intended |
 | [[06 Library/Ardynian Relics and Artefacts/Eye of Singularity|Eye of Singularity]] | Named object in Elgira's robes | Unknown | **Unconfirmed**: presence shown, function not established |
@@ -11314,6 +12028,12 @@ Elgira's memory depicts **five Crowns of Infinity and five other objects**. Pres
 - [[06 Library/Ardynian Relics and Artefacts/Rana Viam scroll|Rana Viam scroll]] â€” **still unopened**.
 - [[06 Library/Ardynian Relics and Artefacts/Tace Nox scroll|Tace Nox scroll]] â€” **activated**, with the complete Elgira memory retained on its page.
 - [[06 Library/Ardynian Relics and Artefacts/Time Juice|Time Juice]] â€” green temporal substance identified as probable **Sanguis Aevi** (*Blood of Ages*).
+
+## Session 26 â€” custody and possible anchors
+
+The Defracturers retained the [[06 Library/Ardynian Relics and Artefacts/Bands of Distortion|Bands of Distortion]] with their heart stone; attunement remains undecided. The heart stone has led them to **suspect**, not establish, that other relics may have associated anchors. They may search Tace Nox for a possible tether to the [[06 Library/Ardynian Relics and Artefacts/Staff of Broken Time|Staff of Broken Time]]. The historical total remains **five Coronas plus five other relics**, with no additional object implied by this theory.
+
+See [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
 
 ## Related
 
@@ -11343,11 +12063,49 @@ tags:
   - artefact
   - ardynia
   - campaign
-source: Sessions 17-19
-updated: 2026-07-04
+source: Sessions 17-19, 25-26
+updated: 2026-10-20
 ---
 
-Unopened scroll
+# Rana Viam scroll
+
+> [!summary] At a glance
+> A **sealed Ardynian scroll** recovered during the Defracturers' exploration of [[02 Places/Rakara/Rana Viam|Rana Viam]]. Its message, function and method of activation remain unknown in the record through Session 26.
+
+## Discovery and identification
+
+The Defracturers recovered a sealed Ardynian scroll during the ruin expedition, alongside their encounter with the golem and the [[06 Library/Ardynian Relics and Artefacts/Bands of Distortion|Bands of Distortion]]. The record does not supply a transcription of its writing or confirm that it has been opened.
+
+**This is not the scroll recovered from [[02 Places/Rakara/Tace Nox|Tace Nox]].** The separate [[06 Library/Ardynian Relics and Artefacts/Tace Nox scroll|Tace Nox scroll]] was activated by Elmwood Bluevine in Session 25 with probable Sanguis Aevi and displayed Elgira's memory.
+
+## Current state â€” after Session 26
+
+| Field | Recorded status |
+|---|---|
+| **Provenance** | Rana Viam, Clan Orvak |
+| **Condition** | Sealed / unopened |
+| **Content** | Unknown |
+| **Function** | Unknown |
+| **Current holder / storage location** | **Not explicitly established** in the supplied session notes |
+| **Connection to the Tace Nox scroll** | Both are Ardynian, but no shared function has been demonstrated |
+
+## Unresolved
+
+- What does the scroll contain, and what would activate it?
+- Does it concern the Bands, the Chronarchs or another subject entirely?
+- Who currently has physical custody of it?
+
+## Campaign appearances
+
+- [[05 Campaign Chronicle/Session 19 - Bands, Broken Stone and the Glass Fang|Session 19]]
+- [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]]
+
+## Related pages
+
+- [[02 Places/Rakara/Rana Viam|Rana Viam]]
+- [[06 Library/Ardynian Relics and Artefacts/Tace Nox scroll|Tace Nox scroll]]
+- [[04 Organisations/Chronarchs|Chronarchs]]
+- [[06 Library/Campaign Reference/Open Threads|Open Threads]]
 
 
 
@@ -11446,7 +12204,7 @@ tags:
   - tace-nox
   - campaign
 current_location: Tace Nox
-updated: 2026-10-13
+updated: 2026-10-20
 ---
 
 # Staff of Broken Time
@@ -11464,6 +12222,10 @@ When the group crossed the threshold to leave, the staff vanished and returned t
 The staff carried by Elgira in the shared Sundering memory from the [[06 Library/Ardynian Relics and Artefacts/Tace Nox scroll|Tace Nox scroll]] is **the Staff of Broken Time** that the Defracturers saw and handled in Tace Nox. This confirms that the artefact was part of the Sundering ritual. Its known status remains unchanged: it returned to Tace Nox when the party attempted to leave the ruin with it.
 
 See [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]].
+
+## Session 26 â€” possible key to removal
+
+The party discussed the **possibility** that a keystone or anchor, comparable to the Bands of Distortionâ€™s heart stone, might still lie in [[02 Places/Rakara/Tace Nox|Tace Nox]] and explain why the staff returned there. No such object has been located or proven to exist for the staff. Recovering the staff remains unresolved. See [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
 
 ## Related
 
@@ -11494,7 +12256,7 @@ tags:
   - elgira
   - anthea-bloodclot
 source: Sessions 4 and 25
-updated: 2026-10-13
+updated: 2026-10-20
 ---
 # Tace Nox scroll
 
@@ -11601,6 +12363,10 @@ Your veins are aching in your wrists, and you notice the change. Green like Sang
 
 Vaelen whispers your name, as if it is something monstrous. You do not hear him, not truly. The sound arrives inside you, an echo inside your bones, as the stasis fades and the rain begins to fall again.
 
+## Later interpretation â€” Session 26
+
+The party distinguishes **five Coronas of the Ashen Choir (the Crowns of Infinity depicted above)** from **five other relics**, for ten Sundering objects total. They also suspect a possible keystone or anchor associated with the Staff of Broken Time at Tace Nox, by analogy with the Bands of Distortion and their heart stone. **This remains conjecture and does not amend the memoryâ€™s unabridged text.** See [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
+
 ## Campaign and relic references
 
 - [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]]
@@ -11706,53 +12472,6 @@ See [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages
 
 
 ---
-# FILE: C:\Users\ellis\Documents\vaelond-wiki\content\06 Library\Campaign Reference\Bushtache.md
----
-
----
-title: Bushtache
-type: campaign-reference
-status: published
-player_facing: true
-tags:
-  - campaign
-  - reference
-  - plant
-  - ballar
-source: Sessions 22-23
-updated: 2026-09-10
----
-
-# Bushtache
-
-> [!summary] At a glance
-> A cabbage encountered at the ruined home of the False Gardener, named **Bushtache** when Ballar used the False Gardener's Notebook to speak with it.
-
-## Discovery
-
-After the Defracturers destroyed the immediate corruption beneath [[03 People/Mentioned Figures/Maelor Vey|Maelor Vey's]] ruined home, Ballar recovered the [[06 Library/Relics and Artefacts/False Gardener's Notebook|False Gardener's Notebook]]. He used its magic to cast **Speak with Plants** and immediately began talking to a nearby cabbage.
-
-The cabbage introduced itself as **Bushtache**.
-
-## Current situation
-
-In Session 23, Ballar entrusted Bushtache to [[03 People/Mentioned Figures/Malt|Malt]]. Malt was instructed to obtain a **Pot of Awakening**, plant Bushtache in it and deliver the resulting awakened cabbage to Somnolent.
-
-Ballar cast **Gentle Repose** on Bushtache before Malt departed, preserving it for ten days.
-
-Whether Malt succeeds remains unknown.
-
-## Related
-
-- [[03 People/Player Characters/Ballar Novis|Ballar Novis]]
-- [[03 People/Mentioned Figures/Malt|Malt]]
-- [[06 Library/Relics and Artefacts/False Gardener's Notebook|False Gardener's Notebook]]
-- [[05 Campaign Chronicle/Session 22 - Bodies, Blight, and Bushtache|Session 22]]
-- [[05 Campaign Chronicle/Session 23 - Ettins, Owlbears, and Betting Losses|Session 23]]
-
-
-
----
 # FILE: C:\Users\ellis\Documents\vaelond-wiki\content\06 Library\Campaign Reference\Dragon's Dandruff.md
 ---
 
@@ -11772,7 +12491,7 @@ tags:
   - broken-fang
   - voruun
 source: Sessions 21-22
-updated: 2026-10-03
+updated: 2026-10-20
 ---
 
 # Dragon's Dandruff
@@ -11792,11 +12511,11 @@ A teaspoon of Dragon's Dandruff causes an initial burning sizzle, dealing **1d4 
 
 Afterwards, the consumer experiences a rushing sensation of joy, increasing **Charisma by 1 for one hour**.
 
-Once the salt metabolises, the consumer becomes flooded with adrenaline. For one hour, their **Strength, Stamina and Dexterity increase by 2**, and they feel compelled to undertake physical tasks.
+Once the salt metabolises, the consumer becomes flooded with adrenaline. For one hour, their **Strength, Constituion and Dexterity increase by 2**, and they feel compelled to undertake physical tasks.
 
 After the effects fade, the consumer suffers **1 level of exhaustion**.
 
-These effects do **not stack**.
+The recorded effects do **not stack**; this statement does not by itself settle addiction, withdrawal, repeated-use timing or the DM's choice of ability-score cap.
 
 Undead creatures take **1d8 radiant damage for every teaspoon consumed**.
 
@@ -11815,6 +12534,12 @@ Dragon's Dandruff is now tied to the [[04 Organisations/Broken Fang|Broken Fang'
 After Ulsar Quinn's camp was destroyed, [[03 People/Player Characters/n'Dong|n'Dong]] searched [[03 People/Notable Deceased/Talan Rook|Talan Rook]]'s tent and recovered **two vials of Dragon's Dandruff**.
 
 The party therefore now possesses physical samples of the substance rather than relying solely on Ulsar's description of Rhul's supply chain.
+
+## Session 26 Ã¢â‚¬â€ Karessa and the fighters
+
+[[03 People/Mentioned Figures/Yama and Spopovich|Yama and Spopovich]], two former Dazuun pit fighters, appeared visibly affected by DragonÃ¢â‚¬â„¢s Dandruff in Somnolent. They told [[03 People/Player Characters/n'Dong|n'Dong]] that their supplier was **[[03 People/Mentioned Figures/Karessa|Karessa]]**, a Khaali woman identified by three fingers. They also alleged a connection between booking agent [[03 People/Mentioned Figures/Oruc|Oruc]] and Rhul SlowdriftÃ¢â‚¬â„¢s match-fixing.
+
+KaressaÃ¢â‚¬â„¢s identity as a producer, her connection to the three alchemists named by Ulsar, and the location of the lab remain **unverified**. nÃ¢â‚¬â„¢Dong gave the fighters more of the substance and promised further supplies in exchange for information; consequently, the **number of vials now in his possession cannot be inferred** from the two recovered in Session 22. See [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
 
 ## Related
 
@@ -11841,7 +12566,7 @@ tags:
   - reference
   - horses
 source: 'Campaign notes and session chronicle'
-updated: 2026-09-10
+updated: 2026-10-20
 ---
 
 # Horses
@@ -11900,11 +12625,11 @@ Beautiful, vain, difficult and more suited to a parade ground than a battlefield
 
 ## Current situation
 
-The horses are back with the Defracturers and travelling toward Somnolent.
+**The five mounts returned to Somnolent with the Defracturers in Session 25 and were stabled before the party went back to the Bastion.** The chronicle does not name the stable or record a later relocation through Session 26. See [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]].
 
 After the destruction of Ulsar's camp, Ballar spent time soothing [[03 People/Player Characters/Ballar Novis|Ballar's]] difficult mare Kingcup. Session 22 marked one of the first moments in which she appeared close to not regarding him with contempt; during the return journey in Session 23, grooming earned what the chronicle describes as perhaps the most genuine affection she had yet shown him.
 
-By the end of Session 23, the party and its mounts were only a few hours from Somnolent.
+By the end of Session 23, the party and its mounts were only a few hours from Somnolent; the actual return and stabling took place in Session 25.
 
 ## Related
 
@@ -11920,107 +12645,625 @@ By the end of Session 23, the party and its mounts were only a few hours from So
 ---
 
 ---
-title: 'Open Threads'
+title: Open Threads
 type: campaign-reference
 status: published
 player_facing: true
 aliases:
-  - 'Goals'
-  - 'What Next'
-  - 'Campaign Goals'
+  - Goals
+  - What Next
+  - Campaign Goals
 tags:
   - campaign
   - reference
   - goals
-coverage: Sessions 1-25
-updated: 2026-10-13
+coverage: Sessions 1-26
+updated: 2026-10-22
 ---
 
 # Open Threads
 
-> [!info] Review basis
-> This tracker has been reconciled against the chronicle through Session 25. Session 24 documents the parallel Bastion interlude; in Session 25 the travelling party returned to Somnolent and received new evidence firsthand.
+A record of the Defracturers' outstanding objectives and the consequences of earlier choices, current through **Session 26**.
 
-**New** threads emerged recently, **active** threads still drive the campaign, **reframed** threads remain relevant but no longer in their original form, and **closed** threads no longer require immediate action.
+- **Active:** Pursued, discussed or materially advanced in recent sessions.
+- **Inactive:** Unresolved but not currently being pursued.
+- **Offscreen:** Actions or consequences unfolding without the party's direct involvement.
+- **Closed:** Objectives completed, decisively failed or superseded. A closed objective can still lead to another open thread.
 
-## Immediate after Session 25
+**Urgency** is a rough guide to immediacy, not a requirement that the party pursue a particular plot. **Last development** means the most recent relevant event documented in the campaign reference, not necessarily the last time the thread was mentioned. Where a lead is unverified, it is presented as a lead rather than an established fact.
 
-| Status | Thread | Current position |
-|---|---|---|
-| **Urgent** | Decide whether and how to restore [[03 People/Notable Figures/Mireya Dinak|Mireya Dinak]] | Mireya remains dead. Ballar preserved her body; the party brought it to Elmwood in Somnolent. Elmwood discussed restoration requiring a 300 gp diamond per person. Mireya has not been revived. |
-| **Urgent** | Respond to the [[04 Organisations/Broken Fang|Broken Fang]] network around [[03 People/Mentioned Figures/Rhul Slowdrift|Rhul Slowdrift]] | Rhul remains tied to Dazuun's fighting pits, and Session 24 confirms that people working through the One Ball Inn invoked his concern for discretion while discussing a fencing operation. |
-| **Urgent / dangerous** | Locate the [[06 Library/Campaign Reference/Dragon's Dandruff|Dragon's Dandruff]] lab south of Somnolent | The lab remains unlocated. n'Dong now possesses two recovered vials of the substance from [[03 People/Notable Deceased/Talan Rook|Talan Rook]]'s tent. |
-| **Dangerous** | Understand the continuing influence of [[06 Library/Campaign Reference/Plague|Plague]] | Ieuan planted the remaining cuttings after the Broken Fang camp, but Plague later continued whispering *Spread* and interfered with his attempt to understand the Star Seed through nature. |
-| **Closed** | Return to Somnolent | The party returned in Session 25. Hushvale remains deferred. |
-| **New** | Find [[03 People/Notable Figures/Ervain Megbanas|the Old Grey Pike]] | Ervain left Somnolent during the party's absence. Erelmor's nightmares and desire to kill him have intensified. |
-| **New** | Resolve the disappearance of [[03 People/Notable Figures/Antoinne Cassan|Antoinne Cassan]] and destruction of the [[02 Places/Rakara/Somnolent/One Ball Inn|One Ball Inn]] | Antoinne vanished after his Broken Fang links came under pressure. His office was found ransacked with blood and missing ledger pages; the inn burned down the following morning and no body was recovered. |
+## Active threads
 
-## Active investigations
+### Find Eden Carrion and Summer Quaresh
 
-| Thread | Focus | Current position |
-|---|---|---|
-| Find **Prodosius** | [[03 People/Player Characters/n'Dong|n'Dong]] | Ulsar claimed damaging Rhul's Rakaran operation would likely draw Prodosius into the open. Rhul's network now has a confirmed connection to a Somnolent fencing point as well as Dazuun. |
-| Investigate [[04 Organisations/Broken Fang|Broken Fang]] activity | Whole party | The faction searches Ardynian sites, operates around Dazuun and used the One Ball Inn as a fencing point. The fate of Antoinne and the destruction of the inn may have disrupted that network. |
-| Discover who murdered Erelmor's family | [[03 People/Player Characters/Erelmor|Erelmor]] | Ervain remains tied to Ashenhom. Erelmor's recurring nightmares now depict the Old Grey Pike murdering his younger sister, and Ervain has left Somnolent. |
-| Understand [[03 People/Notable Figures/Eula|Eula]] and the cursed coins | Whole party | Eula still collects corpses. She now states that **Ardynia is returning** and that she intends to be prepared, with or without the party's help. Her exact preparations remain unknown. |
-| Trace the remaining Ardynian relics | Whole party | The party has the Bands of Distortion and heart stone. The Staff of Broken Time, Coronas of the Ashen Choir and other Sundering tools remain in play. |
-| Understand Din and find him a body | [[03 People/Player Characters/Ballar Novis|Ballar]] | The soul in Ballar's ring has offered guidance in return for a body. His identity and full agenda remain unresolved. |
-| Locate [[03 People/Notable Figures/Eden Carrion|Eden Carrion]] and [[03 People/Notable Figures/Summer Quaresh|Summer Quaresh]] | Whole party / Somnolent authorities | Gudren Flint and Caelen Briar connected a reported sighting to an area where magic is naturally dampened. [[03 People/Mentioned Figures/Job Ashmere|Job Ashmere]] and [[03 People/Notable Figures/Gayle Bramble|Gayle Bramble]] prepared to leave Somnolent to pursue the lead. |
-| Identify the exact Rootbound cell and killer | Whole party / Ieuan | Perfid hired a Rootbound cell, but the individual who administered Bloodspore remains unknown. |
-| Recover the escaped Corona | Whole party | Perfidian agents escaped Somnolent through a portal with a Corona of the Ashen Choir. |
-| Understand the sealed Ardynian scrolls | Whole party / Elmwood | **Partially answered:** the Tace Nox scroll was activated with probable Sanguis Aevi in Session 25 and revealed Elgira's memory. The Rana Viam scroll remains unopened. |
-| Understand the [[06 Library/Relics and Artefacts/Star Seed|Star Seed]] | [[03 People/Player Characters/Ieuan|Ieuan]] | A further leaf has unfurled. Ieuan now understands the Seed as a devotional object that awakens gradually; dormant Star Forms lie within it, while its connection to nature remains unresolved. |
-| Follow up [[06 Library/Campaign Reference/Bushtache|Bushtache]] and Malt | [[03 People/Player Characters/Ballar Novis|Ballar]] | Ballar released Malt with instructions to obtain a Pot of Awakening, awaken Bushtache and bring the cabbage to Somnolent. |
-| Account for the preserved Broken Fang scout | [[03 People/Player Characters/Ballar Novis|Ballar]] / Whole party | In Session 22 Ballar preserved the scout with Gentle Repose. The body was subsequently brought to Elmwood Bluevine in Somnolent alongside Mireya; Elmwood discussed restoration requiring a 300 gp diamond per person. The scout has not been revived. |
-| Investigate the chalky tracks from Ulsar's camp | Whole party | Enrak found chalky footprints leading north-east from the destroyed camp. The supplied record does not identify their maker or record a follow-up. |
+**Urgency:** 5 â€” Very high  
+**Theme:** Anthea Bloodclot / Loyal Crows
 
-## New leads from Session 25
+**Objective:** Locate [[03 People/Notable Figures/Eden Carrion|Eden Carrion]] and [[03 People/Notable Figures/Summer Quaresh|Summer Quaresh]] and establish their precise involvement in [[03 People/Notable Deceased/Alistair Prusset|Alistair Prusset's]] death.
 
-| Priority | Lead | Current position |
-|---|---|---|
-| **Urgent** | Investigate the burned farm map | A map recovered under the One Ball points to a farm a couple of hours from Somnolent and a route to its rear barn. The location's owner and purpose remain unknown. |
-| **Urgent** | Trace escaped slaad tadpoles | The party fought gibbering mouthers and slaad tadpoles below the One Ball; three civilians died and some tadpoles escaped. Broken vials labelled "slaadpole" suggest deliberate handling. The party does not know who placed them there. |
-| **Active** | Pursue the new Loyal Crows connections | Research implicated possible contacts [[03 People/Mentioned Figures/Tessa Betu|Tessa Betu]] (Erzhin), [[03 People/Mentioned Figures/Arun Yev|Arun Yev]] (Temir), and [[03 People/Mentioned Figures/Galt|Galt]] and [[03 People/Notable Figures/Eula|Eula]] (Voruun/necromancy). None is confirmed a Crow. |
-| **Active** | Choose a safe approach to the Sundering relics | The [[06 Library/Ardynian Relics and Artefacts/Tace Nox scroll|Tace Nox scroll]] depicts five crowns, the [[06 Library/Ardynian Relics and Artefacts/Heart of Vaelond|Heart of Vaelond]], the [[06 Library/Ardynian Relics and Artefacts/Staff of Broken Time|Staff of Broken Time]], the [[06 Library/Ardynian Relics and Artefacts/Eye of Singularity|Eye of Singularity]], a chain and bracers. The party confirmed the escaped Corona as one crown and the Tace Nox staff as the staff in the memory. |
-| **Dangerous** | Determine whether to attune to the Bands | Elmwood explained three powers, five charges and uncertain attunement. The heart stone remains relevant. |
-| **Active** | Obtain resurrection reagents | Elmwood discussed diamonds worth 300 gp each for Mireya and the preserved Broken Fang scout. Neither has been restored. |
-| **Active** | Clarify the Lowgins brothers' dispute | Terrick accused Derrick of stealing from his family; this remains an allegation. Ballar assaulted both brothers after his return, placing the Bastion's relationship with its staff under strain. |
+**Current position:** Attend to [[03 People/Notable Figures/Gayle Bramble|Gayle Bramble]], who collapsed injured and unconscious on the Bastion steps. Find out what happened to her and [[03 People/Mentioned Figures/Job Ashmere|Job Ashmere]] during their search.
 
-The Tace Nox vision has been experienced and Anthea's identification as Marra is no longer an open *party* question. The circumstances and consequences of the Sundering relics remain an ongoing mystery.
+**Key history:**
+- Eden and Summer fled Somnolent after Prusset was killed while in custody. Their presence and suspected involvement do not, by themselves, establish who struck the fatal blow.
+- [[03 People/Bastion Staff/Caelen Briar|Caelen Briar]] and [[03 People/Bastion Staff/Gudren Flint|Gudren Flint]] matched an unconfirmed sighting to an area where old records describe naturally dampened magic. Their research did **not** confirm the fugitives' exact whereabouts.
+- Gayle and Job left Somnolent to investigate that lead.
+- Gayle has returned alone, injured and unconscious; Job's present whereabouts and the outcome of the search remain unknown.
 
-## Resolved discoveries
+**Last development:** [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
 
-| Discovery | What is known | What remains open |
-|---|---|---|
-| [[03 People/Notable Deceased/Anthea Bloodclot|Anthea Bloodclot]] was Saint Marra | In Session 25, following the shared [[06 Library/Ardynian Relics and Artefacts/Tace Nox scroll|Tace Nox vision]], Elmwood recognised Anthea as Saint Marra. The party now knows this identity; it is not necessarily public knowledge. | Anthea's current condition, intentions and the broader consequences of the revelation remain unresolved. |
-| The [[06 Library/Ardynian Relics and Artefacts/Tace Nox scroll|Tace Nox scroll]] can be activated | Elmwood used probable Sanguis Aevi in Session 25 to open it and reveal Elgira's memory. | The separate Rana Viam scroll remains unopened and the wider relic search continues. |
+---
 
-## Reframed threads
+### Revive Mireya Dinak
 
-| Original thread | Status | Why |
-|---|---|---|
-| Resolve Ieuan's bargain with Plague | **Reframed** | Ieuan planted the remaining cuttings to rid himself of them, but Plague's voice persists. The question is now what connection remains and what Eula will do with Salla's infected corpse. |
-| Reach Hushvale | **Deferred** | The party chose to return to Somnolent instead. Hushvale remains unvisited rather than resolved. |
-| Confront [[03 People/Notable Deceased/Ulsar Quinn|Ulsar Quinn]] | **Closed / reframed** | Ulsar is dead and his camp destroyed. His intelligence points towards Rhul, Dazuun, Dragon's Dandruff and Prodosius. |
-| Identify and question or kill the Old Grey Pike | **Active again** | The immediate Bromere-coin question was answered, but Erelmor's Ashenhom grievance remains and Ervain has now left Somnolent. |
-| Identify the Loyal Crow | **Identity closed; pursuit active** | Eden Carrion is identified. The Bastion investigation has produced the first credible lead on Eden and Summer's whereabouts. |
-| Investigate other Ardynian ruins | **Ongoing relic arc** | Tace Nox and Rana Viam have been explored. The broader search for Sundering tools remains meaningful. |
-| Find who ordered Anthea's murder | **Substantially closed** | The Church ordered it, Prusset arranged it and a Rootbound cell carried it out. The precise killer remains unknown; the party now has Elmwood's identification of Anthea as Marra from the memory. |
+**Urgency:** 4 â€” High  
+**Theme:** Bastion / Mireya Dinak
 
-## Closed or failed
+**Objective:** Restore [[03 People/Notable Figures/Mireya Dinak|Mireya Dinak]] to life, if an eligible spell and suitable material component are available.
 
-| Thread | Outcome |
-|---|---|
-| Destroy the False Gardener's immediate corruption | **Closed as an immediate task.** The Defracturers destroyed the black ooze and blasted the well beneath Maelor Vey's ruined home. Oakrah believed the remaining taint could then be cleared. |
-| Resolve Malt as a prisoner | **Closed / transformed.** Ballar released him with the Bushtache mission rather than taking him back to Somnolent. |
-| Resolve Ulsar's Broken Fang camp | **Closed.** The camp was destroyed, Ulsar and Talan Rook died, and Mireya's body was preserved. |
-| Recover the party's horses | **Closed.** The party is travelling with its mounts again. |
-| Find who owned the House Bromere favour coin | **Closed.** It belonged to Ervain Megbanas, who lost it to Eden Carrion at dice. |
-| Find Buggie and learn why Prusset was targeted | **Closed.** Buggie was hired by Eden to abduct Prusset and steal information. |
-| Rescue Terrick | **Closed.** Terrick was recovered from the Perfid embassy. |
-| Capture Alistair Prusset | **Closed.** He was captured, interrogated and later murdered in custody. |
-| Break into Alaaric's safe | **Failed / closed.** The safe branded n'Dong and Erelmor and remained sealed. |
-| Obtain the Rana Viam relic | **Closed.** The party defeated the golem and secured the Bands of Distortion. |
+**Current position:** Mireya remains dead, with her body brought back to Somnolent. [[03 People/Notable Figures/Elmwood Bluevine|Elmwood Bluevine]] has offered help. Ballar purchased two diamonds for a combined **575 gp**, intending to use one for Mireya and reserve the other. Before attempting *Revivify*, confirm the chosen diamond's value and the duration or renewal of *Gentle Repose* with the DM.
+
+**Key history:**
+- The Defracturers rescued Mireya from ogres who had killed her husband. She then watched the party's horses during their exploration of [[02 Places/Rakara/Rana Viam|Rana Viam]].
+- [[03 People/Notable Deceased/Ulsar Quinn|Ulsar Quinn]] captured her during the Broken Fang's theft of the mounts. She died in the fire that consumed his camp.
+- Ballar recovered her remains and cast *Gentle Repose* in Session 21, intending to secure the time and resources for resurrection.
+- The chronicle does not establish whether preservation was renewed over the intervening weeks or whether either individual diamond meets the spell's component requirement. No resurrection has yet occurred.
+
+**Last development:** [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
+
+---
+
+### Find Prodosius and confront the Broken Fang
+
+**Urgency:** 3 â€” Medium  
+**Theme:** Broken Fang / n'Dong
+
+**Objective:** Trace the Broken Fang's operations through [[03 People/Mentioned Figures/Rhul Slowdrift|Rhul Slowdrift]] towards [[03 People/Notable Figures/Prodosius|Prodosius]], whom n'Dong seeks for the harm done to him and his family.
+
+**Current position:** Follow the Dazuun fighting-pit leads, particularly Rhul and booking agent [[03 People/Mentioned Figures/Oruc|Oruc]]. [[03 People/Mentioned Figures/Yama and Spopovich|Yama and Spopovich]] are potential informants, although their claims are not independently verified.
+
+**Key history:**
+- The Broken Fang have expanded their activities into Rakara; the party destroyed lieutenant Ulsar Quinn's camp.
+- Ulsar described Rhul's control of the fighting pits of [[02 Places/Rakara/Voruun/Dazuun|Dazuun]] as a major part of his Rakaran operation.
+- [[03 People/Notable Figures/Antoinne Cassan|Antoinne Cassan]] used the [[02 Places/Rakara/Somnolent/One Ball Inn|One Ball Inn]] in connection with Broken Fang fencing and contraband.
+- In Session 26, former pit fighters Yama and Spopovich alleged that Oruc arranged fights and received payment from Rhul to fix matches.
+
+**Last development:** [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
+
+---
+
+### Identify the remaining Loyal Crows
+
+**Urgency:** 3 â€” Medium  
+**Theme:** Anthea Bloodclot / Loyal Crows
+
+**Objective:** Establish the surviving members, associates and objectives of [[04 Organisations/Loyal Crows|Anthea's Loyal Crows]].
+
+**Current position:** Investigate the three research trails uncovered by Gudren and Caelen; **none of the newly identified people is a confirmed Crow**.
+
+**Key history:**
+- **Known Crows:** Eden Carrion and Summer Quaresh.
+- **Tessa Betu (Erzhin):** a stonecutter and scholar who reportedly met Eden; the record suggests an unexplained possible contact with Father Zantos.
+- **Arun Yev (Temir):** a scholar linked to Summer who subsequently rose through the Wavecutters. Reports of possible future leadership are speculative.
+- **Eula and Galt (formerly of Voruun):** figures linked to necromancy and repeated private meetings with Eden and Summer; their actual allegiance is unknown.
+- Anthea's recovered note refers to three dead Crows and only Anthea and Eden remaining at that time. How that statement fits Summer's membership remains unresolved.
+
+**Last development:** [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]].
+
+---
+
+### Locate the Sundering relics and determine their fate
+
+**Urgency:** 3 â€” Medium  
+**Theme:** Ardynia / Sundering
+
+**Objective:** Locate and understand the artefacts used in the Sundering, then decide whether they should be recovered, secured or otherwise dealt with.
+
+**Current position:** Examine the still-unopened [[06 Library/Ardynian Relics and Artefacts/Rana Viam scroll|Rana Viam scroll]], decide what to do with the unattuned [[06 Library/Ardynian Relics and Artefacts/Bands of Distortion|Bands of Distortion]], and consider returning to [[02 Places/Rakara/Tace Nox|Tace Nox]] to test the theory that a hidden anchor holds the [[06 Library/Ardynian Relics and Artefacts/Staff of Broken Time|Staff of Broken Time]] in place.
+
+**Key history:**
+- At Tace Nox, the party found the Staff but could not remove it; they retained a scroll subsequently activated by Elmwood.
+- At Rana Viam, they recovered the Bands, a heart stone and a separate unopened scroll.
+- The Tace Nox scroll revealed Elgira's memory of the Sundering and **ten ritual objects: five Coronas and five other artefacts**.
+- The heart stone suggests a possible anchor mechanism, but no equivalent anchor has been found for the Staff. The party has not agreed whether gathering all these dangerous objects is desirable.
+
+**Last development:** [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
+
+---
+
+### Investigate the Dragon's Dandruff supply
+
+**Urgency:** 2 â€” Low  
+**Theme:** Broken Fang / Dragon's Dandruff
+
+**Objective:** Identify the production and supply chain feeding [[06 Library/Campaign Reference/Dragon's Dandruff|Dragon's Dandruff]] into the Dazuun fighting pits.
+
+**Current position:** Investigate [[03 People/Mentioned Figures/Karessa|Karessa]], identified by Yama and Spopovich as a three-fingered Khaali woman supplying them. Determine whether the alchemists and laboratory south of Somnolent are connected to the farm on the map recovered from the One Ball; **that connection has not been established**.
+
+**Key history:**
+- Ulsar Quinn described three Khaali alchemists operating south of Somnolent and supplying the fighting pits.
+- The party found a partially burned map to a farm and its rear barn in the cellar beneath the burned One Ball Inn.
+- Yama and Spopovich identified Karessa as their source and said the drug was widespread among Dazuun fighters.
+- The reported supplier, the alchemists and the mapped farm are promising leads, not yet a proven single operation.
+
+**Last development:** [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
+
+---
+
+### Find the Old Grey Pike
+
+**Urgency:** 2 â€” Low  
+**Theme:** Erelmor / Ashenhom
+
+**Objective:** Find [[03 People/Notable Figures/Ervain Megbanas|Ervain Megbanas]], the Old Grey Pike, and uncover his actual role in the destruction of [[02 Places/Doro/Ashenhom|Ashenhom]] and the death of Erelmor's family.
+
+**Current position:** Erelmor wishes to confront Ervain but does not have a reliable location. **The Bastion staff know that Ervain left Somnolent during the party's absence; this has not been passed to Erelmor in the recorded account.**
+
+**Key history:**
+- Ervain is a disgraced former Doroan commander whose reputation was damaged by Ashenhom's destruction; his direct responsibility for the murders remains uncertain.
+- He gambled at the One Ball Inn, lost money to Ballar and displayed hostility towards Doro.
+- Alaaric informed the Bastion of his departure during Session 24, without giving a destination.
+- Erelmor's desire for vengeance remains, but his confidence was shaken by the events of Session 26.
+
+**Last development:** [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]] (Erelmor's resolve); [[05 Campaign Chronicle/Session 24 - Pies, Pike and a one ball blaze|Session 24]] (Ervain's whereabouts).
+
+---
+
+### Understand the Church of Elgira's intentions
+
+**Urgency:** 1 â€” Very low  
+**Theme:** Perfid / Church of Elgira / Anthea Bloodclot
+
+**Objective:** Establish why the Church targeted Anthea and what it intends to do with its recovered Ardynian artefact.
+
+**Current position:** No immediate Church-focused investigation is being pursued. The known links between the assassination, the Rootbound and the [[06 Library/Ardynian Relics and Artefacts/Corona of the Ashen Choir|Corona of the Ashen Choir]] remain the main leads.
+
+**Key history:**
+- Evidence uncovered by the party indicates that Perfidian interests, acting through Prusset, hired a Rootbound cell to murder Anthea Bloodclot.
+- Perfidian operatives recovered a Corona of the Ashen Choir from Somnolent.
+- The Session 25 vision revealed a far more complicated account of Elgira, the saints and the Sundering than public Church doctrine.
+- These discoveries have not established the Church's complete present-day plans.
+
+**Last development:** [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]] (new Sundering context).
+
+---
+
+### Assess the rumoured Doroâ€“Perfid peace initiative
+
+**Urgency:** 1 â€” Very low  
+**Theme:** Doro / Perfid / House Nirrell
+
+**Objective:** Discover whether peace negotiations are actually being pursued, and how they might affect [[02 Places/Doro/Noble Houses/House Nirrell|House Nirrell]] and Ballar's family.
+
+**Current position:** Ballar has heard unverified reports at the Doro embassy. No negotiations, agreement or formal policy have been confirmed.
+
+**Key history:**
+- The reports suggest Nirrell may be influential and that Ballar's father, [[03 People/Mentioned Figures/Xilpeiros Nirrell|Xilpeiros Nirrell]], could benefit politically.
+- Trenhalde was reported to be broadly favourable; Aequinth and Bromere reportedly appeared less enthusiastic.
+- Ballar's father also asked for his assessment of Somnolent's political situation.
+- These rumours are distinct from the investigation into why the Church ordered Anthea's murder.
+
+**Last development:** [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
+
+---
+
+### Investigate the One Ball Inn fire and Antoinne's disappearance
+
+**Urgency:** 1 â€” Very low  
+**Theme:** Somnolent / Broken Fang
+
+**Objective:** Establish what happened to [[03 People/Notable Figures/Antoinne Cassan|Antoinne Cassan]], who burned the [[02 Places/Rakara/Somnolent/One Ball Inn|One Ball Inn]], and how the creatures beneath it came to be there.
+
+**Current position:** Follow the surviving evidence from Antoinne's office, the vials marked **"slaadpole"**, and the burned map leading to an unidentified farm's rear barn. No person or faction has been proven responsible for the fire or the creatures.
+
+**Key history:**
+- The One Ball served a Broken Fang-connected fencing operation; n'Dong and Erelmor killed Sunshine and Loup, men associated with that network.
+- Antoinne disappeared, leaving a ransacked office with blood, coded transactions and missing ledger pages. No body was recovered.
+- The inn then burned to the ground, and Session 25 revealed gibbering mouthers and slaad tadpoles in its cellar. Three trapped residents died and some tadpoles escaped.
+- The mapped farm is a concrete lead, but its connection to the fire, the creatures or the Dragon's Dandruff operation remains uncertain.
+
+**Last development:** [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]].
+
+---
+
+### Awaken Ieuan's Star Seed
+
+**Urgency:** 1 â€” Very low  
+**Theme:** Ieuan / Star Seed
+
+**Objective:** Complete the remaining stage of understanding needed to awaken [[06 Library/Relics and Artefacts/Star Seed|the Star Seed]].
+
+**Current position:** Ieuan is working on the **nature** aspect of the Seed. Meditation with [[03 People/Notable Figures/Father Zantos|Father Zantos]] in Session 26 did not complete the breakthrough.
+
+**Key history:**
+- Father Zantos gave Ieuan the Seed with the promise that it would bloom as he developed his druidic path.
+- The earlier tracker records successful Religion and Arcana checks; the dedicated Star Seed article explicitly describes successful faith-based progress but does not independently document the Arcana result.
+- Ieuan has struggled to connect with the Seed through nature, at times hearing [[Plague|Plague]] demand that he *spread*.
+- Zantos encouraged him to reconnect patiently with his older connection to the earth.
+
+**Last development:** [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
+
+## Inactive threads
+
+### Discover the fates of Elgira's saints
+
+**Urgency:** Inactive  
+**Theme:** Ardynia / the Saints
+
+**Objective:** Find out what became of Vaelen, Erith and Desmon after the Sundering, and how their plans relate to Marra and the relics.
+
+**Current position:** The party has significant clues but is not presently pursuing an individual saint's whereabouts.
+
+**Key history:**
+- Vaelen's preserved message at Rana Viam warned of conflict among the surviving saints and suggested he had prepared means of preserving himself.
+- In Session 25, Elmwood identified Anthea Bloodclot as **Saint Marra** from the witnessed memory.
+- n'Dong recognised the likeness of **Saint Erith** in a portrait of Minir's first Arc Master; this is strong evidence, though the details of Erith's later life are not fully established.
+- Desmon is linked to Perfid; Vaelen's actual fate remains uncertain.
+
+**Last development:** [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]].
+
+---
+
+### Travel to Hushvale
+
+**Urgency:** Inactive  
+**Theme:** Rootbound / Orvak
+
+**Objective:** Visit [[02 Places/Rakara/Hushvale|Hushvale]] and find out why the community has become unusually insular and suspicious of outsiders.
+
+**Current position:** The journey was postponed when the party chose to return to Somnolent. Hushvale has not been explored during the campaign.
+
+**Key history:**
+- A farmer named Cobb described Hushvale as increasingly closed and unwelcoming, to the extent that he avoids travelling there.
+- The party suspects local Rootbound influence, but the relevant people, faction and cause of the change are unconfirmed.
+- Hushvale lies about half a day's ride from Rana Viam and was also the intended site of a gambling hall planned by Mireya and her late husband.
+
+**Last development:** [[05 Campaign Chronicle/Session 23 - Ettins, Owlbears, and Betting Losses|Session 23]] (journey deferred).
+
+---
+
+### Identify Anthea's direct killer
+
+**Urgency:** Inactive  
+**Theme:** Anthea Bloodclot / Rootbound
+
+**Objective:** Establish which Rootbound cell carried out Anthea Bloodclot's assassination, and who personally administered the Bloodspore.
+
+**Current position:** The wider conspiracy has been traced to Perfidian interests and a contracted Rootbound cell, but the direct killer and precise cell remain unidentified.
+
+**Key history:**
+- The investigation established Bloodspore as the likely poison used against Anthea.
+- The party uncovered evidence connecting Prusset and Perfidian interests to a Rootbound assassination cell.
+- Rootbound cells operate independently, so finding one implicated group would not prove the culpability of the movement as a whole.
+
+**Last development:** Earlier assassination investigation; **no newer identification is recorded through Session 26**.
+
+---
+
+### Learn more about Ulsar's operations
+
+**Urgency:** Inactive  
+**Theme:** Broken Fang
+
+**Objective:** Recover any remaining intelligence about Ulsar Quinn's camp and its wider Broken Fang network.
+
+**Current position:** The camp and much of its evidence burned. The deceased scout remains a possible source of information only if a suitable method becomes available; **the party has established he is beyond the *Revivify* window** and has not allocated its new diamonds to him.
+
+**Key history:**
+- Ulsar was killed when the Broken Fang camp was destroyed.
+- A scout's remains were retained because Ballar hoped the party could question him.
+- In Session 25 the party discussed resurrection with Elmwood, but in Session 26 it instead committed the intended resurrection diamond to Mireya and kept the second as a reserve.
+
+**Last development:** [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
+
+---
+
+### Visit Orun's Grove
+
+**Urgency:** Inactive  
+**Theme:** Orvak / Orun
+
+**Objective:** Explore the natural shrine to [[01 Welcome to Vaelond/Religion/Rakaran Faiths#Orun, the Verdant Kin|Orun the Verdant Kin]] mentioned by [[03 People/Mentioned Figures/Oakrah Woodfrey|Oakrah Woodfrey]].
+
+**Current position:** The site remains unvisited, and no immediate expedition has been arranged.
+
+**Key history:**
+- Oakrah described the grove as a safe place for friends of the forest and worshippers of Orun.
+- Her guidance was given in the context of the party's encounter with the False Gardener's corruption.
+
+**Last development:** [[05 Campaign Chronicle/Session 22 - Bodies, Blight, and Bushtache|Session 22]].
+
+---
+
+### Find Daeya
+
+**Urgency:** Inactive  
+**Theme:** Ieuan / Rootbound
+
+**Objective:** Find Ieuan's sister **Daeya** and establish what has happened to her.
+
+**Current position:** No specific new lead or immediate search is recorded in the existing tracker.
+
+**Key history:**
+- The original tracker places Daeya's search under the Rootbound theme, but supplies no evidence of her present involvement or whereabouts.
+- It does not supply a recent sighting or any further documented investigative progress.
+
+**Last development:** Not specified in the existing tracker; **no new lead is documented through Session 26**.
+
+---
+
+### Understand Din, the soul in Ballar's ring
+
+**Urgency:** Inactive  
+**Theme:** Ardynia / Ballar
+
+**Objective:** Establish the true identity and intentions of **Din**, the soul within Ballar's [[06 Library/Ardynian Relics and Artefacts/Ring of Mind Shielding|Ring of Mind Shielding]], and decide whether to help him obtain a body.
+
+**Current position:** Ballar has removed the ring and is not presently pursuing Din's proposal.
+
+**Key history:**
+- The ring came from Tace Nox. Din spoke privately to Ballar, claimed knowledge of Ardynian ruins and offered guidance in exchange for help acquiring a body.
+- Vaelen's Rana Viam message said he had made preparations to preserve his soul, raising a **possible but unconfirmed** connection to Din.
+- The identity of the soul and the terms or consequences of restoring him remain unresolved.
+
+**Last development:** [[05 Campaign Chronicle/Session 17 - Shrieks, Widows and Time Juice|Session 17]] (latest substantive conversation recorded in Din's page); the ring's removal is recorded in the original tracker without a session number.
+
+---
+
+### Find Eula and uncover her plans
+
+**Urgency:** Inactive  
+**Theme:** Anthea Bloodclot / Eula / Loyal Crows
+
+**Objective:** Understand what [[03 People/Notable Figures/Eula|Eula]] intends to do with the bodies she collects, especially Salla's Plague-infested corpse, and determine her relationship to the Loyal Crows.
+
+**Current position:** Eula's whereabouts are unknown. Gudren and Caelen's findings concerning Eula and [[03 People/Mentioned Figures/Galt|Galt]] offer a lead for future investigation.
+
+**Key history:**
+- Eula repeatedly bought corpses using enchanted reddish coins, but the party later refused further dealings and attempted to return the coins.
+- She collected Salla's body after Ieuan planted a cutting of [[Plague|Plague]] in it.
+- Eula said she was preparing for **Ardynia's return**.
+- Research presented in Session 25 connected Eula and Galt to repeated private meetings with Eden and Summer. **Neither is confirmed as a Loyal Crow.**
+
+**Last development:** [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]].
+
+## Offscreen threads
+
+### Track the escaped slaad tadpoles
+
+**Urgency:** 2 â€” Low  
+**Theme:** Somnolent / One Ball Inn
+
+**Objective:** Determine what became of the creatures that escaped the ruined One Ball Inn, and whether they present a continuing danger.
+
+**Current position:** Several slaad tadpoles escaped after the cellar battle. Their whereabouts are unknown; no subsequent sightings are documented.
+
+**Key history:**
+- The party encountered slaad tadpoles and gibbering mouthers in the cellar beneath the burned inn.
+- Broken vials labelled **"slaadpole"** suggest that some creatures had been contained or transported.
+- The session describes the escaped tadpoles **burrowing away**; it does not establish that they swam through sewers or who brought them there.
+
+**Last development:** [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]].
+
+---
+
+### Await Ballar's search animals and the escaped goblin
+
+**Urgency:** 1 â€” Very low  
+**Theme:** Thistlewound / Rootbound
+
+**Objective:** Recover the goblin witness to the attack on Buggie's camp and learn what the goblin knows.
+
+**Current position:** Await the result of the owl, mastiff and bear Ballar sent towards Tace Nox. Their mission and the goblin's fate remain unreported.
+
+**Key history:**
+- The goblin survived the Rootbound-linked massacre of [[03 People/Notable Deceased/Buggie|Buggie's]] group.
+- Ballar previously took the goblin into custody, but it escaped and headed back towards Tace Nox.
+- During Session 26, Ballar instructed three creatures from his Bag of Tricks to find the goblin and bring it back alive.
+- **This search is separate from Malt's release with Bushtache.**
+
+**Last development:** [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
+
+---
+
+### Await Malt's search for a Pot of Awakening
+
+**Urgency:** 1 â€” Very low  
+**Theme:** Bushtache / Ballar
+
+**Objective:** Learn whether Malt can obtain a Pot of Awakening for **Bushtache**, the cabbage Ballar spoke to.
+
+**Current position:** Malt has been released to pursue the task; neither his whereabouts nor the outcome is recorded.
+
+**Key history:**
+- Ballar cast *Speak with Plants* on a cabbage that identified itself as Bushtache.
+- Rather than retain Malt as a prisoner, Ballar spared him and sent him to find a Pot of Awakening for the cabbage.
+- No return, delivery or further message from Malt has been recorded.
+
+**Last development:** [[05 Campaign Chronicle/Session 22 - Bodies, Blight, and Bushtache|Session 22]].
+
+---
+
+### Determine what becomes of Plague in Eula's possession
+
+**Urgency:** 3 â€” Medium  
+**Theme:** Plague / Eula
+
+**Objective:** Determine whether [[Plague|Plague]] spreads through the infected body Eula collected, and what Eula might do with it.
+
+**Current position:** The location and condition of Salla's infected corpse are unknown. Plague has continued communicating with Ieuan, suggesting its influence is not confined to the cuttings he carried.
+
+**Key history:**
+- Ieuan planted one cutting of Plague in Salla's corpse, which Eula subsequently collected.
+- Plague told Ieuan the cutting had found many bodies and opportunities, though the precise meaning is not established.
+- Ieuan later planted his remaining cuttings, yet Plague's voice continued to reach him and interfered with his efforts to study the Star Seed.
+- This thread concerns the **offscreen infected body**; Ieuan's continuing connection to Plague is a related unresolved personal consequence.
+
+**Last development:** [[05 Campaign Chronicle/Session 23 - Ettins, Owlbears, and Betting Losses|Session 23]] (continuing voice); [[05 Campaign Chronicle/Session 21 - Contracts, Command, and a Burning Camp|Session 21]] (Eula collected the corpse).
+
+## Closed threads
+
+### Destroy the False Gardener's immediate corruption
+
+**Urgency:** Closed  
+**Theme:** Orvak / False Gardener
+
+**Objective:** Eliminate the immediate source of corruption at Maelor Vey's ruined home.
+
+**Current position:** **Completed.** The Defracturers defeated the dividing black ooze and destroyed the well from which it emerged. Oakrah believed the remaining local taint could be cleared.
+
+**Key history:** The group investigated the False Gardener's old site after Oakrah confronted Ieuan. Destroying the source resolved that immediate expedition, **not necessarily Plague's wider survival or influence**.
+
+**Last development:** [[05 Campaign Chronicle/Session 22 - Bodies, Blight, and Bushtache|Session 22]].
+
+---
+
+### Resolve Malt's imprisonment
+
+**Urgency:** Closed  
+**Theme:** Ballar / Bushtache
+
+**Objective:** Decide what to do with Malt as a prisoner.
+
+**Current position:** **Completed.** Ballar freed Malt on the condition that he seek a Pot of Awakening for Bushtache.
+
+**Key history:** Malt's captivity was resolved; the **separate offscreen task** remains open until news of his mission arrives.
+
+**Last development:** [[05 Campaign Chronicle/Session 22 - Bodies, Blight, and Bushtache|Session 22]].
+
+---
+
+### Destroy Ulsar Quinn's Broken Fang camp
+
+**Urgency:** Closed  
+**Theme:** Broken Fang
+
+**Objective:** Defeat the Broken Fang force at Ulsar Quinn's camp.
+
+**Current position:** **Completed.** The camp was destroyed, and Ulsar Quinn and Talan Rook were killed.
+
+**Key history:** The attack also caused Mireya's death. Ballar later recovered and preserved her remains; **her resurrection is a separate active thread**.
+
+**Last development:** [[05 Campaign Chronicle/Session 21 - Contracts, Command, and a Burning Camp|Session 21]].
+
+---
+
+### Recover the party's horses
+
+**Urgency:** Closed  
+**Theme:** Party resources / Broken Fang
+
+**Objective:** Recover the horses seized by Ulsar's forces.
+
+**Current position:** **Completed.** The party recovered its mounts and resumed travelling with them.
+
+**Key history:** The horses were taken while the Defracturers explored Rana Viam, prompting their pursuit of Ulsar's Broken Fang unit.
+
+**Last development:** By [[05 Campaign Chronicle/Session 23 - Ettins, Owlbears, and Betting Losses|Session 23]], the party was returning towards Somnolent with its horses.
+
+---
+
+### Identify the owner of the House Bromere favour coin
+
+**Urgency:** Closed  
+**Theme:** Doro / Loyal Crows
+
+**Objective:** Trace the House Bromere favour coin connected to Buggie's orders.
+
+**Current position:** **Completed.** The coin had belonged to Ervain Megbanas, who lost it to Eden Carrion in a dice game.
+
+**Key history:** The coin connected the investigation into Buggie and Prusset with Doro's noble and military circles, although that ownership history does not establish a wider Bromere conspiracy.
+
+**Last development:** Resolved in earlier Somnolent investigations; the original tracker does not identify the exact session.
+
+---
+
+### Find Buggie and establish why Prusset was targeted
+
+**Urgency:** Closed  
+**Theme:** Emberwake / Loyal Crows
+
+**Objective:** Identify Buggie's employer and why Alistair Prusset was singled out.
+
+**Current position:** **Completed.** Buggie disclosed that Eden Carrion hired his group to abduct Prusset and steal information.
+
+**Key history:** The party met Buggie at Thistlewound, heard his account of the mercenary arrangement and acquired evidence leading into the broader Loyal Crows investigation.
+
+**Last development:** [[05 Campaign Chronicle/Session 03 - Into Buggie's Den|Session 3]].
+
+---
+
+### Rescue Terrick Lowgins
+
+**Urgency:** Closed  
+**Theme:** Perfid / Bastion
+
+**Objective:** Free [[03 People/Notable Figures/Terrick Lowgins|Terrick Lowgins]] from detention at the Perfidian embassy.
+
+**Current position:** **Completed.** Terrick was rescued, and the former embassy later became the Defracturers' Bastion.
+
+**Key history:** The embassy raid ended the party's immediate rescue objective but led to lasting patronage and diplomatic arrangements with Somnolent.
+
+**Last development:** [[05 Campaign Chronicle/Session 16 - Cackles, Corpses and Catastrophe|Session 16]] (embassy and Bastion aftermath).
+
+---
+
+### Capture Alistair Prusset
+
+**Urgency:** Closed  
+**Theme:** Perfid / Anthea Bloodclot
+
+**Objective:** Take Alistair Prusset into custody for questioning about the conspiracy against Anthea.
+
+**Current position:** **Completed, with later fatal consequences.** Prusset was captured and interrogated, then killed while held in Somnolent custody.
+
+**Key history:** His death and the escape of Eden and Summer subsequently became a separate active investigation; their precise roles in the killing remain to be established.
+
+**Last development:** Earlier Somnolent investigations; Prusset's death remains relevant to the active Eden and Summer thread.
+
+---
+
+### Break into Alaaric's safe
+
+**Urgency:** Closed â€” failed  
+**Theme:** Bastion / Alaaric Hammerfall
+
+**Objective:** Open [[03 People/Notable Figures/Alaaric Hammerfall|Alaaric Hammerfall's]] secured safe.
+
+**Current position:** **Failed / abandoned.** The safe branded n'Dong and Erelmor and remained shut.
+
+**Key history:** The failed attempt is recorded as a concluded plan, not an open task; nothing in the current tracker indicates an active renewed attempt.
+
+**Last development:** Earlier campaign; exact session not specified in the original tracker.
+
+---
+
+### Recover the relic from Rana Viam
+
+**Urgency:** Closed  
+**Theme:** Ardynia / Rana Viam
+
+**Objective:** Defeat the ruin's guardian and secure its principal relic.
+
+**Current position:** **Completed.** The Defracturers destroyed the golem and recovered the Bands of Distortion and their heart stone.
+
+**Key history:** The retrieval was completed at Rana Viam. **Attunement, the scroll's contents and decisions about the Bands' ultimate custody remain unresolved** under the broader Sundering relic thread.
+
+**Last development:** [[05 Campaign Chronicle/Session 19 - Bands, Broken Stone and the Glass Fang|Session 19]] (recovery).
+
+---
+
+### Identify who ordered Anthea's assassination
+
+**Urgency:** Closed  
+**Theme:** Anthea Bloodclot / Perfid / Rootbound
+
+**Objective:** Establish who commissioned the attack on Anthea Bloodclot.
+
+**Current position:** **Completed at the conspiracy level.** The evidence points to the Church of Elgira and Perfidian interests acting through Prusset, who employed a Rootbound cell.
+
+**Key history:** The order and intermediaries have been traced, but **the identity of the direct killer remains unresolved** in a separate inactive thread. In Session 25, Elmwood additionally identified Anthea as Saint Marra from the Sundering memory.
+
+**Last development:** [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]] (new information about Anthea's identity); the assassination commission was established earlier.
 
 ## Related
 
@@ -12029,91 +13272,11 @@ The Tace Nox vision has been experienced and Anthea's identification as Marra is
 - [[06 Library/Campaign Reference/Horses|Horses]]
 - [[04 Organisations/Broken Fang|Broken Fang]]
 - [[04 Organisations/Rootbound|The Rootbound]]
-- [[06 Library/Campaign Reference/Plague|Plague]]
+- [[04 Organisations/Loyal Crows|Loyal Crows]]
+- [[Plague|Plague]]
 - [[02 Places/Rakara/Voruun/Dazuun|Dazuun]]
 - [[06 Library/Campaign Reference/Dragon's Dandruff|Dragon's Dandruff]]
 - [[02 Places/Rakara/Somnolent/One Ball Inn|One Ball Inn]]
-
-
-
----
-# FILE: C:\Users\ellis\Documents\vaelond-wiki\content\06 Library\Campaign Reference\Plague.md
----
-
----
-title: Plague
-type: campaign-reference
-status: published
-player_facing: true
-aliases:
-  - Sentient fungus
-  - Poison fungus
-  - The bad mad man's fungus
-tags:
-  - campaign
-  - reference
-  - fungus
-  - ieuan
-source: Sessions 20-23
-updated: 2026-09-10
----
-
-# Plague
-
-> [!summary] At a glance
-> A sentient poisonous fungus created through the corrupted work of [[03 People/Mentioned Figures/Maelor Vey|Maelor Vey, the False Gardener]]. Ieuan carried five cuttings away from its colony; although he later planted the remaining cuttings to be rid of them, Plague's voice has continued to reach him.
-
-## Encounter
-
-While pursuing Broken Fang scouts through the forest after leaving Rana Viam, [[03 People/Player Characters/Ieuan|Ieuan]] crossed a patch of suspicious poisonous fungus and cast **Speak with Plants**.
-
-The fungus identified itself as **Plague** and asked to spread. It described itself as having been left by a **bad mad man** later killed by forest guardians.
-
-Session 22 identified that figure as [[03 People/Mentioned Figures/Maelor Vey|Maelor Vey]], remembered in Orvak as **the False Gardener**. [[03 People/Mentioned Figures/Oakrah Woodfrey|Oakrah Woodfrey]] described Maelor as a corrupter whose impossible creations had continued to block the forest from Orun's light long after his death.
-
-## Bargain with Ieuan
-
-Ieuan negotiated safe passage by agreeing to take five cuttings and spread them elsewhere.
-
-One cutting was planted in Salla's corpse. [[03 People/Notable Figures/Eula|Eula]] later collected the plague-infested body. Plague subsequently told Ieuan that the cutting was settling in among many bodies and opportunities.
-
-After the destruction of Ulsar's camp, Ieuan concluded that his judgement had deteriorated since agreeing to spread Plague. He planted the remaining cuttings rather than continuing to carry them.
-
-## The False Gardener
-
-Oakrah confronted Ieuan after the camp battle and accused him of continuing the False Gardener's work. She explained that she remained in place to hold the corruption's spread at bay and could not safely abandon that duty to attack its source herself.
-
-The Defracturers entered the ruined home of the False Gardener and fought a mass of black, tar-like ooze that divided repeatedly when struck. Enrak ultimately blasted the well from which it emerged with a Fireball. With that immediate source destroyed, Oakrah was satisfied that the remaining taint could be cleared.
-
-This does **not** establish that Plague itself has been destroyed.
-
-## Continuing influence
-
-During Session 23, Ieuan again tried to understand the [[06 Library/Relics and Artefacts/Star Seed|Star Seed]] through nature. Plague's voice drowned out the attempt with a single command:
-
-> *Spread.*
-
-The continuing whisper means Ieuan's connection to Plague remains unresolved despite no longer carrying the cuttings.
-
-> [!question] Unresolved
-> - What connection allows Plague to continue reaching Ieuan?
-> - What will Eula do with Salla's infected corpse?
-> - What became of the cuttings Ieuan planted after Ulsar's camp?
-> - Can Oakrah and the awakened trees fully cleanse Maelor's remaining influence?
-> - Is Plague one organism, many linked organisms, or something stranger?
-
-## Related
-
-- [[03 People/Player Characters/Ieuan|Ieuan]]
-- [[03 People/Notable Figures/Eula|Eula]]
-- [[03 People/Mentioned Figures/Maelor Vey|Maelor Vey]]
-- [[03 People/Mentioned Figures/Oakrah Woodfrey|Oakrah Woodfrey]]
-- [[06 Library/Relics and Artefacts/False Gardener's Notebook|False Gardener's Notebook]]
-- [[05 Campaign Chronicle/Session 20 - Plague, Pursuit and Plan E|Session 20]]
-- [[05 Campaign Chronicle/Session 21 - Contracts, Command, and a Burning Camp|Session 21]]
-- [[05 Campaign Chronicle/Session 22 - Bodies, Blight, and Bushtache|Session 22]]
-- [[05 Campaign Chronicle/Session 23 - Ettins, Owlbears, and Betting Losses|Session 23]]
-- [[06 Library/Campaign Reference/Open Threads|Open Threads]]
 
 
 
@@ -12130,42 +13293,43 @@ tags:
   - index
   - library
   - campaign
-updated: 2026-10-13
+updated: 2026-10-20
 ---
 
 # Library
 
 ## Campaign reference
 
-- [[06 Library/Campaign Reference/Open Threads|Open Threads]] â€” active goals, answered questions and failed plans
-- [[06 Library/Campaign Reference/Horses|Horses]] â€” the party's mounts and their current situation
-- [[06 Library/Campaign Reference/Plague|Plague]] â€” the sentient fungus encountered near Rana Viam
-- [[06 Library/Campaign Reference/Dragon's Dandruff|Dragon's Dandruff]] â€” stimulant tied to Rhul Slowdrift's Dazuun operation
-- [[06 Library/Campaign Reference/Bushtache|Bushtache]] â€” Ballar's cabbage, sent away with Malt to be awakened
+- [[06 Library/Campaign Reference/Open Threads|Open Threads]] - active goals, answered questions and failed plans
+- [[06 Library/Campaign Reference/Horses|Horses]] - the party's mounts and their current situation
+- [[Plague|Plague]] - the sentient fungus encountered near Rana Viam
+- [[06 Library/Campaign Reference/Dragon's Dandruff|Dragon's Dandruff]] - stimulant tied to Rhul Slowdrift's Dazuun operation
+- [[Bushtache|Bushtache]] - Ballar's cabbage, sent away with Malt to be awakened
 
 ## Ardynian relics and artefacts
 
-- [[06 Library/Ardynian Relics and Artefacts/index|Ardynian Relics and Artefacts]] â€” dedicated index of discovered Ardynian relics, scrolls and temporal materials.
-- [[06 Library/Ardynian Relics and Artefacts/Tace Nox scroll|Tace Nox scroll]] â€” complete memory of Elgira, activated in Session 25.
-- [[06 Library/Ardynian Relics and Artefacts/Corona of the Ashen Choir|Corona of the Ashen Choir]] â€” one of the five Crowns of Infinity.
-- [[06 Library/Ardynian Relics and Artefacts/Staff of Broken Time|Staff of Broken Time]] â€” the staff carried by Elgira during the Sundering.
-- [[06 Library/Ardynian Relics and Artefacts/Bands of Distortion|Bands of Distortion]] â€” recovered from Rana Viam; properties partially identified.
-- [[06 Library/Ardynian Relics and Artefacts/Heart of Vaelond|Heart of Vaelond]] â€” central ritual focus seen in the memory.
-- [[06 Library/Ardynian Relics and Artefacts/Eye of Singularity|Eye of Singularity]] â€” named artefact witnessed in the memory.
-- [[06 Library/Ardynian Relics and Artefacts/Time Juice|Time Juice]] â€” green temporal substance, identified as likely **Sanguis Aevi**.
+- [[06 Library/Ardynian Relics and Artefacts/index|Ardynian Relics and Artefacts]] - dedicated index of discovered Ardynian relics, scrolls and temporal materials.
+- [[06 Library/Ardynian Relics and Artefacts/Tace Nox scroll|Tace Nox scroll]] - complete memory of Elgira, activated in Session 25.
+- [[06 Library/Ardynian Relics and Artefacts/Corona of the Ashen Choir|Corona of the Ashen Choir]] - one of the five Crowns of Infinity.
+- [[06 Library/Ardynian Relics and Artefacts/Staff of Broken Time|Staff of Broken Time]] Ã¢â‚¬â€ the staff carried by Elgira during the Sundering.
+- [[06 Library/Ardynian Relics and Artefacts/Bands of Distortion|Bands of Distortion]] - recovered from Rana Viam; properties partially identified.
+- [[06 Library/Ardynian Relics and Artefacts/Heart of Vaelond|Heart of Vaelond]] - central ritual focus seen in the memory.
+- [[06 Library/Ardynian Relics and Artefacts/Eye of Singularity|Eye of Singularity]] - named artefact witnessed in the memory.
+- [[06 Library/Ardynian Relics and Artefacts/Time Juice|Time Juice]] - green temporal substance, identified as likely **Sanguis Aevi**.
 
 ## Other relics and artefacts
 
-- [[06 Library/Relics and Artefacts/Relics and Artefacts|Relics and Artefacts]] â€” index of non-Ardynian and other magical objects.
-- [[06 Library/Relics and Artefacts/Eula's Red Coins|Eula's Red Coins]] â€” coins tied to Eula's corpse trade.
-- [[06 Library/Relics and Artefacts/Star Seed|Star Seed]] â€” Ieuan's gradually awakening devotional object.
-- [[06 Library/Relics and Artefacts/False Gardener's Notebook|False Gardener's Notebook]] â€” research recovered from Maelor Vey.
-- [[06 Library/Relics and Artefacts/Verei's Shattered Mask|Verei's Shattered Mask]] â€” linked to n'Dong and Verei's blessing.
+- [[06 Library/Relics and Artefacts/Relics and Artefacts|Relics and Artefacts]] - index of non-Ardynian and other magical objects.
+- [[06 Library/Relics and Artefacts/Eula's Red Coins|Eula's Red Coins]] - coins tied to Eula's corpse trade.
+- [[06 Library/Relics and Artefacts/Star Seed|Star Seed]] - Ieuan's gradually awakening devotional object.
+- [[06 Library/Relics and Artefacts/False Gardener's Notebook|False Gardener's Notebook]] - research recovered from Maelor Vey.
+- [[06 Library/Relics and Artefacts/Verei's Shattered Mask|Verei's Shattered Mask]] - linked to n'Dong and Verei's blessing.
 
 
 ## Letters and documents
 
 - [[06 Library/Letters and Documents/Letters and Documents|Letters and Documents]]
+- [[06 Library/Letters and Documents/Instrument of Patronage and Service|Instrument of Patronage & Service]] - signed Bastion patronage terms, protections, compensation and duties
 - [[06 Library/Letters and Documents/Report on the Death of Anthea Bloodclot|Report on the Death of Anthea Bloodclot]]
 - [[06 Library/Letters and Documents/Loyal Crow's Orders to Buggie|Loyal Crow's Orders to Buggie]]
 - [[06 Library/Letters and Documents/Stolen Letter from Alistair Prusset's Study|Stolen Letter from Alistair Prusset's Study]]
@@ -12456,6 +13620,98 @@ The open question is therefore no longer whether the One Ball network was still 
 
 
 ---
+# FILE: C:\Users\ellis\Documents\vaelond-wiki\content\06 Library\Letters and Documents\Instrument of Patronage and Service.md
+---
+
+---
+title: Instrument of Patronage & Service
+type: document-reference
+status: published
+player_facing: true
+aliases:
+  - Drayton Patronage Contract
+  - Bastion Patronage Contract
+  - Instrument of Patronage and Service
+tags:
+  - documents
+  - somnolent
+  - bastion
+  - politics
+  - campaign
+source: Signed Drayton_Patronage_Contract.docx (six pages; handwritten amendments)
+updated: 2026-10-20
+---
+
+# Instrument of Patronage & Service
+
+> [!info] Signed source and interpretation
+> This page is a **reference summary** of the signed six-page *Instrument of Patronage & Service*, issued by Headman [[03 People/Notable Figures/Romayne Drayton|Romayne Drayton]] for the Defracturers. **The actual signed contract controls if this summary differs.** 
+
+## Parties, purpose and duration (Sections 1â€“2)
+
+- **Patron:** Romayne Drayton, in his official capacity as Headman of Somnolent. **Agents:** the undersigned adventuring company, collectively.
+- The company acts as a discreet instrument of Somnolent's interests inside and beyond the town, in good faith and with reasonable competence.
+- The arrangement continues until lawfully terminated. It does **not** automatically expire after an initial mission.
+
+## Bastion, staff and upkeep (Section 3)
+
+- The Agents receive **exclusive residence and use** of the former Perfid embassy for the contract's duration, subject to its terms. Permitted uses include housing, headquarters, storage, planning, defensive redoubt, meetings and staging sanctioned operations.
+- The Patron provides a **basic serving staff** for cleaning, cooking, pantry, simple workshops, library and non-denominational chapel maintenance. The Patron may requisition staff for Somnolent's safety.
+- The Patron pays ordinary structural maintenance, routine repairs, fuel, linen and basic food and drink **consumed on the premises**.
+- **Excluded without separate arrangements:** luxury food and drink, rare/exotic goods, reagents and alchemical stocks, war-grade fortifications, bespoke work, redesign, new facilities, additional staff, and new Silent Court permits/applications.
+- These provisions do not grant unlimited control over public staff or an obligation for Somnolent to fund arbitrary renovations.
+
+## Diplomatic standing (Section 4)
+
+- The Agents receive immunity **equivalent to ambassadors within Somnolent's jurisdiction**, only as far as the Headman's lawful authority reaches. It protects against routine arrest/detention and normally treats the Bastion as a protected diplomatic residence.
+- The Agents may request access to civil authorities through the Patron's office.
+- Town officers may enter in a **dire emergency** (fire, plague, rampaging creature or immediate danger) and must notify the Patron and Agents as soon as practical.
+- The immunity **does not excuse wanton harm** to Somnolent or its citizens, or protect acts formally declared Rogue Acts. This is **not** universal immunity from foreign authorities or all consequences.
+
+## Assignments, readiness and refusal (Sections 5â€“6, 8)
+
+- Sanctioned tasks may include exploration, intelligence, infiltration, protection, force, external diplomacy and recovery/custody of people, documents or dangerous items.
+- The company is expected to remain reasonably ready to depart urgently, **subject to the right of refusal**.
+- Agents may refuse work that is plainly suicidal, requires unjustified betrayal of an ally, risks disproportionate war/catastrophe, or violates a sincerely held oath disclosed in good faith. They must explain and, where possible, offer an alternative or request reasonable resources.
+- Repeated unjustified refusal can result in reduced stipend/support or termination.
+
+## Stipend, expenses and recovered property (Section 7)
+
+- **Monthly stipend:** the signed manuscript appears to specify **1,000 gold per month for the company**, payable on the first day of each month and distributed internally by the Agents. 
+- For sanctioned assignments, reasonable upfront mundane travel, lodging, bribes, consumables and healing supplies can be provided. Additional reimbursements are discretionary on receipt or sworn accounting.
+- **Coins and common items** acquired on commission belong entirely to the party (the first printed clause numbered 7.3).
+- **Uncommon, wondrous or rare items** recovered on commission must be **truthfully declared to the Patron within 24 hours of return to Somnolent**. They must not be sold or consumed before declaration unless immediately necessary for safety. Concealment, undeclared sale/transfer or deliberate misdescription is a material breach and may be treated as a Rogue Act (the second printed clause numbered 7.3).
+- After declaration, the Patron may allow use of an item, subject to later revocation. Sensitive or dangerous property goes into **Silent Court custody**. The signed contract does **not** automatically designate Aalaric's private safe as the custody location.
+- **Saleable property not needed by the Agents or Somnolent:** after declaration, either exchange it with the Patron for **60% of fair face value**, or sell legally and keep **70% of the actual proceeds or half of fair face value, whichever is higher**. The remainder of the sale proceeds must be paid to the Patron within **seven days**, with accounting. This is the contract's precise formula, not a flat '40%' or '60%' rule for every item.
+- **Unknown/magic/possibly cursed or sentient items (Section 7.4):** they go for approved study by Elmwood, the Company, or another approved peer, normally in interim **Silent Court custody**. After identification, the Patron decides case by case whether to permit company use, secure storage, named-mission use or removal from circulation. There is **no unconditional right to keep every artefact**.
+
+## Conduct and Rogue Acts (Section 10)
+
+- Agents must not **abuse staff, civilians or prisoners**, incite riots for personal gain, betray sensitive Somnolent information, or admit hostile armed groups to the Bastion. Confidentiality is expected where reasonable.
+- A Rogue Act is an act materially endangering Somnolent or directly defying a written prohibition from the Patron. Following its **formal declaration**, immunity may be suspended and the agreement terminated for cause.
+
+## Ending the contract and retrospective pardon (Sections 9, 11â€“12)
+
+- **Three-day grace:** during the first three full days after execution, any Agent may walk away without penalty. Remaining Agents can continue as a smaller company or dissolve the agreement. **Using this provision voids the retrospective pardon for the withdrawing Agent.**
+- Afterwards, the Agents may end the contract with **seven days' notice**, except urgent situations where prompt subsequent notice is accepted. The Patron may terminate immediately for a declared Rogue Act, murder of a citizen without cause, or material collaboration with Somnolent's enemies.
+- On termination, the Agents must vacate within **seven days**, return official keys, seals and papers, and leave staff unharmed; personal belongings may be removed.
+- Section 11.5 states that stipend owed on a pro-rata basis is repayable and that post-termination funding becomes a **short-term loan charging 0.8% interest per day**. The exact calculation/application is **not further explained** in the signed text; avoid inventing a repayment formula.
+- The Patron gives a pardon for eligible **Somnolent-jurisdiction offences in the 24 hours immediately preceding signature**. Exceptions include citizen murder, treason, catastrophic sacrilege and already adjudicated crimes. Foreign jurisdictions and private debts/grievances are not bound.
+
+## Disputes (Section 13)
+The Parties must first seek private mediation from the Patron; unresolved disputes may go to Somnolent's designated magistrate, discreetly where possible.
+
+## Campaign links
+
+- [[02 Places/Rakara/Somnolent/The Defracturers' Bastion|The Defracturers' Bastion]]
+- [[04 Organisations/The Defracturers|The Defracturers]]
+- [[03 People/Notable Figures/Romayne Drayton|Romayne Drayton]]
+- [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]]
+- [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]]
+
+
+
+---
 # FILE: C:\Users\ellis\Documents\vaelond-wiki\content\06 Library\Letters and Documents\Letters and Documents.md
 ---
 
@@ -12468,7 +13724,7 @@ tags:
   - index
   - documents
   - campaign
-updated: 2026-07-03
+updated: 2026-10-20
 ---
 
 # Letters and Documents
@@ -12481,6 +13737,7 @@ updated: 2026-07-03
 | [[Anthea Bloodclot's Note on Tace Nox]] | [[03 People/Notable Deceased/Anthea Bloodclot|Anthea Bloodclot]] | Solves the light puzzle and describes the loss of three Crows. |
 | [[Broken Fang Contraband Manifest]] | Unknown | Records Broken Fang deliveries across Somnolent, Orvak, Voruun and Khaali. |
 | [[Broken Fang Camp Sketches]] | Salla and Malt | Provides rough intelligence on Ulsar Quinn's camp and the stolen horses. |
+| [[06 Library/Letters and Documents/Instrument of Patronage and Service|Instrument of Patronage & Service]] | Headman [[03 People/Notable Figures/Romayne Drayton|Romayne Drayton]] | Signed Bastion patronage terms: protections, staff, payments, recovery of goods, duties and termination. |
 
 The three recovered letter images are preserved alongside transcriptions.
 
@@ -12693,11 +13950,11 @@ The letter directly authorises decisive action against Anthea Bloodclot and inst
 
 
 ---
-# FILE: C:\Users\ellis\Documents\vaelond-wiki\content\06 Library\Letters and Documents\Vaelen's sending stone.md
+# FILE: C:\Users\ellis\Documents\vaelond-wiki\content\06 Library\Letters and Documents\Vaelen's memory stone.md
 ---
 
 ---
-title: Vaelen's sending stone
+title: Vaelen's memory stone
 type: document
 status: published
 player_facing: true
@@ -12855,13 +14112,13 @@ updated: 2026-09-10
 
 ## Recovery
 
-Ballar found the notebook after the Defracturers destroyed the immediate corruption beneath Maelor's home in Session 22. He immediately used it to speak with [[06 Library/Campaign Reference/Bushtache|Bushtache]].
+Ballar found the notebook after the Defracturers destroyed the immediate corruption beneath Maelor's home in Session 22. He immediately used it to speak with [[Bushtache|Bushtache]].
 
 Before leaving the forest in Session 23, Ballar handed the notebook to [[03 People/Player Characters/Ieuan|Ieuan]].
 
 ## Known contents
 
-Ieuan briefly consulted Maelor's notes about the nearby bog siren. The notebook indicated that the creature had been made through the same corrupted magic as the black ooze and [[06 Library/Campaign Reference/Plague|Plague]], and that it did not merely resist acid but appeared to thrive upon it.
+Ieuan briefly consulted Maelor's notes about the nearby bog siren. The notebook indicated that the creature had been made through the same corrupted magic as the black ooze and [[Plague|Plague]], and that it did not merely resist acid but appeared to thrive upon it.
 
 The full contents and limits of the notebook remain unknown.
 
@@ -12869,8 +14126,8 @@ The full contents and limits of the notebook remain unknown.
 
 - [[03 People/Mentioned Figures/Maelor Vey|Maelor Vey]]
 - [[03 People/Player Characters/Ieuan|Ieuan]]
-- [[06 Library/Campaign Reference/Plague|Plague]]
-- [[06 Library/Campaign Reference/Bushtache|Bushtache]]
+- [[Plague|Plague]]
+- [[Bushtache|Bushtache]]
 - [[05 Campaign Chronicle/Session 22 - Bodies, Blight, and Bushtache|Session 22]]
 - [[05 Campaign Chronicle/Session 23 - Ettins, Owlbears, and Betting Losses|Session 23]]
 
@@ -12936,7 +14193,7 @@ tags:
   - campaign
 current_holder: Ieuan
 source: Sessions 6, 21 and 23
-updated: 2026-09-10
+updated: 2026-10-20
 ---
 
 # Star Seed
@@ -12952,7 +14209,7 @@ Their discussion connected Ieuan's Circle of Stars path with Orun, ancient truth
 
 ## Development
 
-In Session 21, Ieuan studied the Star Seed during the rest before the attack on Ulsar's camp. His concentration was repeatedly interrupted by [[06 Library/Campaign Reference/Plague|Plague]].
+In Session 21, Ieuan studied the Star Seed during the rest before the attack on Ulsar's camp. His concentration was repeatedly interrupted by [[Plague|Plague]].
 
 During Session 23 he tried again. Approaching the seed through **nature** failed when Plague's voice overwhelmed his thoughts with the command *Spread*.
 
@@ -12980,6 +14237,10 @@ Its complete abilities and final form remain unknown.
 > - How directly is it tied to Orun, the Sea-Mother, the Moon-Father or the Circle of Stars?
 > - Why is Plague able to obstruct Ieuan's attempts to approach it through nature?
 
+## Session 26 â€” meditation with Zantos
+
+In Somnolent, Ieuan prayed with [[03 People/Notable Figures/Father Zantos|Father Zantos]] and Mother Joygrove, then spoke to Zantos about the tension between his growing connection to the stars and his earlier closeness to the earth. With Zantosâ€™s help he meditated on the remaining **natural** aspect of the Star Seed but **did not complete the breakthrough**. Zantos counselled patience and reconnection with his roots over time. See [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
+
 ## Campaign references
 
 - [[05 Campaign Chronicle/Session 06 - Smoke, Song and Secrets|Session 6]]
@@ -12990,7 +14251,7 @@ Its complete abilities and final form remain unknown.
 
 - [[03 People/Player Characters/Ieuan|Ieuan]]
 - [[03 People/Notable Figures/Father Zantos|Father Zantos]]
-- [[06 Library/Campaign Reference/Plague|Plague]]
+- [[Plague|Plague]]
 - [[01 Welcome to Vaelond/Religion/Rakaran Faiths#Orun, the Verdant Kin|Orun the Verdant Kin]]
 - [[01 Welcome to Vaelond/Religion/Rakaran Faiths#Sea-Mother and Moon-Father|Sea-Mother and Moon-Father]]
 
@@ -13095,6 +14356,87 @@ n'Dong established a shrine to Verei in the crypt of the Defracturers' Bastion a
 
 
 ---
+# FILE: C:\Users\ellis\Documents\vaelond-wiki\content\CHANGELOG.md
+---
+
+# Vaelond Wiki â€” Session 26 targeted maintenance updates
+
+**Based on:** supplied `vaelond-wiki-reference(7).md` and the signed `Drayton_Patronage_Contract.docx`.
+
+**Included:** requested changes 2â€“9. **Not undertaken:** the earlier global text-encoding repair/broken-link correction (item 1), unrelated lore expansion or fabrication of image files.
+
+## Install
+
+Copy the `.md` pages into the corresponding paths beneath `C:\Users\ellis\Documents\vaelond-wiki\content`, replacing existing files as appropriate. One new contract-summary page is added. Review the signed document for handwriting before publishing a definitive monetary transcription.
+
+## Updated or added pages
+
+1. `01 Welcome to Vaelond/Religion/Perfidian Faith.md` â€” Separated Church doctrine from Session 25 eyewitness-memory discovery.
+2. `01 Welcome to Vaelond/The Powers That Be.md` â€” Consolidated house-by-house rumour table as single authoritative summary.
+3. `01 Welcome to Vaelond/The Sundering of Ardynia.md` â€” Provenance-labelled Sundering history: public belief versus private memory witnessed in Session 25.
+4. `02 Places/Doro/Noble Houses/House Aequinth.md` â€” Replaced boilerplate Session 26 rumour with focused house-specific cross-reference.
+5. `02 Places/Doro/Noble Houses/House Bromere.md` â€” Replaced boilerplate Session 26 rumour with focused house-specific cross-reference.
+6. `02 Places/Doro/Noble Houses/House Nirrell.md` â€” Replaced boilerplate Session 26 rumour with focused house-specific cross-reference.
+7. `02 Places/Doro/Noble Houses/House Trenhalde.md` â€” Replaced boilerplate Session 26 rumour with focused house-specific cross-reference.
+8. `02 Places/Rakara/Rana Viam.md` â€” Linked expanded scroll page and clarified its unresolved custody.
+9. `02 Places/Rakara/Somnolent/The Defracturers' Bastion.md` â€” Documented signed patronage terms and crypt, distinguished explicit violation from unadjudicated consequences.
+10. `03 People/Mentioned Figures/Job Ashmere.md` â€” Corrected Job Ashmereâ€™s stale location and unsupported alive status after Gayle returned.
+11. `03 People/Notable Figures/Gayle Bramble.md` â€” Put Gayleâ€™s actual post-Session-26 status first and preserved unknown mission outcome.
+12. `03 People/Notable Figures/Mireya Dinak.md` â€” Added explicit present status and a non-canonical Gentle Repose/Revivify rules caveat.
+13. `03 People/Player Characters/Ballar Novis.md` â€” Removed superseded fate-of-scout statement from Ballarâ€™s biography.
+14. `03 People/index.md` â€” Fixed Gayle in navigation and linked four overlooked Session 26 NPC pages.
+15. `04 Organisations/Church of Elgira.md` â€” Corrected Anthea/Marra identification and distinguished the private memory from public doctrine.
+16. `04 Organisations/The Defracturers.md` â€” Linked the signed agreement from the party overview.
+17. `06 Library/Ardynian Relics and Artefacts/Rana Viam scroll.md` â€” Turned Rana Viam scroll stub into provenance, state, distinctness and open questions.
+18. `06 Library/Campaign Reference/Dragon's Dandruff.md` â€” Preserved source mechanics and highlighted Stamina ambiguity rather than silently replacing it.
+19. `06 Library/Campaign Reference/Horses.md` â€” Corrected horsesâ€™ present location from travelling to returned/stabled.
+20. `06 Library/Campaign Reference/Open Threads.md` â€” Recorded DM-needed ten-day Gentle Repose continuity without negating the revival plan.
+21. `06 Library/Letters and Documents/Instrument of Patronage and Service.md` â€” New signed-contract summary with clause-specific rights, responsibilities and ambiguous handwriting marked.
+22. `06 Library/Letters and Documents/Letters and Documents.md` â€” Added the signed patronage contract to the Letters and Documents catalogue.
+23. `06 Library/index.md` â€” Linked signed-contract reference in Library navigation.
+
+## Intentional uncertainties preserved
+
+- **Mireya:** the original casting of *Gentle Repose* is recorded; recasting across several weeks is **not**. No ruling was invented.
+- **Dragon's Dandruff:** *Stamina* is preserved as written and flagged for confirmation rather than assumed to mean Constitution.
+- **Contract:** the overwritten/handwritten stipend appears to read *1,000 gold*; please verify the original. Two separate sections are numbered 7.3.
+- **Images:** seven wiki images are not present in the supplied list; their actual presence/absence on disk could not be verified. See `IMAGE_ASSET_VERIFICATION.md`.
+- **Politics, Gayle, Job and recovered objects:** unconfirmed statements remain labelled as such.
+
+## Automated checks
+
+- The new ZIP contains 23 Markdown pages (1 new, 22 amended).
+- All newly-authored wiki link targets will be validated before release.
+
+
+
+---
+# FILE: C:\Users\ellis\Documents\vaelond-wiki\content\IMAGE_ASSET_VERIFICATION.md
+---
+
+# Image asset verification â€” 20 October 2026
+
+**Method:** matched all image embeds in the uploaded `vaelond-wiki-reference(7).md` against the **49-line** supplied `image-files-relative.txt` inventory by asset basename. This checks **inventory coverage only**; it cannot prove a file does or does not exist in the live local `_Assets` folder, because the actual images were not provided for this audit.
+
+| Image referenced in wiki | Referencing page | Inventory match | Verified on disk? |
+|---|---|---|---|
+| `Broken Fang Camp Sketch - Malt.png` | `06 Library/Letters and Documents/Broken Fang Camp Sketches.md` | **No** | **Not possible from supplied file list** |
+| `Broken Fang Camp Sketch - Salla.png` | `06 Library/Letters and Documents/Broken Fang Camp Sketches.md` | **No** | **Not possible from supplied file list** |
+| `Image1.png` | `06 Library/Ardynian Relics and Artefacts/Tace Nox scroll.md` | **No** | **Not possible from supplied file list** |
+| `Image2.png` | `06 Library/Ardynian Relics and Artefacts/Tace Nox scroll.md` | **No** | **Not possible from supplied file list** |
+| `Image3.png` | `06 Library/Ardynian Relics and Artefacts/Tace Nox scroll.md` | **No** | **Not possible from supplied file list** |
+| `Image4.png` | `06 Library/Ardynian Relics and Artefacts/Tace Nox scroll.md` | **No** | **Not possible from supplied file list** |
+| `Image5.png` | `06 Library/Ardynian Relics and Artefacts/Tace Nox scroll.md` | **No** | **Not possible from supplied file list** |
+
+## Findings and recommended action
+
+- **Seven distinct missing-from-inventory names:** the five numbered `Image1.png`â€“`Image5.png` embeds on the Tace Nox scroll page, and the two `Broken Fang Camp Sketch` images on the sketch document page.
+- No image files have been fabricated, replaced or removed. The wiki embeds remain unchanged, since an asset not appearing on an **older listing** may still exist locally.
+- Run a fresh recursive image-file inventory in `content/_Assets`, then compare again. If these files are not present, add the real images or update the embeds to actual filenames. Consider descriptive names for `Image1.png`â€“`Image5.png` once the corresponding files are located.
+
+
+
+---
 # FILE: C:\Users\ellis\Documents\vaelond-wiki\content\index.md
 ---
 
@@ -13162,7 +14504,7 @@ Welcome to the player guide for **Vaelond**. This vault is organised as an inter
 - [[06 Library/Letters and Documents/Letters and Documents|Letters and Documents]] â€” recovered orders, correspondence and ruin notes
 - [[06 Library/Letters and Documents/Report on the Death of Anthea Bloodclot|Report on the Death of Anthea Bloodclot]]
 - [[06 Library/Relics and Artefacts/Relics and Artefacts|Relics and Artefacts]] â€” known Sundering tools and their current status
-- [[06 Library/Campaign Reference/Plague|Plague]] â€” the sentient fungus encountered near Rana Viam
+- [[Plague|Plague]] â€” the sentient fungus encountered near Rana Viam
 
 ## Campaign chronicle
 

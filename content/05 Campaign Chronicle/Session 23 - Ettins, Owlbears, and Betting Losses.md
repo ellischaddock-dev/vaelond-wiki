@@ -52,7 +52,7 @@ There was, however, one piece of unfinished business.
 
 The task was simple.
 
-Malt would take **[[06 Library/Campaign Reference/Bushtache|Bushtache]]**, Ballar's newly beloved cabbage, find a **Pot of Awakening**, plant Bushtache inside it, and then deliver the resulting awakened cabbage safely to Somnolent.
+Malt would take **[[Bushtache|Bushtache]]**, Ballar's newly beloved cabbage, find a **Pot of Awakening**, plant Bushtache inside it, and then deliver the resulting awakened cabbage safely to Somnolent.
 
 In return, Ballar promised that the Defracturers would not set him on fire, stab him, fill him with mushrooms or subject him to whatever n'Dong might eventually decide to do.
 

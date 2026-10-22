@@ -15,7 +15,7 @@ tags:
   - elgira
   - anthea-bloodclot
 source: Sessions 4 and 25
-updated: 2026-10-13
+updated: 2026-10-20
 ---
 # Tace Nox scroll
 
@@ -121,6 +121,10 @@ You turn to your generals, your friends, and slowly speak "It's… it's over". B
 Your veins are aching in your wrists, and you notice the change. Green like Sanguis Aevi. The blood of ages, the blood of gods.
 
 Vaelen whispers your name, as if it is something monstrous. You do not hear him, not truly. The sound arrives inside you, an echo inside your bones, as the stasis fades and the rain begins to fall again.
+
+## Later interpretation — Session 26
+
+The party distinguishes **five Coronas of the Ashen Choir (the Crowns of Infinity depicted above)** from **five other relics**, for ten Sundering objects total. They also suspect a possible keystone or anchor associated with the Staff of Broken Time at Tace Nox, by analogy with the Bands of Distortion and their heart stone. **This remains conjecture and does not amend the memory’s unabridged text.** See [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
 
 ## Campaign and relic references
 

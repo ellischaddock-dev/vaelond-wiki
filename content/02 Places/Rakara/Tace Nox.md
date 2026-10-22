@@ -15,7 +15,7 @@ region: Rakara
 current_status: partially explored
 source: Sessions 3, 4 and 7
 additional_source: Session 25
-updated: 2026-10-13
+updated: 2026-10-20
 ---
 
 # Tace Nox
@@ -96,6 +96,12 @@ The party emerged into the aftermath of the [[02 Places/Rakara/Thistlewound|This
 ## Aftermath — the scroll opened
 
 In Session 25, Elmwood Bluevine activated the sealed [[06 Library/Ardynian Relics and Artefacts/Tace Nox scroll|Tace Nox scroll]] using probable Sanguis Aevi. It drew the party into Elgira's memory of the Sundering and revealed that the [[06 Library/Ardynian Relics and Artefacts/Staff of Broken Time|Staff of Broken Time]] they saw in Tace Nox was the staff Elgira carried in the ritual. The staff remains unrecovered from the ruin. See [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]].
+
+## Session 26 — possible hidden anchor
+
+Drawing on the known connection between the Bands of Distortion and their heart stone, the party wondered if another **keystone or anchor** remains concealed in Tace Nox and prevents removal of the Staff of Broken Time. This is an investigative theory only; no keystone for the staff has yet been found.
+
+Ballar also sent an owl, mastiff and bear created from his Bag of Tricks towards the site to find **a goblin who escaped the party’s custody about one month previously** and return that goblin alive. This search is **separate from Malt’s release with Bushtache**. No outcome has been recorded. See [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
 
 ## Campaign appearances
 

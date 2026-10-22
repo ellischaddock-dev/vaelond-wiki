@@ -15,45 +15,38 @@ tags:
 role: Self-styled Lord of the Five Clans
 current_status: deceased
 place_of_death: East of Somnolent
-updated: 2026-10-13
+updated: 2026-10-22
 ---
 
 # Anthea Bloodclot
 
-> [!summary] At a glance
-> A powerful Rakaran unifier who revived the mythic title **Lord of the Five Clans**, built a ten-year political following and was murdered shortly before she was due to speak at Emberwake.
+Anthea Bloodclot reshaped the politics of Rakara by adopting the ancient, unofficial title **Lord of the Five Clans** and building a web of agreements around her own authority. Her murder near Somnolent fractured that fragile union. More recently, the Defracturers received evidence connecting her to one of the original saints who helped seal Ardynia.
 
-## Rise to power
+## Rise and influence
 
-Anthea rose to prominence in the lands of [[02 Places/Rakara/Clans/Clan Khaali|Clan Khaali]]. This led to the widespread but incorrect assumption that she was Khaali by origin. Her actual birthplace and early origins were never publicly established.
+Anthea rose to prominence in [[02 Places/Rakara/Clans/Clan Khaali|Khaali]] territory, though the widespread assumption that she originated there is incorrect. Her early origins were never publicly established. The Lord of the Five Clans had been a mythic title rather than a permanent institution, but Anthea used it to mediate disputes, broker peace and encourage shared law among Rakara's five fiercely independent clans.
 
-The title **Lord of the Five Clans** was not a recognised office before Anthea used it. She drew upon an old myth to create a personal following and spent ten years acting as mediator, war-broker and political anchor between the clans.
+Her power rested on a decade of relationships and negotiated cooperation, not on a crown or constitution. She attracted followers and agents, including figures later associated with the [[04 Organisations/Loyal Crows|Loyal Crows]], while never securing the allegiance of independent Somnolent.
 
-## Death
+## Assassination
 
-Anthea was found dead inside her caravan approximately two miles east of [[02 Places/Rakara/Somnolent/Somnolent|Somnolent]] on the morning of the [[02 Places/Rakara/Somnolent/Emberwake Festival|Emberwake Festival]].
+Anthea was expected to address [[02 Places/Rakara/Somnolent/Emberwake Festival|Emberwake]] but was found dead in her caravan, roughly two miles east of Somnolent. The caravan and crime scene disappeared before full investigation. The official report later obtained by the party identified probable **Bloodspore poisoning**, likely delivered through wine.
 
-The public initially knew only that she had died by unknown means. The Defracturers later obtained [[06 Library/Letters and Documents/Report on the Death of Anthea Bloodclot|the official report]], which identified likely Bloodspore poisoning administered in wine. The caravan and crime scene disappeared before a comprehensive examination could be completed.
+The Defracturers traced the commissioning of the murder to the [[04 Organisations/Church of Elgira|Church of Elgira]] and Perfidian interests, working through ambassador Alistair Prusset and a Rootbound cell. The identity of the person who administered the poison remains unresolved.
 
-## What the Defracturers uncovered
+## A life stretching into legend
 
-The Defracturers gathered evidence that:
-
-- The [[04 Organisations/Church of Elgira|Church of Elgira]] ordered Anthea's death.
-- [[03 People/Notable Deceased/Alistair Prusset|Alistair Prusset]] arranged contact with a [[04 Organisations/Rootbound|Rootbound]] cell.
-- Rootbound agents have taken quiet credit without openly confirming responsibility.
-- Perfidian Church leaders believed, or claimed to believe, that Anthea was **Saint Marra** and feared she intended to restore Ardynia.
-
-> [!important] Identity revealed in Session 25
-> The Defracturers and Elmwood experienced an ancient memory through Elgira's eyes after activating the Tace Nox scroll. **Elmwood recognised Anthea Bloodclot as Saint Marra.** This resolves the party's earlier uncertainty, but the recognition is not necessarily public knowledge and does not by itself establish her present condition.
-
-The message recovered at [[02 Places/Rakara/Rana Viam|Rana Viam]] had described conflict among the saints without proving Anthea's identity. The later vision supplied that recognition; see the [[06 Library/Ardynian Relics and Artefacts/Tace Nox scroll|full scroll]] and [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]].
+A message found at Rana Viam warned of conflict among Elgira's ancient generals, including Marra, without conclusively identifying Anthea. Later, the party and Elmwood Bluevine experienced a shared memory of the Sundering through Elgira's eyes, and **Elmwood recognised Anthea as Saint Marra**. This revelation belongs to the people who witnessed or learned of that memory; it is not established public knowledge, nor does it explain every aspect of Anthea's present condition.
 
 ## Legacy
 
-Anthea's death fractured the agreements she had built. [[02 Places/Rakara/Clans/Clan Voruun|Clan Voruun]] publicly claims the right to succeed her, with [[02 Places/Rakara/Clans/Clan Khaali|Clan Khaali]] alone offering open support.
+Anthea's death left agreements dependent on her personal influence without their central mediator. Voruun now claims to continue her project, with Khaali alone offering open support. The other clans have not accepted Voruun's claim. The struggle over Anthea's political and spiritual legacy remains central to the future of Rakara.
 
-## Related
+## Chronicle references
+
+- [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]]
+
+## Related pages
 
 - [[02 Places/Rakara/Rakara - Background|Rakara - Background]]
 - [[02 Places/Rakara/Somnolent/Emberwake Festival|Emberwake Festival]]

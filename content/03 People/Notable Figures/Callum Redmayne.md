@@ -15,24 +15,18 @@ role: 'Landlord of the Drowsy Coin'
 current_status: 'alive'
 last_known_location: 'Somnolent'
 source: 'Campaign notes.docx'
-updated: 2026-07-05
+updated: 2026-10-22
 ---
 
 # Callum Redmayne
 
 ![[Callum Redmayne.png|260]]
 
-> [!summary] At a glance
-> The genial landlord of the Drowsy Coin, noted for breakfast baps, festival speeches and keeping the party supplied with rooms and distractions.
+Callum Redmayne is the genial keeper of the [[02 Places/Rakara/Somnolent/Drowsy Coin|Drowsy Coin]], Somnolent's principal travellers' inn. Known for breakfast baps, reliable lodging and an easy manner with guests, he occupies a central place in the town's everyday social life.
 
-## Known details
+Callum spoke at the Emberwake Festival and helped the Defracturers understand how Elmwood Bluevine's wards protected the inn during the goblin attack. His concerns grew more unusual when unexplained disturbances in the cellar drew the adventurers into a mystery involving [[06 Library/Relics and Artefacts/Verei's Shattered Mask|Verei's Shattered Mask]], whose presence he could not explain. He accommodated Enrak in a standard room and Ballar in more luxurious quarters; the latter arrangement eventually became contentious when Ballar's unpaid absence forced the inn to change the penthouse locks. Callum's wider family and personal history are not detailed in the current record.
 
-- Spoke at Emberwake.
-- Explained how Elmwood protected the Drowsy Coin during the goblin attack.
-- Asked the party to investigate strange events in his cellar and could not explain how a relic of Verei had reached it.
-- Rented a standard room to Enrak and a suite to Ballar.
-
-## Campaign appearances
+## Chronicle references
 
 - [[Session 01 - Die Dog, Die]]
 - [[Session 02 - The Ashes of Emberwake]]
@@ -41,7 +35,7 @@ updated: 2026-07-05
 - [[Session 08 - The Weight of Secrets]]
 - [[Session 11 - Ashes, Brands and Windfalls]]
 
-## Related
+## Related pages
 
 - [[Somnolent]]
 - [[Emberwake Festival]]

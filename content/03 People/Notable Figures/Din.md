@@ -14,56 +14,33 @@ tags:
   - ardynia
 ancestry: Unknown
 role: Soul bound within a Ring of Mind Shielding
-current_status: active
-last_known_location: With Ballar Novis
+current_status: "Bound to a ring; not currently worn by Ballar"
+last_known_location: "Unknown; ring removed by Ballar"
 source: Sessions 4 and 17
-updated: 2026-07-03
+updated: 2026-10-22
 ---
 
 # Din
 
-> [!summary] At a glance
-> A soul preserved within [[Ring of Mind Shielding|a Ring of Mind Shielding]] recovered from Tace Nox. Din has offered Ballar guidance in exchange for help obtaining a body.
+Din is the name used by a disembodied soul preserved inside a [[06 Library/Ardynian Relics and Artefacts/Ring of Mind Shielding|Ring of Mind Shielding]] recovered from Tace Nox. The being knows something of Ardynian ruins and has offered to guide Ballar Novis in exchange for assistance acquiring a body.
 
-## What is known
+## A bargain without trust
 
-- Din communicates privately with [[03 People/Player Characters/Ballar Novis|Ballar Novis]], the ring's current wearer.
-- Din has asked where the Defracturers are travelling and why they are entering Ardynian ruins.
-- Din wants a body and believes Ballar may be capable of finding one.
-- In return, Din has offered to guide the party through ruins where its knowledge is useful.
-- Din's original ancestry, appearance, life and cause of death are unknown.
+Din privately questioned Ballar about the party's destinations and interest in Ardynian relics. Ballar demanded useful evidence before agreeing to the proposed bargain, and their exchanges remained guarded. Ballar has since **removed the ring**; Din should no longer be described as speaking to him from a ring he is currently wearing. The ring's precise present storage location is not established by the available account.
 
-## Possible connection to Vaelen
+## Possible ancient identity
 
-A preserved message found at [[02 Places/Rakara/Rana Viam|Rana Viam]] records Saint Vaelen's claim that he had made preparations to preserve his soul.
+At Rana Viam, the party encountered a preserved message from Saint Vaelen referring to preparations to preserve his soul. Din's presence in an Ardynian ring, and apparent knowledge of other ruins, suggest a possible connection. They do **not prove** that Din is Vaelen. Din's original identity, appearance, life, death and ability to take a new body all remain uncertain.
 
-Din inhabits a ring recovered from an Ardynian site and claims knowledge that may be useful in similar ruins. This creates a possible connection between Din and Vaelen, but the party has not confirmed that they are the same being or otherwise connected.
-
-Din's identity should therefore remain an open question rather than established history.
-
-## Relationship with Ballar
-
-Din's conversations with Ballar have been cautious and transactional. Din wants Ballar's help, while Ballar has demanded evidence that Din's promised guidance will be useful before committing to any bargain.
-
-Their arrangement remains unresolved.
-
-> [!question] Unresolved
-> - Is Din the name the soul used in life?
-> - Is Din connected to Saint Vaelen?
-> - Why was the ring stored in Tace Nox?
-> - What kind of body would be suitable?
-> - Would placing Din in a body free, restore or transform the soul?
-> - What does Din know about the Chronarchs and their ruins?
-
-## Campaign references
+## Chronicle references
 
 - [[05 Campaign Chronicle/Session 04 - Tace Nox|Session 4]]
 - [[05 Campaign Chronicle/Session 17 - Shrieks, Widows and Time Juice|Session 17]]
 
-## Related
+## Related pages
 
 - [[Ring of Mind Shielding|Ring of Mind Shielding]]
 - [[03 People/Player Characters/Ballar Novis|Ballar Novis]]
 - [[02 Places/Rakara/Tace Nox|Tace Nox]]
 - [[02 Places/Rakara/Rana Viam|Rana Viam]]
-- [[06 Library/Letters and Documents/Vaelen's sending stone|Vaelen's sending stone]]
+- [[Vaelen's memory stone|Vaelen's memory stone]]

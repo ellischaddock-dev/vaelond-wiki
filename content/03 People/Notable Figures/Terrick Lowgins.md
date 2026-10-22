@@ -16,28 +16,24 @@ current_status: 'alive'
 last_known_location: 'Somnolent'
 source: 'Campaign notes.docx'
 additional_source: Session 25
-updated: 2026-10-13
+updated: 2026-10-22
 ---
 
 # Terrick Lowgins
 
 ![[Terrick Lowgins.png|260]]
 
-> [!summary] At a glance
-> A local hunter who guided the party to Thistlewound and survived abduction and torture by Perfid.
+Terrick Lowgins is a hunter of Somnolent whose firsthand knowledge of the surrounding woods made him an early guide for the Defracturers. He ran the archery competition at Emberwake and reported goblin activity before the festival attack, later helping the party reach Thistlewound.
 
-## Known details
+## Surviving the conspiracy
 
-- Ran the archery competition at Emberwake and reported seeing goblins before the attack.
-- Guided the party to Thistlewound and survived the slaughter of Buggie’s gang alongside one goblin.
-- Was abducted and tortured in the Perfid embassy.
-- Was rescued by the Defracturers and returned to Somnolent, likely to a severe scolding from his wife.
+Terrick witnessed the danger surrounding Buggie's displaced camp and survived the massacre there, along with a terrified goblin. His involvement in events made him vulnerable to Perfidian retaliation. He was subsequently abducted and tortured at the Perfid embassy and rescued during the party's assault on that mission.
 
-## Session 25 — return to the Bastion
+## Family tension
 
-Terrick appeared at the Bastion in conflict with his brother [[03 People/Bastion Staff/Derrick Lowgins|Derrick Lowgins]] and accused Derrick of stealing from his family. The allegation is **Terrick's claim**, not an established finding. Ballar intervened violently, throwing Terrick through the building and a stranger's window. Terrick's immediate survival is recorded; the wider repercussions remain unknown. See [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]].
+Back in Somnolent, Terrick's relationship with his brother [[03 People/Bastion Staff/Derrick Lowgins|Derrick Lowgins]] came to a public crisis. Terrick accused Derrick of stealing from his family. This remains **an allegation rather than a proven theft**. Ballar violently intervened and threw Terrick through the building and a window. Terrick survived the immediate attack, although its further personal and legal consequences have not been recorded.
 
-## Campaign appearances
+## Chronicle references
 
 - [[Session 01 - Die Dog, Die]]
 - [[Session 02 - The Ashes of Emberwake]]
@@ -50,7 +46,7 @@ Terrick appeared at the Bastion in conflict with his brother [[03 People/Bastion
 - [[Session 12-14 - Fire, Faith and the Corona of the Ashen Choir]]
 - [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]]
 
-## Related
+## Related pages
 
 - [[Somnolent]]
 - [[Buggie]]

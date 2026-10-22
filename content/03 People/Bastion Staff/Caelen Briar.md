@@ -12,29 +12,25 @@ current_status: alive
 last_known_location: Defracturers' Bastion, Somnolent
 source: Session 24
 additional_source: Session 25
-updated: 2026-10-13
+updated: 2026-10-22
 ---
 
 # Caelen Briar
 
-> [!summary] At a glance
-> [[03 People/Notable Figures/Elmwood Bluevine|Elmwood Bluevine]]'s young apprentice mage, assigned to the Defracturers' Bastion to help locate Eden Carrion and Summer Quaresh while gaining practical experience.
+Caelen Briar is a young mage apprenticed to Elmwood Bluevine. His attachment to the Defracturers' Bastion placed him in an unfamiliar household and gave him practical experience in an investigation with far-reaching consequences.
 
-## Session 24
+## From apprentice to investigator
 
-Caelen attempted a crude form of sympathetic magic using possessions associated with [[03 People/Notable Figures/Eden Carrion|Eden Carrion]] and [[03 People/Notable Figures/Summer Quaresh|Summer Quaresh]]. The attempt returned little more than magical static, suggesting either shielding or unusual magical conditions around their location.
+Caelen attempted sympathetic magic using possessions linked to Eden Carrion and Summer Quaresh but received only magical static. Alongside the experienced clerk [[03 People/Bastion Staff/Gudren Flint|Gudren Flint]], he helped connect a later sighting to a region where magical effects might be naturally dampened. Together they prepared leads concerning Tessa Betu, Arun Yev, Eula and Galt for the party's return. None of these contacts was thereby proven to be a Crow.
 
-A travelling adventuring company later reported seeing two people matching their descriptions. Working with [[03 People/Bastion Staff/Gudren Flint|Gudren Flint]], Caelen connected the sighting to old records describing an area where magic was **naturally dampened**. This made the failed search intelligible and created the first credible lead on the missing Crows.
+Caelen's first days at the Bastion also revealed his inexperience with the household's eccentric requests: he was sent to inspect literal crows in a vegetable patch and had to clarify that a proposed scarecrow head should be a pumpkin, not a severed person's head. Such misunderstandings have become part of his early education outside Elmwood's study.
 
-His early experience of the Bastion also included being mistakenly directed to investigate literal crows in the vegetable patch and having to clarify that a suggested new head for the scarecrow should be a pumpkin rather than a severed sentient head.
+## Chronicle references
 
-## Session 25 — briefing to the party
+- [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]]
+- [[05 Campaign Chronicle/Session 24 - Pies, Pike and a one ball blaze|Session 24]]
 
-Upon the Defracturers' return to the Bastion, Caelen and the other researcher presented three lines of inquiry relating to Eden Carrion and Summer Quaresh: Erzhin stonecutter [[03 People/Mentioned Figures/Tessa Betu|Tessa Betu]], Temiri scholar [[03 People/Mentioned Figures/Arun Yev|Arun Yev]], and the necromancy-associated pair [[03 People/Mentioned Figures/Galt|Galt]] and [[03 People/Notable Figures/Eula|Eula]]. The links warrant investigation but **do not establish that any of them is a Crow**.
-
-See [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]].
-
-## Related
+## Related pages
 
 - [[03 People/Bastion Staff/Gudren Flint|Gudren Flint]]
 - [[03 People/Notable Figures/Elmwood Bluevine|Elmwood Bluevine]]

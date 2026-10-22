@@ -62,7 +62,7 @@ Welcome to the player guide for **Vaelond**. This vault is organised as an inter
 - [[06 Library/Letters and Documents/Letters and Documents|Letters and Documents]] — recovered orders, correspondence and ruin notes
 - [[06 Library/Letters and Documents/Report on the Death of Anthea Bloodclot|Report on the Death of Anthea Bloodclot]]
 - [[06 Library/Relics and Artefacts/Relics and Artefacts|Relics and Artefacts]] — known Sundering tools and their current status
-- [[06 Library/Campaign Reference/Plague|Plague]] — the sentient fungus encountered near Rana Viam
+- [[Plague|Plague]] — the sentient fungus encountered near Rana Viam
 
 ## Campaign chronicle
 

@@ -18,39 +18,30 @@ role: 'The Old Grey Pike'
 current_status: 'alive'
 last_known_location: "Unknown; left Somnolent during the Defracturers' absence"
 source: 'Campaign notes.docx'
-updated: 2026-10-03
+updated: 2026-10-22
 ---
 
 # Ervain Megbanas
 
 ![[Ervain Megbanas.png|260]]
 
-> [!summary] At a glance
-> A disgraced former Doro general, gambler and possible link to the destruction of Erelmor's family at [[02 Places/Doro/Ashenhom|Ashenhom]].
+Ervain Megbanas, widely known as **the Old Grey Pike**, was a Doroan military commander in the Maw before the destruction of [[02 Places/Doro/Ashenhom|Ashenhom]] ended his active career in disgrace. He has since appeared in Somnolent as a formidable gambler and uncomfortable reminder of Doro's unresolved wartime scandals.
 
-## Known details
+## Military career and Ashenhom
 
-- Formerly commanded Doro forces in the Maw.
-- Is known as **the Old Grey Pike**.
-- [[02 Places/Doro/Ashenhom|Ashenhom]] was razed by Doroan forces as an example after being accused of harbouring Perfid spies.
-- The fallout from Ashenhom led to Ervain being removed from active duty in disgrace.
-- His true role in the destruction of Ashenhom and the deaths of Erelmor's family remains unresolved.
-- Dislikes Ballar and enjoys high-stakes dice.
-- Once owned the [[02 Places/Doro/Noble Houses/House Bromere|House Bromere]] favour coin later used to pay Buggie, but lost it to Eden Carrion during a dice game.
+Ervain commanded Doroan forces during the conflict with Perfid. Ashenhom was razed by Doroan troops after accusations that the settlement sheltered Perfidian spies, with the destruction intended as a warning to others. The resulting scandal cost Ervain his command. It does **not**, on present evidence, establish that he personally ordered the razing, fabricated the accusation or directly killed [[03 People/Player Characters/Erelmor|Erelmor's]] family.
 
-## Ashenhom
+For Erelmor, who lost his wife and children at Ashenhom, Ervain has become the focus of a fierce determination to uncover the truth and take revenge. The gap between Erelmor's convictions and what has actually been established about Ervain is crucial to both biographies.
 
-[[02 Places/Doro/Ashenhom|Ashenhom]] sits at the centre of Ervain's unresolved significance. The settlement was destroyed by Doroan forces after being accused of harbouring Perfid spies, with the razing used as an example to others.
+## Somnolent and the favour coin
 
-The political and military fallout ended Ervain's active command. That disgrace does not yet explain what truly happened at Ashenhom, why the accusation was made, or how directly Ervain was involved in the deaths of [[03 People/Player Characters/Erelmor|Erelmor's]] wife and children.
+Ervain became known among the Defracturers through the gambling circles of the [[02 Places/Rakara/Somnolent/One Ball Inn|One Ball Inn]]. He enjoys high-stakes dice and has shown a marked dislike of Ballar Novis. A favour coin bearing the insignia of [[02 Places/Doro/Noble Houses/House Bromere|House Bromere]] once belonged to him, but he lost it to Eden Carrion in a dice game. The same coin later surfaced as payment connected to Buggie's attempted abduction of Prusset. This creates a traceable history for the coin without proving that Ervain arranged the abduction.
 
-## Departure from Somnolent
+## Present whereabouts
 
-During the Defracturers' absence, Alaaric sent word to their Bastion that the Old Grey Pike had **left Somnolent**. No destination was recorded in Session 24.
+During the Defracturers' absence, Alaaric Hammerfall reported to the Bastion that Ervain had **left Somnolent**. His destination and reasons were not recorded. Although Erelmor's obsession with the Pike has intensified through dreams and visions, those experiences must not be treated as an independent historical account of Ervain's actions. It is also not yet established that Erelmor has learned the news of his departure.
 
-The timing matters because Erelmor's fixation on Ervain has intensified. During the return journey to Somnolent, Erelmor suffered a nightmare in which the Pike murdered his younger sister and woke convinced again that Ervain needed to die.
-
-## Campaign appearances
+## Chronicle references
 
 - [[Session 06 - Smoke, Song and Secrets]]
 - [[Session 07 - Coffee and Contraband]]
@@ -60,7 +51,7 @@ The timing matters because Erelmor's fixation on Ervain has intensified. During 
 - [[Session 15 - Stewards, Saddles and Shambling Roots]]
 - [[05 Campaign Chronicle/Session 24 - Pies, Pike and a one ball blaze|Session 24]]
 
-## Related
+## Related pages
 
 - [[01 Welcome to Vaelond/The Powers That Be#Doro|The Powers That Be: Doro]]
 - [[02 Places/Doro/Doro|Doro]]

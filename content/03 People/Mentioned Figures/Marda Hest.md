@@ -12,19 +12,20 @@ role: Horse keeper in Somnolent
 current_status: alive
 last_known_location: Somnolent
 source: Session 24
-updated: 2026-10-03
+updated: 2026-10-22
 ---
 
 # Marda Hest
 
-> [!note] Limited information
-> A Somnolent horse keeper who supplied mounts while the town's authorities prepared to pursue a lead on Eden Carrion and Summer Quaresh.
+Marda Hest keeps horses in Somnolent and originally supplied mounts to the Defracturers. She strongly advised Ballar to choose a horse other than Kingcup, advice he did not follow.
 
-## Session 24
+When the town needed additional mounts to support an investigation, Derrick Lowgins and Igon Duft went to Marda on Alaaric Hammerfall's behalf. Derrick's calm competence with the animals helped ready them, while Igon's manner required Marda to clarify who had authorised the request. The record establishes her work as a horse keeper, but little about her wider life.
 
-[[03 People/Bastion Staff/Derrick Lowgins|Derrick Lowgins]] and [[03 People/Bastion Staff/Igon Duft|Igon Duft]] went to Marda to secure two horses requested by Alaaric Hammerfall. Derrick quickly calmed and readied the remaining mounts, while Igon's direct approach left Marda first having to establish who had actually sent them.
+## Chronicle references
 
-## Related
+- [[05 Campaign Chronicle/Session 24 - Pies, Pike and a one ball blaze|Session 24]]
+
+## Related pages
 
 - [[03 People/Bastion Staff/Derrick Lowgins|Derrick Lowgins]]
 - [[03 People/Bastion Staff/Igon Duft|Igon Duft]]

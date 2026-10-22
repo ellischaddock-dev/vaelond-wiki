@@ -12,42 +12,34 @@ tags:
 ancestry: 'High elf'
 gender: 'Female'
 role: 'Khaali liaison and one of Anthea’s Crows'
-current_status: 'missing'
+current_status: missing
 last_known_location: 'Unknown'
 source: 'Campaign notes.docx'
 additional_source: Session 25
-updated: 2026-10-13
+updated: 2026-10-22
 ---
 
 # Summer Quaresh
 
 ![[Summer Quaresh.png|260]]
 
-> [!summary] At a glance
-> A Khaali diplomatic liaison, acquaintance of Enrak and apparent Crow who vanished after Prusset’s death.
+Summer Quaresh represented [[02 Places/Rakara/Clans/Clan Khaali|Clan Khaali]] in Somnolent and was one of Anthea Bloodclot's Crows. She was acquainted with [[03 People/Player Characters/Enrak Kiran|Enrak Kiran]], giving the Defracturers a personal connection to the diplomatic circle surrounding the murdered Rakaran unifier.
 
-## Known details
+## Service and loyalties
 
-- Knows Enrak and represented Clan Khaali in Somnolent.
-- Was present when Alistair Prusset was burned alive in custody.
-- Is identified in the campaign record as one of Anthea’s Crows.
-- Her current whereabouts are unknown.
+As Khaali's liaison, Summer occupied a position between clan interests and Somnolent's independent diplomatic community. Her association with [[03 People/Notable Deceased/Anthea Bloodclot|Anthea]] and the Crows placed her close to efforts to investigate the assassination and challenge the people responsible. The known record does not establish the origins of her loyalty or the precise extent of her activities before the campaign.
 
-## New lead during the Defracturers' absence
+Summer was present with [[03 People/Notable Figures/Eden Carrion|Eden Carrion]] when Alistair Prusset was burned in custody. Both disappeared afterwards, leaving their involvement in the killing and their subsequent movements incompletely understood.
 
-During Session 24, [[03 People/Bastion Staff/Gudren Flint|Gudren Flint]] and [[03 People/Bastion Staff/Caelen Briar|Caelen Briar]] worked from the Defracturers' Bastion to trace Eden and Summer. Caelen's sympathetic magic returned only magical static. A travelling adventuring company then reported seeing two people matching their descriptions.
+## Contacts and search
 
-By the 29th of Greengold, Gudren and Caelen connected the reported region with old records describing an area where **magic is naturally dampened**. This provided the first credible explanation for the failed magical search and a concrete lead on their whereabouts.
+The Bastion's researchers identified a reported sighting of two people matching Summer and Eden's descriptions in a region associated with naturally dampened magic. Caelen Briar's earlier sympathetic search had yielded only magical static. The combination offers a credible lead, but Summer has **not been found**.
 
-[[03 People/Notable Figures/Gayle Bramble|Gayle Bramble]] and [[03 People/Mentioned Figures/Job Ashmere|Job Ashmere]] prepared to leave Somnolent to pursue the lead. Eden and Summer nevertheless remain officially **missing**.
+Separate records suggest repeated meetings between Summer and [[03 People/Mentioned Figures/Arun Yev|Arun Yev]], a Temiri historian who subsequently rose through the Wavecutters, as well as meetings involving the necromancy-associated pair Eula and Galt. Their significance is not yet known. In particular, those names should not be promoted to confirmed Loyal Crow membership simply because they appear in Summer's history.
 
-## Session 25 — new research leads
+Gayle Bramble and Job Ashmere left to pursue the search. Gayle's injured return, without Job, raises the urgency of determining what happened, but establishes neither Summer's fate nor her location.
 
-The Bastion researchers uncovered further possible contacts for Summer. The records include repeated meetings with Temiri historical scholar [[03 People/Mentioned Figures/Arun Yev|Arun Yev]], who later rose rapidly through the Wavecutters. They also identified past meetings involving [[03 People/Notable Figures/Eula|Eula]] and [[03 People/Mentioned Figures/Galt|Galt]], reportedly expelled from Voruun for necromancy.
-
-These contacts are **not proof of Loyal Crow membership**. Summer's whereabouts remain unknown; see [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]].
-
-## Campaign appearances
+## Chronicle references
 
 - [[Session 10 - Saints, Spies and Snake Eyes]]
 - [[Session 11 - Ashes, Brands and Windfalls]]
@@ -55,7 +47,7 @@ These contacts are **not proof of Loyal Crow membership**. Summer's whereabouts 
 - [[05 Campaign Chronicle/Session 24 - Pies, Pike and a one ball blaze|Session 24]]
 - [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]]
 
-## Related
+## Related pages
 
 - [[Clan Khaali]]
 - [[Loyal Crows]]

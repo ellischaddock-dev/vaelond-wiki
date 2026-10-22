@@ -16,56 +16,30 @@ current_status: 'unknown'
 last_known_location: 'Unknown'
 source: 'Campaign notes and Sessions 16-22'
 additional_source: Session 25
-updated: 2026-10-13
+updated: 2026-10-22
 ---
 
 # Eula
 
 ![[Eula.png|260]]
 
-> [!summary] At a glance
-> A mysterious magical broker who pays marked coin for corpses and is alerted when someone is killed in the presence of one of her coins.
+Little is known of Eula's origins or true intentions. A mysterious magical broker with a particular interest in the dead, she has repeatedly approached the Defracturers offering payment for corpses. Her detached treatment of death and her preparations for the possible return of Ardynia have made her a deeply unsettling presence in their travels.
 
-## Known details
+## The collector and her coins
 
-- Collects bodies and pays well for them.
-- Her marked coins alert her when someone is killed in the presence of one of the coins.
-- Uses teleportation magic and has offered the party repeat business.
-- Her ultimate purpose for the bodies remains unknown.
+Eula offers distinctive reddish coins in exchange for bodies. The party established that a death occurring in the presence of one such coin can alert her, whereas placing a coin near a body that was already dead did not immediately summon her. The range and limitations of this enchantment remain unknown. She has also demonstrated teleportation and powerful spellcasting.
 
-## Marked coins
+Her trade has flourished in the wake of the party's violence. When she collected Salla's corpse, newly infested by the sentient fungus [[03 People/Notable Figures/Plague|Plague]], she appeared delighted by its altered state. When she returned to claim bodies at Ulsar Quinn's devastated camp, she used a wave of water to dispatch dire wolves competing for the dead. Ieuan tried to stop her, and she restrained him with black tentacles. The party's earlier willingness to transact with her had turned into open suspicion.
 
-Eula's reddish marked coins are not ordinary currency. The party established during the ogre encounter that she is alerted when someone is killed in the presence of one of the coins. Erelmor also tested a coin on an already dead body, which did not immediately summon her.
+Eula responded with a pointed observation: the Defracturers were producing the bodies that she wished to buy. Before departing, she declared, **“Ardynia is returning, and I intend to be prepared, with or without your help.”** She has not explained how the collection serves that purpose.
 
-The exact range and limitations of this magic remain unresolved.
+## A past in Voruun
 
-## Session 21
+Records presented by the Bastion researchers describe Eula and [[03 People/Mentioned Figures/Galt|Galt]] as former worshippers of [[01 Welcome to Vaelond/Religion/Rakaran Faiths#Rhozka the Veiled One|Rhozka]] expelled from Voruun for necromancy. They also point to private meetings involving the pair, Eden Carrion and Summer Quaresh. The meetings suggest an important connection but **do not establish that Eula or Galt are members of the Loyal Crows**.
 
-Eula appeared again after Salla's corpse had been infested with a cutting of [[06 Library/Campaign Reference/Plague|Plague]]. She seemed genuinely delighted by the grotesque result and asked whether it had been Erelmor's doing.
+Eula's current whereabouts, the use to which she puts her dead and the extent of her connection to Ardynian history remain unknown.
 
-Ballar sent a rat to harass her, which repeatedly tried to bite her before she finally burned it with bonfire magic. Eula then claimed Salla's plague-ridden body and vanished. As she disappeared, the forest seemed to release a long and pained howl.
-
-## Session 22
-
-Eula returned to the ruins of Ulsar Quinn's camp to collect more Broken Fang corpses. When dire wolves contested the bodies, she destroyed three of them with **Tidal Wave** and drove the survivors away.
-
-Ieuan demanded to know what she was doing and overturned the floating disk carrying the corpses. Eula responded by trapping him in **Black Tentacles**. The wider party refused further participation in her corpse trade, and Erelmor attempted to return the marked gold he had accumulated.
-
-Eula argued that the Defracturers themselves were leaving a trail of bodies across Rakara and that she merely paid for what they had already discarded. Before vanishing she gave the clearest statement yet of her broader purpose:
-
-> **"Ardynia is returning, and I intend to be prepared, with or without your help."**
-
-This narrows her motive but does not explain what she does with the bodies, who else is involved or what form those preparations take.
-
-## Session 25 — connection to the Crows
-
-Gudren and Caelen reported that **Eula and Galt**, former worshippers of [[01 Welcome to Vaelond/Religion/Rakaran Faiths#Rhozka the Veiled One|Rhozka]], had been expelled from Voruun for necromancy. The researchers found evidence of repeated private meetings involving the pair, Eden Carrion and Summer Quaresh.
-
-This deepens the party's concern about her plan to gather bodies ahead of Ardynia's return. The research **does not confirm that Eula or Galt belongs to the Loyal Crows**, or reveal the precise purpose of her collected corpses.
-
-See [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]].
-
-## Campaign appearances
+## Chronicle references
 
 - [[Session 16 - Cackles, Corpses and Catastrophe]]
 - [[Session 17 - Shrieks, Widows and Time Juice]]
@@ -73,8 +47,8 @@ See [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages
 - [[05 Campaign Chronicle/Session 22 - Bodies, Blight, and Bushtache|Session 22]]
 - [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]]
 
-## Related
+## Related pages
 
 - [[06 Library/Relics and Artefacts/Eula's Red Coins|Eula's Red Coins]]
 - [[Open Threads]]
-- [[06 Library/Campaign Reference/Plague|Plague]]
+- [[Plague|Plague]]

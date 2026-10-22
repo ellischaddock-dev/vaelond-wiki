@@ -45,7 +45,7 @@ Somnolent began as a simple waystation at the fork of two trade routes. Merchant
 
 Today, Somnolent is a neutral haven surrounded by the territory claimed by [[Clan Voruun]]. It never submitted to Anthea Bloodclot's self-styled authority, even at the height of her influence. **Headman Romayne Drayton** has preserved that autonomy through careful diplomacy and, according to persistent rumours, discreet foreign backing.
 
-At the campaign's outset, permanent foreign embassies represented **Doro**, **Minir** and **Perfid**. Perfid's former embassy has since become [[02 Places/Rakara/Somnolent/The Defracturers' Bastion|The Defracturers’ Bastion]], while Doro and Minir retain their missions. Among the Rakaran clans, **Eden Carrion** of Voruun, **Summer Quaresh** of Khaali and **Jericho Beech** of Temir maintain permanent missions. Orvak and Erzhin rely on less formal representatives within the town's druid community: **Mother Joygrove** and **Father Zantos**.
+At the campaign's outset, permanent foreign embassies represented **Doro**, **Minir** and **Perfid**. Perfid's former embassy has since become [[02 Places/Rakara/Somnolent/The Defracturers' Bastion|The Defracturersâ€™ Bastion]], while Doro and Minir retain their missions. Among the Rakaran clans, **Eden Carrion** of Voruun, **Summer Quaresh** of Khaali and **Jericho Beech** of Temir maintain permanent missions. Orvak and Erzhin rely on less formal representatives within the town's druid community: **Mother Joygrove** and **Father Zantos**.
 
 > [!note] A poorly kept secret
 > Doro, Minir and Perfid are known to provide discreet support that helps preserve Somnolent's independence. The fact of that support is widely accepted; the precise arrangements are treated as rumour because no government publicly admits them.
@@ -60,15 +60,15 @@ At Somnolent's spiritual heart stands the phoenix, a **civic spiritual symbol** 
 
 ## Trade and tensions
 
-Somnolent's open-market system—no border tax, only a flat merchant's licence—has made it a critical hub for goods and information. The system allows traders to bypass Doroan tariffs, offers Perfid an apolitical route towards Minir and weakens Voruun's control over trade within Rakara.
+Somnolent's open-market systemâ€”no border tax, only a flat merchant's licenceâ€”has made it a critical hub for goods and information. The system allows traders to bypass Doroan tariffs, offers Perfid an apolitical route towards Minir and weakens Voruun's control over trade within Rakara.
 
 The town's markets deal in textiles, spices, scrolls, alchemical goods, livestock and artisan work. Its success also places it under constant pressure. Voruun considers Somnolent a humiliating gap in its map, refusing tribute and allegiance despite being encircled by Voruun claims.
 
-With Anthea Bloodclot assassinated just outside its walls, the town is more visible—and vulnerable—than ever. Whispers of sabotage, bribery and foreign influence are constant. Somnolent nevertheless endures: a steady flame at the crossroads of power.
+With Anthea Bloodclot assassinated just outside its walls, the town is more visibleâ€”and vulnerableâ€”than ever. Whispers of sabotage, bribery and foreign influence are constant. Somnolent nevertheless endures: a steady flame at the crossroads of power.
 
 ## Developments during the Defracturers' absence
 
-While the party was away, Somnolent's authorities and the Bastion staff developed a credible lead on missing Crows [[03 People/Notable Figures/Eden Carrion|Eden Carrion]] and [[03 People/Notable Figures/Summer Quaresh|Summer Quaresh]]. The lead pointed toward a region where old records describe magic as naturally dampened, and [[03 People/Mentioned Figures/Job Ashmere|Job Ashmere]] and [[03 People/Notable Figures/Gayle Bramble|Gayle Bramble]] prepared to leave town to investigate.
+While the party was away, Somnolent's authorities and the Bastion staff developed a credible lead on missing Crows [[03 People/Notable Figures/Eden Carrion|Eden Carrion]] and [[03 People/Notable Figures/Summer Quaresh|Summer Quaresh]]. The lead pointed toward a region where old records describe magic as naturally dampened, and [[03 People/Notable Figures/Job Ashmere|Job Ashmere]] and [[03 People/Notable Figures/Gayle Bramble|Gayle Bramble]] prepared to leave town to investigate.
 
 At the same time, the [[02 Places/Rakara/Somnolent/One Ball Inn|One Ball Inn]] was exposed as an active Broken Fang fencing point. Proprietor [[03 People/Notable Figures/Antoinne Cassan|Antoinne Cassan]] disappeared after pressure from men invoking Rhul Slowdrift. His office was found ransacked with blood and missing ledger pages. The inn burned down the following morning and no body was recovered.
 
@@ -86,7 +86,7 @@ At the same time, the [[02 Places/Rakara/Somnolent/One Ball Inn|One Ball Inn]] w
 | 2 | **Grethel's Yards** | Well-maintained stables for visiting merchants and their beasts. |
 | 3 | **The Drowsy Coin** | The principal travellers' inn, known for stiff beds, honest stew and stories traded by candlelight. |
 | 4 | **Ashwake Rest** | A place of remembrance where the Phoenix Shrine's flames burn beside the graveyard. |
-| 5 | **The Crooked Hat** | Elmwood's tilted, blue-topped wizard's tower—equal parts mystery and eyesore. |
+| 5 | **The Crooked Hat** | Elmwood's tilted, blue-topped wizard's towerâ€”equal parts mystery and eyesore. |
 | 6 | **Church of Elgira** | A serene hilltop sanctuary serving the Perfidian faith. |
 | 7 | **Harth & Sons Distillery** | A riverside distillery famous for spiced rye and barrel-aged whisky, sometimes infused with unusual herbs. |
 | 8 | **Town Hall of Somnolent** | The headman's seat and administrative centre of the town. |
@@ -106,7 +106,7 @@ At the same time, the [[02 Places/Rakara/Somnolent/One Ball Inn|One Ball Inn]] w
 | 22 | **The Arcades** | A prosperous merchant district of artisans, traders, shingled houses and walled gardens. |
 | 23 | **Lamplight Ward** | The civil district of scribes, officials and clerks, named for the lamps burning over records late into the night. |
 
-## The Defracturers return — Session 25
+## The Defracturers return â€” Session 25
 
 The Defracturers returned after several weeks and found a town increasingly impressed by the [[04 Organisations/Crimson Shield|Crimson Shield]]. The rival company had helped with trouble near Tace Nox and contributed towards **Phoenix Yard**, a **proposed** replacement for the burned One Ball Inn.
 
@@ -124,4 +124,4 @@ Screams beneath the ruins led the party into a dangerous cellar fight involving 
 
 ## Campaign chronicle
 
-- [[05 Campaign Chronicle/index]] — many of the campaign’s opening events take place in and around Somnolent.
+- [[05 Campaign Chronicle/index]] â€” many of the campaignâ€™s opening events take place in and around Somnolent.

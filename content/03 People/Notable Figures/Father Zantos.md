@@ -15,31 +15,32 @@ role: 'Elder druid and mentor to Ieuan'
 current_status: 'alive'
 last_known_location: 'Somnolent'
 source: 'Campaign notes.docx'
-updated: 2026-07-01
+updated: 2026-10-22
 ---
 
 # Father Zantos
 
 ![[Father Zantos.png|260]]
 
-> [!summary] At a glance
-> A Circle of Stars druid from Clan Erzhin who mentors Ieuan and urges caution around the Rootbound and Ardynian ruins.
+Father Zantos is an Orvaki druid and longstanding mentor to [[03 People/Player Characters/Ieuan|Ieuan]], encouraging the young Circle of Stars druid's curiosity while warning him about reckless bargains and dangerous ancient knowledge.
 
-## Known details
+## Orvak and the Rootbound
 
-- Witnessed the Emberwake attack, saw Enrak kill the goblin warchanter and healed the party.
-- Explained Erzhin’s isolation, fear of change and meticulous stone records.
-- Admitted a former affinity with the Rootbound and was deeply troubled by their cooperation with Elgira’s Church.
-- Warned Ieuan against reckless involvement with Ardynian ruins.
-- Gave Ieuan a Star Seed.
+Zantos has acknowledged a former affinity with the [[04 Organisations/Rootbound|Rootbound]] and is troubled by the movement's association with the Church of Elgira. His history offers Ieuan a warning about causes that begin as forms of resistance and become entangled with violence or outside manipulation. The precise extent of Zantos's earlier involvement should not be embellished.
 
-## Campaign appearances
+## Guidance to Ieuan
+
+Zantos gave Ieuan the [[06 Library/Relics and Artefacts/Star Seed|Star Seed]], an object linked to his continuing spiritual development. When Ieuan returned to Somnolent, Zantos joined him and Mother Joygrove in prayer and meditation. Ieuan admitted that his connection to the stars seemed to be strengthening at the expense of his connection to the earth. Zantos supported his work with the Star Seed, but its remaining natural aspect was **not unlocked** in the recorded encounter.
+
+Research into the missing Crows has also raised an alleged meeting between Zantos and Tessa Betu; he did not remember it. The allegation remains unconfirmed.
+
+## Chronicle references
 
 - [[Session 01 - Die Dog, Die]]
 - [[Session 06 - Smoke, Song and Secrets]]
 - [[Session 19 - Bands, Broken Stone and the Glass Fang]]
 
-## Related
+## Related pages
 
 - [[Clan Erzhin]]
 - [[Rootbound]]

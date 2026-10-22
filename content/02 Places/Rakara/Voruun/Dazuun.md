@@ -16,7 +16,7 @@ region: Rakara
 territory: Clan Voruun
 current_status: Broken Fang influence confirmed
 source: Session 21
-updated: 2026-07-08
+updated: 2026-10-20
 ---
 
 # Dazuun
@@ -34,7 +34,7 @@ The city's fighting pits are central to its reputation. Within Voruun, advanceme
 
 The fighting pits of Dazuun are among the best-known institutions in Voruun. They reflect the clan's belief that merit should be proven under pressure, whether in debate, business or bloodshed.
 
-After Session 21, the Defracturers learned that [[03 People/Mentioned Figures/Rhul Slowdrift|Rhul Slowdrift]] has taken control of the pits. Ulsar Quinn claimed that this operation is Rhul's main Rakaran power base.
+After Session 21, the Defracturers learned that [[03 People/Notable Figures/Rhul Slowdrift|Rhul Slowdrift]] has taken control of the pits. Ulsar Quinn claimed that this operation is Rhul's main Rakaran power base.
 
 ## Broken Fang influence
 
@@ -49,10 +49,16 @@ Ulsar believed that killing Rhul or destroying his Rakaran operation would likel
 > - Does Clan Voruun know Rhul controls the pits, and if so, does anyone approve?
 > - Would damaging the Dazuun operation truly force Prodosius to respond personally?
 
+## Session 26 â€” account of former fighters
+
+Former pit fighters [[03 People/Mentioned Figures/Yama and Spopovich|Yama and Spopovich]] described widespread Dragonâ€™s Dandruff use and declining fighter earnings since [[03 People/Notable Figures/Rhul Slowdrift|Rhul Slowdrift]] became involved. They said their Voruun booking agent, [[03 People/Mentioned Figures/Oruc|Oruc]], took money from Rhul to arrange fixed matches, and identified [[03 People/Mentioned Figures/Karessa|Karessa]] as their source of the substance.
+
+**All of these details are attributed to the pair** rather than independently corroborated findings. They met nâ€™Dong in Somnolent; no visit to the Dazuun pits took place in Session 26. See [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
+
 ## Related
 
 - [[02 Places/Rakara/Clans/Clan Voruun|Clan Voruun]]
 - [[04 Organisations/Broken Fang|Broken Fang]]
-- [[03 People/Mentioned Figures/Rhul Slowdrift|Rhul Slowdrift]]
+- [[03 People/Notable Figures/Rhul Slowdrift|Rhul Slowdrift]]
 - [[03 People/Notable Figures/Prodosius|Prodosius]]
 - [[06 Library/Campaign Reference/Dragon's Dandruff|Dragon's Dandruff]]

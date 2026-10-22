@@ -12,21 +12,20 @@ tags:
 region: Voruun (former)
 source: Session 25
 current_status: Unknown
-updated: '2026-10-13'
+updated: 2026-10-22
 ---
 
 # Galt
 
-> [!summary] At a glance
-> A former worshipper of Rhozka reportedly expelled from Voruun alongside Eula for practising necromancy.
+Galt appears in the Bastion researchers' account as a former worshipper of Rhozka, reportedly expelled from Voruun alongside [[03 People/Notable Figures/Eula|Eula]] for practising necromancy. Records also connect the pair to private meetings with Eden Carrion and Summer Quaresh.
 
-## Session 25 lead
+Galt's present whereabouts, the nature of his relationship with Eula and his involvement—if any—with her collection of corpses are unknown. **The meetings do not establish him as a Loyal Crow.**
 
-Research presented by Gudren Flint and Caelen Briar tied **Galt and [[03 People/Notable Figures/Eula|Eula]]** to repeated private meetings with [[03 People/Notable Figures/Eden Carrion|Eden Carrion]] and [[03 People/Notable Figures/Summer Quaresh|Summer Quaresh]]. The pair had been expelled from [[02 Places/Rakara/Clans/Clan Voruun|Clan Voruun]] over necromancy.
+## Chronicle references
 
-Galt's current whereabouts, relationship to Eula, ongoing practices and relationship to the [[04 Organisations/Loyal Crows|Loyal Crows]] have not been established. **He is not a confirmed Crow.**
+- [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]]
 
-## Related
+## Related pages
 
 - [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]]
 - [[03 People/Notable Figures/Eula|Eula]]

@@ -16,148 +16,88 @@ subclass: Oath of Glory
 homeland: Doro
 mount: Kingcup
 current_status: active
-source: Sessions 1-23
-additional_source: Session 25
-updated: 2026-10-13
+source: Sessions 1-26 and Open Threads
+updated: 2026-10-22
 ---
 
 # Ballar Novis
 
 > [!summary] At a glance
-> A proud, conspicuous high-elf paladin from Doro; the third son of House Nirrell, whose hunger for glory, public recognition and heroic purpose often conceals the uncertainty of a noble child raised without a clear inheritance.
+> A high-elf paladin of the Oath of Glory and third son of Doro's House Nirrell. Born to privilege but not to an obvious inheritance, Ballar pursues heroic distinction with a conviction that can inspire his companions or embroil them in the consequences of his pride.
 
-## Established background
+## A nobleman's uncertain place
 
-Ballar is the son of the head of [[02 Places/Doro/Noble Houses/House Nirrell|House Nirrell]], one of Doro's ten lesser families.
+Ballar was born into [[02 Places/Doro/Noble Houses/House Nirrell|House Nirrell]], one of the ten lesser noble families of [[02 Places/Doro/Doro|Doro]]. The third child of five and the third son, he grew up wealthy, well connected and conscious of a family reputation built on secrets, espionage and the careful exercise of influence. His older brothers stood ahead of him in the family's expectations of succession. Ballar possessed the advantages of his name without an obvious place at the centre of its future.
 
-Although noble, wealthy and well connected, Ballar is the **third child of five** and the **third son**. His older brothers were raised as the meaningful heirs to the house, leaving Ballar with status, expectations and opportunity, but no obvious dynastic purpose.
+Rather than seek distinction solely within the private manoeuvrings of Doroan nobility, Ballar has pursued the public accomplishments of a paladin. His **Oath of Glory** suits a man who believes great deeds ought to be witnessed, remembered and celebrated. He speaks and acts with the certainty of someone who expects to be noticed, though his determination to appear heroic can sit uneasily beside his actual choices.
 
-His arrogance, peacocking and hunger for spectacle often mask that deeper uncertainty. Ballar presents himself as a natural hero because the role gives him something inheritance has not: a story in which he is necessary.
+Ballar's life before the Defracturers is only partly recorded. He served in a diplomatic capacity for Doro, but the detailed circumstances of his training, earlier service and family relationships remain uncertain. His father's subsequent letters make clear that leaving that work was not a decision the family simply welcomed.
 
-His paladin oath is associated with **glory**, public deeds and memorable achievement. In practice, this makes him both inspiring and difficult. Ballar wants to be seen doing the right thing, but he also wants that right thing to look impressive.
+## Glory, pride and public reputation
 
-## Personality and purpose
+Ballar is conspicuous by instinct. He seeks out contests, confrontations and opportunities to stand at the front of a room, whether the audience is a noble delegation, an armed opponent or a tavern crowd. He can be courageous and decisive when others hesitate, and his healing and willingness to face danger have helped his companions survive encounters that might otherwise have ended badly.
 
-Ballar is bold, theatrical and deeply conscious of how others perceive him. He is often the first to step forward, issue a challenge or present himself as the group’s most obvious champion.
+Yet he finds mockery harder to bear than peril. His response to the songs of [[03 People/Notable Figures/Ersil Loquella|Ersil Loquella]] exposed the difference between wanting fame and accepting that others may shape one's reputation. Enraged by the bard's portrayal of him, Ballar attacked Ersil and held him over a balcony in an attempt to silence him. Ersil escaped with magic, leaving Ballar the subject of precisely the sort of ridicule he detested.
 
-That confidence can be genuine, but it is also defensive. Ballar’s noble birth gives him access to rooms, people and authority that others lack, yet his place within House Nirrell remains undefined. He is important enough to carry the family name, but not important enough to inherit its future.
+At the [[02 Places/Rakara/Somnolent/Emberwake Festival|Emberwake Festival]], Ballar gained the respect of [[03 People/Notable Figures/Balur Moonclaw|Balur Moonclaw]] in a physical contest and chose an introduction to the fighting pits over an offer of blacksmith training. The choice captures his preference for visible tests of worth. Even his mount, [[06 Library/Campaign Reference/Horses#Kingcup|Kingcup]], is a striking and demanding mare whose temperament closely matches his own. His patient attention to her during the return from Orvak eventually earned a rare display of affection.
 
-This tension appears in several recurring habits:
+## Between Doro and the Defracturers
 
-- He seeks public validation through contests, duels, speeches and visible heroics.
-- He reacts badly when mocked, diminished or made ridiculous.
-- He is drawn to symbols of prestige, strength and display.
-- He often treats danger as an opportunity to prove he belongs in the centre of the story.
+In [[02 Places/Rakara/Somnolent/Somnolent|Somnolent]], Ballar's most important Doroan relationship has been with ambassador [[03 People/Notable Figures/Ouin Brond|Ouin Brond]]. Ouin has received his reports on the investigation into Anthea Bloodclot's murder and the links reaching Doroan politics. He has also challenged Ballar to consider whether his loyalty belongs to his country, his family, his reputation or the companions beside him.
 
-Ballar’s better qualities are tied to the same instincts. He is brave, difficult to ignore and capable of putting himself between danger and his companions. He has repeatedly restored fallen allies and fought in the centre of the party’s most dangerous encounters.
+That conflict became impossible to ignore following the capture of [[03 People/Notable Deceased/Alistair Prusset|Alistair Prusset]]. Ballar wanted the prisoner handed to Doroan authorities; others in the group favoured Somnolent's custody. Overruled, he separated from the party and subsequently struck [[03 People/Player Characters/Ieuan|Ieuan]]. His attachment to Doroan authority had brought him into direct conflict with the company he was helping to build.
 
-## Campaign role
+The Defracturers later became agents of [[03 People/Notable Figures/Romayne Drayton|Romayne Drayton]], acquiring a headquarters in the former Perfid embassy. For Ballar, that patronage meant stepping away from a straightforward Doroan diplomatic role and taking on a less clearly defined allegiance. His father, [[03 People/Notable Figures/Xilpeiros Nirrell|Xilpeiros Nirrell]], rebuked him by letter for abandoning diplomatic service but subsequently asked for his assessment of Somnolent's political position. His mother also sent him financial support. The family's interest in him has therefore not ended, even if its expectations remain unsettled.
 
-Ballar often acts as the Defracturers’ visible champion, front-line combatant and negotiator. His confidence gives the party weight in public, especially around Doroan figures and formal authority, but it can also create complications when his personal pride overtakes the group’s shared priorities.
+Ballar has since heard rumours that House Nirrell may benefit from a possible peace initiative between Doro and Perfid. Those reports, including the suggested role of his father, remain **unverified**. They nevertheless place Ballar's family obligations beside the larger conflicts already confronting the Defracturers.
 
-He helped capture [[03 People/Notable Deceased/Alistair Prusset|Alistair Prusset]], fought through the Perfid embassy operation and has repeatedly used healing magic to bring companions back from the edge of death.
+## A champion with responsibilities
 
-During the pursuit in Session 20, Ballar captured Salla, placed him in the bag of holding and later revived [[03 People/Player Characters/n'Dong|n'Dong]] during the Egg Hunter attack.
+Ballar has fought at the front of the company's most dangerous encounters, helped capture Prusset, took part in the rescue of [[03 People/Notable Figures/Terrick Lowgins|Terrick Lowgins]] and has restored fallen companions with divine magic. His sense of responsibility is not confined to victory in battle. When [[03 People/Notable Figures/Mireya Dinak|Mireya Dinak]] died in the fire that destroyed Ulsar Quinn's camp, he recovered her remains, cast *Gentle Repose* and carried her home in the hope that she could be restored. He later bought diamonds for an attempted resurrection, though its material and preservation requirements remain to be confirmed. **Mireya has not yet been revived.**
 
-## Doroan ties
+He has also shown mercy in more eccentric circumstances. Instead of retaining the goblin Malt as a prisoner, he released him on a mission to find a Pot of Awakening for **Bushtache**, a cabbage with which Ballar had communicated. Neither Malt nor the pot has been accounted for. Separately, Ballar sent magical animals to look for another goblin who escaped after witnessing the massacre at Thistlewound; that search also remains unanswered.
 
-Ballar’s strongest political connection is [[03 People/Notable Figures/Ouin Brond|Ouin Brond]], Doro’s ambassador in Somnolent. Ouin has served as handler, adviser and truth-teller: someone who understands both Doroan politics and Ballar’s tendency to mistake attention for achievement.
+Those decisions stand in stark contrast to his treatment of people with less power. On returning to the Bastion, Ballar reacted furiously to discovering that guests had been accommodated in his absence and his belongings rearranged. He repeatedly forced steward [[03 People/Bastion Staff/Derrick Lowgins|Derrick Lowgins]] into a toilet, using healing when necessary, and later violently attacked Derrick's brother Terrick during a family dispute. These actions conflict with the household's explicit protections against staff abuse. **No formal declaration of a Rogue Act or loss of patronage has been recorded**, and the eventual consequences are unresolved.
 
-Ballar has reported sensitive discoveries to Ouin, including evidence connected to the House Bromere favour coin, the Rootbound and Anthea Bloodclot’s murder. Ouin has also directed him towards wider Doroan threads, including the One Ball Inn dice game and the figure known as the Old Grey Pike.
+## Rivals, secrets and ancient obligations
 
-Their relationship has become increasingly personal as well as political. Ouin has challenged Ballar to consider what he is actually serving: Doro, House Nirrell, his family’s secrets, his own pride or something more meaningful.
+One of the guests whose presence offended Ballar was [[03 People/Notable Figures/Orrian Leovyre|Orrian Leovyre]], leader of the [[04 Organisations/Crimson Shield|Crimson Shield]]. Orrian is a childhood acquaintance whom Ballar regards as a rival, despite Orrian's apparently affectionate letter and gift of a Cloak of Many Fashions. The Crimson Shield's growing popularity in Somnolent has added a new public measure against which Ballar judges his own achievements.
 
-Ballar’s acceptance of [[03 People/Notable Figures/Romayne Drayton|Romayne Drayton’s]] patronage complicated his Doroan status. In choosing to become one of Somnolent’s agents, Ballar stepped further away from a simple role as a Doroan representative and towards a less certain, but potentially more self-directed, future.
+A more private test of his judgement came from a [[06 Library/Ardynian Relics and Artefacts/Ring of Mind Shielding|Ring of Mind Shielding]] recovered at [[02 Places/Rakara/Tace Nox|Tace Nox]]. A soul calling itself [[03 People/Notable Figures/Din|Din]] spoke to him from within the ring and offered knowledge of Ardynian sites in exchange for help obtaining a body. Ballar did not agree to the bargain without proof of its value. The discovery of a message in which Saint Vaelen spoke of preserving his own soul creates a **possible, unconfirmed** connection to Din. Ballar has since **removed the ring** and is not presently pursuing Din's request.
 
-## The Prusset fracture
+He has become involved in still larger Ardynian questions. After the party recovered the [[06 Library/Ardynian Relics and Artefacts/Bands of Distortion|Bands of Distortion]] and witnessed a memory of the Sundering, Ballar favoured retaining the Bands rather than immediately surrendering them for safekeeping. Their ultimate purpose, like the fate of the other relics, remains unsettled.
 
-The capture of Prusset exposed Ballar’s divided loyalties.
+## Current circumstances
 
-After Prusset was subdued, Ballar wanted him delivered into Doroan custody. Other members of the party resisted, preferring Somnolent authority. When overruled, Ballar split from the group, acting according to his Doroan instincts rather than the emerging unity of the Defracturers.
+Ballar remains an active member of the Defracturers and a figure divided among several competing ideas of duty. His father's expectations have resurfaced; his rivalry with Orrian has become more immediate; Mireya still awaits a possible resurrection; and his conduct at the Bastion has raised questions about what his heroic oath means when no admiring crowd is watching.
 
-The fracture became personal when Ballar later crossed paths with Ieuan and struck him. It remains one of the clearest moments where Ballar’s pride, loyalty to Doro and frustration with his companions overcame his better judgement.
+The unanswered question at the centre of his story is no longer simply **how Ballar will win glory**, but what he is prepared to serve, protect and answer for once he has it.
 
-## Din and the ring
+## Personal matters still unresolved
 
-Ballar carries a [[Ring of Mind Shielding|Ring of Mind Shielding]] recovered from the Ardynian ruin of [[02 Places/Rakara/Tace Nox|Tace Nox]].
+- His future relationship with [[02 Places/Doro/Noble Houses/House Nirrell|House Nirrell]], Doro and the possible peace initiative, including whether his father's reported political rise proves real.
+- The consequences of his treatment of the Lowgins brothers and his competing responsibilities under [[02 Places/Rakara/Somnolent/The Defracturers' Bastion|the Bastion's patronage]].
+- Mireya's possible resurrection, and the outcomes of Malt's mission and the separate search for the escaped goblin.
+- The identity and intentions of Din, and Ballar's ultimate position on the dangerous Sundering relics.
 
-The ring contains a speaking consciousness known to the party as [[03 People/Notable Figures/Din|Din]]. Ballar initially experienced Din as a private voice and did not immediately make the full situation transparent to the rest of the group.
-
-Din has offered guidance in exchange for the promise of a body. The offer places Ballar in a familiar position: entrusted with something secret, potentially important and potentially dangerous. For someone uncertain of his purpose, Din’s attention may be tempting. The ring gives Ballar private significance beyond birth order, noble expectation or Doroan approval.
-
-Din’s identity, motives and limitations remain unresolved.
-
-## Public image and Ersil
-
-Ballar’s hunger for glory does not mean he accepts every story told about him.
-
-When [[03 People/Notable Figures/Ersil Loquella|Ersil Loquella]] performed songs about the party, Ballar reacted badly to being turned into entertainment outside his control. He followed Ersil to his room, attacked him and held him over a balcony, demanding that the bard stop using his name.
-
-Ersil escaped with magic and left Ballar incapacitated by Hideous Laughter.
-
-The incident remains one of the clearest examples of Ballar’s fragile pride. He wants fame, but he wants fame on his terms: heroic, flattering and controlled. Being made ridiculous cuts deeper than he likes to admit.
-
-## Balur, chains and fighting-pit bravado
-
-Ballar’s relationship with [[03 People/Notable Figures/Balur Moonclaw|Balur Moonclaw]] reflects another side of his search for purpose.
-
-At Emberwake, Ballar earned Balur’s respect through physical contest and was offered either blacksmith training or an introduction to the fighting pits. Ballar chose the latter.
-
-He later bought chains and manacles from Balur, leading to a display of mutual peacocking and strength-based bravado. The fighting-pit invitation remains a dormant personal hook: less a grand quest than a perfect expression of Ballar’s desire to prove himself somewhere public, physical and impossible to ignore.
-
-## Mount
-
-[[06 Library/Campaign Reference/Horses#Kingcup|Kingcup]] is Ballar’s recorded mount.
-
-Beautiful, vain, difficult and fond of attention, Kingcup is an obvious match for Ballar. The choice says as much about the rider as the horse. Ballar was warned not to be foolish when choosing a mount and naturally gravitated towards the most dramatic option available.
-
-Kingcup’s elegance and temperament mirror Ballar’s own self-image: impressive, stubborn, high-maintenance and convinced that being admired is part of the job.
-
-## Sessions 22-23
-
-Ballar preserved and carried Mireya's body in his Handy Haversack during the return journey. In Session 22 he also cast Gentle Repose on another Broken Fang scout and stored that corpse; the supplied record does not state what he intended to do with it or what later happened to it. He also recovered the [[06 Library/Relics and Artefacts/False Gardener's Notebook|False Gardener's notebook]], used it to speak with [[06 Library/Campaign Reference/Bushtache|Bushtache]], and later handed the notebook to Ieuan.
-
-Rather than take Malt back to Somnolent as a prisoner, Ballar released him with a task: obtain a Pot of Awakening, awaken Bushtache and bring the cabbage safely to Somnolent. Ballar cast Gentle Repose on Bushtache to preserve it for ten days before sending Malt away.
-
-His relationship with [[06 Library/Campaign Reference/Horses#Kingcup|Kingcup]] also improved noticeably. After soothing and grooming her across Sessions 22-23, the mare showed him unusually genuine affection.
-
-## Active personal threads
-
-- Decide what purpose Ballar has beyond being the third son of House Nirrell.
-- Define whether his future lies with Doro, Somnolent, the Defracturers or some more personal ideal of glory.
-- Understand [[03 People/Notable Figures/Din|Din]] and determine whether he can safely be given a body.
-- Uncover the full relationship between [[02 Places/Doro/Noble Houses/House Nirrell|House Nirrell]], the Old Grey Pike and the destruction of [[02 Places/Doro/Ashenhom|Ashenhom]].
-- Decide what responsibility Ballar bears for the choices and secrets of his family.
-- Resolve his strained loyalties between Ouin’s Doroan guidance and the Defracturers’ collective judgement.
-- Determine whether his attraction to spectacle can become genuine leadership rather than performance.
-
-> [!warning] Gaps in the current record
-> - The exact duties, resources and internal politics of [[02 Places/Doro/Noble Houses/House Nirrell|House Nirrell]] remain incomplete.
-> - Ballar’s older siblings have not yet been fully named or described.
-> - The exact actions of each Nirrell family member during the events surrounding Ashenhom remain unresolved.
-> - Din’s original identity, limitations and long-term objective have not been confirmed.
-> - Ballar’s life and accomplishments before the campaign are only lightly described.
-> - The consequences of Ballar stepping away from formal Doroan authority have not yet fully played out.
-
-## Session 25 — Orrian and the Lowgins brothers
-
-Back in Somnolent, Ballar received a **Cloak of Many Fashions** and an affectionate letter from childhood acquaintance and perceived rival [[03 People/Mentioned Figures/Orrian Leovyre|Orrian Leovyre]], inviting him to Temir. Ballar was furious that the Crimson Shield had been allowed to stay at the Bastion and that his wardrobe had been rearranged.
-
-He assaulted steward [[03 People/Bastion Staff/Derrick Lowgins|Derrick Lowgins]], repeatedly dunking his head in a toilet, and later violently threw [[03 People/Notable Figures/Terrick Lowgins|Terrick Lowgins]] through part of the house and a stranger's window amid a dispute between the brothers. Terrick alleged that Derrick had stolen from his family; this allegation is not independently established.
-
-Ballar participated in the One Ball cellar rescue attempt and witnessed the shared Sundering memory activated from the Tace Nox scroll. The party reached **level 6** at the session's end.
-
-## Related
+## Related pages
 
 - [[04 Organisations/The Defracturers|The Defracturers]]
-- [[03 People/Notable Figures/Din|Din]]
-- [[Ring of Mind Shielding|Ring of Mind Shielding]]
-- [[03 People/Notable Figures/Ouin Brond|Ouin Brond]]
-- [[03 People/Notable Figures/Ervain Megbanas|Ervain Megbanas]]
 - [[02 Places/Doro/Noble Houses/House Nirrell|House Nirrell]]
-- [[02 Places/Doro/Doroan Noble Houses|Doroan Noble Houses]]
-- [[02 Places/Doro/Ashenhom|Ashenhom]]
-- [[03 People/Notable Figures/Balur Moonclaw|Balur Moonclaw]]
+- [[03 People/Notable Figures/Xilpeiros Nirrell|Xilpeiros Nirrell]]
+- [[03 People/Notable Figures/Ouin Brond|Ouin Brond]]
+- [[03 People/Notable Figures/Orrian Leovyre|Orrian Leovyre]]
 - [[03 People/Notable Figures/Ersil Loquella|Ersil Loquella]]
-- [[06 Library/Campaign Reference/Open Threads|Open Threads]]
+- [[03 People/Notable Figures/Din|Din]]
+- [[06 Library/Ardynian Relics and Artefacts/Ring of Mind Shielding|Ring of Mind Shielding]]
+- [[02 Places/Rakara/Somnolent/The Defracturers' Bastion|The Defracturers' Bastion]]
 - [[06 Library/Campaign Reference/Horses|Horses]]
+- [[06 Library/Campaign Reference/Open Threads|Open Threads]]
+
+## Campaign chronicle
+
+- [[05 Campaign Chronicle/Session 01 - Die Dog, Die|Session 1]]
+- [[05 Campaign Chronicle/Session 16 - Cackles, Corpses and Catastrophe|Session 16]]
+- [[05 Campaign Chronicle/Session 22 - Bodies, Blight, and Bushtache|Session 22]]
+- [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]]
+- [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]]

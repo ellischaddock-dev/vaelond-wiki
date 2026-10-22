@@ -10,34 +10,29 @@ tags:
 role: 'Head steward'
 current_status: 'alive'
 source: 'Campaign notes and Session 24'
-updated: 2026-09-10
+updated: 2026-10-22
 ---
 
 # Mariasz Salhum
 
 ![[Mariasz Salhum.png|260]]
 
-> [!summary] At a glance
-> Former chief steward of a Temiri trading vessel; calm, strong-willed, practical and clearly the most qualified candidate.
+Mariasz Salhum is the head steward of the Defracturers' Bastion, responsible for bringing discipline and continuity to a household whose owners are often absent or unpredictable. Before entering their service she was chief steward aboard a Temiri trading vessel, experience that helps explain her capable, plain-speaking approach.
 
-## Appointment
+## Taking charge of the Bastion
 
-The candidate was interviewed after the Defracturers acquired their Somnolent bastion. Mariasz was appointed Head Steward; the remaining candidates were offered lesser household positions.
+Mariasz emerged as the strongest candidate when the adventurers interviewed household staff after acquiring the former Perfid embassy. During their extended absence she oversaw the premises, hosted the visiting Crimson Shield and coordinated with Alaaric Hammerfall and Somnolent's authorities. Though initially resistant to treating her team as auxiliary civil servants, she helped organise their support and joined investigations surrounding the One Ball Inn and Antoinne Cassan's disappearance.
 
-## Session 24
+## Building a household
 
-Mariasz effectively ran the Bastion throughout the Defracturers' three-week absence. She coordinated the household, dealt with Alaaric and Romayne's requests, hosted the Crimson Shield and participated directly in the investigation of the One Ball Inn.
+Her colleagues' eccentricities have placed considerable demands on her patience. Yet she has gradually formed a genuine bond with the staff, especially the anxious coffee mage [[03 People/Bastion Staff/Joe-Seff Gorbels|Joe-Seff Gorbels]]. When he admitted that he valued her friendship rather than merely her authority over him, Mariasz acknowledged the sincerity behind his erratic behaviour. Her greatest challenge may remain balancing professional loyalty to the Defracturers with the welfare and dignity of those who work under her.
 
-She initially resisted turning the Bastion staff into auxiliary civil servants, but nonetheless helped secure supplies, collect the gaming levy and investigate Antoinne Cassan's disappearance. She was present when Antoinne's ransacked office, blood and damaged records were discovered.
-
-Her working relationship with Joe-Seff Gorbels also became unexpectedly sincere. After weeks of his anxious attempts to secure her approval, he told her that he valued her as a friend rather than merely as the person responsible for his employment, and Mariasz returned enough of the sentiment to show the staff had begun to become a genuine team.
-
-## Campaign appearances
+## Chronicle references
 
 - [[05 Campaign Chronicle/Session 15 - Stewards, Saddles and Shambling Roots|Session 15 - Stewards, Saddles and Shambling Roots]]
 - [[05 Campaign Chronicle/Session 24 - Pies, Pike and a one ball blaze|Session 24]]
 
-## Related
+## Related pages
 
 - [[02 Places/Rakara/Somnolent/The Defracturers' Bastion|The Defracturers' Bastion]]
 - [[04 Organisations/The Defracturers|The Defracturers]]

@@ -13,31 +13,24 @@ tags:
   - plague
 current_status: deceased
 source: Session 22
-updated: 2026-09-10
+updated: 2026-10-22
 ---
 
 # Maelor Vey
 
-> [!summary] At a glance
-> An Orvaki figure remembered as **the False Gardener**, whose attempt to defeat decay twisted into corrupted forms of life including Plague and the black ooze beneath his ruined home.
+Maelor Vey, remembered in Orvak as **the False Gardener**, sought to defeat the natural decay of living things. His inability to accept Orun's cycle of life and death led him to create unnatural forms of preservation that became corruption instead.
 
-## What is known
+Ieuan knew him as a figure from childhood cautionary stories. The treant [[03 People/Mentioned Figures/Oakrah Woodfrey|Oakrah Woodfrey]] told the party that forest guardians defeated Maelor at great cost and buried him beneath the forest to be consumed by his own creations. His works included the poisonous consciousness known as [[03 People/Notable Figures/Plague|Plague]] and other corrupted life near his ruined home.
 
-[[03 People/Player Characters/Ieuan|Ieuan]] knew the False Gardener as a childhood cautionary tale. Maelor tried to defeat decay itself and, unable to accept [[01 Welcome to Vaelond/Religion/Rakaran Faiths#Orun, the Verdant Kin|Orun's]] cycle of life and death, pushed his work further until it became **rot masquerading as preservation**.
+The Defracturers destroyed the immediate source of ooze beneath Maelor's home, allowing Oakrah to begin cleansing the remaining taint. Yet Plague's continuing influence over Ieuan means the False Gardener's legacy persists. Ballar recovered Maelor's notebook from the site.
 
-[[03 People/Mentioned Figures/Oakrah Woodfrey|Oakrah Woodfrey]] told the Defracturers that the forest guardians stopped Maelor and buried him beneath the forest floor to be fed upon by his own impossible children. Many of Oakrah's brethren were lost containing his influence.
+## Chronicle references
 
-Maelor was the "bad mad man" previously described by [[06 Library/Campaign Reference/Plague|Plague]]. His corrupted magic also created or altered the bog siren and the black tar-like ooze encountered at his ruined home.
+- [[05 Campaign Chronicle/Session 22 - Bodies, Blight, and Bushtache|Session 22]]
 
-## Legacy
+## Related pages
 
-The Defracturers destroyed the immediate source beneath Maelor's home in Session 22. Oakrah believed this would allow the remaining taint to be cleared, but Plague's continuing voice shows that Maelor's legacy is not completely gone.
-
-Ballar recovered the [[06 Library/Relics and Artefacts/False Gardener's Notebook|False Gardener's Notebook]] from the ruins.
-
-## Related
-
-- [[06 Library/Campaign Reference/Plague|Plague]]
+- [[Plague|Plague]]
 - [[03 People/Mentioned Figures/Oakrah Woodfrey|Oakrah Woodfrey]]
 - [[06 Library/Relics and Artefacts/False Gardener's Notebook|False Gardener's Notebook]]
 - [[05 Campaign Chronicle/Session 22 - Bodies, Blight, and Bushtache|Session 22]]

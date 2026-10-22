@@ -17,7 +17,7 @@ territory: Clan Orvak
 current_status: partially explored
 source: Sessions 17-21
 additional_source: Session 25
-updated: 2026-10-13
+updated: 2026-10-20
 ---
 
 # Rana Viam
@@ -32,7 +32,7 @@ updated: 2026-10-13
 | **Known builders or users** | Ardynian Chronarchs |
 | **Distance from Somnolent** | About two to three days by horse |
 | **Distance from Hushvale** | About half a day by horse |
-| **Explored** | Sessions 17–19 |
+| **Explored** | Sessions 17â€“19 |
 | **Relic recovered** | Bands of Distortion |
 
 ## Approach and entrance
@@ -77,13 +77,13 @@ A sealed Ardynian scroll was also recovered.
 - It is not clear whether every chamber or function of Rana Viam has been discovered.
 
 > [!question] Unresolved
-> - What does the sealed Rana Viam scroll contain? The **separate Tace Nox scroll** was opened in Session 25.
+> - What does the sealed [[06 Library/Ardynian Relics and Artefacts/Rana Viam scroll|Rana Viam scroll]] contain? The **separate Tace Nox scroll** was opened in Session 25; no contents or current holder of this scroll are yet recorded.
 > - Are there unexplored chambers or active mechanisms remaining?
 > - Why had the Broken Fang been searching the site?
 > - What are the full properties of the heart stone and the Bands?
 > - Who originally designed the crossing trial and what was it intended to teach?
 
-## Further assessment — Session 25
+## Further assessment â€” Session 25
 
 After returning to Somnolent, the Defracturers showed the [[06 Library/Ardynian Relics and Artefacts/Bands of Distortion|Bands of Distortion]] to Elmwood. He identified defensive time-shifting, a damaging area of temporal distortion, a means of altering an attack into a critical outcome, **five charges** and a degree of replenishment after a long rest. Attunement remains unresolved. The **Rana Viam scroll** remains unopened; it is distinct from the Tace Nox scroll activated in Session 25. See [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]].
 

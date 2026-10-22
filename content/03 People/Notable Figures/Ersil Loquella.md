@@ -16,30 +16,26 @@ role: 'Bard'
 current_status: 'alive'
 last_known_location: 'Somnolent'
 source: 'Campaign notes.docx'
-updated: 2026-07-01
+updated: 2026-10-22
 ---
 
 # Ersil Loquella
 
 ![[Ersil Loquella.png|260]]
 
-> [!summary] At a glance
-> A charismatic bard whose songs about the party delighted Enrak and infuriated Ballar.
+Ersil Loquella is a flamboyant travelling performer whose songs have played a significant part in making the Defracturers famous—or notorious—around Somnolent. His admiration and teasing have brought him close to Enrak Kiran and into rivalry with Ballar Novis.
 
-## Known details
+Through performances at the Drowsy Coin and elsewhere, Ersil turned the company's adventures into material for the tavern crowd. Enrak has generally relished the attention and encouraged the songs, while Ballar has been far less comfortable with the bard's treatment of his reputation. Ersil later accompanied Enrak's dance contest against visiting Dazuun fighters at Sixhalls, an occasion that escalated into a violent public brawl. His relationship with Ballar has also turned openly hostile: after Ersil followed him towards his room, Ballar attacked and held the bard over a balcony. Ersil escaped using Misty Step and left Ballar incapacitated with Hideous Laughter. His performance at Sixhalls was part of the later spectacle, not proof that he intended the ensuing fighting.
 
-- Regularly performs at the Drowsy Coin.
-- Wrote a song about the heroes of Emberwake. Enrak enjoyed it; Ballar did not.
-- Followed Ballar to his room, where Ballar attacked him and held him over a balcony.
-- Escaped with Misty Step and left Ballar incapacitated by Hideous Laughter.
+Ersil's personal origins and longer-term allegiances remain less clearly established than his enthusiasm for an audience.
 
-## Campaign appearances
+## Chronicle references
 
 - [[Session 06 - Smoke, Song and Secrets]]
 - [[Session 08 - The Weight of Secrets]]
 - [[Session 10 - Saints, Spies and Snake Eyes]]
 
-## Related
+## Related pages
 
 - [[Somnolent]]
 - [[Emberwake Festival]]

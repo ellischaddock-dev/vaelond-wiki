@@ -15,22 +15,16 @@ role: 'Bartender at the Drowsy Coin'
 current_status: 'alive'
 last_known_location: 'Somnolent'
 source: 'Campaign notes.docx'
-updated: 2026-07-01
+updated: 2026-10-22
 ---
 
 # Xene Redmayne
 
 ![[Xene Redmayne.png|260]]
 
-> [!summary] At a glance
-> A Drowsy Coin bartender whose early kindness and flirtation caught Enrak’s attention.
+Xene Redmayne tends bar at Somnolent's [[02 Places/Rakara/Somnolent/Drowsy Coin|Drowsy Coin]]. During Emberwake she offered Enrak Kiran food with playful flirtation, establishing one of his early personal connections to the town. She later helped sustain the celebratory atmosphere around his songs and the performances of Ersil Loquella. Beyond her work at the inn and her acquaintance with Enrak, the available campaign record provides little detail of her personal history.
 
-## Known details
-
-- Offered Enrak festival food with a little flirtation during Emberwake.
-- Helped keep drinks flowing during Enrak’s later celebrations with Ersil.
-
-## Campaign appearances
+## Chronicle references
 
 - [[Session 01 - Die Dog, Die]]
 - [[Session 02 - The Ashes of Emberwake]]
@@ -39,7 +33,7 @@ updated: 2026-07-01
 - [[Session 08 - The Weight of Secrets]]
 - [[Session 11 - Ashes, Brands and Windfalls]]
 
-## Related
+## Related pages
 
 - [[Somnolent]]
 - [[Callum Redmayne]]

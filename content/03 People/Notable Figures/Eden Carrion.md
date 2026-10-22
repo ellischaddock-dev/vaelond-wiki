@@ -13,43 +13,32 @@ tags:
 ancestry: 'Human'
 gender: 'Female'
 role: 'Voruun liaison and Loyal Crow'
-current_status: 'missing'
+current_status: missing
 last_known_location: 'Unknown'
 source: 'Campaign notes.docx'
 additional_source: Session 25
-updated: 2026-10-13
+updated: 2026-10-22
 ---
 
 # Eden Carrion
 
 ![[Eden Carrion.png|260]]
 
-> [!summary] At a glance
-> A follower of Anthea Bloodclot who is now believed to have been the Loyal Crow behind Buggie’s attempted abduction of Prusset.
+Eden Carrion was a Voruun diplomatic liaison in Somnolent and a devoted associate of [[03 People/Notable Deceased/Anthea Bloodclot|Anthea Bloodclot]]. She is believed to be the Loyal Crow who organised Buggie's attempt to abduct the Perfidian ambassador Alistair Prusset. Eden disappeared following Prusset's death in custody, leaving both her motives and present location the subject of an ongoing investigation.
 
-## Known details
+## Anthea's cause
 
-- Believed Prusset was responsible for Anthea Bloodclot’s death.
-- Paid Buggie’s crew to abduct Prusset using a House Bromere favour coin.
-- Survived Tace Nox with Anthea Bloodclot.
-- Was present with Summer Quaresh when Prusset was killed in custody.
-- Her current whereabouts are unknown.
+Eden belonged to the political world that Anthea attempted to hold together across Rakara's five clans. She believed Prusset had been responsible for the unifier's death and sought to obtain him and his records through the band led by [[03 People/Notable Deceased/Buggie|Buggie]]. The payment involved a House Bromere favour coin, once owned by Ervain Megbanas and lost to Eden in a dice game. Eden's involvement with the Crows is therefore more substantial than that of the various later contacts who appear only in research leads.
 
-## New lead during the Defracturers' absence
+The record also establishes that Eden survived an earlier visit to [[02 Places/Rakara/Tace Nox|Tace Nox]] with Anthea. What they learned there, and how it shaped Eden's later decisions, remains unclear.
 
-During Session 24, [[03 People/Bastion Staff/Gudren Flint|Gudren Flint]] and [[03 People/Bastion Staff/Caelen Briar|Caelen Briar]] worked from the Defracturers' Bastion to trace Eden and Summer. Caelen's sympathetic magic returned only magical static. A travelling adventuring company then reported seeing two people matching their descriptions.
+## Disappearance
 
-By the 29th of Greengold, Gudren and Caelen connected the reported region with old records describing an area where **magic is naturally dampened**. This provided the first credible explanation for the failed magical search and a concrete lead on their whereabouts.
+Eden was present alongside [[03 People/Notable Figures/Summer Quaresh|Summer Quaresh]] when Prusset died in custody. Both women subsequently vanished. Researchers [[03 People/Bastion Staff/Gudren Flint|Gudren Flint]] and [[03 People/Bastion Staff/Caelen Briar|Caelen Briar]] found a possible sighting of a pair matching their descriptions in a region where magic is naturally dampened. This offers a plausible explanation for Caelen's failed magical search, **not confirmation of their identities or location**.
 
-[[03 People/Notable Figures/Gayle Bramble|Gayle Bramble]] and [[03 People/Mentioned Figures/Job Ashmere|Job Ashmere]] prepared to leave Somnolent to pursue the lead. Eden and Summer nevertheless remain officially **missing**.
+Further records connect Eden to a meeting with Erzhin stonecutter [[03 People/Mentioned Figures/Tessa Betu|Tessa Betu]], an alleged contact with Father Zantos that he cannot recall, and private meetings involving Eula and Galt. These are investigative leads, not proof that every contact belonged to the Loyal Crows. Gayle Bramble and Job Ashmere left to investigate; Gayle later returned gravely injured without a recorded account of their mission, and Job's whereabouts remain unknown.
 
-## Session 25 — new research leads
-
-The Bastion researchers uncovered further possible contacts for Eden. The records include a meeting around eighteen months earlier with Erzhin stonecutter [[03 People/Mentioned Figures/Tessa Betu|Tessa Betu]] and purported contact with Father Zantos, which Zantos did not recall. They also identified past meetings involving [[03 People/Notable Figures/Eula|Eula]] and [[03 People/Mentioned Figures/Galt|Galt]], reportedly expelled from Voruun for necromancy.
-
-These contacts are **not proof of Loyal Crow membership**. Eden's whereabouts remain unknown; see [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]].
-
-## Campaign appearances
+## Chronicle references
 
 - [[Session 02 - The Ashes of Emberwake]]
 - [[Session 10 - Saints, Spies and Snake Eyes]]
@@ -58,7 +47,7 @@ These contacts are **not proof of Loyal Crow membership**. Eden's whereabouts re
 - [[05 Campaign Chronicle/Session 24 - Pies, Pike and a one ball blaze|Session 24]]
 - [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]]
 
-## Related
+## Related pages
 
 - [[Loyal Crows]]
 - [[Clan Voruun]]
