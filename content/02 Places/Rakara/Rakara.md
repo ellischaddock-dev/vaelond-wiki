@@ -12,7 +12,7 @@ tags:
   - places
   - rakara
 region: Rakara
-updated: 2026-10-13
+updated: 2026-11-17
 ---
 
 # Rakara
@@ -44,6 +44,9 @@ Her assassination left the title empty, the union uncertain and every clan watch
 - [[02 Places/Rakara/Somnolent/Emberwake Festival|Emberwake Festival]] — Somnolent's celebration of renewal and the assassination that changed it
 - [[02 Places/Rakara/Rana Viam|Rana Viam]] — an Ardynian ruin in Orvak, near the Voruun border and close to Hushvale
 - [[02 Places/Rakara/Hushvale|Hushvale]] — an Orvaki settlement with an unusually closed reputation
+
+- [[02 Places/Rakara/Stone Pass|Stone Pass]] — reported sighting of the Crows and undead ambush.
+- [[02 Places/Rakara/Dragon's Dandruff Laboratory|the laboratory]] — discovered supply site south of Somnolent.
 
 ## Organisations
 

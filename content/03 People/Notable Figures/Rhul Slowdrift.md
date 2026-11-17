@@ -12,7 +12,8 @@ role: Broken Fang commander connected to the Dazuun fighting pits
 current_status: unknown
 last_known_location: unknown
 source: Campaign notes through Session 24
-updated: 2026-10-22
+updated: 2026-11-17
+additional_source: Session 27
 ---
 
 # Rhul Slowdrift
@@ -31,9 +32,16 @@ The Bastion staff overheard men at the [[02 Places/Rakara/Somnolent/One Ball Inn
 
 Former Dazuun fighters [[03 People/Mentioned Figures/Yama and Spopovich|Yama and Spopovich]] described worsening conditions, declining earnings and widespread drug use since Rhul's involvement. They named Karessa as their supplier and alleged that booking agent Oruc accepted Rhul's money to fix matches. Their testimony provides further leads, **not independent proof that Rhul personally paid Oruc or manufactured the drug**. Rhul's appearance, ancestry, exact rank, present location and relationship with Voruun's authorities remain unknown.
 
+## The laboratory discovered
+
+The Defracturers reached [[02 Places/Rakara/Dragon's Dandruff Laboratory|the laboratory]] and met the three alchemists. [[03 People/Notable Figures/Karessa Val|Karessa Val]] alleged that Rhul and Prodosius threatened their families to maintain production. Four guards were defeated but the site remains intact. The testimony does not establish Rhul’s personal whereabouts.
+
+See [[05 Campaign Chronicle/Session 27 - Gayles Warning and the Dandruff Lab|Session 27]].
+
 ## Chronicle references
 
 - [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]]
+- [[05 Campaign Chronicle/Session 27 - Gayles Warning and the Dandruff Lab|Session 27]]
 
 ## Related pages
 

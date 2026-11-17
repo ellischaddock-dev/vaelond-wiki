@@ -13,10 +13,10 @@ ancestry: 'High elf'
 gender: 'Female'
 role: 'Khaali liaison and one of Anthea’s Crows'
 current_status: missing
-last_known_location: 'Unknown'
+last_known_location: "Stone Pass (reported sighting); present whereabouts unknown"
 source: 'Campaign notes.docx'
-additional_source: Session 25
-updated: 2026-10-22
+additional_source: "Session 25; Session 27"
+updated: 2026-11-17
 ---
 
 # Summer Quaresh
@@ -33,11 +33,17 @@ Summer was present with [[03 People/Notable Figures/Eden Carrion|Eden Carrion]] 
 
 ## Contacts and search
 
-The Bastion's researchers identified a reported sighting of two people matching Summer and Eden's descriptions in a region associated with naturally dampened magic. Caelen Briar's earlier sympathetic search had yielded only magical static. The combination offers a credible lead, but Summer has **not been found**.
+The Bastion's researchers identified a reported sighting of two people matching Summer and Eden's descriptions in a region associated with naturally dampened magic. Caelen Briar's earlier sympathetic search had yielded only magical static. The combination offered a credible lead, later corroborated by Gayle’s reported sighting. Summer has not been recovered.
 
 Separate records suggest repeated meetings between Summer and [[03 People/Mentioned Figures/Arun Yev|Arun Yev]], a Temiri historian who subsequently rose through the Wavecutters, as well as meetings involving the necromancy-associated pair Eula and Galt. Their significance is not yet known. In particular, those names should not be promoted to confirmed Loyal Crow membership simply because they appear in Summer's history.
 
-Gayle Bramble and Job Ashmere left to pursue the search. Gayle's injured return, without Job, raises the urgency of determining what happened, but establishes neither Summer's fate nor her location.
+Gayle Bramble and Job Ashmere left to pursue the search. Gayle returned injured without Job; her account of the Stone Pass sighting is recorded below.
+
+## The Stone Pass sighting
+
+Gayle Bramble reported seeing Summer alongside Eden at [[02 Places/Rakara/Stone Pass|Stone Pass]]. Both appeared deathly pale when Job called to them, shortly before the watch was surrounded by undead apparently directed by a dark-coated figure. Gayle escaped; Job and the other watch members remain missing. This establishes a reported sighting, **not that either Crow controlled the undead or was responsible for the ambush**. Their present whereabouts remain unknown.
+
+See [[05 Campaign Chronicle/Session 27 - Gayles Warning and the Dandruff Lab|Session 27]].
 
 ## Chronicle references
 
@@ -46,6 +52,7 @@ Gayle Bramble and Job Ashmere left to pursue the search. Gayle's injured return,
 - [[Session 12-14 - Fire, Faith and the Corona of the Ashen Choir]]
 - [[05 Campaign Chronicle/Session 24 - Pies, Pike and a one ball blaze|Session 24]]
 - [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]]
+- [[05 Campaign Chronicle/Session 27 - Gayles Warning and the Dandruff Lab|Session 27]]
 
 ## Related pages
 

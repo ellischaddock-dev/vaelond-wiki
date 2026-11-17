@@ -17,8 +17,8 @@ specialism: Fire magic
 homeland: Clan Khaali
 mount: Bracken
 current_status: active
-source: Sessions 1-26, original character notes and Open Threads
-updated: 2026-10-22
+source: Sessions 1-27, original character notes and Open Threads
+updated: 2026-11-17
 ---
 
 # Enrak Kiran
@@ -66,6 +66,12 @@ When the company disturbed [[06 Library/Relics and Artefacts/Verei's Shattered M
 
 The experience did not establish whether his earlier claims of Ashka's guidance were true, nor did it provide a clear answer. It remains a fitting question for a mage whose public identity has grown faster than the recorded story of his private life. He seeks to be a legendary fire mage, a champion of Anthea's legacy and a man celebrated in song; what binds those ambitions together is still unfolding.
 
+## An experiment that cost more than intended
+
+Enrak’s former friend and rival [[03 People/Notable Figures/Karessa Val|Karessa Val]] intervened in a magical experiment using material from a spellbook he had taken from the Minir archives. The explosion cost her two fingers. Enrak blames her intervention; Karessa blames his recklessness and says she was subsequently expelled from the [[04 Organisations/Khaali Fire Mages|Khaali Fire Mages]]. Enrak also recalled nearly being expelled from House Khaali as a child for increasingly scandalous claims about Ashka. His reunion with Karessa at [[02 Places/Rakara/Dragon's Dandruff Laboratory|the laboratory]] revealed her circumstances. He proposed the Bastion basement as a possible alternative workplace, without approval.
+
+See [[05 Campaign Chronicle/Session 27 - Gayles Warning and the Dandruff Lab|Session 27]].
+
 ## Current circumstances
 
 Enrak continues to travel with the Defracturers, pursuing both magical knowledge and recognition. The revelations about Anthea and the Sundering have drawn his interests into questions much larger than Khaali's internal hierarchy, while Summer's disappearance remains a personal concern.
@@ -100,3 +106,4 @@ He is celebrated, occasionally embarrassed and often endangered by the spectacle
 - [[05 Campaign Chronicle/Session 19 - Bands, Broken Stone and the Glass Fang|Session 19]]
 - [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]]
 - [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]]
+- [[05 Campaign Chronicle/Session 27 - Gayles Warning and the Dandruff Lab|Session 27]]

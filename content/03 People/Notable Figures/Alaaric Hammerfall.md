@@ -17,7 +17,8 @@ role: 'Somnolent treasurer and record keeper'
 current_status: 'alive'
 last_known_location: 'Somnolent'
 source: 'Campaign notes.docx'
-updated: 2026-10-22
+updated: 2026-11-17
+additional_source: Session 27
 ---
 
 # Alaaric Hammerfall
@@ -36,6 +37,12 @@ With the Defracturers travelling and Somnolent's available authorities stretched
 
 After the Crimson Shield recovered a barrel of suspicious goods, Alaaric traced its connection to [[03 People/Notable Figures/Antoinne Cassan|Antoinne Cassan]]. He coordinated with Maxine Hintermeier when the innkeeper disappeared and passed along papers found in the ransacked office of the One Ball. The case remains unresolved following the inn's destruction by fire.
 
+## Patronage under strain
+
+Alaaric accompanied Romayne to the Bastion, cited the existing staff requisition provision and was identified as the proposed custodian of dangerous relics in his safe, subject to review and arrangements for access. He confirmed that he told Mariasz about the Pike’s departure before the One Ball fire. No relic handover occurred.
+
+See [[05 Campaign Chronicle/Session 27 - Gayles Warning and the Dandruff Lab|Session 27]].
+
 ## Chronicle references
 
 - [[Session 01 - Die Dog, Die]]
@@ -46,6 +53,7 @@ After the Crimson Shield recovered a barrel of suspicious goods, Alaaric traced 
 - [[Session 11 - Ashes, Brands and Windfalls]]
 - [[Session 15 - Stewards, Saddles and Shambling Roots]]
 - [[05 Campaign Chronicle/Session 24 - Pies, Pike and a one ball blaze|Session 24]]
+- [[05 Campaign Chronicle/Session 27 - Gayles Warning and the Dandruff Lab|Session 27]]
 
 ## Related pages
 

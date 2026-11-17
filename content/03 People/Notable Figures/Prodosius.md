@@ -14,7 +14,8 @@ role: Leader of the Broken Fang
 current_status: active
 last_known_location: Unknown
 source: Sessions 3, 7 and 21
-updated: 2026-10-22
+updated: 2026-11-17
+additional_source: Session 27
 ---
 
 # Prodosius
@@ -33,11 +34,18 @@ n'Dong identifies Prodosius as his former enslaver. A vision brought on by [[06 
 
 Before his own death, Ulsar claimed that Prodosius's pride made him vulnerable: destroying Rhul's operation or killing Rhul might force the warlord to appear in person. That remains Ulsar's assessment, not a demonstrated certainty. Prodosius has not been encountered directly during the recorded campaign, and his current location is unknown.
 
+## Pressure on the alchemists
+
+[[03 People/Notable Figures/Karessa Val|Karessa Val]] reported that Prodosius and Rhul had threatened the alchemists’ families, with agents able to reach them in Khaali territory. The party discovered production quotas and a threatening message at [[02 Places/Rakara/Dragon's Dandruff Laboratory|the laboratory]]; the precise command chain and Prodosius’s whereabouts remain unverified.
+
+See [[05 Campaign Chronicle/Session 27 - Gayles Warning and the Dandruff Lab|Session 27]].
+
 ## Chronicle references
 
 - [[05 Campaign Chronicle/Session 03 - Into Buggie's Den|Session 3]]
 - [[05 Campaign Chronicle/Session 07 - Coffee and Contraband|Session 7]]
 - [[05 Campaign Chronicle/Session 21 - Contracts, Command, and a Burning Camp|Session 21]]
+- [[05 Campaign Chronicle/Session 27 - Gayles Warning and the Dandruff Lab|Session 27]]
 
 ## Related pages
 

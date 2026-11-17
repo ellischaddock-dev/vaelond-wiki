@@ -14,7 +14,7 @@ tags:
   - broken-fang
   - voruun
 source: Sessions 21-22
-updated: 2026-10-20
+updated: 2026-11-17
 ---
 
 # Dragon's Dandruff
@@ -58,11 +58,17 @@ After Ulsar Quinn's camp was destroyed, [[03 People/Player Characters/n'Dong|n'D
 
 The party therefore now possesses physical samples of the substance rather than relying solely on Ulsar's description of Rhul's supply chain.
 
-## Session 26 Ã¢â‚¬â€ Karessa and the fighters
+## Session 26 — Karessa and the fighters
 
-[[03 People/Mentioned Figures/Yama and Spopovich|Yama and Spopovich]], two former Dazuun pit fighters, appeared visibly affected by DragonÃ¢â‚¬â„¢s Dandruff in Somnolent. They told [[03 People/Player Characters/n'Dong|n'Dong]] that their supplier was **[[03 People/Mentioned Figures/Karessa|Karessa]]**, a Khaali woman identified by three fingers. They also alleged a connection between booking agent [[03 People/Mentioned Figures/Oruc|Oruc]] and Rhul SlowdriftÃ¢â‚¬â„¢s match-fixing.
+[[03 People/Mentioned Figures/Yama and Spopovich|Yama and Spopovich]], two former Dazuun pit fighters, appeared visibly affected by Dragon’s Dandruff in Somnolent. They told [[03 People/Player Characters/n'Dong|n'Dong]] that their supplier was **[[03 People/Notable Figures/Karessa Val|Karessa]]**, a Khaali woman identified by three fingers. They also alleged a connection between booking agent [[03 People/Mentioned Figures/Oruc|Oruc]] and Rhul Slowdrift’s match-fixing.
 
-KaressaÃ¢â‚¬â„¢s identity as a producer, her connection to the three alchemists named by Ulsar, and the location of the lab remain **unverified**. nÃ¢â‚¬â„¢Dong gave the fighters more of the substance and promised further supplies in exchange for information; consequently, the **number of vials now in his possession cannot be inferred** from the two recovered in Session 22. See [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
+At that point, Karessa’s identity as a producer and the lab’s location remained unverified. Both were established in Session 27. n’Dong gave the fighters more of the substance and promised further supplies in exchange for information; consequently, the **number of vials now in his possession cannot be inferred** from the two recovered in Session 22. See [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
+
+## Session 27 — the production laboratory
+
+The burned One Ball map led the party to [[02 Places/Rakara/Dragon's Dandruff Laboratory|the laboratory]]. The alchemists were [[03 People/Notable Figures/Karessa Val|Karessa Val]], [[03 People/Notable Figures/Pella|Pella]] and [[03 People/Notable Figures/Davos|Davos]]. Quota material and a threatening message were found; Ieuan destroyed the recovered recipe. The remaining stock reportedly amounted to roughly two-thirds of the next shipment, valued at 5,000–6,000 gp on the street. Karessa attributed threats against families to Rhul and Prodosius. Four guards fell but the lab, remaining stock and alchemists were still at the scene. n’Dong also gave the former pit fighters further doses; the amount remaining in his possession is unknown.
+
+See [[05 Campaign Chronicle/Session 27 - Gayles Warning and the Dandruff Lab|Session 27]].
 
 ## Related
 

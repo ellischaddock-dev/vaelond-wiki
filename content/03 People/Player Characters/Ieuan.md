@@ -15,8 +15,8 @@ subclass: Circle of Stars
 homeland: Clan Orvak
 mount: Cobb
 current_status: active
-source: Sessions 1-26 and Open Threads
-updated: 2026-10-22
+source: Sessions 1-27 and Open Threads
+updated: 2026-11-17
 ---
 
 # Ieuan
@@ -76,6 +76,12 @@ Ieuan remains with the Defracturers and continues to pursue the Star Seed's awak
 
 Plague's influence has not been shown to end. For Ieuan, understanding the Seed and recovering his connection to nature are now closely connected, though the source of his difficulty and the meaning of the final stage have yet to be established.
 
+## Responsibility and communication
+
+As a child Ieuan disappeared into the woods for weeks, unaware his family was searching for him. During the journey to the laboratory he urged the party to communicate before making commitments on its behalf. He scouted invisibly in rat form, discovered production records and a threatening message, and destroyed the Dragon’s Dandruff recipe. His spectral wolves and radiant attacks helped defeat the guards.
+
+See [[05 Campaign Chronicle/Session 27 - Gayles Warning and the Dandruff Lab|Session 27]].
+
 ## Personal matters still unresolved
 
 - The whereabouts of **Daear** and Tranwyl Bruun, and their actual present relationships with the Rootbound.
@@ -104,3 +110,4 @@ Plague's influence has not been shown to end. For Ieuan, understanding the Seed 
 - [[05 Campaign Chronicle/Session 22 - Bodies, Blight, and Bushtache|Session 22]]
 - [[05 Campaign Chronicle/Session 23 - Ettins, Owlbears, and Betting Losses|Session 23]]
 - [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]]
+- [[05 Campaign Chronicle/Session 27 - Gayles Warning and the Dandruff Lab|Session 27]]

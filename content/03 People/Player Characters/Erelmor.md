@@ -12,8 +12,8 @@ ancestry: Drow
 class: Rogue
 mount: Vesper
 current_status: active
-source: Sessions 1-26 and Open Threads
-updated: 2026-10-22
+source: Sessions 1-27 and Open Threads
+updated: 2026-11-17
 ---
 
 # Erelmor
@@ -75,10 +75,16 @@ Erelmor remains with the Defracturers, carrying the loss of Ashenhom into a camp
 
 The unanswered question is not simply whether Erelmor will find Ervain Megbanas. It is whether discovering the truth—and perhaps exacting revenge—can offer him anything that the years since Ashenhom have denied him.
 
+## Honesty, the Pike and the laboratory
+
+Erelmor recalled being punished by his father for refusing to lie to his mother about a tavern visit. Alaaric’s explanation of the Pike’s departure confirmed Erelmor’s quarry had left town. He scouted the laboratory invisibly with Ieuan, recovered six bloodstones worth 50 gp each and threatened to destroy the volatile lab during the standoff. He delivered the finishing blows against the river creature and the last laboratory guard. His disputes with Ballar remained conspicuous.
+
+See [[05 Campaign Chronicle/Session 27 - Gayles Warning and the Dandruff Lab|Session 27]].
+
 ## Personal matters still unresolved
 
 - The reason Ashenhom was destroyed, the chain of command behind it and Ervain Megbanas's actual responsibility.
-- Ervain's whereabouts; the Bastion staff's knowledge of his departure has not been shown to reach Erelmor.
+- Ervain's whereabouts and role in Ashenhom; Erelmor now knows he left Somnolent.
 - The meaning of Erelmor's nightmares and the vision caused by Verei's Shattered Mask.
 - His earlier relationship with the Rootbound and the possible consequences of his dealings with [[06 Library/Relics and Artefacts/Eula's Red Coins|Eula's Red Coins]].
 
@@ -103,3 +109,4 @@ The unanswered question is not simply whether Erelmor will find Ervain Megbanas.
 - [[05 Campaign Chronicle/Session 23 - Ettins, Owlbears, and Betting Losses|Session 23]]
 - [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]]
 - [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]]
+- [[05 Campaign Chronicle/Session 27 - Gayles Warning and the Dandruff Lab|Session 27]]

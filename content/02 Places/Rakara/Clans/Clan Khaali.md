@@ -16,7 +16,7 @@ region: Rakara
 clan: Khaali
 leader: Sifaya Flameborn
 source_date: 2025-07-05
-updated: 2026-10-13
+updated: 2026-11-17
 ---
 
 # Clan Khaali
@@ -61,6 +61,12 @@ Other powers treat Khaali carefully because of **the Tide of Flame**. During tha
 - **Orvak and Erzhin:** respected but considered too withdrawn or academic to be completely trusted in a crisis.
 - **Perfid:** relations are tense. The Church of Elgira regards Khaali fire worship as heresy, and Sifaya has rebuked missionary efforts.
 - **Somnolent:** profitable but watched warily. Its independence is viewed by some as evidence that Anthea never fully united Rakara.
+
+## Campaign connection — the Fire Mages
+
+Enrak and [[03 People/Notable Figures/Karessa Val|Karessa Val]] were friends and rivals among the [[04 Organisations/Khaali Fire Mages|Khaali Fire Mages]]. Karessa was encountered at the Southern laboratory; she reported threats to the alchemists’ families in Khaali territory. This does not establish clan leadership involvement.
+
+See [[05 Campaign Chronicle/Session 27 - Gayles Warning and the Dandruff Lab|Session 27]].
 
 ## Related pages
 

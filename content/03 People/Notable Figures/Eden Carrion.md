@@ -14,10 +14,10 @@ ancestry: 'Human'
 gender: 'Female'
 role: 'Voruun liaison and Loyal Crow'
 current_status: missing
-last_known_location: 'Unknown'
+last_known_location: "Stone Pass (reported sighting); present whereabouts unknown"
 source: 'Campaign notes.docx'
-additional_source: Session 25
-updated: 2026-10-22
+additional_source: "Session 25; Session 27"
+updated: 2026-11-17
 ---
 
 # Eden Carrion
@@ -36,7 +36,13 @@ The record also establishes that Eden survived an earlier visit to [[02 Places/R
 
 Eden was present alongside [[03 People/Notable Figures/Summer Quaresh|Summer Quaresh]] when Prusset died in custody. Both women subsequently vanished. Researchers [[03 People/Bastion Staff/Gudren Flint|Gudren Flint]] and [[03 People/Bastion Staff/Caelen Briar|Caelen Briar]] found a possible sighting of a pair matching their descriptions in a region where magic is naturally dampened. This offers a plausible explanation for Caelen's failed magical search, **not confirmation of their identities or location**.
 
-Further records connect Eden to a meeting with Erzhin stonecutter [[03 People/Mentioned Figures/Tessa Betu|Tessa Betu]], an alleged contact with Father Zantos that he cannot recall, and private meetings involving Eula and Galt. These are investigative leads, not proof that every contact belonged to the Loyal Crows. Gayle Bramble and Job Ashmere left to investigate; Gayle later returned gravely injured without a recorded account of their mission, and Job's whereabouts remain unknown.
+Further records connect Eden to a meeting with Erzhin stonecutter [[03 People/Mentioned Figures/Tessa Betu|Tessa Betu]], an alleged contact with Father Zantos that he cannot recall, and private meetings involving Eula and Galt. These are investigative leads, not proof that every contact belonged to the Loyal Crows. Gayle Bramble and Job Ashmere left to investigate; Gayle later returned gravely injured; her account of the mission is recorded below.
+
+## The Stone Pass sighting
+
+Gayle Bramble reported seeing Eden alongside Summer at [[02 Places/Rakara/Stone Pass|Stone Pass]]. Both appeared deathly pale when Job called to them, shortly before the watch was surrounded by undead apparently directed by a dark-coated figure. Gayle escaped; Job and the other watch members remain missing. This establishes a reported sighting, **not that either Crow controlled the undead or was responsible for the ambush**. Their present whereabouts remain unknown.
+
+See [[05 Campaign Chronicle/Session 27 - Gayles Warning and the Dandruff Lab|Session 27]].
 
 ## Chronicle references
 
@@ -46,6 +52,7 @@ Further records connect Eden to a meeting with Erzhin stonecutter [[03 People/Me
 - [[Session 12-14 - Fire, Faith and the Corona of the Ashen Choir]]
 - [[05 Campaign Chronicle/Session 24 - Pies, Pike and a one ball blaze|Session 24]]
 - [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]]
+- [[05 Campaign Chronicle/Session 27 - Gayles Warning and the Dandruff Lab|Session 27]]
 
 ## Related pages
 

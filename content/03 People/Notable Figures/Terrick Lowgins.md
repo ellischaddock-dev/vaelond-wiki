@@ -15,8 +15,8 @@ role: 'Hunter of Somnolent'
 current_status: 'alive'
 last_known_location: 'Somnolent'
 source: 'Campaign notes.docx'
-additional_source: Session 25
-updated: 2026-10-22
+additional_source: "Session 25; Session 27"
+updated: 2026-11-17
 ---
 
 # Terrick Lowgins
@@ -33,6 +33,12 @@ Terrick witnessed the danger surrounding Buggie's displaced camp and survived th
 
 Back in Somnolent, Terrick's relationship with his brother [[03 People/Bastion Staff/Derrick Lowgins|Derrick Lowgins]] came to a public crisis. Terrick accused Derrick of stealing from his family. This remains **an allegation rather than a proven theft**. Ballar violently intervened and threw Terrick through the building and a window. Terrick survived the immediate attack, although its further personal and legal consequences have not been recorded.
 
+## The assault raised with Ballar
+
+Romayne raised Ballar’s assault on Terrick and the broken window. Ballar argued that he was defending Derrick against abuse; Romayne maintained that the allegations should be investigated through proper channels and did not excuse the assault. No finding concerning the alleged abuse or formal punishment is recorded.
+
+See [[05 Campaign Chronicle/Session 27 - Gayles Warning and the Dandruff Lab|Session 27]].
+
 ## Chronicle references
 
 - [[Session 01 - Die Dog, Die]]
@@ -45,6 +51,7 @@ Back in Somnolent, Terrick's relationship with his brother [[03 People/Bastion S
 - [[Session 15 - Stewards, Saddles and Shambling Roots]]
 - [[Session 12-14 - Fire, Faith and the Corona of the Ashen Choir]]
 - [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]]
+- [[05 Campaign Chronicle/Session 27 - Gayles Warning and the Dandruff Lab|Session 27]]
 
 ## Related pages
 

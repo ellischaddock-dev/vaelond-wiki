@@ -11,13 +11,13 @@ tags:
   - campaign
   - reference
   - goals
-coverage: Sessions 1-26
-updated: 2026-10-22
+coverage: Sessions 1-27
+updated: 2026-11-17
 ---
 
 # Open Threads
 
-A record of the Defracturers' outstanding objectives and the consequences of earlier choices, current through **Session 26**.
+A record of the Defracturers' outstanding objectives and the consequences of earlier choices, current through **Session 27**.
 
 - **Active:** Pursued, discussed or materially advanced in recent sessions.
 - **Inactive:** Unresolved but not currently being pursued.
@@ -28,52 +28,83 @@ A record of the Defracturers' outstanding objectives and the consequences of ear
 
 ## Active threads
 
+### Recover Job and the missing watch
+
+**Urgency:** 5 — Very high  
+**Theme:** Somnolent / Stone Pass
+
+**Objective:** Locate Job and the other watch members and rescue any survivors.
+
+**Current position:** Gayle escaped the undead ambush at [[02 Places/Rakara/Stone Pass|Stone Pass]]; Job and his companions held back the attackers. Their condition is unknown. Romayne requested help, but the party went to the laboratory first.
+
+**Key history:**
+- Gayle reached the Bastion injured and described the encounter after Mariasz healed her.
+
+**Last development:** [[05 Campaign Chronicle/Session 27 - Gayles Warning and the Dandruff Lab|Session 27]].
+
+---
+
+### Secure the alchemists and their families
+
+**Urgency:** 4 — High  
+**Theme:** Broken Fang / Karessa
+
+**Objective:** Determine protection and evacuation arrangements for the alchemists and their families.
+
+**Current position:** Karessa and Pella cooperated against the guards; Davos appeared willing to leave. Proposed staged deaths and alternative employment are not final; no family has been secured.
+
+**Key history:**
+- Karessa reported threats from Rhul and Prodosius; Pella was reluctant to leave a profitable operation.
+
+**Last development:** [[05 Campaign Chronicle/Session 27 - Gayles Warning and the Dandruff Lab|Session 27]].
+
+---
+
+### Resolve obligations to Somnolent
+
+**Urgency:** 4 — High  
+**Theme:** Patronage / Bastion
+
+**Objective:** Clarify staff requisition, conduct, assignments and custody of relics with Romayne.
+
+**Current position:** Romayne confronted the party over staff use, Terrick’s assault and dangerous artefacts. No formal suspension or termination occurred.
+
+**Key history:**
+- Alaaric cited the existing contract; Ballar voluntarily entered and then left the Shackles.
+
+**Last development:** [[05 Campaign Chronicle/Session 27 - Gayles Warning and the Dandruff Lab|Session 27]].
+
+---
+
 ### Find Eden Carrion and Summer Quaresh
 
-**Urgency:** 5 â€” Very high  
+**Urgency:** 5 — Very high  
 **Theme:** Anthea Bloodclot / Loyal Crows
 
 **Objective:** Locate [[03 People/Notable Figures/Eden Carrion|Eden Carrion]] and [[03 People/Notable Figures/Summer Quaresh|Summer Quaresh]] and establish their precise involvement in [[03 People/Notable Deceased/Alistair Prusset|Alistair Prusset's]] death.
 
-**Current position:** Attend to [[03 People/Notable Figures/Gayle Bramble|Gayle Bramble]], who collapsed injured and unconscious on the Bastion steps. Find out what happened to her and [[03 People/Notable Figures/Job Ashmere|Job Ashmere]] during their search.
+**Current position:** Gayle is recovering and reported a sighting at [[02 Places/Rakara/Stone Pass|Stone Pass]]. Both fugitives appeared pale when Job approached; undead then surrounded the watch. Their current location and role are unknown.
 
 **Key history:**
 - Eden and Summer fled Somnolent after Prusset was killed while in custody. Their presence and suspected involvement do not, by themselves, establish who struck the fatal blow.
 - [[03 People/Bastion Staff/Caelen Briar|Caelen Briar]] and [[03 People/Bastion Staff/Gudren Flint|Gudren Flint]] matched an unconfirmed sighting to an area where old records describe naturally dampened magic. Their research did **not** confirm the fugitives' exact whereabouts.
 - Gayle and Job left Somnolent to investigate that lead.
-- Gayle has returned alone, injured and unconscious; Job's present whereabouts and the outcome of the search remain unknown.
+- Gayle returned alone, injured and unconscious in Session 26; her account followed in Session 27.
 
-**Last development:** [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
+- Gayle described the ambush in Session 27; a separate rescue thread concerns Job and the watch.
 
----
-
-### Revive Mireya Dinak
-
-**Urgency:** 4 â€” High  
-**Theme:** Bastion / Mireya Dinak
-
-**Objective:** Restore [[03 People/Notable Figures/Mireya Dinak|Mireya Dinak]] to life, if an eligible spell and suitable material component are available.
-
-**Current position:** Mireya remains dead, with her body brought back to Somnolent. [[03 People/Notable Figures/Elmwood Bluevine|Elmwood Bluevine]] has offered help. Ballar purchased two diamonds for a combined **575 gp**, intending to use one for Mireya and reserve the other. Before attempting *Revivify*, confirm the chosen diamond's value and the duration or renewal of *Gentle Repose* with the DM.
-
-**Key history:**
-- The Defracturers rescued Mireya from ogres who had killed her husband. She then watched the party's horses during their exploration of [[02 Places/Rakara/Rana Viam|Rana Viam]].
-- [[03 People/Notable Deceased/Ulsar Quinn|Ulsar Quinn]] captured her during the Broken Fang's theft of the mounts. She died in the fire that consumed his camp.
-- Ballar recovered her remains and cast *Gentle Repose* in Session 21, intending to secure the time and resources for resurrection.
-- The chronicle does not establish whether preservation was renewed over the intervening weeks or whether either individual diamond meets the spell's component requirement. No resurrection has yet occurred.
-
-**Last development:** [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
+**Last development:** [[05 Campaign Chronicle/Session 27 - Gayles Warning and the Dandruff Lab|Session 27]].
 
 ---
 
 ### Find Prodosius and confront the Broken Fang
 
-**Urgency:** 3 â€” Medium  
+**Urgency:** 3 — Medium  
 **Theme:** Broken Fang / n'Dong
 
 **Objective:** Trace the Broken Fang's operations through [[03 People/Notable Figures/Rhul Slowdrift|Rhul Slowdrift]] towards [[03 People/Notable Figures/Prodosius|Prodosius]], whom n'Dong seeks for the harm done to him and his family.
 
-**Current position:** Follow the Dazuun fighting-pit leads, particularly Rhul and booking agent [[03 People/Mentioned Figures/Oruc|Oruc]]. [[03 People/Mentioned Figures/Yama and Spopovich|Yama and Spopovich]] are potential informants, although their claims are not independently verified.
+**Current position:** The party has reached [[02 Places/Rakara/Dragon's Dandruff Laboratory|the laboratory]]; Karessa alleges threats by Rhul and Prodosius. The Dazuun and Oruc leads remain open.
 
 **Key history:**
 - The Broken Fang have expanded their activities into Rakara; the party destroyed lieutenant Ulsar Quinn's camp.
@@ -81,18 +112,20 @@ A record of the Defracturers' outstanding objectives and the consequences of ear
 - [[03 People/Notable Figures/Antoinne Cassan|Antoinne Cassan]] used the [[02 Places/Rakara/Somnolent/One Ball Inn|One Ball Inn]] in connection with Broken Fang fencing and contraband.
 - In Session 26, former pit fighters Yama and Spopovich alleged that Oruc arranged fights and received payment from Rhul to fix matches.
 
-**Last development:** [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
+- Four laboratory guards were defeated, but the operation has not been destroyed.
+
+**Last development:** [[05 Campaign Chronicle/Session 27 - Gayles Warning and the Dandruff Lab|Session 27]].
 
 ---
 
 ### Identify the remaining Loyal Crows
 
-**Urgency:** 3 â€” Medium  
+**Urgency:** 3 — Medium  
 **Theme:** Anthea Bloodclot / Loyal Crows
 
 **Objective:** Establish the surviving members, associates and objectives of [[04 Organisations/Loyal Crows|Anthea's Loyal Crows]].
 
-**Current position:** Investigate the three research trails uncovered by Gudren and Caelen; **none of the newly identified people is a confirmed Crow**.
+**Current position:** Investigate the three existing research trails and the undead ambush at [[02 Places/Rakara/Stone Pass|Stone Pass]]. No new Crow identity or link between Eula/Galt and the ambush is established.
 
 **Key history:**
 - **Known Crows:** Eden Carrion and Summer Quaresh.
@@ -101,18 +134,18 @@ A record of the Defracturers' outstanding objectives and the consequences of ear
 - **Eula and Galt (formerly of Voruun):** figures linked to necromancy and repeated private meetings with Eden and Summer; their actual allegiance is unknown.
 - Anthea's recovered note refers to three dead Crows and only Anthea and Eden remaining at that time. How that statement fits Summer's membership remains unresolved.
 
-**Last development:** [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]].
+**Last development:** [[05 Campaign Chronicle/Session 27 - Gayles Warning and the Dandruff Lab|Session 27]].
 
 ---
 
 ### Locate the Sundering relics and determine their fate
 
-**Urgency:** 3 â€” Medium  
+**Urgency:** 3 — Medium  
 **Theme:** Ardynia / Sundering
 
 **Objective:** Locate and understand the artefacts used in the Sundering, then decide whether they should be recovered, secured or otherwise dealt with.
 
-**Current position:** Examine the still-unopened [[06 Library/Ardynian Relics and Artefacts/Rana Viam scroll|Rana Viam scroll]], decide what to do with the unattuned [[06 Library/Ardynian Relics and Artefacts/Bands of Distortion|Bands of Distortion]], and consider returning to [[02 Places/Rakara/Tace Nox|Tace Nox]] to test the theory that a hidden anchor holds the [[06 Library/Ardynian Relics and Artefacts/Staff of Broken Time|Staff of Broken Time]] in place.
+**Current position:** Romayne requested review and possible secure custody in Alaaric’s safe. The party has not handed over any relics; the Bands remain unattuned, Rana Viam scroll unopened and Staff anchor unproven.
 
 **Key history:**
 - At Tace Nox, the party found the Staff but could not remove it; they retained a scroll subsequently activated by Elmwood.
@@ -120,37 +153,41 @@ A record of the Defracturers' outstanding objectives and the consequences of ear
 - The Tace Nox scroll revealed Elgira's memory of the Sundering and **ten ritual objects: five Coronas and five other artefacts**.
 - The heart stone suggests a possible anchor mechanism, but no equivalent anchor has been found for the Staff. The party has not agreed whether gathering all these dangerous objects is desirable.
 
-**Last development:** [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
+- Romayne raised custody of dangerous relics in Session 27.
+
+**Last development:** [[05 Campaign Chronicle/Session 27 - Gayles Warning and the Dandruff Lab|Session 27]].
 
 ---
 
-### Investigate the Dragon's Dandruff supply
+### Dismantle the Dragon's Dandruff operation
 
-**Urgency:** 2 â€” Low  
+**Urgency:** 5 — Very high  
 **Theme:** Broken Fang / Dragon's Dandruff
 
-**Objective:** Identify the production and supply chain feeding [[06 Library/Campaign Reference/Dragon's Dandruff|Dragon's Dandruff]] into the Dazuun fighting pits.
+**Objective:** Disable the production site and determine how to prevent production resuming and interrupt the supply to Dazuun.
 
-**Current position:** Investigate [[03 People/Mentioned Figures/Karessa|Karessa]], identified by Yama and Spopovich as a three-fingered Khaali woman supplying them. Determine whether the alchemists and laboratory south of Somnolent are connected to the farm on the map recovered from the One Ball; **that connection has not been established**.
+**Current position:** The farm on the One Ball map is [[02 Places/Rakara/Dragon's Dandruff Laboratory|the laboratory]]. Four guards have fallen, but the alchemists and remaining stock are still there and the laboratory is intact.
 
 **Key history:**
 - Ulsar Quinn described three Khaali alchemists operating south of Somnolent and supplying the fighting pits.
 - The party found a partially burned map to a farm and its rear barn in the cellar beneath the burned One Ball Inn.
 - Yama and Spopovich identified Karessa as their source and said the drug was widespread among Dazuun fighters.
-- The reported supplier, the alchemists and the mapped farm are promising leads, not yet a proven single operation.
+- These were initially separate leads; following the map in Session 27 confirmed the farm as the laboratory and Karessa as one of its alchemists.
 
-**Last development:** [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
+- The party identified Karessa, Pella and Davos; Ieuan destroyed the recipe, and staged deaths were proposed.
+
+**Last development:** [[05 Campaign Chronicle/Session 27 - Gayles Warning and the Dandruff Lab|Session 27]].
 
 ---
 
 ### Find the Old Grey Pike
 
-**Urgency:** 2 â€” Low  
+**Urgency:** 2 — Low  
 **Theme:** Erelmor / Ashenhom
 
 **Objective:** Find [[03 People/Notable Figures/Ervain Megbanas|Ervain Megbanas]], the Old Grey Pike, and uncover his actual role in the destruction of [[02 Places/Doro/Ashenhom|Ashenhom]] and the death of Erelmor's family.
 
-**Current position:** Erelmor wishes to confront Ervain but does not have a reliable location. **The Bastion staff know that Ervain left Somnolent during the party's absence; this has not been passed to Erelmor in the recorded account.**
+**Current position:** Erelmor now knows Ervain left Somnolent. Alaaric confirmed he informed Mariasz before the One Ball fire. Ervain’s whereabouts are unknown.
 
 **Key history:**
 - Ervain is a disgraced former Doroan commander whose reputation was damaged by Ashenhom's destruction; his direct responsibility for the murders remains uncertain.
@@ -158,13 +195,13 @@ A record of the Defracturers' outstanding objectives and the consequences of ear
 - Alaaric informed the Bastion of his departure during Session 24, without giving a destination.
 - Erelmor's desire for vengeance remains, but his confidence was shaken by the events of Session 26.
 
-**Last development:** [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]] (Erelmor's resolve); [[05 Campaign Chronicle/Session 24 - Pies, Pike and a one ball blaze|Session 24]] (Ervain's whereabouts).
+**Last development:** [[05 Campaign Chronicle/Session 27 - Gayles Warning and the Dandruff Lab|Session 27]].
 
 ---
 
 ### Understand the Church of Elgira's intentions
 
-**Urgency:** 1 â€” Very low  
+**Urgency:** 1 — Very low  
 **Theme:** Perfid / Church of Elgira / Anthea Bloodclot
 
 **Objective:** Establish why the Church targeted Anthea and what it intends to do with its recovered Ardynian artefact.
@@ -181,9 +218,9 @@ A record of the Defracturers' outstanding objectives and the consequences of ear
 
 ---
 
-### Assess the rumoured Doroâ€“Perfid peace initiative
+### Assess the rumoured Doro–Perfid peace initiative
 
-**Urgency:** 1 â€” Very low  
+**Urgency:** 1 — Very low  
 **Theme:** Doro / Perfid / House Nirrell
 
 **Objective:** Discover whether peace negotiations are actually being pursued, and how they might affect [[02 Places/Doro/Noble Houses/House Nirrell|House Nirrell]] and Ballar's family.
@@ -202,12 +239,12 @@ A record of the Defracturers' outstanding objectives and the consequences of ear
 
 ### Investigate the One Ball Inn fire and Antoinne's disappearance
 
-**Urgency:** 1 â€” Very low  
+**Urgency:** 2 — Low  
 **Theme:** Somnolent / Broken Fang
 
 **Objective:** Establish what happened to [[03 People/Notable Figures/Antoinne Cassan|Antoinne Cassan]], who burned the [[02 Places/Rakara/Somnolent/One Ball Inn|One Ball Inn]], and how the creatures beneath it came to be there.
 
-**Current position:** Follow the surviving evidence from Antoinne's office, the vials marked **"slaadpole"**, and the burned map leading to an unidentified farm's rear barn. No person or faction has been proven responsible for the fire or the creatures.
+**Current position:** The burned map led to [[02 Places/Rakara/Dragon's Dandruff Laboratory|the laboratory]]; a slaad-like creature was killed en route. The cause of the fire, Antoinne’s fate and origin of the cellar creatures remain unknown.
 
 **Key history:**
 - The One Ball served a Broken Fang-connected fencing operation; n'Dong and Erelmor killed Sunshine and Loup, men associated with that network.
@@ -215,13 +252,13 @@ A record of the Defracturers' outstanding objectives and the consequences of ear
 - The inn then burned to the ground, and Session 25 revealed gibbering mouthers and slaad tadpoles in its cellar. Three trapped residents died and some tadpoles escaped.
 - The mapped farm is a concrete lead, but its connection to the fire, the creatures or the Dragon's Dandruff operation remains uncertain.
 
-**Last development:** [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]].
+**Last development:** [[05 Campaign Chronicle/Session 27 - Gayles Warning and the Dandruff Lab|Session 27]].
 
 ---
 
 ### Awaken Ieuan's Star Seed
 
-**Urgency:** 1 â€” Very low  
+**Urgency:** 1 — Very low  
 **Theme:** Ieuan / Star Seed
 
 **Objective:** Complete the remaining stage of understanding needed to awaken [[06 Library/Relics and Artefacts/Star Seed|the Star Seed]].
@@ -300,14 +337,14 @@ A record of the Defracturers' outstanding objectives and the consequences of ear
 
 **Objective:** Recover any remaining intelligence about Ulsar Quinn's camp and its wider Broken Fang network.
 
-**Current position:** The camp and much of its evidence burned. The deceased scout remains a possible source of information only if a suitable method becomes available; **the party has established he is beyond the *Revivify* window** and has not allocated its new diamonds to him.
+**Current position:** Ballar tasked Derrick with burying the deceased scout, who was beyond the Revivify window. Burial remains unconfirmed; no further interrogation of this scout is planned. Other Broken Fang threads remain active.
 
 **Key history:**
 - Ulsar was killed when the Broken Fang camp was destroyed.
 - A scout's remains were retained because Ballar hoped the party could question him.
 - In Session 25 the party discussed resurrection with Elmwood, but in Session 26 it instead committed the intended resurrection diamond to Mireya and kept the second as a reserve.
 
-**Last development:** [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
+**Last development:** [[05 Campaign Chronicle/Session 27 - Gayles Warning and the Dandruff Lab|Session 27]].
 
 ---
 
@@ -382,27 +419,48 @@ A record of the Defracturers' outstanding objectives and the consequences of ear
 
 ## Offscreen threads
 
+### Revive Mireya Dinak
+
+**Urgency:** 4 — High  
+**Theme:** Bastion / Mireya Dinak
+
+**Objective:** Restore [[03 People/Notable Figures/Mireya Dinak|Mireya Dinak]] to life, if an eligible spell and suitable material component are available.
+
+**Current position:** Mireya remains dead. Ballar tasked Derrick with delivering her body and a diamond to Elmwood; delivery and restoration remain unconfirmed. Verify the diamond value and Gentle Repose timing before assuming the spell is eligible.
+
+**Key history:**
+- The Defracturers rescued Mireya from ogres who had killed her husband. She then watched the party's horses during their exploration of [[02 Places/Rakara/Rana Viam|Rana Viam]].
+- [[03 People/Notable Deceased/Ulsar Quinn|Ulsar Quinn]] captured her during the Broken Fang's theft of the mounts. She died in the fire that consumed his camp.
+- Ballar recovered her remains and cast *Gentle Repose* in Session 21, intending to secure the time and resources for resurrection.
+- The chronicle does not establish whether preservation was renewed over the intervening weeks or whether either individual diamond meets the spell's component requirement. No resurrection has yet occurred.
+
+- Derrick was given the task in Session 27; work now proceeds offscreen.
+
+**Last development:** [[05 Campaign Chronicle/Session 27 - Gayles Warning and the Dandruff Lab|Session 27]].
+
+---
+
 ### Track the escaped slaad tadpoles
 
-**Urgency:** 2 â€” Low  
+**Urgency:** 2 — Low  
 **Theme:** Somnolent / One Ball Inn
 
 **Objective:** Determine what became of the creatures that escaped the ruined One Ball Inn, and whether they present a continuing danger.
 
-**Current position:** Several slaad tadpoles escaped after the cellar battle. Their whereabouts are unknown; no subsequent sightings are documented.
+**Current position:** A slaad-like creature was killed at a river crossing in Session 27. Its relationship to the escaped tadpoles is unproven; their whereabouts remain unknown.
 
 **Key history:**
 - The party encountered slaad tadpoles and gibbering mouthers in the cellar beneath the burned inn.
 - Broken vials labelled **"slaadpole"** suggest that some creatures had been contained or transported.
 - The session describes the escaped tadpoles **burrowing away**; it does not establish that they swam through sewers or who brought them there.
 
-**Last development:** [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]].
+**Last development:** [[05 Campaign Chronicle/Session 27 - Gayles Warning and the Dandruff Lab|Session 27]].
 
 ---
 
 ### Await Ballar's search animals and the escaped goblin
 
-**Urgency:** 1 â€” Very low  
+**Urgency:** 1 — Very low  
 **Theme:** Thistlewound / Rootbound
 
 **Objective:** Recover the goblin witness to the attack on Buggie's camp and learn what the goblin knows.
@@ -421,7 +479,7 @@ A record of the Defracturers' outstanding objectives and the consequences of ear
 
 ### Await Malt's search for a Pot of Awakening
 
-**Urgency:** 1 â€” Very low  
+**Urgency:** 1 — Very low  
 **Theme:** Bushtache / Ballar
 
 **Objective:** Learn whether Malt can obtain a Pot of Awakening for **Bushtache**, the cabbage Ballar spoke to.
@@ -439,7 +497,7 @@ A record of the Defracturers' outstanding objectives and the consequences of ear
 
 ### Determine what becomes of Plague in Eula's possession
 
-**Urgency:** 3 â€” Medium  
+**Urgency:** 3 — Medium  
 **Theme:** Plague / Eula
 
 **Objective:** Determine whether [[Plague|Plague]] spreads through the infected body Eula collected, and what Eula might do with it.
@@ -578,7 +636,7 @@ A record of the Defracturers' outstanding objectives and the consequences of ear
 
 ### Break into Alaaric's safe
 
-**Urgency:** Closed â€” failed  
+**Urgency:** Closed — failed  
 **Theme:** Bastion / Alaaric Hammerfall
 
 **Objective:** Open [[03 People/Notable Figures/Alaaric Hammerfall|Alaaric Hammerfall's]] secured safe.

@@ -16,7 +16,7 @@ region: Rakara
 clan: Voruun
 leader: Relka of the Chain-Eye
 source_date: 2025-07-07
-updated: 2026-07-08
+updated: 2026-11-17
 ---
 
 # Clan Voruun
@@ -36,7 +36,7 @@ updated: 2026-07-08
 The sigil of Clan Voruun bears a **silver serpent passing through a broken chain on a dark bronze shield**, backed by an angular sunburst. It presents liberation and progress, although critics see opportunism and unchecked ambition.
 
 - **Serpent:** cleverness, patience and deadly precision.
-- **Broken chain:** strength through liberationâ€”and rejection of unity or tradition when convenient.
+- **Broken chain:** strength through liberation—and rejection of unity or tradition when convenient.
 - **Sunburst:** innovation and a dawning era, with a sharpness that can resemble self-righteous ambition.
 
 ## Background
@@ -71,6 +71,12 @@ Voruun casts a long and hungry shadow. It leads Rakara in wealth, movement and c
 ## Current campaign significance
 
 After Session 21, the Defracturers learned that [[03 People/Notable Figures/Rhul Slowdrift|Rhul Slowdrift]] has taken control of Dazuun's fighting pits as part of a [[04 Organisations/Broken Fang|Broken Fang]] operation. [[03 People/Notable Deceased/Ulsar Quinn|Ulsar Quinn]] also claimed that pit contestants are being supplied with [[06 Library/Campaign Reference/Dragon's Dandruff|Dragon's Dandruff]], a stimulant produced by three Khaali alchemists from a lab south of Somnolent.
+
+## Session 27 — supply operation
+
+The Defracturers discovered [[02 Places/Rakara/Dragon's Dandruff Laboratory|the laboratory]], the production site associated with Rhul’s reported Dazuun operation. No evidence establishes that Voruun’s leadership authorises the Broken Fang activity.
+
+See [[05 Campaign Chronicle/Session 27 - Gayles Warning and the Dandruff Lab|Session 27]].
 
 ## Related pages
 

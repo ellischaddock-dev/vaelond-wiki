@@ -10,8 +10,8 @@ tags:
 role: 'Steward'
 current_status: 'alive'
 source: 'Campaign notes and Session 24'
-additional_source: Session 25
-updated: 2026-10-22
+additional_source: "Session 25; Session 27"
+updated: 2026-11-17
 ---
 
 # Derrick Lowgins
@@ -30,11 +30,18 @@ The Defracturers' return brought a worse ordeal. Angered that the Crimson Shield
 
 Terrick later accused Derrick of stealing from his family, a claim not independently confirmed. Ballar's violent intervention injured Terrick and further exposed the household's instability. n'Dong later considered asking Derrick to discreetly deliver a package to two Dazuun fighters but withdrew it before Derrick carried out the errand. Derrick's personal perspective on these events is only partly recorded.
 
+## Two bodies, two instructions
+
+Ballar defended Derrick during Romayne’s discussion of the Terrick assault. He later instructed Derrick to bury the deceased Broken Fang scout and take Mireya’s preserved body and a diamond to Elmwood. Derrick first dragged the burned body into Gayle’s room. Neither task is confirmed complete.
+
+See [[05 Campaign Chronicle/Session 27 - Gayles Warning and the Dandruff Lab|Session 27]].
+
 ## Chronicle references
 
 - [[05 Campaign Chronicle/Session 15 - Stewards, Saddles and Shambling Roots|Session 15 - Stewards, Saddles and Shambling Roots]]
 - [[05 Campaign Chronicle/Session 24 - Pies, Pike and a one ball blaze|Session 24]]
 - [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]]
+- [[05 Campaign Chronicle/Session 27 - Gayles Warning and the Dandruff Lab|Session 27]]
 
 ## Related pages
 

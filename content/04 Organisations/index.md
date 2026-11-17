@@ -7,7 +7,7 @@ tags:
   - index
   - organisations
   - campaign
-updated: 2026-10-03
+updated: 2026-11-17
 ---
 
 # Organisations
@@ -21,6 +21,12 @@ updated: 2026-10-03
 - — [[04 Organisations/Loyal Crows|Loyal Crows]] — **Followers of Anthea Bloodclot**; Eden, Summer, the Prusset operation and missing agents.
 - — [[04 Organisations/The Defracturers|The Defracturers]] — **Somnolent**; the player party under Romayne Drayton's patronage.
 - — [[04 Organisations/Crimson Shield|Crimson Shield]] — independent adventuring company led by Orrian Leovyre.
+
+## Khaali Fire Mages
+
+- [[04 Organisations/Khaali Fire Mages|Khaali Fire Mages]] — fire-mage tradition associated with Enrak and Karessa.
+
+See [[05 Campaign Chronicle/Session 27 - Gayles Warning and the Dandruff Lab|Session 27]].
 
 ## Regional organisations and political structures
 

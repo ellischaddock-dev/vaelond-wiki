@@ -14,7 +14,7 @@ tags:
 affiliation: 'Anthea Bloodclot'
 source: 'Campaign notes.docx'
 additional_source: Session 25
-updated: 2026-10-13
+updated: 2026-11-17
 ---
 # Loyal Crows
 
@@ -41,7 +41,7 @@ During the Defracturers' absence, the Bastion became a temporary base for renewe
 
 [[03 People/Bastion Staff/Caelen Briar|Caelen Briar]] attempted sympathetic magic using possessions associated with them but received only magical static. A reported sighting was later matched by [[03 People/Bastion Staff/Gudren Flint|Gudren Flint]] and Caelen to an area described in old records as naturally dampening magic. The lead was strong enough for Job Ashmere and Gayle Bramble to prepare to leave Somnolent in pursuit.
 
-The sighting has not yet been confirmed, and neither missing Crow has been recovered.
+Gayle later reported seeing the pair in Stone Pass; neither missing Crow has been recovered.
 
 ## Session 25 — additional leads
 
@@ -54,6 +54,12 @@ Gudren and Caelen briefed the returned Defracturers on three research trails:
 These are **research leads, not confirmed members**. The missing Crows' whereabouts and the faction's full membership remain unresolved.
 
 See [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]].
+
+## The Stone Pass ambush
+
+Gayle reported seeing Eden and Summer at [[02 Places/Rakara/Stone Pass|Stone Pass]]; both appeared pale when Job called out, just before undead surrounded the watch. A dark-coated figure appeared to direct them. Job and the other watch members remain missing. This is a new lead, not evidence of who controlled the undead or that Eula or Galt were involved.
+
+See [[05 Campaign Chronicle/Session 27 - Gayles Warning and the Dandruff Lab|Session 27]].
 
 ## Related
 

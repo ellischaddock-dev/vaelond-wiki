@@ -11,8 +11,8 @@ tags:
   - bastion
   - somnolent
 location: Somnolent
-source: Signed Instrument of Patronage & Service and session chronicle through Session 26
-updated: 2026-10-20
+source: Signed Instrument of Patronage & Service and session chronicle through Session 27
+updated: 2026-11-17
 ---
 
 # The Defracturers' Bastion
@@ -25,7 +25,7 @@ The company holds the Bastion as the **exclusive residence and operational base 
 
 | Subject | Contract position |
 |---|---|
-| **Patron** | [[03 People/Notable Figures/Romayne Drayton|Romayne Drayton]] acting for Somnolent (Sections 1â€“2) |
+| **Patron** | [[03 People/Notable Figures/Romayne Drayton|Romayne Drayton]] acting for Somnolent (Sections 1–2) |
 | **Base and ordinary costs** | Residence, basic staff, routine maintenance, basic food and drink on the premises (Section 3) |
 | **Monthly stipend** | Handwritten amount appears to be **1,000 gold per month for the company**; consult the signed copy to verify (Section 7.1) |
 | **Immunity** | Ambassador-equivalent **within Somnolent**, with serious limits and emergency-entry exception (Section 4) |
@@ -33,27 +33,27 @@ The company holds the Bastion as the **exclusive residence and operational base 
 | **Ordinary loot** | Coins and common items acquired on commission remain with the party (first Section 7.3) |
 | **Unusual or magical loot** | Uncommon/rare/wondrous finds require declaration within **24 hours of return**; unknown magic needs approved study and interim Silent Court custody (second Section 7.3 and Section 7.4) |
 | **Saleable property** | Patron exchange **60%** of fair value; lawful sale: party keeps **70% of proceeds or half of fair face value, whichever is higher**; account/remit remainder within seven days (Section 7.3) |
-| **Conduct and termination** | Staff abuse prohibited; a formally declared Rogue Act can suspend immunity and support immediate termination (Sections 10â€“11) |
+| **Conduct and termination** | Staff abuse prohibited; a formally declared Rogue Act can suspend immunity and support immediate termination (Sections 10–11) |
 
 The contract also provides a three-day walk-away period, an eligible prior-offences pardon covering the 24 hours preceding signature, post-grace termination notice and post-termination handover/financial provisions. The full qualifications are on the linked document page.
 
 ## Household leadership
 
-- [[03 People/Bastion Staff/Mariasz Salhum|Mariasz Salhum]] Ã¢â‚¬â€ Head Steward
+- [[03 People/Bastion Staff/Mariasz Salhum|Mariasz Salhum]] — Head Steward
 
 ## Other staff
 
-- [[03 People/Bastion Staff/Joe-Seff Gorbels|Joe-Seff Gorbels]] Ã¢â‚¬â€ Cook and coffee mage
-- [[03 People/Bastion Staff/Igon Duft|Igon Duft]] Ã¢â‚¬â€ Cook
-- [[03 People/Bastion Staff/Derrick Lowgins|Derrick Lowgins]] Ã¢â‚¬â€ Steward
-- [[03 People/Bastion Staff/Ghorgadush|Ghorgadush]] Ã¢â‚¬â€ Steward
+- [[03 People/Bastion Staff/Joe-Seff Gorbels|Joe-Seff Gorbels]] — Cook and coffee mage
+- [[03 People/Bastion Staff/Igon Duft|Igon Duft]] — Cook
+- [[03 People/Bastion Staff/Derrick Lowgins|Derrick Lowgins]] — Steward
+- [[03 People/Bastion Staff/Ghorgadush|Ghorgadush]] — Steward
 
 ## Research support
 
 During the Defracturers' extended absence, two additional researchers were attached to the Bastion:
 
-- [[03 People/Bastion Staff/Gudren Flint|Gudren Flint]] Ã¢â‚¬â€ a meticulous clerk supplied by [[03 People/Notable Figures/Alaaric Hammerfall|Alaaric Hammerfall]].
-- [[03 People/Bastion Staff/Caelen Briar|Caelen Briar]] Ã¢â‚¬â€ [[03 People/Notable Figures/Elmwood Bluevine|Elmwood Bluevine]]'s apprentice mage.
+- [[03 People/Bastion Staff/Gudren Flint|Gudren Flint]] — a meticulous clerk supplied by [[03 People/Notable Figures/Alaaric Hammerfall|Alaaric Hammerfall]].
+- [[03 People/Bastion Staff/Caelen Briar|Caelen Briar]] — [[03 People/Notable Figures/Elmwood Bluevine|Elmwood Bluevine]]'s apprentice mage.
 
 They were assigned to search for [[03 People/Notable Figures/Eden Carrion|Eden Carrion]] and [[03 People/Notable Figures/Summer Quaresh|Summer Quaresh]]. Their work connected a reported sighting with old records describing a region where magic is naturally dampened.
 
@@ -85,7 +85,7 @@ During that period they:
 
 The staff also began to function more like a genuine household team, despite Joe-Seff Gorbels' pastry experiments culminating in him Hexing Derrick and Ghorgadush subsequently placing an Alarm over the kitchen.
 
-## The party returns Ã¢â‚¬â€ Session 25
+## The party returns — Session 25
 
 The Defracturers returned to the Bastion after several weeks. Gudren Flint and Caelen Briar presented three research trails concerning the Loyal Crows, while n'Dong established a **shrine to Verei in the crypt** and received a powerful blessing whose full terms are not recorded.
 
@@ -93,11 +93,17 @@ Ballar reacted violently to learning that the Crimson Shield had stayed as guest
 
 See [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]].
 
-## Session 26 Ã¢â‚¬â€ arrangements and the deputyÃ¢â‚¬â„¢s collapse
+## Session 26 — arrangements and the deputy’s collapse
 
-During the partyÃ¢â‚¬â„¢s return to Somnolent, Erelmor arrived from the Sixhalls brawl believing the Bastion was in danger and had staff barricade its entrances; no attack followed. nÃ¢â‚¬â„¢Dong briefly tried to use [[03 People/Bastion Staff/Derrick Lowgins|Derrick Lowgins]] to deliver a sealed parcel to [[03 People/Mentioned Figures/Yama and Spopovich|Yama and Spopovich]], but retrieved it when he realised Derrick would not keep the arrangement secret.
+During the party’s return to Somnolent, Erelmor arrived from the Sixhalls brawl believing the Bastion was in danger and had staff barricade its entrances; no attack followed. n’Dong briefly tried to use [[03 People/Bastion Staff/Derrick Lowgins|Derrick Lowgins]] to deliver a sealed parcel to [[03 People/Mentioned Figures/Yama and Spopovich|Yama and Spopovich]], but retrieved it when he realised Derrick would not keep the arrangement secret.
 
-The party kept the [[06 Library/Ardynian Relics and Artefacts/Bands of Distortion|Bands of Distortion]] rather than handing them to the household. At the end of the session, [[03 People/Notable Figures/Gayle Bramble|Gayle Bramble]] collapsed unconscious and injured on the steps as [[03 People/Bastion Staff/Joe-Seff Gorbels|Joe-Seff Gorbels]] opened the door. What happened on her mission is not yet known. See [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
+The party kept the [[06 Library/Ardynian Relics and Artefacts/Bands of Distortion|Bands of Distortion]] rather than handing them to the household. At the end of the session, [[03 People/Notable Figures/Gayle Bramble|Gayle Bramble]] collapsed unconscious and injured on the steps as [[03 People/Bastion Staff/Joe-Seff Gorbels|Joe-Seff Gorbels]] opened the door. Her account follows in Session 27 below. See [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
+
+## Session 27 — household and patronage
+
+Mariasz healed Gayle and the staff cared for her upstairs. Romayne challenged the household’s use of staff; Alaaric invoked the existing safety-related requisition provision. Ballar suspended Mariasz for the day on full pay. Derrick was assigned Mireya’s delivery and the scout’s burial. Romayne requested review and possible safe custody of dangerous relics, but none were handed over. The proposed use of the basement for alchemical work is not approved. No formal Rogue Act declaration, immunity suspension or termination occurred.
+
+See [[05 Campaign Chronicle/Session 27 - Gayles Warning and the Dandruff Lab|Session 27]].
 
 ## Related
 

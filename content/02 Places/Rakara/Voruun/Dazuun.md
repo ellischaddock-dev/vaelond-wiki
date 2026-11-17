@@ -16,7 +16,7 @@ region: Rakara
 territory: Clan Voruun
 current_status: Broken Fang influence confirmed
 source: Session 21
-updated: 2026-10-20
+updated: 2026-11-17
 ---
 
 # Dazuun
@@ -49,11 +49,17 @@ Ulsar believed that killing Rhul or destroying his Rakaran operation would likel
 > - Does Clan Voruun know Rhul controls the pits, and if so, does anyone approve?
 > - Would damaging the Dazuun operation truly force Prodosius to respond personally?
 
-## Session 26 â€” account of former fighters
+## Session 26 — account of former fighters
 
-Former pit fighters [[03 People/Mentioned Figures/Yama and Spopovich|Yama and Spopovich]] described widespread Dragonâ€™s Dandruff use and declining fighter earnings since [[03 People/Notable Figures/Rhul Slowdrift|Rhul Slowdrift]] became involved. They said their Voruun booking agent, [[03 People/Mentioned Figures/Oruc|Oruc]], took money from Rhul to arrange fixed matches, and identified [[03 People/Mentioned Figures/Karessa|Karessa]] as their source of the substance.
+Former pit fighters [[03 People/Mentioned Figures/Yama and Spopovich|Yama and Spopovich]] described widespread Dragon’s Dandruff use and declining fighter earnings since [[03 People/Notable Figures/Rhul Slowdrift|Rhul Slowdrift]] became involved. They said their Voruun booking agent, [[03 People/Mentioned Figures/Oruc|Oruc]], took money from Rhul to arrange fixed matches, and identified [[03 People/Notable Figures/Karessa Val|Karessa]] as their source of the substance.
 
-**All of these details are attributed to the pair** rather than independently corroborated findings. They met nâ€™Dong in Somnolent; no visit to the Dazuun pits took place in Session 26. See [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
+**All of these details are attributed to the pair** rather than independently corroborated findings. They met n’Dong in Somnolent; no visit to the Dazuun pits took place in Session 26. See [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
+
+## Session 27 — the supply site
+
+The party located [[02 Places/Rakara/Dragon's Dandruff Laboratory|the laboratory]] and met [[03 People/Notable Figures/Karessa Val|Karessa Val]], previously identified by the fighters. The production operation is confirmed; the precise distribution chain into the pits, Oruc’s alleged match-fixing and Rhul’s control remain claims to investigate. The party has not visited Dazuun.
+
+See [[05 Campaign Chronicle/Session 27 - Gayles Warning and the Dandruff Lab|Session 27]].
 
 ## Related
 

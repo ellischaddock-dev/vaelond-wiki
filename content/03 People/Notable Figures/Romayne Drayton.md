@@ -16,7 +16,8 @@ role: 'Headman of Somnolent'
 current_status: 'alive'
 last_known_location: 'Somnolent'
 source: 'Campaign notes.docx'
-updated: 2026-10-22
+updated: 2026-11-17
+additional_source: Session 27
 ---
 
 # Romayne Drayton
@@ -37,7 +38,13 @@ After the action against the Perfidian embassy and the rescue of [[03 People/Not
 
 ## Connections and present position
 
-Romayne knows Ballar Novis's mother, suggesting a personal connection to Doroan society whose fuller history is not documented. His authority continues to be tested by the consequences of the party's conduct and by investigations unfolding around the town. How he will respond to abuses of Bastion staff has not yet been recorded; no formal declaration ending the patronage has been made.
+Romayne knows Ballar Novis's mother, suggesting a personal connection to Doroan society whose fuller history is not documented. His authority continues to be tested by the consequences of the party's conduct and by investigations unfolding around the town. The Session 27 confrontation clarified his concerns about the household and Ballar's conduct. No formal declaration ending the patronage has been made.
+
+## The headman’s patience
+
+With the watch depleted, Romayne challenged the Defracturers over staff utilisation and the assault on Terrick. Alaaric cited the contract provision for requisitioning staff for the town’s safety. Romayne maintained that alleged abuse should be investigated and did not absolve Ballar of the assault or property damage. He requested review and possible secure custody of dangerous Ardynian artefacts and help recovering the missing watch. His immediate commission was the investigation of [[02 Places/Rakara/Dragon's Dandruff Laboratory|the laboratory]]. No formal suspension of immunity, Rogue Act declaration or termination was recorded.
+
+See [[05 Campaign Chronicle/Session 27 - Gayles Warning and the Dandruff Lab|Session 27]].
 
 ## Chronicle references
 
@@ -50,6 +57,7 @@ Romayne knows Ballar Novis's mother, suggesting a personal connection to Doroan 
 - [[Session 11 - Ashes, Brands and Windfalls]]
 - [[Session 15 - Stewards, Saddles and Shambling Roots]]
 - [[Session 12-14 - Fire, Faith and the Corona of the Ashen Choir]]
+- [[05 Campaign Chronicle/Session 27 - Gayles Warning and the Dandruff Lab|Session 27]]
 
 ## Related pages
 

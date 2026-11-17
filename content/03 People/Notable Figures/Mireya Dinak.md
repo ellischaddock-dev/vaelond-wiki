@@ -13,10 +13,10 @@ ancestry: 'Wood elf'
 gender: 'Female'
 role: 'Prospective gambling-hall owner and horse keeper'
 current_status: "deceased; restoration pending"
-last_known_location: 'Somnolent; preserved body brought to Elmwood Bluevine'
+last_known_location: "Somnolent; Derrick instructed to deliver preserved body to Elmwood"
 source: 'Campaign notes and Sessions 17-23'
-additional_source: Session 25
-updated: 2026-10-22
+additional_source: "Session 25; Session 27"
+updated: 2026-11-17
 ---
 
 # Mireya Dinak
@@ -37,12 +37,19 @@ Ballar carried her preserved remains to Elmwood Bluevine, who discussed a resurr
 
 Mireya's fate remains unresolved, as does the future of her child and the plans she and Tarren once made.
 
+## An offscreen attempt at restoration
+
+Ballar instructed Derrick Lowgins to take Mireya’s preserved body and a diamond to Elmwood for resurrection, and separately to bury the deceased Broken Fang scout. Derrick initially dragged the burned body into Gayle’s room. Neither delivery nor resurrection is confirmed; the spell and component requirements remain to be resolved.
+
+See [[05 Campaign Chronicle/Session 27 - Gayles Warning and the Dandruff Lab|Session 27]].
+
 ## Chronicle references
 
 - [[05 Campaign Chronicle/Session 17 - Shrieks, Widows and Time Juice|Session 17]]
 - [[05 Campaign Chronicle/Session 21 - Contracts, Command, and a Burning Camp|Session 21]]
 - [[05 Campaign Chronicle/Session 22 - Bodies, Blight, and Bushtache|Session 22]]
 - [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]]
+- [[05 Campaign Chronicle/Session 27 - Gayles Warning and the Dandruff Lab|Session 27]]
 
 ## Related pages
 

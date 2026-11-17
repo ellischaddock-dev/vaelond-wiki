@@ -16,8 +16,8 @@ subclass: Oath of Glory
 homeland: Doro
 mount: Kingcup
 current_status: active
-source: Sessions 1-26 and Open Threads
-updated: 2026-10-22
+source: Sessions 1-27 and Open Threads
+updated: 2026-11-17
 ---
 
 # Ballar Novis
@@ -73,6 +73,12 @@ Ballar remains an active member of the Defracturers and a figure divided among s
 
 The unanswered question at the centre of his story is no longer simply **how Ballar will win glory**, but what he is prepared to serve, protect and answer for once he has it.
 
+## A champion’s interpretation of justice
+
+Ballar recalled childhood disgrace when his father caught him reading fiction in a servants’ library. In Somnolent, he defended Mariasz and Derrick against Romayne’s criticism, suspended Mariasz for the day on full pay and voluntarily surrendered himself at the Shackles. He had not been arrested; his companions persuaded him to leave. He paid 25 gp for the chicken man’s release and tasked Derrick with Mireya’s restoration and the scout’s burial. His disputes with Erelmor continued at the laboratory.
+
+See [[05 Campaign Chronicle/Session 27 - Gayles Warning and the Dandruff Lab|Session 27]].
+
 ## Personal matters still unresolved
 
 - His future relationship with [[02 Places/Doro/Noble Houses/House Nirrell|House Nirrell]], Doro and the possible peace initiative, including whether his father's reported political rise proves real.
@@ -101,3 +107,4 @@ The unanswered question at the centre of his story is no longer simply **how Bal
 - [[05 Campaign Chronicle/Session 22 - Bodies, Blight, and Bushtache|Session 22]]
 - [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]]
 - [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]]
+- [[05 Campaign Chronicle/Session 27 - Gayles Warning and the Dandruff Lab|Session 27]]

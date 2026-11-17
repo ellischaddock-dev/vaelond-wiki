@@ -14,7 +14,7 @@ tags:
   - politics
   - campaign
 source: Signed Drayton_Patronage_Contract.docx (six pages; handwritten amendments)
-updated: 2026-10-20
+updated: 2026-11-17
 ---
 
 # Instrument of Patronage & Service
@@ -83,3 +83,9 @@ The Parties must first seek private mediation from the Patron; unresolved disput
 - [[03 People/Notable Figures/Romayne Drayton|Romayne Drayton]]
 - [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]]
 - [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]]
+
+## Application in Session 27
+
+Alaaric cited the existing provision allowing staff to be requisitioned for duties relating to Somnolent’s safety during Romayne’s dispute with the party. Romayne also requested review and possible safeguarding of dangerous relics in Alaaric’s safe, with arrangements for access. This records the application of the existing instrument, not a contractual amendment or proof of a handover. No formal Rogue Act declaration or termination was recorded.
+
+See [[05 Campaign Chronicle/Session 27 - Gayles Warning and the Dandruff Lab|Session 27]].

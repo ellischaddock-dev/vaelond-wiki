@@ -13,7 +13,8 @@ tags:
 role: 'Cook, coffee mage and pastry experimenter'
 current_status: 'alive'
 source: 'Campaign notes and Sessions 15 and 24'
-updated: 2026-10-22
+updated: 2026-11-17
+additional_source: Session 27
 ---
 
 # Joe-Seff Gorbels
@@ -32,10 +33,17 @@ During the Defracturers' absence Joe-Seff became consumed by an experiment invol
 
 Joe-Seff later helped search the One Ball Inn after Antoinne Cassan vanished, and his relationship with Mariasz grew into an acknowledged friendship. He was at the Bastion's door when Gayle Bramble collapsed badly injured; a delivery errand on behalf of Ballar had not yet begun.
 
+## Gayle’s return
+
+Joe-Seff opened the door to the injured Gayle as he prepared to run an errand for Ballar. The household assisted her, and Mariasz healed her. Gayle later provided her account of Stone Pass.
+
+See [[05 Campaign Chronicle/Session 27 - Gayles Warning and the Dandruff Lab|Session 27]].
+
 ## Chronicle references
 
 - [[05 Campaign Chronicle/Session 15 - Stewards, Saddles and Shambling Roots|Session 15 - Stewards, Saddles and Shambling Roots]]
 - [[05 Campaign Chronicle/Session 24 - Pies, Pike and a one ball blaze|Session 24]]
+- [[05 Campaign Chronicle/Session 27 - Gayles Warning and the Dandruff Lab|Session 27]]
 
 ## Related pages
 

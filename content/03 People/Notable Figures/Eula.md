@@ -15,8 +15,8 @@ role: 'Collector of bodies'
 current_status: 'unknown'
 last_known_location: 'Unknown'
 source: 'Campaign notes and Sessions 16-22'
-additional_source: Session 25
-updated: 2026-10-22
+additional_source: "Session 25; Session 27"
+updated: 2026-11-17
 ---
 
 # Eula
@@ -39,6 +39,12 @@ Records presented by the Bastion researchers describe Eula and [[03 People/Menti
 
 Eula's current whereabouts, the use to which she puts her dead and the extent of her connection to Ardynian history remain unknown.
 
+## A possible line of inquiry
+
+Gayle’s account of undead at Stone Pass may make the earlier records of meetings involving Eula and Galt worth revisiting. There is no evidence that either controlled the undead or was present.
+
+See [[05 Campaign Chronicle/Session 27 - Gayles Warning and the Dandruff Lab|Session 27]].
+
 ## Chronicle references
 
 - [[Session 16 - Cackles, Corpses and Catastrophe]]
@@ -46,6 +52,7 @@ Eula's current whereabouts, the use to which she puts her dead and the extent of
 - [[Session 21 - Contracts, Command, and a Burning Camp]]
 - [[05 Campaign Chronicle/Session 22 - Bodies, Blight, and Bushtache|Session 22]]
 - [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]]
+- [[05 Campaign Chronicle/Session 27 - Gayles Warning and the Dandruff Lab|Session 27]]
 
 ## Related pages
 

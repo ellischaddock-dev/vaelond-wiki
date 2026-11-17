@@ -11,8 +11,8 @@ role: Apprentice wizard and researcher
 current_status: alive
 last_known_location: Defracturers' Bastion, Somnolent
 source: Session 24
-additional_source: Session 25
-updated: 2026-10-22
+additional_source: "Session 25; Session 27"
+updated: 2026-11-17
 ---
 
 # Caelen Briar
@@ -25,10 +25,17 @@ Caelen attempted sympathetic magic using possessions linked to Eden Carrion and 
 
 Caelen's first days at the Bastion also revealed his inexperience with the household's eccentric requests: he was sent to inspect literal crows in a vegetable patch and had to clarify that a proposed scarecrow head should be a pumpkin, not a severed person's head. Such misunderstandings have become part of his early education outside Elmwood's study.
 
+## Confirmation of a sighting
+
+Gayle’s account of seeing Eden and Summer at [[02 Places/Rakara/Stone Pass|Stone Pass]] corroborates the earlier research lead. Records of naturally dampened magic offer a possible explanation for Caelen’s earlier failed search, not a proven explanation of the phenomenon. Caelen was not present at the ambush.
+
+See [[05 Campaign Chronicle/Session 27 - Gayles Warning and the Dandruff Lab|Session 27]].
+
 ## Chronicle references
 
 - [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]]
 - [[05 Campaign Chronicle/Session 24 - Pies, Pike and a one ball blaze|Session 24]]
+- [[05 Campaign Chronicle/Session 27 - Gayles Warning and the Dandruff Lab|Session 27]]
 
 ## Related pages
 

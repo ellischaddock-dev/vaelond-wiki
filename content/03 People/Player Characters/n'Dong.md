@@ -14,9 +14,9 @@ class: Wizard
 specialism: Acid magic
 homeland: Minir
 mount: Nail
-current_status: active
-source: Sessions 2-26 and Open Threads
-updated: 2026-10-22
+current_status: "active; unconscious at close of Session 27"
+source: Sessions 2-27 and Open Threads
+updated: 2026-11-17
 ---
 
 # n'Dong
@@ -70,7 +70,7 @@ The company's exploration of the Sundering has also produced a curious connectio
 
 With Ulsar gone, n'Dong's attention has turned to Rhul Slowdrift and the Broken Fang's influence over the fighting pits of [[02 Places/Rakara/Voruun/Dazuun|Dazuun]]. He learned of [[06 Library/Campaign Reference/Dragon's Dandruff|Dragon's Dandruff]], a stimulant allegedly supplied to pit fighters by Khaali alchemists, and recovered vials of the substance from the wreckage of Ulsar's camp.
 
-In Somnolent he made contact with visiting fighters [[03 People/Mentioned Figures/Yama and Spopovich|Yama and Spopovich]], offering Dragon's Dandruff in exchange for information. They identified a supplier called [[03 People/Mentioned Figures/Karessa|Karessa]] and alleged that a booking agent named [[03 People/Mentioned Figures/Oruc|Oruc]] was taking Rhul's money to fix fights. **Neither allegation has been independently verified.** n'Dong nonetheless gave the men more of the stimulant and promised further deliveries for future intelligence.
+In Somnolent he made contact with visiting fighters [[03 People/Mentioned Figures/Yama and Spopovich|Yama and Spopovich]], offering Dragon's Dandruff in exchange for information. They identified a supplier called [[03 People/Notable Figures/Karessa Val|Karessa]] and alleged that a booking agent named [[03 People/Mentioned Figures/Oruc|Oruc]] was taking Rhul's money to fix fights. At the time neither allegation had been independently verified; Karessa’s production role was established in Session 27, but the alleged match-fixing remains unverified. n'Dong nonetheless gave the men more of the stimulant and promised further deliveries for future intelligence.
 
 There is a difficult symmetry in that decision. A man who survived the Broken Fang's exploitation is now prepared to trade in one of the substances associated with its influence, hoping that the exchange will bring him closer to destroying it. The record establishes his actions, but not whether he sees this as a necessary compromise, an acceptable risk or something he has yet to consider.
 
@@ -82,9 +82,15 @@ n'Dong remains with the Defracturers, having eliminated Ulsar but not resolved t
 
 His bond with Verei and the history of his transformation also remain unexplained. Whether vengeance can answer the questions left by his captivity—or simply lead him into another form of dependence—is still an open part of his story.
 
+## Revenge and the laboratory
+
+n’Dong recalled being punished for stealing Dragon’s Dandruff while held by a tribe, his feet burned on hot coals. He recruited Yama and Spopovich as scouts, paying them in the same addictive stimulant; the party intervened and sent them back to Somnolent. At [[02 Places/Rakara/Dragon's Dandruff Laboratory|the laboratory]] he proposed staging the alchemists’ deaths to protect them while destroying the site. He was knocked unconscious during the battle. The four guards fell but his recovery, the laboratory’s destruction and the workers’ escape were not recorded.
+
+See [[05 Campaign Chronicle/Session 27 - Gayles Warning and the Dandruff Lab|Session 27]].
+
 ## Personal matters still unresolved
 
-- Prodosius's whereabouts, Rhul's true reach in Dazuun and the credibility of Yama and Spopovich's information about Karessa and Oruc.
+- Prodosius's whereabouts, Rhul's true reach in Dazuun and the credibility of Yama and Spopovich's allegations about Oruc, and how the confirmed production site connects to the wider supply chain.
 - The Broken Fang's interest in Ardynian relics and the full history of n'Dong's transformation and escape.
 - Why he knew the prayer to Verei, what the mask and crypt blessing mean, and whether either carries a danger or obligation.
 - The consequences of supplying Dragon's Dandruff for intelligence, and the possible connection between the One Ball map and other criminal operations.
@@ -110,3 +116,4 @@ His bond with Verei and the history of his transformation also remain unexplaine
 - [[05 Campaign Chronicle/Session 21 - Contracts, Command, and a Burning Camp|Session 21]]
 - [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]]
 - [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]]
+- [[05 Campaign Chronicle/Session 27 - Gayles Warning and the Dandruff Lab|Session 27]]

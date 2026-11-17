@@ -12,7 +12,8 @@ tags:
 region: Voruun (former)
 source: Session 25
 current_status: Unknown
-updated: 2026-10-22
+updated: 2026-11-17
+additional_source: Session 27
 ---
 
 # Galt
@@ -21,9 +22,16 @@ Galt appears in the Bastion researchers' account as a former worshipper of Rhozk
 
 Galt's present whereabouts, the nature of his relationship with Eula and his involvement—if any—with her collection of corpses are unknown. **The meetings do not establish him as a Loyal Crow.**
 
+## A possible line of inquiry
+
+Gayle’s account of undead at Stone Pass gives renewed relevance to the earlier necromancy-related research lead. Nothing establishes Galt’s presence or involvement in the attack.
+
+See [[05 Campaign Chronicle/Session 27 - Gayles Warning and the Dandruff Lab|Session 27]].
+
 ## Chronicle references
 
 - [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]]
+- [[05 Campaign Chronicle/Session 27 - Gayles Warning and the Dandruff Lab|Session 27]]
 
 ## Related pages
 

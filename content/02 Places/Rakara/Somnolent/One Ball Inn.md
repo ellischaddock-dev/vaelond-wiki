@@ -18,7 +18,7 @@ region: Rakara
 settlement: Somnolent
 current_status: destroyed by fire
 source: Sessions 8, 10, 11, 24 and 25
-updated: 2026-10-13
+updated: 2026-11-17
 ---
 
 # The One Ball Inn
@@ -57,7 +57,7 @@ The following morning, the One Ball Inn had **burned to the ground**.
 
 Antoinne had still not returned and **no body was recovered**. The cause of the fire and Antoinne's fate remain unknown.
 
-## Session 25 â€” the cellar and Phoenix Yard
+## Session 25 — the cellar and Phoenix Yard
 
 After the Defracturers returned, n'Dong heard screams beneath the burned inn. The party fought **gibbering mouthers** and burrowing **slaad tadpoles** in the remains of the cellar; **three trapped townsfolk died** during the encounter and some tadpoles escaped.
 
@@ -66,6 +66,12 @@ Ieuan discovered broken alchemical vials labelled **"slaadpole"**. n'Dong recove
 A sign at the site advertised **Phoenix Yard**, a **proposed redevelopment** backed financially by [[03 People/Notable Figures/Orrian Leovyre|Orrian Leovyre]] and the [[04 Organisations/Crimson Shield|Crimson Shield]]. No completed redevelopment is recorded.
 
 See [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]].
+
+## Session 27 — the map followed
+
+The recovered map led to [[02 Places/Rakara/Dragon's Dandruff Laboratory|the laboratory]], confirming its destination and the drug-production operation. An intervening slaad-like creature was killed at a river crossing; whether it originated from one of the escaped tadpoles remains unknown. The route does not by itself establish who started the fire, brought the creatures to the inn or what happened to Antoinne.
+
+See [[05 Campaign Chronicle/Session 27 - Gayles Warning and the Dandruff Lab|Session 27]].
 
 ## Related
 

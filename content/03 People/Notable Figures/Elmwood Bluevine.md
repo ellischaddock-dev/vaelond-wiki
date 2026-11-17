@@ -15,8 +15,8 @@ role: 'Retired wizard and Ardynian scholar'
 current_status: 'alive'
 last_known_location: 'Somnolent'
 source: 'Campaign notes.docx'
-additional_source: Session 25
-updated: 2026-10-22
+additional_source: "Session 25; Session 27"
+updated: 2026-11-17
 ---
 
 # Elmwood Bluevine
@@ -43,6 +43,12 @@ Using a green reagent identified as probable Sanguis Aevi, Elmwood activated the
 
 Elmwood has also discussed possible resurrection of the preserved bodies of Mireya Dinak and a Broken Fang scout. Neither has been restored in the recorded events.
 
+## A request to restore Mireya
+
+Ballar assigned Derrick to deliver Mireya’s preserved body and a diamond to Elmwood for resurrection. Whether Derrick delivered them, whether the spell was eligible and whether any restoration succeeded remain unconfirmed.
+
+See [[05 Campaign Chronicle/Session 27 - Gayles Warning and the Dandruff Lab|Session 27]].
+
 ## Chronicle references
 
 - [[Session 01 - Die Dog, Die]]
@@ -51,6 +57,7 @@ Elmwood has also discussed possible resurrection of the preserved bodies of Mire
 - [[Session 15 - Stewards, Saddles and Shambling Roots]]
 - [[Session 12-14 - Fire, Faith and the Corona of the Ashen Choir]]
 - [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]]
+- [[05 Campaign Chronicle/Session 27 - Gayles Warning and the Dandruff Lab|Session 27]]
 
 ## Related pages
 

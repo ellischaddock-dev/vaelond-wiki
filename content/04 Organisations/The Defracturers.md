@@ -15,20 +15,20 @@ patron: 'Romayne Drayton'
 base: 'Former Perfid embassy, Somnolent'
 source: 'Campaign notes and session chronicle'
 additional_source: Session 25
-updated: 2026-10-20
+updated: 2026-11-17
 ---
 
 # The Defracturers
 
-The adventurers were informally called the **Squishy Boys** during their earliest exploits. They formally adopted the name **The Defracturers** when they accepted [[03 People/Notable Figures/Romayne Drayton|Romayne Draytonâ€™s]] patronage in Session 11.
+The adventurers were informally called the **Squishy Boys** during their earliest exploits. They formally adopted the name **The Defracturers** when they accepted [[03 People/Notable Figures/Romayne Drayton|Romayne Drayton’s]] patronage in Session 11.
 
 ## Members
 
-- [[03 People/Player Characters/Ballar Novis|Ballar Novis]] â€” high-elf paladin connected to Doro and House Nirrell
-- [[03 People/Player Characters/Erelmor|Erelmor]] â€” drow rogue pursuing those responsible for the destruction of his family
-- [[03 People/Player Characters/Ieuan|Ieuan]] â€” wood-elf Circle of Stars druid with ties to Clan Orvak
-- [[03 People/Player Characters/Enrak Kiran|Enrak Kiran]] â€” half-elf fire mage from Clan Khaali
-- [[03 People/Player Characters/n'Dong|n'Dong]] â€” dragonborn wizard and former captive of the Broken Fang
+- [[03 People/Player Characters/Ballar Novis|Ballar Novis]] — high-elf paladin connected to Doro and House Nirrell
+- [[03 People/Player Characters/Erelmor|Erelmor]] — drow rogue pursuing those responsible for the destruction of his family
+- [[03 People/Player Characters/Ieuan|Ieuan]] — wood-elf Circle of Stars druid with ties to Clan Orvak
+- [[03 People/Player Characters/Enrak Kiran|Enrak Kiran]] — half-elf fire mage from Clan Khaali
+- [[03 People/Player Characters/n'Dong|n'Dong]] — dragonborn wizard and former captive of the Broken Fang
 
 ## Formal status
 
@@ -36,7 +36,7 @@ Following Perfid's actions in Somnolent, the group entered formal patronage unde
 
 ## Household and mounts
 
-- [[02 Places/Rakara/Somnolent/The Defracturers' Bastion|The Defracturersâ€™ Bastion]]
+- [[02 Places/Rakara/Somnolent/The Defracturers' Bastion|The Defracturers’ Bastion]]
 - [[06 Library/Campaign Reference/Horses|Horses]]
 - [[03 People/index#Bastion staff|Bastion staff]]
 
@@ -68,12 +68,22 @@ The group now faces a choice about whether to gather, safeguard or destroy dange
 - **Ten Sundering objects:** five Coronas of the Ashen Choir and five other relics. The party retains the Bands and their heart stone, without attunement, and suspects that the Staff may have a separate anchor at Tace Nox; this is unproven.
 - **Resurrection:** Ballar bought two diamonds (575 gp). One is intended for [[03 People/Notable Figures/Mireya Dinak|Mireya]] and one is held in reserve. The preserved Broken Fang scout is beyond Revivify; neither individual has been revived.
 - **Two separate goblin threads:** Malt was released to seek a Pot of Awakening for Bushtache; Ballar has now sent three Bag of Tricks animals towards Tace Nox looking for another goblin who escaped custody around a month earlier.
-- **Dazuun lead:** nâ€™Dong heard testimony from [[03 People/Mentioned Figures/Yama and Spopovich|Yama and Spopovich]] about Karessa, Oruc and alleged Rhul-linked match-fixing.
+- **Dazuun lead:** n’Dong heard testimony from [[03 People/Mentioned Figures/Yama and Spopovich|Yama and Spopovich]] about Karessa, Oruc and alleged Rhul-linked match-fixing.
 - **Doro:** Ballar heard unverified reports of possible Perfid peace talks involving House Nirrell, with Trenhalde reportedly favourable and Aequinth and Bromere reportedly opposed.
-- **Gayle:** [[03 People/Notable Figures/Gayle Bramble|Gayle Bramble]] returned to the Bastion battered and unconscious; Job Ashmereâ€™s whereabouts and the Eden/Summer lead remain unresolved.
-- **Next step:** the party intends to consult Romayne and has discussed Temir or Tace Nox, but **has not selected a route**. Hushvale remains deferred.
+- **Gayle:** [[03 People/Notable Figures/Gayle Bramble|Gayle Bramble]] returned to the Bastion battered and unconscious; Job Ashmere’s whereabouts and the Eden/Summer lead remain unresolved.
+- **Then-current next step:** the party intended to consult Romayne and discussed Temir or Tace Nox. Session 27 records their decision to investigate the laboratory first; Hushvale remains deferred.
 
 See [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
+
+## Session 27 - current position
+
+- **Missing watch:** Gayle is recovering at the Bastion after reporting the sighting of Eden and Summer at [[02 Places/Rakara/Stone Pass|Stone Pass]]. Job and others remain unaccounted for.
+- **Commission:** Romayne requested investigation of the drug operation, recovery of the missing watch and review of dangerous relics. No relic handover or formal termination of patronage took place.
+- **Laboratory:** The One Ball map led to [[02 Places/Rakara/Dragon's Dandruff Laboratory|the laboratory]]. The four guards have fallen; Karessa, Pella and Davos remain there, with stock and site intact. The recipe was destroyed.
+- **n’Dong:** Unconscious at the end of the fight; Yama and Spopovich were redirected towards Somnolent.
+- **Household:** Derrick was instructed to arrange Mireya’s resurrection and bury the scout; neither is confirmed. Erelmor now knows the Pike left town.
+
+See [[05 Campaign Chronicle/Session 27 - Gayles Warning and the Dandruff Lab|Session 27]].
 
 ## Related
 

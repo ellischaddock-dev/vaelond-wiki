@@ -10,7 +10,8 @@ tags:
 role: 'Steward'
 current_status: 'alive'
 source: 'Campaign notes and Session 24'
-updated: 2026-10-22
+updated: 2026-11-17
+additional_source: Session 27
 ---
 
 # Ghorgadush
@@ -27,10 +28,17 @@ During the party's absence, Ghorgadush developed a Goodberry pie recipe into a s
 
 Ghorgadush has repeatedly looked after those around him, though his interventions sometimes have unintended results. By replacing Joe-Seff Gorbels' experimental pastries with his own, he inadvertently invalidated the experiment; after Gorbels cursed Derrick in frustration, Ghorgadush placed an Alarm over the kitchen as a precaution. He also helped search for Antoinne Cassan and was trusted by Orrian Leovyre to deliver a personal gift to Ballar. His mix of generosity, practical ingenuity and fierce concern for colleagues makes him a distinctive member of the household.
 
+## The pie business raised by Romayne
+
+Ghorgadush’s private pie business was cited in the discussion about whether Bastion staff could have been more useful to the town during the watch shortage. No change to the pie business or his employment was recorded.
+
+See [[05 Campaign Chronicle/Session 27 - Gayles Warning and the Dandruff Lab|Session 27]].
+
 ## Chronicle references
 
 - [[05 Campaign Chronicle/Session 15 - Stewards, Saddles and Shambling Roots|Session 15 - Stewards, Saddles and Shambling Roots]]
 - [[05 Campaign Chronicle/Session 24 - Pies, Pike and a one ball blaze|Session 24]]
+- [[05 Campaign Chronicle/Session 27 - Gayles Warning and the Dandruff Lab|Session 27]]
 
 ## Related pages
 

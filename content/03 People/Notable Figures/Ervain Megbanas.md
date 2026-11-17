@@ -18,7 +18,8 @@ role: 'The Old Grey Pike'
 current_status: 'alive'
 last_known_location: "Unknown; left Somnolent during the Defracturers' absence"
 source: 'Campaign notes.docx'
-updated: 2026-10-22
+updated: 2026-11-17
+additional_source: Session 27
 ---
 
 # Ervain Megbanas
@@ -39,7 +40,13 @@ Ervain became known among the Defracturers through the gambling circles of the [
 
 ## Present whereabouts
 
-During the Defracturers' absence, Alaaric Hammerfall reported to the Bastion that Ervain had **left Somnolent**. His destination and reasons were not recorded. Although Erelmor's obsession with the Pike has intensified through dreams and visions, those experiences must not be treated as an independent historical account of Ervain's actions. It is also not yet established that Erelmor has learned the news of his departure.
+During the Defracturers' absence, Alaaric Hammerfall reported to the Bastion that Ervain had **left Somnolent**. His destination and reasons were not recorded. Although Erelmor's obsession with the Pike has intensified through dreams and visions, those experiences must not be treated as an independent historical account of Ervain's actions. Erelmor learned of his departure in Session 27.
+
+## Erelmor learns of the departure
+
+Alaaric confirmed that he told Mariasz of the Pike’s departure before the One Ball fire. Erelmor now knows that Ervain left Somnolent and remains determined to find him. His destination and present location remain unknown.
+
+See [[05 Campaign Chronicle/Session 27 - Gayles Warning and the Dandruff Lab|Session 27]].
 
 ## Chronicle references
 
@@ -50,6 +57,7 @@ During the Defracturers' absence, Alaaric Hammerfall reported to the Bastion tha
 - [[Session 11 - Ashes, Brands and Windfalls]]
 - [[Session 15 - Stewards, Saddles and Shambling Roots]]
 - [[05 Campaign Chronicle/Session 24 - Pies, Pike and a one ball blaze|Session 24]]
+- [[05 Campaign Chronicle/Session 27 - Gayles Warning and the Dandruff Lab|Session 27]]
 
 ## Related pages
 

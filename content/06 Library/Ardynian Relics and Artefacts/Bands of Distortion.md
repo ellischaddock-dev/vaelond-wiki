@@ -9,7 +9,7 @@ tags:
   - rana-viam
   - campaign
 current_holder: The Defracturers
-updated: 2026-10-20
+updated: 2026-11-17
 ---
 
 # Bands of Distortion
@@ -45,6 +45,12 @@ The full Ardynian vision also depicts bracers worn by Elgira; the vision alone d
 After discussing the relic with Elmwood, the Defracturers elected to **retain both Bands and heart stone** rather than place them in Aalaric’s secure storage or leave them with Bastion staff. No bearer or attunement was selected.
 
 The Bands’ connection to their heart stone prompted a **hypothesis** that other major Sundering relics may be tied to similar keystones or anchors. This does **not** establish that every relic has one, nor does it prove that Elgira’s remembered bracers were the Bands. See [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
+
+## Session 27 — custody discussed
+
+Romayne requested review and possible secure custody of dangerous Ardynian artefacts in Alaaric’s safe, with arrangements for access when needed. The Bands and other relics remained with the party; no handover or attunement occurred in the recorded session.
+
+See [[05 Campaign Chronicle/Session 27 - Gayles Warning and the Dandruff Lab|Session 27]].
 
 ## Related
 

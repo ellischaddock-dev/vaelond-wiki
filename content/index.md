@@ -6,7 +6,7 @@ player_facing: true
 tags:
   - index
   - vaelond
-updated: 2026-10-03
+updated: 2026-11-17
 ---
 
 # An Adventurer's Guide to Vaelond
@@ -67,7 +67,7 @@ Welcome to the player guide for **Vaelond**. This vault is organised as an inter
 ## Campaign chronicle
 
 - [[05 Campaign Chronicle/index|index]] — the complete session-by-session record
-- [[05 Campaign Chronicle/Session 24 - Pies, Pike and a one ball blaze|Bastion Interlude: Pies, Pike and the One Ball Blaze]] — the latest supplied chronicle entry
+- [[05 Campaign Chronicle/Session 27 - Gayles Warning and the Dandruff Lab|Session 27: Gayle's Warning and the Dandruff Lab]] — the latest supplied chronicle entry
 
 ## Map
 

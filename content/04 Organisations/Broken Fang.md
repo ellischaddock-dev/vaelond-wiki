@@ -11,7 +11,7 @@ tags:
 affiliation: Minir
 leader: Prodosius
 source: Campaign notes and Sessions 1-25
-updated: 2026-10-20
+updated: 2026-11-17
 ---
 
 # Broken Fang
@@ -73,17 +73,17 @@ These developments confirm that Rhul's network reached directly into Somnolent r
 > - Are the Khaali alchemists willing collaborators, coerced specialists or something else?
 > - Would destroying Rhul's operation truly bring Prodosius into the open?
 
-## Session 25 â€” the One Ball cellar
+## Session 25 — the One Ball cellar
 
 After the One Ball Inn burned, the Defracturers discovered gibbering mouthers and slaad tadpoles in its cellar. They found broken vials labelled "slaadpole" and a scorched map pointing toward the rear barn of an unnamed farm outside Somnolent.
 
 The inn's previous role as a Broken Fang fencing point makes this a possible lead into the group's wider smuggling activity. **No evidence yet proves that the Broken Fang bred, stored or transported the creatures, or caused the fire.** See [[02 Places/Rakara/Somnolent/One Ball Inn|the One Ball Inn]] and [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Session 25]].
 
-## Session 26 â€” reported pit corruption
+## Session 26 — reported pit corruption
 
-Following a market encounter, [[03 People/Mentioned Figures/Yama and Spopovich|Yama and Spopovich]] told [[03 People/Player Characters/n'Dong|n'Dong]] that fighters in Dazuun were being supplied with Dragonâ€™s Dandruff, their earnings had declined and the operation worsened after Rhul became involved. The two named [[03 People/Mentioned Figures/Karessa|Karessa]], a three-fingered Khaali woman, as their supplier and alleged that [[03 People/Mentioned Figures/Oruc|Oruc]], a booking agent who employed them in Voruun, took payments from Rhul to fix matches.
+Following a market encounter, [[03 People/Mentioned Figures/Yama and Spopovich|Yama and Spopovich]] told [[03 People/Player Characters/n'Dong|n'Dong]] that fighters in Dazuun were being supplied with Dragon’s Dandruff, their earnings had declined and the operation worsened after Rhul became involved. The two named [[03 People/Notable Figures/Karessa Val|Karessa]], a three-fingered Khaali woman, as their supplier and alleged that [[03 People/Mentioned Figures/Oruc|Oruc]], a booking agent who employed them in Voruun, took payments from Rhul to fix matches.
 
-These statements provide a possible network of supplier, intermediary and controller. **They remain the fightersâ€™ testimony**; Karessa has not been identified as one of Ulsarâ€™s three alchemists, nor has Orucâ€™s formal membership in the Broken Fang been established. nâ€™Dong gave the fighters more of the substance and offered to continue supplying them in exchange for information. See [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
+These statements provide a possible network of supplier, intermediary and controller. **They remain the fighters’ testimony**; At the time, Karessa had not been identified as one of Ulsar’s three alchemists; her role was established in Session 27. Oruc’s formal membership in the Broken Fang remains unproved. n’Dong gave the fighters more of the substance and offered to continue supplying them in exchange for information. See [[05 Campaign Chronicle/Session 26 - Sundering Relics and the Market Brawl|Session 26]].
 
 ## Related people
 
@@ -109,3 +109,9 @@ These statements provide a possible network of supplier, intermediary and contro
 - [[05 Campaign Chronicle/Session 19 - Bands, Broken Stone and the Glass Fang|Session 19]]
 - [[05 Campaign Chronicle/Session 20 - Plague, Pursuit and Plan E|Session 20]]
 - [[05 Campaign Chronicle/Session 21 - Contracts, Command, and a Burning Camp|Session 21]]
+
+## The production site discovered
+
+The party followed the One Ball map to [[02 Places/Rakara/Dragon's Dandruff Laboratory|the laboratory]], confirming the presence of the three alchemists described by Ulsar. Karessa Val alleged family threats by Rhul and Prodosius; Pella was reluctant to leave a profitable operation, and Davos appeared willing. Quota material and a threatening message were found; Ieuan destroyed the recipe. Four guards fell. The remaining stock and site are intact and the escape plan remains unresolved.
+
+See [[05 Campaign Chronicle/Session 27 - Gayles Warning and the Dandruff Lab|Session 27]].

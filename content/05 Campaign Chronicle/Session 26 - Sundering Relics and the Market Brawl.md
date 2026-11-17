@@ -191,3 +191,5 @@ And that was where the session ended.
 - The party has **two diamonds**, intends to use **one for Mireya**, and retain one as a reserve. The deceased scout is beyond **Revivify**; no revival has taken place.
 
 **Chronicle:** [[05 Campaign Chronicle/index|Campaign Chronicle]]
+
+**Navigation:** [[05 Campaign Chronicle/Session 25 - Ashes, Arrogance, and the Blood of Ages|Previous session]] · [[05 Campaign Chronicle/Session 27 - Gayles Warning and the Dandruff Lab|Next session]]
